@@ -1,0 +1,33 @@
+-- Credits
+-- Author: JFD
+-- DateCreated: 1/6/2018 1:43:31 PM
+----------------
+JFD: 
+----------------
+	Author
+	Coding 
+	Design 
+	Research 
+	Writing	  
+----------------
+Janboruta: 
+----------------
+	Art (Civ Icon; Historical Moment; District Icon; Historical Moment; Unit Flag Icon)
+----------------
+Deliverator: 
+----------------
+	Graphics (Unit Asset)
+----------------
+Encyclopedia.com: 
+----------------
+	Pedias 
+	https://www.encyclopedia.com/history/modern-europe/italian-history/papal-states
+----------------
+Wikipedia.com: 
+----------------
+	Pedias 
+	https://en.wikipedia.org/wiki/Papal_States
+	https://en.wikipedia.org/wiki/Swiss_Guards
+	https://en.wikipedia.org/wiki/Diocese
+--------------------------------------------------------------
+--------------------------------------------------------------

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<AssetObjects..XLP>
+	<m_Version>
+		<major>4</major>
+		<minor>0</minor>
+		<build>315</build>
+		<revision>805</revision>
+	</m_Version>
+	<m_ClassName text="UITexture"/>
+	<m_PackageName text="UI/Icons"/>
+	<m_Entries>
+		<Element>
+			<m_EntryID text="DreadnaughtUnitFlags22"/>
+			<m_ObjectName text="DreadnaughtUnitFlags22"/>
+		</Element>
+		<Element>
+			<m_EntryID text="DreadnaughtUnitFlags256"/>
+			<m_ObjectName text="DreadnaughtUnitFlags256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="DreadnaughtUnitFlags32"/>
+			<m_ObjectName text="DreadnaughtUnitFlags32"/>
+		</Element>
+		<Element>
+			<m_EntryID text="DreadnaughtUnitFlags38"/>
+			<m_ObjectName text="DreadnaughtUnitFlags38"/>
+		</Element>
+		<Element>
+			<m_EntryID text="DreadnaughtUnitFlags50"/>
+			<m_ObjectName text="DreadnaughtUnitFlags50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="DreadnaughtUnitFlags80"/>
+			<m_ObjectName text="DreadnaughtUnitFlags80"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Elizabeth256"/>
+			<m_ObjectName text="Elizabeth256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Elizabeth32"/>
+			<m_ObjectName text="Elizabeth32"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Elizabeth45"/>
+			<m_ObjectName text="Elizabeth45"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Elizabeth48"/>
+			<m_ObjectName text="Elizabeth48"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Elizabeth50"/>
+			<m_ObjectName text="Elizabeth50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Elizabeth55"/>
+			<m_ObjectName text="Elizabeth55"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Elizabeth64"/>
+			<m_ObjectName text="Elizabeth64"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Elizabeth80"/>
+			<m_ObjectName text="Elizabeth80"/>
+		</Element>
+		<Element>
+			<m_EntryID text="EnglandElizabeth45"/>
+			<m_ObjectName text="EnglandElizabeth45"/>
+		</Element>
+		<Element>
+			<m_EntryID text="JFD_ELIZABETH_1"/>
+			<m_ObjectName text="JFD_ELIZABETH_1"/>
+		</Element>
+		<Element>
+			<m_EntryID text="JFD_ELIZABETH_2"/>
+			<m_ObjectName text="JFD_ELIZABETH_2"/>
+		</Element>
+		<Element>
+			<m_EntryID text="JFD_ELIZABETH_4"/>
+			<m_ObjectName text="JFD_ELIZABETH_4"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_JFD_ELIZABETH_NEUTRAL"/>
+			<m_ObjectName text="LEADER_JFD_ELIZABETH_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="DreadnaughtUnitPortraits200"/>
+			<m_ObjectName text="DreadnaughtUnitPortraits200"/>
+		</Element>
+		<Element>
+			<m_EntryID text="DreadnaughtUnitPortraits256"/>
+			<m_ObjectName text="DreadnaughtUnitPortraits256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="DreadnaughtUnitPortraits38"/>
+			<m_ObjectName text="DreadnaughtUnitPortraits38"/>
+		</Element>
+		<Element>
+			<m_EntryID text="DreadnaughtUnitPortraits50"/>
+			<m_ObjectName text="DreadnaughtUnitPortraits50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="DreadnaughtUnitPortraits70"/>
+			<m_ObjectName text="DreadnaughtUnitPortraits70"/>
+		</Element>
+		<Element>
+			<m_EntryID text="DreadnaughtUnitPortraits95"/>
+			<m_ObjectName text="DreadnaughtUnitPortraits95"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Moment_UniqueUnit_JFD_England"/>
+			<m_ObjectName text="Moment_UniqueUnit_JFD_England"/>
+		</Element>
+	</m_Entries>
+	<m_AllowedPlatforms>
+		<Element>WINDOWS</Element>
+		<Element>LINUX</Element>
+		<Element>MACOS</Element>
+		<Element>IOS</Element>
+	</m_AllowedPlatforms>
+</AssetObjects..XLP>
+

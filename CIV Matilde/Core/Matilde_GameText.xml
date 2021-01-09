@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<LocalizedText>
+		<Row Tag="LOC_LEADER_SC_MATILDE_NAME" Language="en_US">
+			<Text>Matilde</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SC_MATILDE_QUOTE" Language="en_US">
+			<Text>I'll give you so many cities, so many castles and noble palaces, so much gold and silver, that you will have a famous name, if you endear yourself to me...</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SC_CANOSSA" Language="en_US">
+			<Text>Canossa</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SC_SPOLETO" Language="en_US">
+			<Text>Spoleto</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SC_CREMONA" Language="en_US">
+			<Text>Cremona</Text>
+		</Row>
+		<!-- Road to Canossa -->
+		<Row Tag="LOC_AGENDA_SC_ROAD_TO_CANOSSA_NAME" Language="en_US">
+			<Text>The Road to Canossa</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_SC_ROAD_TO_CANOSSA_DESCRIPTION" Language="en_US">
+			<Text>Likes civilizations who interact with city-states, but only if they have a high faith output. Dislikes those who interact with city-states and have a low faith output.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_SC_MATILDE_REASON_STRONG_AND_CUL_OR_TECH" Language="en_US">
+			<Text>(You are active among the city-states and have strong faith production)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_AGENDA_SC_ROAD_TO_CANOSSA_STRONG_AND_CUL_OR_TECH" Language="en_US">
+			<Text>Matilde is pleased that you are pious in your interactions with the city-states.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_AGENDA_SC_ROAD_TO_CANOSSA_STRONG_AND_FAITH" Language="en_US">
+			<Text>(You are active among the city-states and have weak faith production)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_SC_MATILDE_REASON_UNHOLY_SUZERAIN" Language="en_US">
+			<Text>Matilde is displeased that you influence city-states and turn them away from piety.</Text>
+		</Row>
+		<!-- DOM -->
+		<Row Tag="LOC_LOADING_INFO_LEADER_SC_MATILDE" Language="en_US">
+			<Text>God smiles upon you, Matilde of Tuscany, great Countess of Canossa! Your lands are vast and your devotion unwavering, but your neighbors are attempting to overturn the rightful supremacy of the faith. You must stop them - by force if necessary. Persist in your endeavours until your enemies learn the errors of their ways and prostrate themselves at your doorstep. Only then will the Lord's work be done and you will take your rightful place as Queen of Italy.</Text>
+		</Row>
+		<!-- Traits -->
+		<Row Tag="LOC_TRAIT_LEADER_SC_GRAN_CONTESSA_NAME" Language="en_US">
+			<Text>La Gran Contessa</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_SC_GRAN_CONTESSA_DESCRIPTION" Language="en_US">
+			<Text>Receive +20% [ICON_Production] Production when building Encampment districts and buildings if the city already has a Holy Site District, and vice versa. Receive 1 [ICON_Envoy] Envoy when you complete either a Temple or a Duomo.</Text>
+		</Row>
+
+		<!-- Civiliopedia -->
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SC_MATILDE_TITLE" Language="en_US">
+			<Text>Matilde</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SC_MATILDE_SUBTITLE" Language="en_US">
+			<Text>Countess</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SC_MATILDE_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Born in 1046, Matilde was the youngest of the three children born to Margrave Boniface III of Tuscany and Beatrice of Lorraine. Even from a young age, Matilde was known for her intelligence, by some accounts speaking four languages. Matilde’s father died in 1052, and her sister, Beatrice, died the following year, making her the heir to the lands inherited by her brother, Frederick. Two years later, Matilde’s mother married Godfrey the Bearded, the former Duke of Upper Lorraine who had risen up against the Holy Roman Emperor Henry III. Upon hearing of this unauthorized marriage, Henry imprisoned Matilde and her mother and shortly after Frederick died under suspicious circumstances, making Matilde the last member of the House of Canossa. The death of Henry III brought about fresh negotiations and Matilde and her family were released and Godfrey and Beatrice ruled Tuscany on Matilde’s behalf for several years, working to support the new Pope Stephen IX in his conflict against opposing antipopes. At some point, Matilde married her stepbrother, Godfrey the Hunchback, Duke of Lower Lorraine. Godfrey the Bearded died in 1069 and two years later, Matilde left behind her husband in Lorraine to go back to Tuscany, setting up court there alongside her mother and issuing charters in her own name.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SC_MATILDE_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>Though Godfrey would try and force her to come back with him, she remained unmoved. Instead, she and her mother wound up embroiled in the brewing Investiture Controversy between Emperor Henry IV and Pope Gregory VII. Mother and daughter found themselves on opposite sides of the conflict, leading to a deterioration in their relationship. Shortly thereafter, Matilde became a widow after Godfrey the Hunchback was assassinated in Flanders. Beatrice died two months later, leaving her the sole, undisputed ruler of much of northern Italy. She was able to retain her husband’s estate in Verdun, much to the chagrin of her nephew, Godfrey of Bouillon. The fact that she did not travel to Jerusalem during the First Crusade is perhaps due to this rivalry, as he was part of its leadership. Meanwhile, the Investiture Controversy came to a head after the Synod of Worms in 1076, when Pope Gregory excommunicated Henry IV. Some of the southern German princes revolted against Henry and Matilde’s first military endeavor revolved around protecting the Pope as he traveled to meet with them at Trebur. As it became clear that Henry and his allies were mobilizing against Gregory, Matilde urged him to take refuge in the Castle of Canossa, seat of her court. However, the threat never materialized and it was revealed that Henry’s journey to meet the Pope was actually one of penance. In an event known as the Walk to Canossa, Henry approached Canossa and stood barefoot in the snow for three days in supplication until Matilde convinced the Pope to meet with him. Along with Henry’s mother-in-law, Adelaide of Susa, Matilde was able to negotiate a deal between the two rivals.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SC_MATILDE_CHAPTER_HISTORY_PARA_3" Language="en_US">
+			<Text>The peace was not to last, however. An imperial council in Brixen in 1080 deposed Gregory and the following year the Emperor traveled into Italy to reassert his dominance, defeating Matilda and Gregory’s forces at the Battle of Volta Mantovana. Matilda, however, was from far beaten. She controlled most of the important passes through the Apennine Mountains. She remained Gregory’s chief intermediary and conduit of information with the rest of Europe north of the Alps and eventually Matilde’s forces were able to defeat Henry’s near Modena in July of 1084. Gregory died a year later and Matilde took up the cause of his successor, Victor III. A few years later, Matilde married the young Welf V of Bavaria, organizing a lavish array of festivities to celebrate the nuptials. The marriage did not last long, and Welf and Matilde separated ten years later with no offspring. Meanwhile, Matilde had allied with two of the Emperor’s sons, Conrad and Henry, forcing him to return to Italy. Emperor Henry pursued Matilde’s forces across Northern Italy and into the Apennines, where Matilde’s armies were able to surround and defeat him, not far from Canossa. Much of the bulk of Matilde’s forces came from small landowners and villagers who remained completely loyal despite the imperial allies. Henry IV’s defeat in 1092 greatly diminished his influence in Italy and several cities, including Milan, Cremona, Lodi and Piacenza, joined Matilde’s cause to escape the yoke of Imperial rule. Humiliated, Henry made a last-ditch attempt to put Matilde in her place in 1095 by seizing the castle of Nogara, but Matilde’s arrival at the head of an army forced him to retreat, withdrawing from Italy entirely just two years later.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SC_MATILDE_CHAPTER_HISTORY_PARA_4" Language="en_US">
+			<Text>With her rule finally unchallenged, Matilde reigned over a huge swath of northern Italy. She restored Pope Urban to Rome and ordered successful expeditions against Ferrara, Parma, Prato, and Mantua. After Henry IV died in 1106, his son, Henry V became Holy Roman Emperor. They met five years later, finally resolving the issue of the imperial inheritance of Matilde’s lands and, in exchange, the Emperor crowned Matilde Imperial Vicar and Vice-Queen of Italy. This negotiation was an important step towards the definitive Concordat of Worms in 1122, which finally ended the Investiture Controversy. Four years later, in 1155, Matilde died of gout, donating much of her lands to the Pope. Many of the cities under her control gained their independence, beginning the era of the Italian city-states. She also left behind a large amount of buildings. She patronized the construction of churches, monasteries, hospices, and bridges throughout her realm, creating a network used by pilgrims, merchants, and travelers for centuries after their construction. She was remembered fondly after her death, as a woman of strong faith, intelligence, and bravery. Alongside, Queen Christina of Sweden and Maria Clementina Sobieska, she is one of only three women to be buried in Saint Peter’s Basilica in Rome, a fine resting place for the woman who protected the Papacy throughout her life.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SC_MATILDE_CHAPTER_CAPSULE_BODY" Language="en_US">
+			<Text>Matilde is a leader who can leverage investment in faith production into both military and diplomatic gains. She can easily pivot from peaceful faith play to quickly setting up military infrastructure and at the same time gain a consistent source of envoys for swaying city-states to her side.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SC_MATILDE_CHAPTER_DETAILED_BODY" Language="en_US">
+			<Text>As Matilde, your unique bonuses revolve around an early and widespread faith infrastucture. This will let you establish Encampments quicker and will, after discovering Theology net you a source of important city-state envoys. However, should you find yourself surrounded by early warmongers, you can also build up your encampments first and smoothly transition to geting your Holy Sites up and running quickly, allowing for flexibility.</Text>
+		</Row>
+		<!-- Diplomacy -->
+		<!--FIRST MEET-->
+		<!--First AI line-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_SC_MATILDE_ANY" Language="en_US">
+			<Text>Good day to you. I am Matilde, countess of these lands and staunch protector of the Church. May God bless you this day.</Text>
+		</Row>
+		<!--AI invitation to visit nearby City-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_SC_MATILDE_ANY" Language="en_US">
+			<Text>Please, come and visit the great castle of Canossa. I promise you won't have to beg to get in.</Text>
+		</Row>
+		<!--AI accepts Human invitation-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_SC_MATILDE_ANY" Language="en_US">
+			<Text>A most kind offer; may the Lord smile upon this meeting.</Text>
+		</Row>
+		<!--AI invitation to exchange Capital Information-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_SC_MATILDE_ANY" Language="en_US">
+			<Text>We should exchange information about our two nations, for the sake of a more blessed partnership.</Text>
+		</Row>
+		<!--GREETINGS-->
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_SC_MATILDE_ANY" Language="en_US">
+			<Text>We meet again.</Text>
+		</Row>
+		<!--DELEGATION-->
+		<!--AI Accepts-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_SC_MATILDE_ANY" Language="en_US">
+			<Text>Your donations are accepted with great gratitude.</Text>
+		</Row>
+		<!--AI Rejects-->
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_SC_MATILDE_ANY" Language="en_US">
+			<Text>I cannot accept this.</Text>
+		</Row>
+		<!--AI Requests-->
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_SC_MATILDE_ANY" Language="en_US">
+			<Text>I offer you tokens of goodwill from the lands of Italy: fine wines, delicious cheeses, and ornate altarware I had ordered especially for this occasion. May the grace of God go with these gifts to you.</Text>
+		</Row>
+		<!--OPEN BORDERS-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_SC_MATILDE_ANY" Language="en_US">
+			<Text>Pilgrims may always pass through these lands.</Text>
+		</Row>
+		<!--AI rejects from human-->
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_SC_MATILDE_ANY" Language="en_US">
+			<Text>God has not given Italy a bounty of fields and vineyards for them to be trampled on. I must decline.</Text>
+		</Row>
+		<!--AI requests from human-->
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_SC_MATILDE_ANY" Language="en_US">
+			<Text>Will you allow my people to enter your lands?</Text>
+		</Row>
+		<!--DECLARE FRIENDSHIP-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_SC_MATILDE_ANY" Language="en_US">
+			<Text>God truly smiles on us both. I accept your gesture of friendship.</Text>
+		</Row>
+		<!--AI Rejects from human-->
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_SC_MATILDE_ANY" Language="en_US">
+			<Text>Regrettably, I cannot. I cannot accept one into friendship who has not yet entered into such a relationship with God.</Text>
+		</Row>
+		<!--AI Requests friendship from human-->
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_SC_MATILDE_ANY" Language="en_US">
+			<Text>I hope you do not reproof me for boldness, but I wish to formalize our frienship so that all may see the work of the Lord; there is no hidden malice here before you.</Text>
+		</Row>
+		<!--Human accepts AI requests, AI responds-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_SC_MATILDE_ANY" Language="en_US">
+			<Text>How wonderful! I look forward to seeing what good our continued friendship will accomplish.</Text>
+		</Row>
+		<!--Human rejects AI requests, AI responds-->
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_SC_MATILDE_ANY" Language="en_US">
+			<Text>Oh, dear - that is unfortunate to hear.</Text>
+		</Row>
+		<!--ALLIANCE-->
+		<!--AI Requests an alliance from human-->
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_SC_MATILDE_ANY" Language="en_US">
+			<Text>I fight to protect the Church and its designated leader - will you help me in this cause?</Text>
+		</Row>
+		<!--KUDOS & WARNINGS-->
+		<!--AI Kudos-->
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_SC_MATILDE_ANY" Language="en_US">
+			<Text>You have shown yourself to be a model of piety for the smaller states that surround us. God bless you.</Text>
+		</Row>
+		<!--AI Warnings-->
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_SC_MATILDE_ANY" Language="en_US">
+			<Text>You scheme against the true leader of the faith - the one who holds true power on this earth and the next - and you encourage your subjects to follow your sins. This cannot be tolerated.</Text>
+		</Row>
+		<!--AI warns player for border troops-->
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_SC_MATILDE_ANY" Language="en_US">
+			<Text>Your forces march brazenly near my lands. What is it you want here?</Text>
+		</Row>
+		<!--TRADE-->
+		<!--AI Accepts Deal-->
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_SC_MATILDE_ANY" Language="en_US">
+			<Text>Wonderful.</Text>
+		</Row>
+		<!-- AI Rejects Deal -->
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_SC_MATILDE_ANY" Language="en_US">
+			<Text>I must decline.</Text>
+		</Row>
+		<!--DENOUNCE-->
+		<!--From Human-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_SC_MATILDE_ANY" Language="en_US">
+			<Text>Damned idolater, don't let me see you again, or you'll die a miserable death!</Text>
+		</Row>
+		<!--From AI-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_SC_MATILDE_ANY" Language="en_US">
+			<Text>Wherefore in the name of God the All-powerful, Father, Son, and Holy Ghost, I judge you condemned to eternal fire with Satan and his angels and all the reprobate. (Denounces You).</Text>
+		</Row>
+		<!--Rationale-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_SC_ROAD_TO_CANOSSA_STRONGER_FOUNDER" Language="en_US">
+			<Text>(You influence city-states and have low faith-production)</Text>
+		</Row>
+		<!--DECLARE WAR-->
+		<!--Human Declares War-->
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_SC_MATILDE_ANY" Language="en_US">
+			<Text>Get out of here, monster, you don't deserve our kingdom, you vile thing, viler than a worm or a rotten seaweed!</Text>
+		</Row>
+		<!--AI Declares War-->
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_SC_MATILDE_ANY" Language="en_US">
+			<Text>Not for feminine lightness or recklessness, but for the good of all my kingdom, I send you this warning: Prepare yourself for war and may God have mercy on your soul.</Text>
+		</Row>
+		<!--MAKE PEACE-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_SC_MATILDE_ANY" Language="en_US">
+			<Text>As the most Holy Book says: “Blessed are the peacemakers: for they shall be called the children of God.”</Text>
+		</Row>
+		<!--AI refuses human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_SC_MATILDE_ANY" Language="en_US">
+			<Text>Never! The righteous person may have many troubles, but the Lord delivers them from all.</Text>
+		</Row>
+		<!--AI requests from human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_SC_MATILDE_ANY" Language="en_US">
+			<Text>Come let us aside our differences, for peacemakers who sow in peace reap a harvest of righetousness.</Text>
+		</Row>
+		<!--DEFEAT-->
+		<!--AI is Defeated-->
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_SC_MATILDE_ANY" Language="en_US">
+			<Text>All is lost. I'm sorry, Lord - I was unable to protect you and your kingdom here on earth, but I pray that I will be fortunate enough to reside in your kingdom in the world after this one.</Text>
+		</Row>
+		<!--Human is Defeated (will see this in hotseat)-->
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_SC_MATILDE_ANY" Language="en_US">
+			<Text>All is lost. I'm sorry, Lord - I was unable to protect you and your kingdom here on earth, but I pray that I will be fortunate enought to reside in your kingdom in the world after this one.</Text>
+		</Row>
+
+		<!-- Mod Support -->
+		<Row Tag="LOC_GOVERNMENT_JFD_CHIEFDOM_LEADER_TITLE_SC_MATILDE" Language="en_US">
+			<Text>Dama</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_HORDE_LEADER_TITLE_SC_MATILDE" Language="en_US">
+			<Text>Condottiera</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_POLIS_LEADER_TITLE_SC_MATILDE" Language="en_US">
+			<Text>Sindaca</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_AUTOCRACY_LEADER_TITLE_SC_MATILDE" Language="en_US">
+			<Text>Marchesa</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_CLASSICAL_DEMOCRACY_LEADER_TITLE_SC_MATILDE" Language="en_US">
+			<Text>Senatore</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_OLIGARCHY_LEADER_TITLE_SC_MATILDE" Language="en_US">
+			<Text>Contessa</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_MERCHANT_REPUBLIC_LEADER_TITLE_SC_MATILDE" Language="en_US">
+			<Text>Duchessa</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_MONARCHY_LEADER_TITLE_SC_MATILDE" Language="en_US">
+			<Text>Vice Regina</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_ABSOLUTE_MONARCHY_LEADER_TITLE_SC_MATILDE" Language="en_US">
+			<Text>Regina</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_CONSTITUTIONAL_MONARCHY_LEADER_TITLE_SC_MATILDE" Language="en_US">
+			<Text>Donna</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_THEOCRACY_LEADER_TITLE_SC_MATILDE" Language="en_US">
+			<Text>Papessa</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_NOBLE_REPUBLIC_LEADER_TITLE_SC_MATILDE" Language="en_US">
+			<Text>Regina del Popolo</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_PEOPLES_REPUBLIC_LEADER_TITLE_SC_MATILDE" Language="en_US">
+			<Text>Presidente</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_LIBERAL_DEMOCRACY_LEADER_TITLE_SC_MATILDE" Language="en_US">
+			<Text>Presidentessa</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_MILITARY_GUARDIANSHIP_LEADER_TITLE_SC_MATILDE" Language="en_US">
+			<Text>Margravia</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_EMPIRE_LEADER_TITLE_SC_MATILDE" Language="en_US">
+			<Text>Vicaria Imperiale</Text>
+		</Row>
+	</LocalizedText>
+</GameData>

@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<LocalizedText>
+		<!--MOD-->
+		<Row Tag="LOC_MOD_JFD_FRANCE_LOUIS_XIV_DESCRIPTION" Language="en_US">
+			<Text>------------------------------------[NEWLINE]LEADER -- LOUIS XIV[NEWLINE][NEWLINE]TRAIT - SUN KING[NEWLINE]Receives +1 [ICON_ENVOY] Envoy and +2 [ICON_CULTURE] Culture Per Turn for each Wonder constructed in the [ICON_CAPITAL] Capital; +1 [ICON_CULTURE] Culture elsewhere. Bonuses doubled during a [ICON_GLORY_GOLDEN_AGE] Golden Age. Gain the Vieux Corps unique unit when they research the Gunpowder technology.[NEWLINE][NEWLINE]UNIT - VIEUX CORPS[NEWLINE]French unique Renaissance era unit when Louis XIV is their leader. Has +7 [ICON_STRENGTH] Combat Strength when defending vs. city attacks and can move after attacking. Costs 2 more Maintenance than the contemporary Musketman.[NEWLINE][NEWLINE]AGENDA - ENLIGHTENED ABSOLUTISM[NEWLINE]Prefers monarchic Governments, and strives to lead his government into a [ICON_GLORY_GOLDEN_AGE] Golden Age. Likes civilizations that share the same Government that are also in a [ICON_GLORY_GOLDEN_AGE] Golden Age. Dislikes civilizations that are in a [ICON_GLORY_DARK_AGE] Dark Age or that have a different Government.</Text>
+		</Row>
+		<!--LEADER-->
+		<Row Tag="LOC_LEADER_JFD_LOUIS_XIV_NAME" Language="en_US">
+			<Text>Louis XIV</Text>
+		</Row>
+		<!--Enlightened Absolutism-->
+		<Row Tag="LOC_AGENDA_JFD_ABSOLUTISM_NAME" Language="en_US">
+			<Text>Enlightened Absolutism</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_JFD_ABSOLUTISM_DESCRIPTION" Language="en_US">
+			<Text>Prefers monarchic Governments, and strives to lead his government into a [ICON_GLORY_GOLDEN_AGE] Golden Age. Likes civilizations that share the same Government that are also in a [ICON_GLORY_GOLDEN_AGE] Golden Age. Dislikes civilizations that are in a [ICON_GLORY_DARK_AGE] Dark Age or that have a different Government.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_JFD_LOUIS_XIV_REASON_GOLDEN_AGE_AND_SAME_GOVERNMENT" Language="en_US">
+			<Text>(You share the same Government and are in a Golden Age.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_AGENDA_JFD_ABSOLUTISM_GOLDEN_AGE_AND_SAME_GOVERNMENT" Language="en_US">
+			<Text>Louis XIV is pleased that you share in his enlightened ideals</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_JFD_LOUIS_XIV_REASON_DIFF_GOVERNMENT" Language="en_US">
+			<Text>(You have a different Government.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_AGENDA_JFD_ABSOLUTISM_DIFF_GOVERNMENT" Language="en_US">
+			<Text>Louis XIV mocks your system of government</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_JFD_LOUIS_XIV_REASON_LAGS_CULTURE" Language="en_US">
+			<Text>(You are in a Dark AGe.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_AGENDA_JFD_ABSOLUTISM_LAGS_CULTURE" Language="en_US">
+			<Text>Louis XIV is disgusted by your middling enlightenment</Text>
+		</Row>
+		<!--DOM-->
+		<Row Tag="LOC_LOADING_INFO_LEADER_JFD_LOUIS_XIV" Language="en_US">
+			<Text>The time has come, Louis XIV, to lead a sovereign and plenary France. The aristocrats quiver in the shadows of your wonderous monuments. Use their submission to unite your people into a single, central state. Use this state to launch France onto the world stage, for all the world to bear witness.</Text>
+		</Row>
+		<!--Traits-->
+		<Row Tag="LOC_TRAIT_LEADER_JFD_SUN_KING_NAME" Language="en_US">
+			<Text>Sun King</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_JFD_SUN_KING_DESCRIPTION" Language="en_US">
+			<Text>Receives +1 [ICON_ENVOY] Envoy and +2 [ICON_CULTURE] Culture Per Turn for each Wonder constructed in the [ICON_CAPITAL] Capital; +1 [ICON_CULTURE] Culture elsewhere. Bonuses doubled during a [ICON_GLORY_GOLDEN_AGE] Golden Age. Gain the Vieux Corps unique unit when they research the Gunpowder technology.</Text>
+		</Row>
+		<!--Civilopedia-->
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_LOUIS_XIV_TITLE" Language="en_US">
+			<Text>Louis XIV</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_LOUIS_XIV_SUBTITLE" Language="en_US">
+			<Text>King of France</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_LOUIS_XIV_QUOTE" Language="en_US">
+			<Text>Every time that I fill a high office, I create a hundred discontented men and an ingrate.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_LOUIS_XIV_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Born to King Louis XIII of France, Louis XIV was raised in the most opulent court in Europe. His every need was catered to, and he was given an excellent education, even if he was too lazy and spoiled to appreciate it. Louis XIII died when his son was five, and the regency passed to the queen mother, Anne of Austria. For the next 18 years she ruled France with the able assistance of Cardinal Mazarin, who may or may not have also been her lover, while Louis lived in pampered splendor.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_LOUIS_XIV_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>It was upon Mazarin's death in 1661 that the 22-year-old Louis XIV began to take an active interest in ruling his country. Much to everyone's surprise, he was good at it. First he gathered all of the power into his own hands, bypassing the old bureaucratic patronage system that Mazarin and his predecessors had used. He enticed the great nobles to his court, where he heaped upon them titles, honorary positions, and financial rewards, while at the same time undermining their actual power. In Louis' court, great noblemen - whose parents had fought for the crown of France itself - fought each other for the privilege of watching Louis shave.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_LOUIS_XIV_CHAPTER_HISTORY_PARA_3" Language="en_US">
+			<Text>In person Louis was said to possess a great natural dignity and bearing. He was unfailingly courteous and usually honest, but he could dissimulate with the best of them when need-be.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_LOUIS_XIV_CHAPTER_HISTORY_PARA_4" Language="en_US">
+			<Text>During his early reign Louis's court was known for its debauchery, and Louis himself had several mistresses. As his reign progressed, however, Louis became more devout, and he even married his last mistress (although in secret). Louis also became a patron of the arts, and literature and painting flourished under his rule. He built many great buildings and palaces, including the grand palace at Versailles.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_LOUIS_XIV_CHAPTER_HISTORY_PARA_5" Language="en_US">
+			<Text>Despite France's wealth, the country remained virtually bankrupt, not only because it had to pay for all the gifts that Louis gave his favorites, but, more importantly, it had to pay for all the wars of conquest that Louis embarked upon. Although a sound and thoughtful ruler at home, Louis had a great thirst for international "glory" - which in his terms meant victory on the battlefield. He constantly fought his neighbors, often for the most trivial reasons, gaining little but glory from the wars. Though he left the army and navy in splendid condition, he left his country's treasury bare.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_LOUIS_XIV_CHAPTER_CAPSULE_BODY" Language="en_US">
+			<Text>Although nominally a cultural player, France is a dangerous opponent. Louis XIV will use his many wonder-building talents to keep ahead of his rivals in both civic process and diplomacy.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_LOUIS_XIV_CHAPTER_DETAILED_BODY" Language="en_US">
+			<Text>Like Cleopatra and Qin Shi Huang, France wants to be a major player in the wonder game. Success there should make them major contenders for a Culture Victory. With Louis XIV leading, they should be able to use their wonders to their advantage in both progress through the civic tree and dominating the diplomatic theatre. Second in priority to wonders are well-placed Chateaux, also helpful for Culture Victories. All this [ICON_Culture] Culture should help them move through the Civics Tree quickly, getting to Corps and Armies before many of their rivals. If they have them at the same time as the Garde Imperiale or Louis' unique Vieux Regiment, watch out!</Text>
+		</Row>
+		<!--Diplomacy-->
+		<!--FIRST MEET-->
+		<!--First AI line-->		
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_JFD_LOUIS_XIV_ANY" Language="en_US">
+			<Text>Fabulous to meet you! I am Louis XIV. Come, come, I want to show you around the great palaces of France.</Text>
+		</Row>
+		<!--AI invitation to visit nearby City-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_JFD_LOUIS_XIV_ANY" Language="en_US">
+			<Text>I invite you to a ball in my grandest of palaces. It will be a wonderful time. Oh-hoh! You'll see what I mean soon enough.</Text>
+		</Row>
+		<!--AI accepts Human invitation-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_JFD_LOUIS_XIV_ANY" Language="en_US">
+			<Text>Fabulous. I am just giddy with excitement.</Text>
+		</Row>
+		<!--AI invitation to exchange Capital Information-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_JFD_LOUIS_XIV_ANY" Language="en_US">
+			<Text>I propose that we exchange information on our capitals so that you might see how glorious mine is and I how droll yours.</Text>
+		</Row>
+		<!--GREETINGS-->
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_JFD_LOUIS_XIV_ANY" Language="en_US">
+			<Text>Come to gaze upon my beauty, dear?</Text>
+		</Row>
+		<!--DELEGATION-->
+		<!--AI Accepts-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_JFD_LOUIS_XIV_ANY" Language="en_US">
+			<Text>I received your delegation with open arms. I welcome you any time you wish to stroll with me around the gardens.</Text>
+		</Row>
+		<!--AI Rejects-->
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_JFD_LOUIS_XIV_ANY" Language="en_US">
+			<Text>No, no. I must not be seen in your company. So I have turned away your ugly delegation. Good day and farewell.</Text>
+		</Row>
+		<!--AI Requests-->
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_JFD_LOUIS_XIV_ANY" Language="en_US">
+			<Text>As a token of good friendship, I have sent a delegation to your capital with some fine perfumes, straight from my own collection.</Text>
+		</Row>
+		<!--OPEN BORDERS-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_JFD_LOUIS_XIV_ANY" Language="en_US">
+			<Text>Yes, a good idea, I think.</Text>
+		</Row>
+		<!--AI rejects from human-->
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_JFD_LOUIS_XIV_ANY" Language="en_US">
+			<Text>And let your ugly, smelly people wander my streets? I think not.</Text>
+		</Row>
+		<!--AI requests from human-->
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_JFD_LOUIS_XIV_ANY" Language="en_US">
+			<Text>We should exchange open borders. Travelling all the way around your borders gives me piles.</Text>
+		</Row>
+		<!--DECLARE FRIENDSHIP-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_JFD_LOUIS_XIV_ANY" Language="en_US">
+			<Text>Then I invite the world to see our new friendship. Marvellous!</Text>
+		</Row>
+		<!--AI Rejects from human-->
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_JFD_LOUIS_XIV_ANY" Language="en_US">
+			<Text>You think you are fit to be friend to I? The great Louis XIV of France? You have a head as big as your nose if so.</Text>
+		</Row>
+		<!--AI Requests friendship from human-->
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_JFD_LOUIS_XIV_ANY" Language="en_US">
+			<Text>You have always been my closest confidant. Why not make it known that we are good friends? Let our rivals wallow in jealousy!</Text>
+		</Row>
+		<!--Human accepts AI requests, AI responds-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_JFD_LOUIS_XIV_ANY" Language="en_US">
+			<Text>I am very pleased, oh yes.</Text>
+		</Row>
+		<!--Human rejects AI requests, AI responds-->
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_JFD_LOUIS_XIV_ANY" Language="en_US">
+			<Text>No, are you dumb as well as ugly? Go away.</Text>
+		</Row>
+		<!--ALLIANCE-->
+		<!--AI Requests an alliance from human-->
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_JFD_LOUIS_XIV_ANY" Language="en_US">
+			<Text>France yearns for a greatness that with only your help she can achieve. You'll get... some of the glory along the way... By proxy, of course.</Text>
+		</Row>
+		<!--KUDOS & WARNINGS-->	
+		<!--AI Kudos-->
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_JFD_LOUIS_XIV_ANY" Language="en_US">
+			<Text>Enlightened fellows such as ourselves should keep each other company. Come back anytime.</Text>
+		</Row>
+		<!--AI Warnings-->
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_JFD_LOUIS_XIV_ANY" Language="en_US">
+			<Text>I am glad that you are leaving. You've dumbed up my halls long enough, you unenlightened richard.</Text>
+		</Row>
+		<!--AI warns player for border troops-->
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_JFD_LOUIS_XIV_ANY" Language="en_US">
+			<Text>Do not take my great beauty for weakness. I will repel forces tenfold the size of mine without breaking a sweat.</Text>
+		</Row>
+		<!--TRADE-->
+		<!--AI Accepts Deal-->
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_JFD_LOUIS_XIV_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_JFD_LOUIS_XIV_ANY}</Text>
+		</Row>
+		<!-- AI Rejects Deal -->
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_JFD_LOUIS_XIV_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_JFD_LOUIS_XIV_ANY}</Text>
+		</Row>
+		<!--DENOUNCE-->
+		<!--From Human-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_JFD_LOUIS_XIV_ANY" Language="en_US">
+			<Text>How you dare!? Never have I been so offended.</Text>
+		</Row>
+		<!--From AI-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_JFD_LOUIS_XIV_ANY" Language="en_US">
+			<Text>You are the most vil- I can't even bare to finish. Just go away (Denounces You).</Text>
+		</Row>
+		<!--Rationale-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_JFD_ABSOLUTISM_DIFF_GOVERNMENT" Language="en_US">
+			<Text>(You have a different Government.)</Text>
+		</Row>	
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_JFD_ABSOLUTISM_LAGS_CULTURE" Language="en_US">
+			<Text>(You are in a Dark Age.)</Text>
+		</Row>	
+		<!--DECLARE WAR-->
+		<!--Human Declares War-->
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_JFD_LOUIS_XIV_ANY" Language="en_US">
+			<Text>If you believe that I have grown weak by my fine tastes, then you are sorely mistaken.</Text>
+		</Row>
+		<!--AI Declares War-->
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_JFD_LOUIS_XIV_ANY" Language="en_US">
+			<Text>Your palaces will make a fine addition to my collection.</Text>
+		</Row>
+		<!--MAKE PEACE-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_JFD_LOUIS_XIV_ANY" Language="en_US">
+			<Text>Very well. I know when it is time to accept peace.</Text>
+		</Row>
+		<!--AI refuses human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_JFD_LOUIS_XIV_ANY" Language="en_US">
+			<Text>There is much glory to be had in destroying you. So it must be no.</Text>
+		</Row>
+		<!--AI requests from human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_JFD_LOUIS_XIV_ANY" Language="en_US">
+			<Text>Yes, it is time to put away our steel swords and bring out the wines and cheeses. Don't you agree?</Text>
+		</Row>
+		<!--DEFEAT-->
+		<!--AI is Defeated-->
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_JFD_LOUIS_XIV_ANY" Language="en_US">
+			<Text>Oh woe, the great nation of France has fallen. Upon whose shoulders shall it now fall to be a beckon of enlightenment and culture?</Text>
+		</Row>
+		<!--Human is Defeated (will see this in hotseat)-->
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_JFD_LOUIS_XIV_ANY" Language="en_US">
+			<Text>[LOC_DIPLO_DEFEAT_FROM_AI_LEADER_JFD_LOUIS_XIV_ANY]</Text>
+		</Row>
+		<!--VIEUX-->
+		<Row Tag="LOC_UNIT_JFD_VIEUX_NAME" Language="en_US">
+			<Text>Vieux Corps</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_JFD_VIEUX_DESCRIPTION" Language="en_US">
+			<Text>French unique Renaissance era unit when Louis XIV is their leader. Has +7 [ICON_STRENGTH] Combat Strength when defending vs. city attacks and can move after attacking. Costs 2 more Maintenance than the contemporary Musketman.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_JFD_VIEUX_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>The Six Great Old Men, under the Ancien Régime, were the six oldest permanent regiments of the French army. The old bodies are, originally, regiments formed from the old bands of the frontier provinces. In the order of battle, after the regiments of the king 's military house , the regiment of the French Guards and that of the Guards-Suisses, these regiments of earlier creation possess prerogatives of honor and command over the others Regiments of infantry.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_JFD_VIEUX_CITY_CENTER_COMBAT_DESC" Language="en_US">
+			<Text>+7 [ICON_STRENGTH] Combat Strength when defending vs. city attacks. Can move after attacking.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_JFD_VIEUX_NAME" Language="en_US">
+			<Text>Ancien Régime</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_JFD_VIEUX_DESCRIPTION" Language="en_US">
+			<Text>+{1_Num} when defending vs. city attacks.</Text>
+		</Row>
+	</LocalizedText>
+</GameData>

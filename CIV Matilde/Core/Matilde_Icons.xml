@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<IconDefinitions>
+		<Row Name="ICON_LEADER_SC_MATILDE" Atlas="ICON_ATLAS_LEADERS_SC_MATILDE" Index="0"/>
+		<Row Name="ICON_CIVILIZATION_SC_JFD_ITALY_MATILDE" Atlas="ICON_ATLAS_CIVILIZATIONS_SC_JFD_ITALY_MATILDE" Index="0"/>
+	</IconDefinitions>
+
+	<IconTextureAtlases>
+		<Row Name="ICON_ATLAS_LEADERS_SC_MATILDE" IconSize="32" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_LEADER_SC_MATILDE_32.dds"/>
+		<Row Name="ICON_ATLAS_LEADERS_SC_MATILDE" IconSize="45" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_LEADER_SC_MATILDE_45.dds"/>
+		<Row Name="ICON_ATLAS_LEADERS_SC_MATILDE" IconSize="50" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_LEADER_SC_MATILDE_50.dds"/>
+		<Row Name="ICON_ATLAS_LEADERS_SC_MATILDE" IconSize="55" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_LEADER_SC_MATILDE_55.dds"/>
+		<Row Name="ICON_ATLAS_LEADERS_SC_MATILDE" IconSize="64" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_LEADER_SC_MATILDE_64.dds"/>
+		<Row Name="ICON_ATLAS_LEADERS_SC_MATILDE" IconSize="80" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_LEADER_SC_MATILDE_80.dds"/>
+		<Row Name="ICON_ATLAS_LEADERS_SC_MATILDE" IconSize="256" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_LEADER_SC_MATILDE_256.dds"/>
+		<Row Name="ICON_ATLAS_CIVILIZATIONS_SC_JFD_ITALY_MATILDE" IconSize="45" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_CIVILIZATION_SC_JFD_ITALY_MATILDE_45.dds"/>
+	</IconTextureAtlases>
+</GameData>

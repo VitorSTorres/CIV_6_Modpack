@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Types>
+		<Row Type="TRAIT_AGENDA_CONS_DANA" Kind="KIND_TRAIT"/>
+		<Row Type="TRAIT_AGENDA_CONS_JILL" Kind="KIND_TRAIT"/>
+	</Types>
+	<Agendas>
+		<Row AgendaType="AGENDA_CONS_DANA" Name="LOC_AGENDA_CONS_DANA_NAME" Description="LOC_AGENDA_CONS_DANA_DESCRIPTION"/>
+		<Row AgendaType="AGENDA_CONS_JILL" Name="LOC_AGENDA_CONS_JILL_NAME" Description="LOC_AGENDA_CONS_JILL_DESCRIPTION"/>
+	</Agendas>
+	<Traits>
+		<Row TraitType="TRAIT_AGENDA_CONS_DANA" Name="LOC_AGENDA_CONS_DANA_NAME" Description="LOC_AGENDA_CONS_DANA_DESCRIPTION"/>
+		<Row TraitType="TRAIT_AGENDA_CONS_JILL" Name="LOC_AGENDA_CONS_JILL_NAME" Description="LOC_AGENDA_CONS_JILL_DESCRIPTION"/>
+	</Traits>
+	<ExclusiveAgendas>
+		<Row AgendaOne="AGENDA_CONS_DANA" AgendaTwo="AGENDA_DARWINIST"/>
+		<Row AgendaOne="AGENDA_CONS_JILL" AgendaTwo="AGENDA_DARWINIST"/>
+		<Row AgendaOne="AGENDA_CONS_JILL" AgendaTwo="AGENDA_MONEY_GRUBBER"/>
+	</ExclusiveAgendas>
+	<AgendaTraits>
+		<Row AgendaType="AGENDA_CONS_DANA" TraitType="TRAIT_AGENDA_CONS_DANA"/>
+		<Row AgendaType="AGENDA_CONS_DANA" TraitType="TRAIT_AGENDA_IGNORE_WARMONGERING"/>
+		<Row AgendaType="AGENDA_CONS_JILL" TraitType="TRAIT_AGENDA_CONS_JILL"/>
+		<Row AgendaType="AGENDA_CONS_JILL" TraitType="TRAIT_AGENDA_IGNORE_WARMONGERING"/>
+	</AgendaTraits>
+	
+	<TraitModifiers>
+		<Row TraitType="TRAIT_AGENDA_CONS_DANA" ModifierId="AGENDA_MODIFIER_CONS_DANA_LIKE_CONTINENT_PEACEFUL"/>
+		<Row TraitType="TRAIT_AGENDA_CONS_DANA" ModifierId="AGENDA_MODIFIER_CONS_DANA_LIKE_TRADE_RELATIONS"/>
+		<Row TraitType="TRAIT_AGENDA_CONS_DANA" ModifierId="AGENDA_MODIFIER_CONS_DANA_HATE_CONTINENT_ATTACKED"/>
+		<Row TraitType="TRAIT_AGENDA_CONS_DANA" ModifierId="AGENDA_MODIFIER_CONS_DANA_HATE_DENOUNCED_FRIEND"/>
+		<Row TraitType="TRAIT_AGENDA_CONS_JILL" ModifierId="AGENDA_MODIFIER_CONS_JILL_LIKE_HIGH_INCOME"/>
+		<Row TraitType="TRAIT_AGENDA_CONS_JILL" ModifierId="AGENDA_MODIFIER_CONS_JILL_HATE_LOW_INCOME"/>
+	</TraitModifiers>
+	<Modifiers>
+		<Row ModifierId="AGENDA_MODIFIER_CONS_DANA_LIKE_CONTINENT_PEACEFUL" ModifierType="MODIFIER_PLAYER_DIPLOMACY_SIMPLE_MODIFIER" SubjectRequirementSetId="PLAYER_ATTACKED_CONTINENT"/>
+		<Row ModifierId="AGENDA_MODIFIER_CONS_DANA_LIKE_TRADE_RELATIONS" ModifierType="MODIFIER_PLAYER_DIPLOMACY_TRADE_RELATIONS" OwnerRequirementSetId="ON_TURN_STARTED" SubjectRequirementSetId="PLAYER_IS_KNOWN_MAJOR_CIV"/>
+		<Row ModifierId="AGENDA_MODIFIER_CONS_DANA_HATE_CONTINENT_ATTACKED" ModifierType="MODIFIER_PLAYER_DIPLOMACY_SIMPLE_MODIFIER" SubjectRequirementSetId="PLAYER_PEACEFUL_ON_CONTINENT"/>
+		<Row ModifierId="AGENDA_MODIFIER_CONS_DANA_HATE_DENOUNCED_FRIEND" ModifierType="MODIFIER_PLAYER_DIPLOMACY_SIMPLE_MODIFIER" SubjectRequirementSetId="PLAYER_FRIEND_DENOUNCED"/>
+		<Row ModifierId="AGENDA_MODIFIER_CONS_JILL_LIKE_HIGH_INCOME" ModifierType="MODIFIER_PLAYER_DIPLOMACY_SIMPLE_MODIFIER" SubjectRequirementSetId="PLAYER_HAS_HIGH_INCOME"/>
+		<Row ModifierId="AGENDA_MODIFIER_CONS_JILL_HATE_LOW_INCOME" ModifierType="MODIFIER_PLAYER_DIPLOMACY_SIMPLE_MODIFIER" SubjectRequirementSetId="PLAYER_HAS_LOW_INCOME"/>
+	</Modifiers>
+	<ModifierArguments>
+		<Row ModifierId="AGENDA_MODIFIER_CONS_DANA_LIKE_CONTINENT_PEACEFUL"	Name="InitialValue"					Value="5"											Type="ARGTYPE_IDENTITY"/>
+		<Row ModifierId="AGENDA_MODIFIER_CONS_DANA_LIKE_CONTINENT_PEACEFUL"	Name="StatementKey"					Value="LOC_DIPLO_KUDO_LEADER_CONS_DANA_REASON_AGENDA_MODIFIER_CONS_DANA_LIKE_CONTINENT_PEACEFUL"		Type="ARGTYPE_IDENTITY"/>
+		<Row ModifierId="AGENDA_MODIFIER_CONS_DANA_LIKE_CONTINENT_PEACEFUL"	Name="SimpleModifierDescription"	Value="LOC_DIPLO_MODIFIER_CONS_DANA_LIKE_CONTINENT_PEACEFUL"			Type="ARGTYPE_IDENTITY"/>
+		<Row ModifierId="AGENDA_MODIFIER_CONS_DANA_HATE_CONTINENT_ATTACKED"	Name="InitialValue"					Value="-5"											Type="ARGTYPE_IDENTITY"/>
+		<Row ModifierId="AGENDA_MODIFIER_CONS_DANA_HATE_CONTINENT_ATTACKED"	Name="StatementKey"					Value="LOC_DIPLO_WARNING_LEADER_CONS_DANA_REASON_AGENDA_MODIFIER_CONS_DANA_HATE_CONTINENT_ATTACKED"	Type="ARGTYPE_IDENTITY"/>
+		<Row ModifierId="AGENDA_MODIFIER_CONS_DANA_HATE_CONTINENT_ATTACKED"	Name="SimpleModifierDescription"	Value="LOC_DIPLO_MODIFIER_CONS_DANA_HATE_CONTINENT_ATTACKED"			Type="ARGTYPE_IDENTITY"/>
+		<Row ModifierId="AGENDA_MODIFIER_CONS_DANA_HATE_DENOUNCED_FRIEND"	Name="InitialValue"					Value="-4"											Type="ARGTYPE_IDENTITY"/>
+		<Row ModifierId="AGENDA_MODIFIER_CONS_DANA_HATE_DENOUNCED_FRIEND"	Name="StatementKey"					Value="LOC_DIPLO_WARNING_LEADER_CONS_DANA_REASON_AGENDA_MODIFIER_CONS_DANA_HATE_DENOUNCED_FRIEND"	Type="ARGTYPE_IDENTITY"/>
+		<Row ModifierId="AGENDA_MODIFIER_CONS_DANA_HATE_DENOUNCED_FRIEND"	Name="SimpleModifierDescription"	Value="LOC_DIPLO_MODIFIER_CONS_DANA_HATE_DENOUNCED_FRIEND"			Type="ARGTYPE_IDENTITY"/>
+		<Row ModifierId="AGENDA_MODIFIER_CONS_JILL_LIKE_HIGH_INCOME"	Name="InitialValue"					Value="6"											Type="ARGTYPE_IDENTITY"/>
+		<Row ModifierId="AGENDA_MODIFIER_CONS_JILL_LIKE_HIGH_INCOME"	Name="StatementKey"					Value="LOC_DIPLO_KUDO_LEADER_CONS_DANA_REASON_AGENDA_MODIFIER_CONS_JILL_LIKE_HIGH_INCOME"		Type="ARGTYPE_IDENTITY"/>
+		<Row ModifierId="AGENDA_MODIFIER_CONS_JILL_LIKE_HIGH_INCOME"	Name="SimpleModifierDescription"	Value="LOC_DIPLO_MODIFIER_CONS_JILL_LIKE_HIGH_INCOME"			Type="ARGTYPE_IDENTITY"/>
+		<Row ModifierId="AGENDA_MODIFIER_CONS_JILL_HATE_LOW_INCOME"	Name="InitialValue"					Value="-6"											Type="ARGTYPE_IDENTITY"/>
+		<Row ModifierId="AGENDA_MODIFIER_CONS_JILL_HATE_LOW_INCOME"	Name="StatementKey"					Value="LOC_DIPLO_WARNING_LEADER_CONS_DANA_REASON_AGENDA_MODIFIER_CONS_JILL_HATE_LOW_INCOME"	Type="ARGTYPE_IDENTITY"/>
+		<Row ModifierId="AGENDA_MODIFIER_CONS_JILL_HATE_LOW_INCOME"	Name="SimpleModifierDescription"	Value="LOC_DIPLO_MODIFIER_CONS_JILL_HATE_LOW_INCOME"			Type="ARGTYPE_IDENTITY"/>
+	</ModifierArguments>
+	<ModifierStrings>
+		<Row ModifierId="AGENDA_MODIFIER_CONS_DANA_LIKE_CONTINENT_PEACEFUL" Context="Sample" Text="LOC_TOOLTIP_SAMPLE_DIPLOMACY_ALL"/>
+		<Row ModifierId="AGENDA_MODIFIER_CONS_DANA_LIKE_TRADE_RELATIONS" Context="Sample" Text="LOC_TOOLTIP_SAMPLE_DIPLOMACY_ALL"/>
+		<Row ModifierId="AGENDA_MODIFIER_CONS_DANA_HATE_CONTINENT_ATTACKED" Context="Sample" Text="LOC_TOOLTIP_SAMPLE_DIPLOMACY_ALL"/>
+		<Row ModifierId="AGENDA_MODIFIER_CONS_DANA_HATE_DENOUNCED_FRIEND" Context="Sample" Text="LOC_TOOLTIP_SAMPLE_DIPLOMACY_ALL"/>
+		<Row ModifierId="AGENDA_MODIFIER_CONS_JILL_LIKE_HIGH_INCOME" Context="Sample" Text="LOC_TOOLTIP_SAMPLE_DIPLOMACY_ALL"/>
+		<Row ModifierId="AGENDA_MODIFIER_CONS_JILL_HATE_LOW_INCOME" Context="Sample" Text="LOC_TOOLTIP_SAMPLE_DIPLOMACY_ALL"/>
+	</ModifierStrings>
+	
+	<AiListTypes>
+		<Row ListType="Cons_DanaDiplomacy"/>
+		<Row ListType="Cons_DanaPseudoYield"/>
+		<Row ListType="Cons_DanaUnit"/>
+		<Row ListType="Cons_DanaYield"/>
+		<Row ListType="Cons_JillDiplomacy"/>
+		<Row ListType="Cons_JillPseudoYield"/>
+		<Row ListType="Cons_JillUnit"/>
+		<Row ListType="Cons_JillYield"/>
+	</AiListTypes>
+	<AiLists>
+		<Row ListType="Cons_DanaDiplomacy"		AgendaType="TRAIT_AGENDA_CONS_DANA" System="DiplomaticActions"/>
+		<Row ListType="Cons_DanaPseudoYield"	AgendaType="TRAIT_AGENDA_CONS_DANA" System="PseudoYields"/>
+		<Row ListType="Cons_DanaUnit"			AgendaType="TRAIT_AGENDA_CONS_DANA" System="Units"/>
+		<Row ListType="Cons_DanaYield"			AgendaType="TRAIT_AGENDA_CONS_DANA" System="Yields"/>
+		<Row ListType="Cons_JillDiplomacy"		AgendaType="TRAIT_AGENDA_CONS_JILL" System="DiplomaticActions"/>
+		<Row ListType="Cons_JillPseudoYield"	AgendaType="TRAIT_AGENDA_CONS_JILL" System="PseudoYields"/>
+		<Row ListType="Cons_JillUnit"			AgendaType="TRAIT_AGENDA_CONS_JILL" System="Units"/>
+		<Row ListType="Cons_JillYield"			AgendaType="TRAIT_AGENDA_CONS_JILL" System="Yields"/>
+	</AiLists>
+	<AiFavoredItems>
+		<Row ListType="Cons_DanaDiplomacy"		Item="DIPLOACTION_DECLARE_SURPRISE_WAR" Favored="false"/>
+		<Row ListType="Cons_DanaDiplomacy"		Item="DIPLOACTION_DECLARE_FORMAL_WAR" Favored="false"/>
+		<Row ListType="Cons_DanaDiplomacy"		Item="DIPLOACTION_DECLARE_WAR_MINOR_CIV" Favored="false"/>
+		<Row ListType="Cons_DanaPseudoYield"	Item="PSEUDOYIELD_CLEAR_BANDIT_CAMPS" Value="10"/>
+		<Row ListType="Cons_DanaPseudoYield"	Item="PSEUDOYIELD_UNIT_TRADE" Value="50"/>
+		<Row ListType="Cons_DanaPseudoYield"	Item="PSEUDOYIELD_UNIT_COMBAT" Value="10"/>
+		<Row ListType="Cons_DanaPseudoYield"	Item="PSEUDOYIELD_UNIT_NAVAL_COMBAT" Value="10"/>
+		<Row ListType="Cons_DanaUnit"			Item="UNIT_SETTLER" Value="-100"/>
+		<Row ListType="Cons_DanaUnit"			Item="UNIT_CONS_GC_SETTLER" Value="-100"/>
+		<Row ListType="Cons_DanaYield"			Item="YIELD_GOLD" Value="10"/>
+		<Row ListType="Cons_JillDiplomacy"		Item="DIPLOACTION_DECLARE_SURPRISE_WAR" Favored="false"/>
+		<Row ListType="Cons_JillDiplomacy"		Item="DIPLOACTION_DECLARE_FORMAL_WAR" Favored="false"/>
+		<Row ListType="Cons_JillDiplomacy"		Item="DIPLOACTION_DECLARE_WAR_MINOR_CIV" Favored="false"/>
+		<Row ListType="Cons_JillPseudoYield"	Item="PSEUDOYIELD_CLEAR_BANDIT_CAMPS" Value="10"/>
+		<Row ListType="Cons_JillPseudoYield"	Item="PSEUDOYIELD_UNIT_TRADE" Value="50"/>
+		<Row ListType="Cons_JillPseudoYield"	Item="PSEUDOYIELD_UNIT_COMBAT" Value="5"/>
+		<Row ListType="Cons_JillPseudoYield"	Item="PSEUDOYIELD_UNIT_NAVAL_COMBAT" Value="5"/>
+		<Row ListType="Cons_JillUnit"			Item="UNIT_SETTLER" Value="-100"/>
+		<Row ListType="Cons_JillUnit"			Item="UNIT_CONS_GC_SETTLER" Value="-100"/>
+		<Row ListType="Cons_JillYield"			Item="YIELD_GOLD" Value="25"/>
+	</AiFavoredItems>
+</GameData>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<!--YnAMP Support-->
+	<StartPosition>
+		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_CONS_GLITCH_CITY"		X="157" Y="41"	Leader="LEADER_CONS_DANA"/>
+		<Replace MapName="GreatestEarthMap" Civilization="CIVILIZATION_CONS_GLITCH_CITY"	X="26" Y="24"	Leader="LEADER_CONS_DANA"/>
+		<Replace MapName="LargestEarth" Civilization="CIVILIZATION_CONS_GLITCH_CITY"		X="210" Y="51"	Leader="LEADER_CONS_DANA"/>
+		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_CONS_GLITCH_CITY"		X="157" Y="41"	Leader="LEADER_CONS_JILL"/>
+		<Replace MapName="GreatestEarthMap" Civilization="CIVILIZATION_CONS_GLITCH_CITY"	X="26" Y="24"	Leader="LEADER_CONS_JILL"/>
+		<Replace MapName="LargestEarth" Civilization="CIVILIZATION_CONS_GLITCH_CITY"		X="210" Y="51"	Leader="LEADER_CONS_JILL"/>
+	</StartPosition>
+</GameData>

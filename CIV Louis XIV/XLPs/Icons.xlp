@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<AssetObjects..XLP>
+	<m_Version>
+		<major>4</major>
+		<minor>0</minor>
+		<build>315</build>
+		<revision>805</revision>
+	</m_Version>
+	<m_ClassName text="UITexture"/>
+	<m_PackageName text="UI/Icons"/>
+	<m_Entries>
+		<Element>
+			<m_EntryID text="FranceLouisXIV45"/>
+			<m_ObjectName text="FranceLouisXIV45"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LouisXIV256"/>
+			<m_ObjectName text="LouisXIV256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LouisXIV32"/>
+			<m_ObjectName text="LouisXIV32"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LouisXIV45"/>
+			<m_ObjectName text="LouisXIV45"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LouisXIV48"/>
+			<m_ObjectName text="LouisXIV48"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LouisXIV50"/>
+			<m_ObjectName text="LouisXIV50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LouisXIV55"/>
+			<m_ObjectName text="LouisXIV55"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LouisXIV64"/>
+			<m_ObjectName text="LouisXIV64"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LouisXIV80"/>
+			<m_ObjectName text="LouisXIV80"/>
+		</Element>
+		<Element>
+			<m_EntryID text="VieuxUnitFlags22"/>
+			<m_ObjectName text="VieuxUnitFlags22"/>
+		</Element>
+		<Element>
+			<m_EntryID text="VieuxUnitFlags256"/>
+			<m_ObjectName text="VieuxUnitFlags256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="VieuxUnitFlags32"/>
+			<m_ObjectName text="VieuxUnitFlags32"/>
+		</Element>
+		<Element>
+			<m_EntryID text="VieuxUnitFlags38"/>
+			<m_ObjectName text="VieuxUnitFlags38"/>
+		</Element>
+		<Element>
+			<m_EntryID text="VieuxUnitFlags50"/>
+			<m_ObjectName text="VieuxUnitFlags50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="VieuxUnitFlags80"/>
+			<m_ObjectName text="VieuxUnitFlags80"/>
+		</Element>
+		<Element>
+			<m_EntryID text="JFD_LOUIS_XIV_1"/>
+			<m_ObjectName text="JFD_LOUIS_XIV_1"/>
+		</Element>
+		<Element>
+			<m_EntryID text="JFD_LOUIS_XIV_2"/>
+			<m_ObjectName text="JFD_LOUIS_XIV_2"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_JFD_LOUIS_XIV_NEUTRAL"/>
+			<m_ObjectName text="LEADER_JFD_LOUIS_XIV_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="JFD_LOUIS_XIV_4"/>
+			<m_ObjectName text="JFD_LOUIS_XIV_4"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Moment_UniqueUnit_JFD_FranceLouisXIV"/>
+			<m_ObjectName text="Moment_UniqueUnit_JFD_FranceLouisXIV"/>
+		</Element>
+		<Element>
+			<m_EntryID text="VieuxUnitPortraits"/>
+			<m_ObjectName text="VieuxUnitPortraits"/>
+		</Element>
+		<Element>
+			<m_EntryID text="VieuxUnitPortraits200"/>
+			<m_ObjectName text="VieuxUnitPortraits200"/>
+		</Element>
+		<Element>
+			<m_EntryID text="VieuxUnitPortraits256"/>
+			<m_ObjectName text="VieuxUnitPortraits256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="VieuxUnitPortraits38"/>
+			<m_ObjectName text="VieuxUnitPortraits38"/>
+		</Element>
+		<Element>
+			<m_EntryID text="VieuxUnitPortraits50"/>
+			<m_ObjectName text="VieuxUnitPortraits50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="VieuxUnitPortraits70"/>
+			<m_ObjectName text="VieuxUnitPortraits70"/>
+		</Element>
+		<Element>
+			<m_EntryID text="VieuxUnitPortraits95"/>
+			<m_ObjectName text="VieuxUnitPortraits95"/>
+		</Element>
+	</m_Entries>
+	<m_AllowedPlatforms>
+		<Element>WINDOWS</Element>
+		<Element>LINUX</Element>
+		<Element>MACOS</Element>
+		<Element>IOS</Element>
+	</m_AllowedPlatforms>
+</AssetObjects..XLP>
+

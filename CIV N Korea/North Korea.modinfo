@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="56825b5b-ba64-4e50-8781-ebb7a87495ce" version="4">
+  <Properties>
+    <Name>North Korea</Name>
+    <Description>Add North Korea, led by Kim Il-Sung, Kim Jong-il, Kim Jong-un</Description>
+    <Teaser>Add North Korea, led by Kim Il-Sung, Kim Jong-il, Kim Jong-un</Teaser>
+    <Authors>Cons</Authors>
+  </Properties>
+  <References>
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" title="Yet (not) Another Maps Pack" />
+  </References>
+  <ActionCriteria />
+  <FrontEndActions>
+    <UpdateDatabase id="Config">
+      <File>XML/NK_Config.xml</File>
+    </UpdateDatabase>
+    <UpdateText id="ConfigText">
+      <File>XML/Text/NK_Text_en_US.xml</File>
+      <File>XML/Text/NK_Text_ko_KR.xml</File>
+      <File>XML/Text/NK_Text_zh_Hans_CN.xml</File>
+    </UpdateText>
+    <UpdateIcons id="ConfigIcons">
+      <File>XML/NK_Icons.xml</File>
+    </UpdateIcons>
+    <UpdateArt id="ConfigArt">
+      <File>North Korea.dep</File>
+    </UpdateArt>
+  </FrontEndActions>
+  <InGameActions>
+    <UpdateDatabase id="Gameplay">
+      <File>XML/NK_Agenda.xml</File>
+      <File>XML/NK_Civilization.xml</File>
+      <File>XML/NK_Color.xml</File>
+      <File>XML/NK_District.xml</File>
+      <File>XML/NK_Leader.xml</File>
+      <File>XML/NK_Moment.xml</File>
+      <File>XML/NK_Religion.xml</File>
+      <File>XML/NK_Unit.xml</File>
+      <File>ModSupport/NK_ModSupport.sql</File>
+      <File>ModSupport/NK_ModSupport.xml</File>
+    </UpdateDatabase>
+    <UpdateText id="Text">
+      <File>XML/Text/NK_Text_en_US.xml</File>
+      <File>XML/Text/NK_Text_ko_KR.xml</File>
+      <File>XML/Text/NK_Text_zh_Hans_CN.xml</File>
+    </UpdateText>
+    <UpdateIcons id="Icons">
+      <File>XML/NK_Icons.xml</File>
+    </UpdateIcons>
+    <UpdateArt id="Art">
+      <Criteria>LeaderCriteria</Criteria>
+      <File>North Korea.dep</File>
+    </UpdateArt>
+  </InGameActions>
+  <Files>
+    <File>ArtDefs/Civilizations.artdef</File>
+    <File>ArtDefs/Cultures.artdef</File>
+    <File>ArtDefs/Districts.artdef</File>
+    <File>ArtDefs/FallbackLeaders.artdef</File>
+    <File>ArtDefs/Landmarks.artdef</File>
+    <File>ArtDefs/Units.artdef</File>
+    <File>ArtDefs/UserInterface.artdef</File>
+    <File>ModSupport/NK_ModSupport.sql</File>
+    <File>ModSupport/NK_ModSupport.xml</File>
+    <File>North Korea.dep</File>
+    <File>Platforms/MacOS/BLPs/LeaderFallbacks.blp</File>
+    <File>Platforms/MacOS/BLPs/UILeaders.blp</File>
+    <File>Platforms/MacOS/BLPs/UILeaderScenes.blp</File>
+    <File>Platforms/MacOS/BLPs/UI/Icons.blp</File>
+    <File>Platforms/MacOS/BLPs/UI/Moments.blp</File>
+    <File>Platforms/Windows/BLPs/LeaderFallbacks.blp</File>
+    <File>Platforms/Windows/BLPs/UILeaders.blp</File>
+    <File>Platforms/Windows/BLPs/UILeaderScenes.blp</File>
+    <File>Platforms/Windows/BLPs/UI/Icons.blp</File>
+    <File>Platforms/Windows/BLPs/UI/Moments.blp</File>
+    <File>XML/NK_Agenda.xml</File>
+    <File>XML/NK_Civilization.xml</File>
+    <File>XML/NK_Color.xml</File>
+    <File>XML/NK_Config.xml</File>
+    <File>XML/NK_District.xml</File>
+    <File>XML/NK_Icons.xml</File>
+    <File>XML/NK_Leader.xml</File>
+    <File>XML/NK_Moment.xml</File>
+    <File>XML/NK_Religion.xml</File>
+    <File>XML/NK_Unit.xml</File>
+    <File>XML/Text/NK_Text_en_US.xml</File>
+    <File>XML/Text/NK_Text_ko_KR.xml</File>
+    <File>XML/Text/NK_Text_zh_Hans_CN.xml</File>
+  </Files>
+</Mod>

@@ -1,0 +1,422 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<LocalizedText>
+		<!--MOD-->
+		<Row Tag="LOC_MOD_JFD_SOVIET_UNION_DESCRIPTION" Language="en_US">
+			<Text>------------------------------------[NEWLINE]CIVILIZATION - SOVIET UNION[NEWLINE][NEWLINE]TRAIT - COMMUNIST NATIONALISM[NEWLINE]Buildings in their Campus and Industrial Zone districts yield [ICON_CULTURE] Culture and [ICON_TOURISM] Tourism equal to half their intrinsic yield outputs (round down). Build these Districts 33% faster.A standalone district unique to the Soviet Union for scientific progress.[NEWLINE][NEWLINE]DISTRICT - NAUKOGRAD[NEWLINE]Receive 50 [ICON_SCIENCE] Science per the Appeal of a tile when replacing a Farm with this district. Yields +2 [ICON_GREATSCIENTIST] Great Scientist Points and an additional +1 [ICON_SCIENCE] Science for each adjacent Neighbourhood. +15% [ICON_PRODUCTION] Production toward Space Race projects.[NEWLINE][NEWLINE]UNIT - PEKHOTA[NEWLINE]Soviet unique Modern era unit. Costs 1 less [ICON_MOVEMENT] Movement to pillage. Requires 2 less Maintenance.</Text>
+		</Row>
+		<!--CIVILIZATION-->
+		<Row Tag="LOC_CIVILIZATION_JFD_USSR_NAME" Language="en_US">
+			<Text>Soviet Union</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_JFD_USSR_DESCRIPTION" Language="en_US">
+			<Text>Soviet Empire</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_JFD_USSR_ADJECTIVE" Language="en_US">
+			<Text>Soviet</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_JFD_USSR_DESCRIPTION_JFD_CIVILIZATION" Language="en_US">
+			<Text>Soviet Civilization</Text>
+		</Row>
+		<!--Pedia-->
+		<Row Tag="LOC_CIVINFO_JFD_USSR_LOCATION" Language="en_US">
+			<Text>Europe</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_JFD_USSR_POPULATION" Language="en_US">
+			<Text>Est. 293 million</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_JFD_USSR_SIZE" Language="en_US">
+			<Text>Est. 8.6 million square miles (22.4 million square km)</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_JFD_USSR_CAPITAL" Language="en_US">
+			<Text>Moscow</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_JFD_USSR_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>[NEWLINE][NEWLINE]The Soviet Union was the world’s first Communist state, the West’s principal adversary during the cold war, and a dominant force in international affairs until its collapse in 1991. Moreover, the Soviet Union was the world’s largest country stretching from the Baltic and Black Seas to the Pacific Ocean. It also had over one-hundred distinct nationalities living within its borders, making it extremely diverse. Thus, it is not surprising that almost every social science subfield devoted much time and effort to studying various aspects of the Soviet Union. This makes the amount of social science research produced on it almost impossible to quantify.[NEWLINE][NEWLINE]The history of the Soviet Union begins with the Russian Revolution of 1917. In February of that year the wartime decay of Russia’s economy and morale triggered a spontaneous popular uprising in Petrograd. This culminated in the imperial government of Czar Nicholas II (1868–1918) being overthrown. After the formation of a provisional government, workers councils, known as soviets, began to sprout up throughout the country to protect the rights of the working class. This allowed the Bolsheviks (Communists) to arouse widespread interest in a socialist revolution. Eventually, in November 1917, the Bolsheviks, led by Vladimir Lenin (1870–1924), seized power from the provisional government and established the world’s first Communist government.[NEWLINE][NEWLINE]Immediately after the Bolsheviks came to power a civil war erupted between the Communist Red Army and the loosely allied anti-Communist White Army. Despite struggling for survival throughout the bitterly fought civil war, there was no doubt that the Communists would emerge victorious by the end of 1920. Finally, after securing power, the Bolsheviks officially established the Soviet Union in December 1922. Lenin, as head of the party, became the de facto ruler of the country.[NEWLINE][NEWLINE]Under Lenin, the new government centralized its control over the political, economic, social, and cultural lives of the Soviet people by prohibiting other political organizations and inaugurating one-party rule. However, Lenin realized that a radical approach to communism did not suit existing conditions and jeopardized the survival of his regime. In turn, under the program that came to be known as the New Economic Policy, the state sanctioned partial decentralization of the economy; market forces and the monetary system regained their importance, but heavy industry remained under state control.[NEWLINE][NEWLINE]As the Communist Party continued to consolidate its authority throughout the country, it became a monolithic presence. However, in May 1922 after Lenin became temporarily incapacitated by a stroke, the unity of the Communist Party fractured. This facilitated Joseph Stalin’s (1879–1953) rise to power, and he became general secretary in April 1922. Lenin’s death in January 1924 cemented Stalin’s dominance over the Politburo, the executive committee of the Communist Party.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_JFD_USSR_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>Transformation and terror best characterize the first decade of Stalin’s rule. Beginning in the late 1920s, Stalin began carrying out a program of intensive socialist construction by rapidly industrializing the economy and nationalizing all industry and services. At the same time, Stalin began purging from the Communist Party all leaders and their followers deemed disloyal. The most prominent leader was Leon Trotsky (1879–1940), a Bolshevik revolutionary and a founding member of the Politburo.[NEWLINE][NEWLINE]Soviet foreign policy also underwent a series of changes. Lenin realized that the Soviet government required normal relations with the Western world for it to survive. Stalin, by contrast, aimed to exasperate social tensions in Europe to produce conditions favorable to Communist revolution. Nevertheless, the dynamics of Soviet foreign relations changed drastically after Stalin recognized the danger Nazi Germany posed. In turn, to constrain Germany, the Soviet Union built coalitions that were hostile to fascism. Furthermore, it gave assistance to antifascists in the Spanish Civil War (1936–1939).[NEWLINE][NEWLINE]After France and Britain acquiesced to Adolph Hitler’s (1889–1945) demands for Czechoslovak territory at Munich, Germany, in 1938, Soviet foreign policy shifted again; Stalin decided to come to an understanding with Germany. This culminated in the Nazi-Soviet Nonaggression Pact of August 23, 1939, which called for absolute neutrality in the event one of the parties became involved in war. However, after World War II (1939–1945) broke out, Hitler began preparing for war against the Soviet Union. Germany finally declared war on the Soviet Union in June 1941. Although the Great Patriotic War, as World War II was referred to in the Soviet Union, began inauspiciously for the Soviet Union, the war with Germany ended triumphantly for the Soviets.[NEWLINE][NEWLINE]The Soviet Union rebuilt its economy during the immediate postwar period and continued to maintain strict centralized control over state and society. It also emerged from the war as a world superpower along with the United States. In turn the Soviet Union began taking an active role in the United Nations as well as in other major international and regional organizations. However, as it turned many Eastern European countries into satellite states and set up the Warsaw Pact and Comecon (economic and military organizations of Central and Eastern European Communist states), the Soviet Union’s relations with the West became extremely tense. This led to the protracted geopolitical, ideological, and economic struggle between capitalism and communism known as the cold war.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_JFD_USSR_CHAPTER_HISTORY_PARA_3" Language="en_US">
+			<Text>Stalin died on March 5, 1953. Since Stalin did not name an heir, a factional power struggle broke out within the party. After the succession struggle abated, Nikita Khrushchev (1894–1971) emerged as first secretary. By the beginning of 1956, Khrushchev was the most important figure within the Soviet leadership. Khrushchev even denounced Stalin and launched a campaign to ease the repressive controls over party and society. But, Khrushchev did face significant opposition in the Presidium, or Politburo, which threatened much needed economic reform and the de-Stalinization campaign. The Presidium even voted Khrushchev out of office in June 1957, but the Central Committee (the highest body of the Communist Party of the Soviet Union to which the Politburo reported to) overturned the decision and expelled Khrushchev’s opponents. After becoming prime minister in March 1958, Khrushchev’s position in the state and party was solidified.[NEWLINE][NEWLINE]Khrushchev attempted to carry out domestic reform in a range of fields, but economic difficulties and political disarray remained. At the same time, events such as the suppression of democratic uprisings in Hungary and Poland in 1956 hurt the Soviet Union’s international stature. Furthermore, Khrushchev’s efforts to improve relations with the West suffered many setbacks, especially after the Cuban Missile Crisis (a cold war conflict between the United States and the Soviet Union regarding a Soviet buildup of nuclear missiles in Cuba). These events highlighted the fact that Khrushchev never exercised the high level of authority that Stalin did.[NEWLINE][NEWLINE]In October 1964 the Presidium voted Khrushchev out of office again. Khrushchev’s removal from office was followed by another period of rule by collective leadership. During this time, the Soviet leadership experimented with economic reform and several individuals contended for power. This situation lasted until Leonid Brezhnev (1906–1982), who attained the post of first secretary in 1964, became the most important figure within the Soviet leadership in 1971. During Brezhnev’s sixteen years as first secretary, economic and political reform was nonexistent. The Soviet Union also stepped up its repression against political dissidents and even tolerated popular expressions of anti-Semitism.[NEWLINE][NEWLINE]Soviet relations with the West first improved in the years after Khrushchev, which led to détente, or a relaxing of strained relations, in the early 1970s. Although the international community viewed this as a positive development, the use of force in Eastern Europe to suppress reform movements, attempts to broaden its influence in the Middle East, and its expanding influence in the developing world in accordance with the strategy of non-alignment caused improved relations to be short-lived. Finally, détente appeared dead when Brezhnev sent armed forces into Afghanistan in December 1979 to shore up the Communist government there. This along with economic stagnation proved to be formidable challenges for the Soviet leadership after Brezhnev’s death in 1982.[NEWLINE][NEWLINE]After the rapid succession of Yuri Andropov (1914–1984) and Konstantin Chernenko (1911–1985), the reform minded Mikhail Gorbachev (b. 1931) became general secretary in March 1985. To fix the crumbling Soviet political and economic structures, Gorbachev implemented the perestroika program to improve living standards and worker productivity and glasnost, which freed public access to information after decades of government regulations. This reinvigorated détente allowed Gorbachev to develop a strong relationship with President Ronald Reagan (1911–2004) of the United States. However, the impact the policies had on the Soviet Union’s political and economic structures was not so positive.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_JFD_USSR_CHAPTER_HISTORY_PARA_4" Language="en_US">
+			<Text>Although there is debate over what exactly caused the Soviet Union’s demise, it is clear that the policies of perestroika and glasnost led to unintended consequences that greatly contributed to this. This is because the relaxation of censorship on the media brought to light many of the severe social and economic problems the Soviet government claimed did not exist; events such as the ongoing war in Afghanistan and the Chernobyl nuclear power plant disaster in 1986 exasperated this. These negative aspects of Soviet life, in turn, undermined the faith of the people in the Soviet system and eroded the Soviet Union’s identity and integrity. Moreover, improved relations with the West infuriated Soviet hardliners.[NEWLINE][NEWLINE]This led to upheaval throughout the Soviet Union and in its Eastern European satellite states. In the late 1980s nationalism was rising throughout the Soviet republics, which reawakened ethnic tensions throughout the Union thereby discrediting the idea of a unified Soviet people. The Soviet Union, in turn, lost all control over economic conditions. At the same time, Moscow disowned the Brezhnev Doctrine in favor of nonintervention in the internal affairs of its Warsaw Pact allies. This was significant given that the Brezhnev Doctrine had modeled Soviet foreign policy since 1968; the Brezhnev doctrine stated that if any hostile force tried to turn the development of any socialist country towards capitalism, it would become the problem and concern of all socialist countries. Eventually, many Soviet satellite states began asserting sovereignty over their territories with some even declaring independence. By 1991 revolution had swept through Eastern Europe bringing down several Communist governments.[NEWLINE][NEWLINE]In February 1990 the unintended consequences of Gorbachev’s reforms forced the Central Committee of the Soviet Union to give up its monopoly of power. Even though the Communists were not going down without a fight, a unionwide referendum saw approximately 78 percent of voters approve the retention of the Soviet Union in an altered form. Presidential elections followed in June; Boris Yeltsin defeated the Gorbachev-backed Nikolai Ryzhkov.[NEWLINE][NEWLINE]Gorbachev attempted to restructure the Soviet system into a less centralized state. But in August 1991, the vice president, prime minister, defense minister, KGB (the Soviet security agency) chief, and other senior officials acted to prevent the signing of the union treaty. The coup organizers put Gorbachev under house arrest at his vacation home in the Crimea and attempted to restore the Union to its former state. However, public sympathy for their actions was largely against them and the coup ultimately failed. After the coup the Soviet republics accelerated their process toward independence. Finally, on December 8, 1991, Soviet leaders decided to dissolve the Union and established the Commonwealth of Independent States, which is an alliance that is open to all former Soviet republics. The Soviet Union ceased to exist by the end of December.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_JFD_USSR_CHAPTER_HISTORY_PARA_5" Language="en_US">
+			<Text>The dissolution of the Soviet Union led to numerous political, economic, and social changes within the region. Democratization and economic liberalization began throughout the post-Soviet sphere. However, the transition from communism in the former Soviet Union only sometimes led to democracy; some states abandoned communism for democracy, while others turned to authoritarian rule. Many of the post-Soviet republics also saw their economies collapse during the transition to capitalism. Corruption, weak property rights protection, and political instability were just a few of the reasons for this. Russia, in particular, struggled in its transition to a market economy. This precipitated a return to more interventionist economic policies by the government. Further, numerous ethnic and religious conflicts erupted. There are a number of de facto, but internationally unrecognized, states as a result of this.[NEWLINE][NEWLINE]Several global changes that have occurred since the Soviet Union’s demise are also worthy of note. There are no longer two clear-cut superpowers dominating international political life. Nuclear disarmament and reconfigured security arrangements are the salient themes in this “new world order.” Economic interdependence and political integration are also being seen everywhere. However, the most important global change since the Soviet Union’s demise is the ever-increasing threat of terrorism, especially Islamic fundamentalism. The events of September 11, 2001, indicate that this has officially replaced nuclear war as the greatest threat to peace.[NEWLINE][NEWLINE]There is no doubt that the Soviet Union was one of the most powerful countries in the world during its period of existence, especially from 1945 to 1991. At its peak it consisted of fifteen republics making it one of the most strongly centralized federal unions in the history of the world. Furthermore, the Soviet Union became a primary model for future Communist states; some states, such as Cuba, exemplify the Soviet tradition. All of this suggests that it is likely that few topics will generate as much social science research as the Soviet Union did.</Text>
+		</Row>
+		<!--Trait-->
+		<Row Tag="LOC_TRAIT_CIVILIZATION_JFD_COMMUNIST_NATIONALISM_NAME" Language="en_US">
+			<Text>Communist Nationalism</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_JFD_COMMUNIST_NATIONALISM_DESCRIPTION" Language="en_US">
+			<Text>Buildings in their Campus and Industrial Zone districts yield [ICON_CULTURE] Culture and [ICON_TOURISM] Tourism equal to half their intrinsic yield outputs (round down). Build these Districts 33% faster.</Text>
+		</Row>
+		<!--Cities-->
+		<Row Tag="LOC_CITY_NAME_JFD_USSR_2" Language="en_US">
+			<Text>Leningrad</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JFD_USSR_3" Language="en_US">
+			<Text>Kiev</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JFD_USSR_4" Language="en_US">
+			<Text>Minsk</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JFD_USSR_5" Language="en_US">
+			<Text>Kharkov</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JFD_USSR_6" Language="en_US">
+			<Text>USSRgrad</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JFD_USSR_7" Language="en_US">
+			<Text>Sverdlovsk</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JFD_USSR_8" Language="en_US">
+			<Text>Gorky</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JFD_USSR_9" Language="en_US">
+			<Text>Krasnodar</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JFD_USSR_10" Language="en_US">
+			<Text>Vladivostok</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JFD_USSR_11" Language="en_US">
+			<Text>Novosibirsk</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JFD_USSR_12" Language="en_US">
+			<Text>Krasnoyarsk</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JFD_USSR_13" Language="en_US">
+			<Text>Kuybyshev</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JFD_USSR_14" Language="en_US">
+			<Text>Baku</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JFD_USSR_15" Language="en_US">
+			<Text>Tbilisi</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JFD_USSR_16" Language="en_US">
+			<Text>Alma-Ata</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JFD_USSR_17" Language="en_US">
+			<Text>Tashkent</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JFD_USSR_18" Language="en_US">
+			<Text>Omsk</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JFD_USSR_19" Language="en_US">
+			<Text>Ufa</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JFD_USSR_20" Language="en_US">
+			<Text>Chelyabinsk</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JFD_USSR_21" Language="en_US">
+			<Text>Sevastopol</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JFD_USSR_22" Language="en_US">
+			<Text>Molotov</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JFD_USSR_23" Language="en_US">
+			<Text>Kaliningrad</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JFD_USSR_24" Language="en_US">
+			<Text>Riga</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JFD_USSR_25" Language="en_US">
+			<Text>Tallin</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JFD_USSR_26" Language="en_US">
+			<Text>Kazan</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JFD_USSR_27" Language="en_US">
+			<Text>Odessa</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JFD_USSR_28" Language="en_US">
+			<Text>Kirov</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JFD_USSR_29" Language="en_US">
+			<Text>Ulyanovsk</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JFD_USSR_30" Language="en_US">
+			<Text>Dnepropetrovsk</Text>
+		</Row>
+		<!--Citizens-->
+		<Row Tag="LOC_CITIZEN_JFD_USSR_MALE_1" Language="en_US">
+			<Text>Igor</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_USSR_MALE_2" Language="en_US">
+			<Text>Vladlen</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_USSR_MALE_3" Language="en_US">
+			<Text>Zhores</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_USSR_MALE_4" Language="en_US">
+			<Text>Rem</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_USSR_MALE_5" Language="en_US">
+			<Text>Revolt</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_USSR_MALE_6" Language="en_US">
+			<Text>Aleksandr</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_USSR_MALE_7" Language="en_US">
+			<Text>Gely</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_USSR_MALE_8" Language="en_US">
+			<Text>Radner</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_USSR_MALE_9" Language="en_US">
+			<Text>Melor</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_USSR_MODERN_MALE_1" Language="en_US">
+			<Text>Barrikad</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_USSR_MODERN_MALE_2" Language="en_US">
+			<Text>Elem</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_USSR_MODERN_MALE_3" Language="en_US">
+			<Text>Vladimir</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_USSR_MODERN_MALE_4" Language="en_US">
+			<Text>Yuri</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_USSR_MODERN_MALE_5" Language="en_US">
+			<Text>Reino</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_USSR_MODERN_MALE_6" Language="en_US">
+			<Text>Konon</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_USSR_MODERN_MALE_7" Language="en_US">
+			<Text>Valery</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_USSR_MODERN_MALE_8" Language="en_US">
+			<Text>Susemihl</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_USSR_MODERN_MALE_9" Language="en_US">
+			<Text>Ain-Ervin</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_USSR_MODERN_MALE_10" Language="en_US">
+			<Text>Mikhail</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_USSR_FEMALE_1" Language="en_US">
+			<Text>Ursula</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_USSR_FEMALE_2" Language="en_US">
+			<Text>Moura</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_USSR_FEMALE_3" Language="en_US">
+			<Text>Anna</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_USSR_FEMALE_4" Language="en_US">
+			<Text>Alla</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_USSR_FEMALE_5" Language="en_US">
+			<Text>Anastasia</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_USSR_FEMALE_6" Language="en_US">
+			<Text>Valeria</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_USSR_FEMALE_7" Language="en_US">
+			<Text>Barbara</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_USSR_FEMALE_8" Language="en_US">
+			<Text>Vera</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_USSR_FEMALE_9" Language="en_US">
+			<Text>Veronika</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_USSR_FEMALE_10" Language="en_US">
+			<Text>Galina</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_USSR_MODERN_FEMALE_1" Language="en_US">
+			<Text>Kseniya</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_USSR_MODERN_FEMALE_2" Language="en_US">
+			<Text>Larisa</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_USSR_MODERN_FEMALE_3" Language="en_US">
+			<Text>Irina</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_USSR_MODERN_FEMALE_4" Language="en_US">
+			<Text>Olga</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_USSR_MODERN_FEMALE_5" Language="en_US">
+			<Text>Yulia</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_USSR_MODERN_FEMALE_6" Language="en_US">
+			<Text>Yana</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_USSR_MODERN_FEMALE_7" Language="en_US">
+			<Text>Tatiana</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_USSR_MODERN_FEMALE_8" Language="en_US">
+			<Text>Svetlana</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_USSR_MODERN_FEMALE_9" Language="en_US">
+			<Text>Ekaterina</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_USSR_MODERN_FEMALE_10" Language="en_US">
+			<Text>Galina</Text>
+		</Row>
+		<!--Politicians-->
+		<Row Tag="LOC_POLITICIAN_JFD_JFD_USSR_1" Language="en_US">
+			<Text>Beria</Text>
+		</Row>
+		<Row Tag="LOC_POLITICIAN_JFD_JFD_USSR_2" Language="en_US">
+			<Text>Malenkov</Text>
+		</Row>
+		<Row Tag="LOC_POLITICIAN_JFD_JFD_USSR_3" Language="en_US">
+			<Text>Nikolai</Text>
+		</Row>
+		<Row Tag="LOC_POLITICIAN_JFD_JFD_USSR_4" Language="en_US">
+			<Text>Konstantin</Text>
+		</Row>
+		<Row Tag="LOC_POLITICIAN_JFD_JFD_USSR_5" Language="en_US">
+			<Text>Andrei</Text>
+		</Row>
+		<Row Tag="LOC_POLITICIAN_JFD_JFD_USSR_6" Language="en_US">
+			<Text>Dmitry</Text>
+		</Row>
+		<Row Tag="LOC_POLITICIAN_JFD_JFD_USSR_7" Language="en_US">
+			<Text>Alexei</Text>
+		</Row>
+		<Row Tag="LOC_POLITICIAN_JFD_JFD_USSR_8" Language="en_US">
+			<Text>Vyacheslav</Text>
+		</Row>
+		<Row Tag="LOC_POLITICIAN_JFD_JFD_USSR_9" Language="en_US">
+			<Text>Vasili</Text>
+		</Row>
+		<Row Tag="LOC_POLITICIAN_JFD_JFD_USSR_10" Language="en_US">
+			<Text>Pyotr</Text>
+		</Row>
+		<Row Tag="LOC_POLITICIAN_JFD_JFD_USSR_11" Language="en_US">
+			<Text>Anatoly</Text>
+		</Row>
+		<Row Tag="LOC_POLITICIAN_JFD_JFD_USSR_12" Language="en_US">
+			<Text>Gennady</Text>
+		</Row>
+		<Row Tag="LOC_POLITICIAN_JFD_JFD_USSR_13" Language="en_US">
+			<Text>Anastas</Text>
+		</Row>
+		<Row Tag="LOC_POLITICIAN_JFD_JFD_USSR_14" Language="en_US">
+			<Text>Mikhail</Text>
+		</Row>
+		<Row Tag="LOC_POLITICIAN_JFD_JFD_USSR_15" Language="en_US">
+			<Text>Maksim</Text>
+		</Row>
+		<!--PEKHOTA-->
+		<Row Tag="LOC_UNIT_JFD_RED_ARMY_NAME" Language="en_US">
+			<Text>Pekhota</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_JFD_RED_ARMY_DESCRIPTION" Language="en_US">
+			<Text>Soviet unique Modern era unit. Costs 1 less [ICON_MOVEMENT] Movement to pillage. Requires 2 less Maintenance.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_JFD_RED_ARMY_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>"Pekhota" is an Infantryman in the Red Army. The army was established immediately after the 1917 October Revolution. The Bolsheviks raised an army to oppose the military confederations (especially the various groups collectively known as the White Army) of their adversaries during the Russian Civil War. Beginning in February 1946, the Red Army, along with the Soviet Navy, embodied the main component of the Soviet Armed Forces; taking the official name of "Soviet Army", until its dissolution in December 1991.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_JFD_RED_ARMY_NAME" Language="en_US">
+			<Text>Scorched Earth</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_JFD_RED_ARMY_DESCRIPTION" Language="en_US">
+			<Text>Costs 1 less [ICON_MOVEMENT] Movement to pillage.</Text>
+		</Row>
+		<!--NAUKOGRAD-->
+		<Row Tag="LOC_DISTRICT_JFD_NAUKOGRAD_NAME" Language="en_US">
+			<Text>Naukograd</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_JFD_NAUKOGRAD_DESCRIPTION" Language="en_US">
+			<Text>A standalone district unique to the Soviet Union for scientific progress.[NEWLINE][NEWLINE]Receive 50 [ICON_SCIENCE] Science per the Appeal of a tile when replacing a Farm with this district. Yields +2 [ICON_GREATSCIENTIST] Great Scientist Points and an additional +1 [ICON_SCIENCE] Science for each adjacent Neighbourhood. +15% [ICON_PRODUCTION] Production toward Space Race projects.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_DISTRICTS_PAGE_DISTRICT_JFD_NAUKOGRAD_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Naukograd, meaning "science city", is a formal term for towns with high concentrations of research and development facilities in Russia and the Soviet Union, some specifically built by the Soviet Union for these purposes. Some of the towns were secret, and were part of a larger system of closed cities in the USSR, many built by forced labor from the Soviet Gulag. In the Russian Federation in post Soviet times, the term is used generally for about seventy towns that have concentrations of scientific research and production, and specifically, refers to a small number of towns that have been recognised for their scientific capabilities and hence get special privileges.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_JFD_NAUKOGRAD_SCIENCE" Language="en_US">
+			<Text>+{1_num} [ICON_SCIENCE] Science from the adjacent Neighbourhood district.</Text>
+		</Row>
+		<Replace Tag="LOC_GOODYHUT_LARGE_SCIENCE_DESCRIPTION" Language="en_US">
+			<Text>[COLOR_FLOAT_SCIENCE]+{1_Num} [ICON_SCIENCE][ENDCOLOR]</Text>
+		</Replace>
+		<!--MOD SUPPORT-->
+		<!--JFD Rule with Faith-->
+		<Row Tag="LOC_GOVERNMENT_JFD_CHIEFDOM_LEADER_TITLE_JFD_USSR" Language="en_US">
+			<Text>Voivode</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_CHIEFDOM_LEADER_TITLE_JFD_USSR_FEMININE" Language="en_US">
+			<Text>Voivode</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_HORDE_LEADER_TITLE_JFD_USSR" Language="en_US">
+			<Text>Warlord</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_HORDE_LEADER_TITLE_JFD_USSR_FEMININE" Language="en_US">
+			<Text>Warlord</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_POLIS_LEADER_TITLE_JFD_USSR" Language="en_US">
+			<Text>Starosta</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_POLISE_LEADER_TITLE_JFD_USSR_FEMININE" Language="en_US">
+			<Text>Starosta</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_AUTOCRACY_LEADER_TITLE_JFD_USSR" Language="en_US">
+			<Text>Knyaz</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_AUTOCRACY_LEADER_TITLE_JFD_USSR_FEMININE" Language="en_US">
+			<Text>Knyaginya</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_CLASSICAL_DEMOCRACY_LEADER_TITLE_JFD_USSR" Language="en_US">
+			<Text>Councillor</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_CLASSICAL_DEMOCRACY_LEADER_TITLE_JFD_USSR_FEMININE" Language="en_US">
+			<Text>Councillor</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_OLIGARCHY_LEADER_TITLE_JFD_USSR" Language="en_US">
+			<Text>Boyar</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_OLIGARCHY_LEADER_TITLE_JFD_USSR_FEMININE" Language="en_US">
+			<Text>Boyar</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_MERCHANT_REPUBLIC_LEADER_TITLE_JFD_USSR" Language="en_US">
+			<Text>Chancellor</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_MERCHANT_REPUBLIC_LEADER_TITLE_JFD_USSR_FEMININE" Language="en_US">
+			<Text>Chancellor</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_MONARCHY_LEADER_TITLE_JFD_USSR" Language="en_US">
+			<Text>Tsar</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_MONARCHY_LEADER_TITLE_JFD_USSR_FEMININE" Language="en_US">
+			<Text>Tsaritsa</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_NOBLE_REPUBLIC_LEADER_TITLE_JFD_USSR" Language="en_US">
+			<Text>Chairman</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_NOBLE_REPUBLIC_LEADER_TITLE_JFD_USSR_FEMININE" Language="en_US">
+			<Text>Chairman</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_PEOPLES_REPUBLIC_LEADER_TITLE_JFD_USSR" Language="en_US">
+			<Text>General-Secretary</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_PEOPLES_REPUBLIC_LEADER_TITLE_JFD_USSR_FEMININE" Language="en_US">
+			<Text>General-Secretary</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_LIBERAL_DEMOCRACY_LEADER_TITLE_JFD_USSR" Language="en_US">
+			<Text>President</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_LIBERAL_DEMOCRACY_LEADER_TITLE_JFD_USSR_FEMININE" Language="en_US">
+			<Text>President</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_MILITARY_GUARDIANSHIP_LEADER_TITLE_JFD_USSR" Language="en_US">
+			<Text>Autocrat</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_MILITARY_GUARDIANSHIP_LEADER_TITLE_JFD_USSR_FEMININE" Language="en_US">
+			<Text>Autocrat</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_EMPIRE_LEADER_TITLE_JFD_USSR" Language="en_US">
+			<Text>Emperor-Autocrat</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_EMPIRE_LEADER_TITLE_JFD_USSR_FEMININE" Language="en_US">
+			<Text>Empress-Autocrat</Text>
+		</Row>
+	</LocalizedText>
+</GameData>

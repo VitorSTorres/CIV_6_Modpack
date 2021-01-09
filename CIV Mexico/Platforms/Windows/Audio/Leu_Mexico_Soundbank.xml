@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="10" SoundbankVersion="113">
+	<RootPaths>
+		<ProjectRoot>C:\Users\MuXu\Documents\WwiseProjects\Leu_Mexico_Soundtrack\</ProjectRoot>
+		<SourceFilesRoot>C:\Users\MuXu\Documents\WwiseProjects\Leu_Mexico_Soundtrack\.cache\Windows\</SourceFilesRoot>
+		<SoundBanksRoot>C:\Users\MuXu\Documents\WwiseProjects\Leu_Mexico_Soundtrack\GeneratedSoundBanks\Windows\</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>C:\Users\MuXu\Documents\WwiseProjects\Leu_Mexico_Soundtrack\GeneratedSoundBanks\Windows\</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<DialogueEvents/>
+	<StreamedFiles>
+		<File Id="61196352" Language="SFX">
+			<ShortName>Mexico_Medieval_Cultural_7.wav</ShortName>
+			<Path>SFX\Mexico_Medieval_Cultural_7_4B8CC0C5.wem</Path>
+		</File>
+		<File Id="301456134" Language="SFX">
+			<ShortName>Mexico_Ancient.wav</ShortName>
+			<Path>SFX\Mexico_Ancient_4B8CC0C5.wem</Path>
+		</File>
+		<File Id="310099346" Language="SFX">
+			<ShortName>Mexico_Cultural_4.wav</ShortName>
+			<Path>SFX\Mexico_Cultural_4_4B8CC0C5.wem</Path>
+		</File>
+		<File Id="494457247" Language="SFX">
+			<ShortName>Mexico_Cultural_6.wav</ShortName>
+			<Path>SFX\Mexico_Cultural_6_4B8CC0C5.wem</Path>
+		</File>
+		<File Id="499257402" Language="SFX">
+			<ShortName>Mexico_Cultural_3.wav</ShortName>
+			<Path>SFX\Mexico_Cultural_3_4B8CC0C5.wem</Path>
+		</File>
+		<File Id="504222627" Language="SFX">
+			<ShortName>Mexico_Industrial.wav</ShortName>
+			<Path>SFX\Mexico_Industrial_4B8CC0C5.wem</Path>
+		</File>
+		<File Id="569430386" Language="SFX">
+			<ShortName>Mexico_Cultural_5.wav</ShortName>
+			<Path>SFX\Mexico_Cultural_5_4B8CC0C5.wem</Path>
+		</File>
+		<File Id="864734497" Language="SFX">
+			<ShortName>Mexico_Cultural_1.wav</ShortName>
+			<Path>SFX\Mexico_Cultural_1_4B8CC0C5.wem</Path>
+		</File>
+		<File Id="899326883" Language="SFX">
+			<ShortName>Mexico_Medieval-.wav</ShortName>
+			<Path>SFX\Mexico_Medieval-_4B8CC0C5.wem</Path>
+		</File>
+		<File Id="946060948" Language="SFX">
+			<ShortName>Mexico_Cultural_2.wav</ShortName>
+			<Path>SFX\Mexico_Cultural_2_4B8CC0C5.wem</Path>
+		</File>
+	</StreamedFiles>
+	<MediaFilesNotInAnyBank/>
+	<SoundBanks>
+		<SoundBank Id="1355168291" Language="SFX">
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+		</SoundBank>
+		<SoundBank Id="2931164479" Language="SFX">
+			<ShortName>Leu_Mexico_Soundbank</ShortName>
+			<Path>Leu_Mexico_Soundbank.bnk</Path>
+			<IncludedEvents>
+				<Event Id="2756264484" Name="Pause_Music_Leu_Mexico"/>
+				<Event Id="3801966344" Name="Play_Leader_Music_Leu_Mexico"/>
+				<Event Id="3359758358" Name="Play_Music_Leu_Mexico"/>
+				<Event Id="3100915035" Name="Resume_Music_Leu_Mexico"/>
+				<Event Id="182642590" Name="Start_Music_Leu_Mexico"/>
+				<Event Id="1245455386" Name="Stop_Leader_Music_Leu_Mexico"/>
+				<Event Id="1094588140" Name="Stop_Music_Leu_Mexico"/>
+			</IncludedEvents>
+			<ReferencedStreamedFiles>
+				<File Id="61196352"/>
+				<File Id="301456134"/>
+				<File Id="310099346"/>
+				<File Id="494457247"/>
+				<File Id="499257402"/>
+				<File Id="504222627"/>
+				<File Id="569430386"/>
+				<File Id="864734497"/>
+				<File Id="899326883"/>
+				<File Id="946060948"/>
+			</ReferencedStreamedFiles>
+			<IncludedMemoryFiles>
+				<File Id="61196352" Language="SFX">
+					<ShortName>Mexico_Medieval_Cultural_7.wav</ShortName>
+					<Path>SFX\Mexico_Medieval_Cultural_7_4B8CC0C5.wem</Path>
+					<PrefetchSize>17704</PrefetchSize>
+				</File>
+				<File Id="301456134" Language="SFX">
+					<ShortName>Mexico_Ancient.wav</ShortName>
+					<Path>SFX\Mexico_Ancient_4B8CC0C5.wem</Path>
+					<PrefetchSize>17704</PrefetchSize>
+				</File>
+				<File Id="310099346" Language="SFX">
+					<ShortName>Mexico_Cultural_4.wav</ShortName>
+					<Path>SFX\Mexico_Cultural_4_4B8CC0C5.wem</Path>
+					<PrefetchSize>8884</PrefetchSize>
+				</File>
+				<File Id="494457247" Language="SFX">
+					<ShortName>Mexico_Cultural_6.wav</ShortName>
+					<Path>SFX\Mexico_Cultural_6_4B8CC0C5.wem</Path>
+					<PrefetchSize>17704</PrefetchSize>
+				</File>
+				<File Id="499257402" Language="SFX">
+					<ShortName>Mexico_Cultural_3.wav</ShortName>
+					<Path>SFX\Mexico_Cultural_3_4B8CC0C5.wem</Path>
+					<PrefetchSize>8884</PrefetchSize>
+				</File>
+				<File Id="504222627" Language="SFX">
+					<ShortName>Mexico_Industrial.wav</ShortName>
+					<Path>SFX\Mexico_Industrial_4B8CC0C5.wem</Path>
+					<PrefetchSize>17704</PrefetchSize>
+				</File>
+				<File Id="569430386" Language="SFX">
+					<ShortName>Mexico_Cultural_5.wav</ShortName>
+					<Path>SFX\Mexico_Cultural_5_4B8CC0C5.wem</Path>
+					<PrefetchSize>17704</PrefetchSize>
+				</File>
+				<File Id="864734497" Language="SFX">
+					<ShortName>Mexico_Cultural_1.wav</ShortName>
+					<Path>SFX\Mexico_Cultural_1_4B8CC0C5.wem</Path>
+					<PrefetchSize>8884</PrefetchSize>
+				</File>
+				<File Id="899326883" Language="SFX">
+					<ShortName>Mexico_Medieval-.wav</ShortName>
+					<Path>SFX\Mexico_Medieval-_4B8CC0C5.wem</Path>
+					<PrefetchSize>17704</PrefetchSize>
+				</File>
+				<File Id="946060948" Language="SFX">
+					<ShortName>Mexico_Cultural_2.wav</ShortName>
+					<Path>SFX\Mexico_Cultural_2_4B8CC0C5.wem</Path>
+					<PrefetchSize>8884</PrefetchSize>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>

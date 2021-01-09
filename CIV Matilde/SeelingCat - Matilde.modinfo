@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="8704205f-2565-4e84-ae0e-5a90a3103be0" version="1">
+  <Properties>
+    <Name>SeelingCat - Matilde</Name>
+    <Description>Adds Matilde of Canossa as an alternate leader for JFD's Italy.</Description>
+    <Teaser>Adds Matilde of Canossa as an alternate leader for JFD's Italy.</Teaser>
+    <Authors>SeelingCat</Authors>
+  </Properties>
+  <Dependencies>
+    <Mod id="1de0f821-edd6-4e33-bef9-01d72da3a301" title="JFD's [COLOR_FLOAT_GOLD]Italy[ENDCOLOR]" />
+  </Dependencies>
+  <ActionCriteria>
+    <Criteria id="LeaderCriteria">
+      <LeaderPlayable>StandardPlayers::LEADER_JASPER_KITTY</LeaderPlayable>
+    </Criteria>
+  </ActionCriteria>
+  <FrontEndActions>
+    <UpdateDatabase id="Config">
+      <Properties>
+        <LoadOrder>110</LoadOrder>
+      </Properties>
+      <File>Core/Matilde_Config.sql</File>
+    </UpdateDatabase>
+    <UpdateText id="ConfigText">
+      <File>Core/Matilde_GameText.xml</File>
+    </UpdateText>
+    <UpdateIcons id="ConfigIcons">
+      <File>Core/Matilde_Icons.xml</File>
+    </UpdateIcons>
+    <UpdateArt id="ConfigArt">
+      <File>SeelingCat - Matilde.dep</File>
+    </UpdateArt>
+  </FrontEndActions>
+  <InGameActions>
+    <UpdateDatabase id="Gameplay">
+      <Properties>
+        <LoadOrder>110</LoadOrder>
+      </Properties>
+      <File>Core/Matilde_GameDefines.sql</File>
+      <File>ModSupport/Matilde_ModSupport.sql</File>
+    </UpdateDatabase>
+    <UpdateText id="Text">
+      <File>Core/Matilde_GameText.xml</File>
+    </UpdateText>
+    <UpdateIcons id="Icons">
+      <File>Core/Matilde_Icons.xml</File>
+    </UpdateIcons>
+    <UpdateArt id="Art">
+      <File>SeelingCat - Matilde.dep</File>
+    </UpdateArt>
+  </InGameActions>
+  <Files>
+    <File>ArtDefs/FallbackLeaders.artdef</File>
+    <File>ArtDefs/Leaders.artdef</File>
+    <File>Core/Matilde_Config.sql</File>
+    <File>Core/Matilde_GameDefines.sql</File>
+    <File>Core/Matilde_GameText.xml</File>
+    <File>Core/Matilde_Icons.xml</File>
+    <File>ModSupport/Matilde_ModSupport.sql</File>
+    <File>Platforms/MacOS/BLPs/LeaderFallbacks.blp</File>
+    <File>Platforms/MacOS/BLPs/UILeaders.blp</File>
+    <File>Platforms/MacOS/BLPs/UI/Icons.blp</File>
+    <File>Platforms/Windows/BLPs/LeaderFallbacks.blp</File>
+    <File>Platforms/Windows/BLPs/UILeaders.blp</File>
+    <File>Platforms/Windows/BLPs/UI/Icons.blp</File>
+    <File>SeelingCat - Matilde.dep</File>
+    <File>Textures/FALLBACK_NEUTRAL_SC_MATILDE.dds</File>
+    <File>Textures/FALLBACK_NEUTRAL_SC_MATILDE.tex</File>
+    <File>Textures/ICON_CIVILIZATION_SC_JFD_ITALY_MATILDE_45.dds</File>
+    <File>Textures/ICON_CIVILIZATION_SC_JFD_ITALY_MATILDE_45.tex</File>
+    <File>Textures/ICON_LEADER_SC_MATILDE_256.dds</File>
+    <File>Textures/ICON_LEADER_SC_MATILDE_256.tex</File>
+    <File>Textures/ICON_LEADER_SC_MATILDE_32.dds</File>
+    <File>Textures/ICON_LEADER_SC_MATILDE_32.tex</File>
+    <File>Textures/ICON_LEADER_SC_MATILDE_45.dds</File>
+    <File>Textures/ICON_LEADER_SC_MATILDE_45.tex</File>
+    <File>Textures/ICON_LEADER_SC_MATILDE_50.dds</File>
+    <File>Textures/ICON_LEADER_SC_MATILDE_50.tex</File>
+    <File>Textures/ICON_LEADER_SC_MATILDE_55.dds</File>
+    <File>Textures/ICON_LEADER_SC_MATILDE_55.tex</File>
+    <File>Textures/ICON_LEADER_SC_MATILDE_64.dds</File>
+    <File>Textures/ICON_LEADER_SC_MATILDE_64.tex</File>
+    <File>Textures/ICON_LEADER_SC_MATILDE_80.dds</File>
+    <File>Textures/ICON_LEADER_SC_MATILDE_80.tex</File>
+    <File>Textures/LEADER_SC_MATILDE_NEUTRAL.dds</File>
+    <File>Textures/LEADER_SC_MATILDE_NEUTRAL.tex</File>
+    <File>Textures/SC_MATILDE_1.dds</File>
+    <File>Textures/SC_MATILDE_1.tex</File>
+    <File>Textures/SC_MATILDE_2.dds</File>
+    <File>Textures/SC_MATILDE_2.tex</File>
+    <File>Textures/SC_MATILDE_4.dds</File>
+    <File>Textures/SC_MATILDE_4.tex</File>
+    <File>XLPs/UIIcons.xlp</File>
+  </Files>
+</Mod>

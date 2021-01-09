@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<AssetObjects..XLP>
+	<m_Version>
+		<major>4</major>
+		<minor>0</minor>
+		<build>315</build>
+		<revision>805</revision>
+	</m_Version>
+	<m_ClassName text="UITexture"/>
+	<m_PackageName text="UI/Icons"/>
+	<m_Entries>
+		<Element>
+			<m_EntryID text="BCIAlphaAtlas128"/>
+			<m_ObjectName text="BCIAlphaAtlas128"/>
+		</Element>
+		<Element>
+			<m_EntryID text="BCIAlphaAtlas200"/>
+			<m_ObjectName text="BCIAlphaAtlas200"/>
+		</Element>
+		<Element>
+			<m_EntryID text="BCIAlphaAtlas22"/>
+			<m_ObjectName text="BCIAlphaAtlas22"/>
+		</Element>
+		<Element>
+			<m_EntryID text="BCIAlphaAtlas256"/>
+			<m_ObjectName text="BCIAlphaAtlas256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="BCIAlphaAtlas30"/>
+			<m_ObjectName text="BCIAlphaAtlas30"/>
+		</Element>
+		<Element>
+			<m_EntryID text="BCIAlphaAtlas32"/>
+			<m_ObjectName text="BCIAlphaAtlas32"/>
+		</Element>
+		<Element>
+			<m_EntryID text="BCIAlphaAtlas36"/>
+			<m_ObjectName text="BCIAlphaAtlas36"/>
+		</Element>
+		<Element>
+			<m_EntryID text="BCIAlphaAtlas44"/>
+			<m_ObjectName text="BCIAlphaAtlas44"/>
+		</Element>
+		<Element>
+			<m_EntryID text="BCIAlphaAtlas48"/>
+			<m_ObjectName text="BCIAlphaAtlas48"/>
+		</Element>
+		<Element>
+			<m_EntryID text="BCIAlphaAtlas50"/>
+			<m_ObjectName text="BCIAlphaAtlas50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="BCIAlphaAtlas64"/>
+			<m_ObjectName text="BCIAlphaAtlas64"/>
+		</Element>
+		<Element>
+			<m_EntryID text="BCIAlphaAtlas80"/>
+			<m_ObjectName text="BCIAlphaAtlas80"/>
+		</Element>
+		<Element>
+			<m_EntryID text="BCIColourAtlas45"/>
+			<m_ObjectName text="BCIColourAtlas45"/>
+		</Element>
+		<Element>
+			<m_EntryID text="BCIModAlphaAtlas128"/>
+			<m_ObjectName text="BCIModAlphaAtlas128"/>
+		</Element>
+		<Element>
+			<m_EntryID text="BCIModAlphaAtlas200"/>
+			<m_ObjectName text="BCIModAlphaAtlas200"/>
+		</Element>
+		<Element>
+			<m_EntryID text="BCIModAlphaAtlas22"/>
+			<m_ObjectName text="BCIModAlphaAtlas22"/>
+		</Element>
+		<Element>
+			<m_EntryID text="BCIModAlphaAtlas256"/>
+			<m_ObjectName text="BCIModAlphaAtlas256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="BCIModAlphaAtlas30"/>
+			<m_ObjectName text="BCIModAlphaAtlas30"/>
+		</Element>
+		<Element>
+			<m_EntryID text="BCIModAlphaAtlas32"/>
+			<m_ObjectName text="BCIModAlphaAtlas32"/>
+		</Element>
+		<Element>
+			<m_EntryID text="BCIModAlphaAtlas36"/>
+			<m_ObjectName text="BCIModAlphaAtlas36"/>
+		</Element>
+		<Element>
+			<m_EntryID text="BCIModAlphaAtlas44"/>
+			<m_ObjectName text="BCIModAlphaAtlas44"/>
+		</Element>
+		<Element>
+			<m_EntryID text="BCIModAlphaAtlas48"/>
+			<m_ObjectName text="BCIModAlphaAtlas48"/>
+		</Element>
+		<Element>
+			<m_EntryID text="BCIModAlphaAtlas50"/>
+			<m_ObjectName text="BCIModAlphaAtlas50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="BCIModAlphaAtlas64"/>
+			<m_ObjectName text="BCIModAlphaAtlas64"/>
+		</Element>
+		<Element>
+			<m_EntryID text="BCIModAlphaAtlas80"/>
+			<m_ObjectName text="BCIModAlphaAtlas80"/>
+		</Element>
+		<Element>
+			<m_EntryID text="BCIModColourAtlas45"/>
+			<m_ObjectName text="BCIModColourAtlas45"/>
+		</Element>
+	</m_Entries>
+	<m_AllowedPlatforms>
+		<Element>WINDOWS</Element>
+		<Element>LINUX</Element>
+		<Element>MACOS</Element>
+		<Element>IOS</Element>
+	</m_AllowedPlatforms>
+</AssetObjects..XLP>
+

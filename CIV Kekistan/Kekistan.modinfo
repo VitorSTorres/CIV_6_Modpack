@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="3d71e41c-16b1-4f6c-8879-98624786d344" version="1">
+  <Properties>
+    <Name>Kekistan Civilization</Name>
+    <Description>Adds the Kekistan civilization led by God-Emperor Trump to the game.</Description>
+    <Teaser>Adds the Kekistan civilization led by God-Emperor Trump to the game.</Teaser>
+    <Authors>The Drunken Aardvark</Authors>
+  </Properties>
+  <ActionCriteria>
+    <Criteria id="LeaderCriteria">
+      <LeaderPlayable>StandardPlayers::LEADER_JASPER_KITTY</LeaderPlayable>
+    </Criteria>
+  </ActionCriteria>
+  <FrontEndActions>
+    <UpdateDatabase id="Config">
+      <File>Data/Kekistan_Config.xml</File>
+    </UpdateDatabase>
+    <UpdateText id="ConfigText">
+      <File>Data/Kekistan_ConfigText.xml</File>
+    </UpdateText>
+    <UpdateIcons id="ConfigIcons">
+      <File>Data/Kekistan_Icons.xml</File>
+    </UpdateIcons>
+    <UpdateArt id="ConfigArt">
+      <File>Kekistan Civilization.dep</File>
+    </UpdateArt>
+  </FrontEndActions>
+  <InGameActions>
+    <UpdateDatabase id="Gameplay">
+      <File>Data/Kekistan_StartPositions.sql</File>
+      <File>Data/Kekistan_Civilization.xml</File>
+      <File>Data/Kekistan_Trump.xml</File>
+      <File>Data/Kekistan_Agendas.xml</File>
+      <File>Data/Kekistan_Imageboard.xml</File>
+      <File>Data/Kekistan_Units.xml</File>
+      <File>Data/Kekistan_Religion.sql</File>
+    </UpdateDatabase>
+    <UpdateText id="Text">
+      <File>Data/Kekistan_ConfigText.xml</File>
+      <File>Data/Kekistan_Text.xml</File>
+    </UpdateText>
+    <UpdateIcons id="Icons">
+      <File>Data/Kekistan_Icons.xml</File>
+    </UpdateIcons>
+    <UpdateArt id="Art">
+      <File>Kekistan Civilization.dep</File>
+    </UpdateArt>
+  </InGameActions>
+  <Files>
+    <File>ArtDefs/Cultures.artdef</File>
+    <File>ArtDefs/FallbackLeaders.artdef</File>
+    <File>ArtDefs/Units.artdef</File>
+    <File>ArtDefs/UserInterface.artdef</File>
+    <File>Data/Kekistan_Agendas.xml</File>
+    <File>Data/Kekistan_Civilization.xml</File>
+    <File>Data/Kekistan_Config.xml</File>
+    <File>Data/Kekistan_ConfigText.xml</File>
+    <File>Data/Kekistan_Icons.xml</File>
+    <File>Data/Kekistan_Imageboard.xml</File>
+    <File>Data/Kekistan_Religion.sql</File>
+    <File>Data/Kekistan_StartPositions.sql</File>
+    <File>Data/Kekistan_Text.xml</File>
+    <File>Data/Kekistan_Trump.xml</File>
+    <File>Data/Kekistan_Units.xml</File>
+    <File>Kekistan Civilization.dep</File>
+    <File>Platforms/MacOS/BLPs/LeaderFallbacks.blp</File>
+    <File>Platforms/MacOS/BLPs/UI/Icons.blp</File>
+    <File>Platforms/Windows/BLPs/LeaderFallbacks.blp</File>
+    <File>Platforms/Windows/BLPs/UI/Icons.blp</File>
+  </Files>
+</Mod>

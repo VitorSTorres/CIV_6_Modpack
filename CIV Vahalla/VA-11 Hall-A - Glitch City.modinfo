@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="1a599d47-b753-4fc7-80b5-5c386957aac6" version="5">
+  <Properties>
+    <Name>VA-11 Hall-A - Glitch City</Name>
+    <Description>Add a Glitch City, led by Dana, Jill</Description>
+    <CustomProperties></CustomProperties>
+    <Teaser>Add a Glitch City, led by Dana, Jill</Teaser>
+    <Authors>Cons</Authors>
+  </Properties>
+  <References>
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" title="Yet (not) Another Maps Pack" />
+  </References>
+  <ActionCriteria>
+    <Criteria id="Cons_GC">
+      <LeaderPlayable>Players:Expansion1_Players::LEADER_CONS_DANA,Players:Expansion1_Players::LEADER_CONS_JILL</LeaderPlayable>
+    </Criteria>
+  </ActionCriteria>
+  <FrontEndActions>
+    <UpdateDatabase id="Config">
+      <File>XML/GC_Config.xml</File>
+    </UpdateDatabase>
+    <UpdateText id="ConfigText">
+      <File>XML/Text/GC_Text_en_US.xml</File>
+      <File>XML/Text/GC_Text_ko_KR.xml</File>
+      <File>XML/Text/GC_Text_ja_JP.xml</File>
+    </UpdateText>
+    <UpdateIcons id="ConfigIcons">
+      <File>XML/GC_Icons.xml</File>
+    </UpdateIcons>
+    <UpdateArt id="ConfigArt">
+      <File>VA-11 Hall-A - Glitch City.dep</File>
+    </UpdateArt>
+  </FrontEndActions>
+  <InGameActions>
+    <UpdateDatabase id="Gameplay">
+      <Criteria>Cons_GC</Criteria>
+      <File>XML/GC_Agenda.xml</File>
+      <File>XML/GC_Civilization.xml</File>
+      <File>XML/GC_Color.xml</File>
+      <File>XML/GC_District.xml</File>
+      <File>XML/GC_Leader.xml</File>
+      <File>XML/GC_Project.xml</File>
+      <File>XML/GC_Resource.xml</File>
+      <File>XML/GC_Unit.xml</File>
+      <File>ModSupport/GC_ModSupport.sql</File>
+      <File>ModSupport/GC_ModSupport.xml</File>
+    </UpdateDatabase>
+    <UpdateText id="Text">
+      <Criteria>Cons_GC</Criteria>
+      <File>XML/Text/GC_Text_en_US.xml</File>
+      <File>XML/Text/GC_Text_ko_KR.xml</File>
+      <File>XML/Text/GC_Text_ja_JP.xml</File>
+    </UpdateText>
+    <UpdateIcons id="Icons">
+      <Criteria>Cons_GC</Criteria>
+      <File>XML/GC_Icons.xml</File>
+    </UpdateIcons>
+    <UpdateArt id="Art">
+      <Criteria>Cons_GC</Criteria>
+      <File>VA-11 Hall-A - Glitch City.dep</File>
+    </UpdateArt>
+  </InGameActions>
+  <Files>
+    <File>ArtDefs/Civilizations.artdef</File>
+    <File>ArtDefs/Cultures.artdef</File>
+    <File>ArtDefs/Districts.artdef</File>
+    <File>ArtDefs/FallbackLeaders.artdef</File>
+    <File>ArtDefs/Landmarks.artdef</File>
+    <File>ArtDefs/Units.artdef</File>
+    <File>ArtDefs/UserInterface.artdef</File>
+    <File>LUA/GC_Function.lua</File>
+    <File>ModSupport/GC_ModSupport.sql</File>
+    <File>ModSupport/GC_ModSupport.xml</File>
+    <File>Platforms/MacOS/BLPs/LeaderFallbacks.blp</File>
+    <File>Platforms/MacOS/BLPs/UILeaders.blp</File>
+    <File>Platforms/MacOS/BLPs/UILeaderScenes.blp</File>
+    <File>Platforms/MacOS/BLPs/UI/Icons.blp</File>
+    <File>Platforms/Windows/BLPs/LeaderFallbacks.blp</File>
+    <File>Platforms/Windows/BLPs/UILeaders.blp</File>
+    <File>Platforms/Windows/BLPs/UILeaderScenes.blp</File>
+    <File>Platforms/Windows/BLPs/UI/Icons.blp</File>
+    <File>VA-11 Hall-A - Glitch City.dep</File>
+    <File>XML/GC_Agenda.xml</File>
+    <File>XML/GC_Civilization.xml</File>
+    <File>XML/GC_Color.xml</File>
+    <File>XML/GC_Config.xml</File>
+    <File>XML/GC_District.xml</File>
+    <File>XML/GC_Icons.xml</File>
+    <File>XML/GC_Leader.xml</File>
+    <File>XML/GC_Project.xml</File>
+    <File>XML/GC_Resource.xml</File>
+    <File>XML/GC_Unit.xml</File>
+    <File>XML/Text/GC_Text_en_US.xml</File>
+    <File>XML/Text/GC_Text_ja_JP.xml</File>
+    <File>XML/Text/GC_Text_ko_KR.xml</File>
+  </Files>
+</Mod>

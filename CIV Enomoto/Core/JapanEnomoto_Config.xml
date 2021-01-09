@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Players>
+		<Row>
+			<Domain>Players:Expansion1_Players</Domain>
+			<CivilizationType>CIVILIZATION_JAPAN</CivilizationType>
+			<LeaderType>LEADER_MER_ENOMOTO</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_JAPAN_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_MER_JAPAN_ENOMOTO</CivilizationIcon>
+			<LeaderName>LOC_LEADER_MER_ENOMOTO_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_MER_ENOMOTO</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_CIVILIZATION_ADJACENT_DISTRICTS_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_CIVILIZATION_ADJACENT_DISTRICTS_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_JAPAN_ENOMOTO</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_LEADER_MER_KYOWAKOKU_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_LEADER_MER_KYOWAKOKU_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_MER_ENOMOTO</LeaderAbilityIcon>
+			<Portrait>LEADER_MER_ENOMOTO_NEUTRAL.dds</Portrait>
+			<PortraitBackground>LEADER_HOJO_BACKGROUND</PortraitBackground>
+		</Row>
+	</Players>
+	<PlayerItems>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_JAPAN" LeaderType="LEADER_MER_ENOMOTO" Type="UNIT_JAPANESE_SAMURAI" Icon="ICON_UNIT_JAPANESE_SAMURAI" Name="LOC_UNIT_JAPANESE_SAMURAI_NAME" Description="LOC_UNIT_JAPANESE_SAMURAI_DESCRIPTION" SortIndex="10" />
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_JAPAN" LeaderType="LEADER_MER_ENOMOTO" Type="BUILDING_ELECTRONICS_FACTORY" Icon="ICON_BUILDING_ELECTRONICS_FACTORY" Name="LOC_BUILDING_ELECTRONICS_FACTORY_NAME" Description="LOC_BUILDING_ELECTRONICS_FACTORY_DESCRIPTION" SortIndex="20" />
+	</PlayerItems>
+</GameData>
+
+

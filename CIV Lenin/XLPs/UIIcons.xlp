@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<AssetObjects..XLP>
+	<m_Version>
+		<major>4</major>
+		<minor>0</minor>
+		<build>315</build>
+		<revision>805</revision>
+	</m_Version>
+	<m_ClassName text="UITexture"/>
+	<m_PackageName text="UI/Icons"/>
+	<m_Entries>
+		<Element>
+			<m_EntryID text="SC_Soviet_Lenin_Icon45"/>
+			<m_ObjectName text="SC_Soviet_Lenin_Icon45"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Soviet_Civ_Icon128"/>
+			<m_ObjectName text="Soviet_Civ_Icon128"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Soviet_Civ_Icon200"/>
+			<m_ObjectName text="Soviet_Civ_Icon200"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Soviet_Civ_Icon22"/>
+			<m_ObjectName text="Soviet_Civ_Icon22"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Soviet_Civ_Icon256"/>
+			<m_ObjectName text="Soviet_Civ_Icon256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Soviet_Civ_Icon32"/>
+			<m_ObjectName text="Soviet_Civ_Icon32"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Soviet_Civ_Icon36"/>
+			<m_ObjectName text="Soviet_Civ_Icon36"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Soviet_Civ_Icon44"/>
+			<m_ObjectName text="Soviet_Civ_Icon44"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Soviet_Civ_Icon48"/>
+			<m_ObjectName text="Soviet_Civ_Icon48"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Soviet_Civ_Icon50"/>
+			<m_ObjectName text="Soviet_Civ_Icon50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Soviet_Civ_Icon55"/>
+			<m_ObjectName text="Soviet_Civ_Icon55"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Soviet_Civ_Icon64"/>
+			<m_ObjectName text="Soviet_Civ_Icon64"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Soviet_Civ_Icon80"/>
+			<m_ObjectName text="Soviet_Civ_Icon80"/>
+		</Element>
+		<Element>
+			<m_EntryID text="SovietGuard_Icon22"/>
+			<m_ObjectName text="SovietGuard_Icon22"/>
+		</Element>
+		<Element>
+			<m_EntryID text="SovietGuard_Icon256"/>
+			<m_ObjectName text="SovietGuard_Icon256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="SovietGuard_Icon32"/>
+			<m_ObjectName text="SovietGuard_Icon32"/>
+		</Element>
+		<Element>
+			<m_EntryID text="SovietGuard_Icon50"/>
+			<m_ObjectName text="SovietGuard_Icon50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="SovietGuard_Icon80"/>
+			<m_ObjectName text="SovietGuard_Icon80"/>
+		</Element>
+		<Element>
+			<m_EntryID text="SC_LENIN_1"/>
+			<m_ObjectName text="SC_LENIN_1"/>
+		</Element>
+		<Element>
+			<m_EntryID text="SC_LENIN_4"/>
+			<m_ObjectName text="SC_LENIN_4"/>
+		</Element>
+		<Element>
+			<m_EntryID text="SC_Lenin_Icon256"/>
+			<m_ObjectName text="SC_Lenin_Icon256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="SC_Lenin_Icon32"/>
+			<m_ObjectName text="SC_Lenin_Icon32"/>
+		</Element>
+		<Element>
+			<m_EntryID text="SC_Lenin_Icon45"/>
+			<m_ObjectName text="SC_Lenin_Icon45"/>
+		</Element>
+		<Element>
+			<m_EntryID text="SC_Lenin_Icon50"/>
+			<m_ObjectName text="SC_Lenin_Icon50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="SC_Lenin_Icon55"/>
+			<m_ObjectName text="SC_Lenin_Icon55"/>
+		</Element>
+		<Element>
+			<m_EntryID text="SC_Lenin_Icon64"/>
+			<m_ObjectName text="SC_Lenin_Icon64"/>
+		</Element>
+		<Element>
+			<m_EntryID text="SC_Lenin_Icon80"/>
+			<m_ObjectName text="SC_Lenin_Icon80"/>
+		</Element>
+		<Element>
+			<m_EntryID text="SC_Naukograd_Icon256"/>
+			<m_ObjectName text="SC_Naukograd_Icon256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="SC_Naukograd_Icon38"/>
+			<m_ObjectName text="SC_Naukograd_Icon38"/>
+		</Element>
+		<Element>
+			<m_EntryID text="SC_Naukograd_Icon50"/>
+			<m_ObjectName text="SC_Naukograd_Icon50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="SC_Naukograd_Icon80"/>
+			<m_ObjectName text="SC_Naukograd_Icon80"/>
+		</Element>
+		<Element>
+			<m_EntryID text="SC_Naukograd_Icon45"/>
+			<m_ObjectName text="SC_Naukograd_Icon45"/>
+		</Element>
+		<Element>
+			<m_EntryID text="SovietGuard_Icon38"/>
+			<m_ObjectName text="SovietGuard_Icon38"/>
+		</Element>
+		<Element>
+			<m_EntryID text="SovietGuard_Icon45"/>
+			<m_ObjectName text="SovietGuard_Icon45"/>
+		</Element>
+		<Element>
+			<m_EntryID text="SC_Spain_Icon128"/>
+			<m_ObjectName text="SC_Spain_Icon128"/>
+		</Element>
+		<Element>
+			<m_EntryID text="SC_Spain_Icon200"/>
+			<m_ObjectName text="SC_Spain_Icon200"/>
+		</Element>
+		<Element>
+			<m_EntryID text="SC_Spain_Icon22"/>
+			<m_ObjectName text="SC_Spain_Icon22"/>
+		</Element>
+		<Element>
+			<m_EntryID text="SC_Spain_Icon256"/>
+			<m_ObjectName text="SC_Spain_Icon256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="SC_Spain_Icon30"/>
+			<m_ObjectName text="SC_Spain_Icon30"/>
+		</Element>
+		<Element>
+			<m_EntryID text="SC_Spain_Icon32"/>
+			<m_ObjectName text="SC_Spain_Icon32"/>
+		</Element>
+		<Element>
+			<m_EntryID text="SC_Spain_Icon36"/>
+			<m_ObjectName text="SC_Spain_Icon36"/>
+		</Element>
+		<Element>
+			<m_EntryID text="SC_Spain_Icon44"/>
+			<m_ObjectName text="SC_Spain_Icon44"/>
+		</Element>
+		<Element>
+			<m_EntryID text="SC_Spain_Icon45"/>
+			<m_ObjectName text="SC_Spain_Icon45"/>
+		</Element>
+		<Element>
+			<m_EntryID text="SC_Spain_Icon48"/>
+			<m_ObjectName text="SC_Spain_Icon48"/>
+		</Element>
+		<Element>
+			<m_EntryID text="SC_Spain_Icon50"/>
+			<m_ObjectName text="SC_Spain_Icon50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="SC_Spain_Icon55"/>
+			<m_ObjectName text="SC_Spain_Icon55"/>
+		</Element>
+		<Element>
+			<m_EntryID text="SC_Spain_Icon64"/>
+			<m_ObjectName text="SC_Spain_Icon64"/>
+		</Element>
+		<Element>
+			<m_EntryID text="SC_Spain_Icon80"/>
+			<m_ObjectName text="SC_Spain_Icon80"/>
+		</Element>
+		<Element>
+			<m_EntryID text="T34_Icon22"/>
+			<m_ObjectName text="T34_Icon22"/>
+		</Element>
+		<Element>
+			<m_EntryID text="T34_Icon256"/>
+			<m_ObjectName text="T34_Icon256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="T34_Icon32"/>
+			<m_ObjectName text="T34_Icon32"/>
+		</Element>
+		<Element>
+			<m_EntryID text="T34_Icon38"/>
+			<m_ObjectName text="T34_Icon38"/>
+		</Element>
+		<Element>
+			<m_EntryID text="T34_Icon45"/>
+			<m_ObjectName text="T34_Icon45"/>
+		</Element>
+		<Element>
+			<m_EntryID text="T34_Icon50"/>
+			<m_ObjectName text="T34_Icon50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="T34_Icon80"/>
+			<m_ObjectName text="T34_Icon80"/>
+		</Element>
+	</m_Entries>
+	<m_AllowedPlatforms>
+		<Element>WINDOWS</Element>
+		<Element>LINUX</Element>
+		<Element>MACOS</Element>
+		<Element>IOS</Element>
+	</m_AllowedPlatforms>
+</AssetObjects..XLP>
+

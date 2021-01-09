@@ -1,0 +1,647 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<LocalizedText>
+		<!--CIVILIZATION-->
+		<Row Tag="LOC_CIVILIZATION_SC_SOVIETUNION_NAME" Language="en_US">
+			<Text>Soviet Union</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SC_SOVIETUNION_DESCRIPTION" Language="en_US">
+			<Text>Soviet Union</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SC_SOVIETUNION_ADJECTIVE" Language="en_US">
+			<Text>Soviet</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SC_SOVIETUNION_DESCRIPTION_JRA_CIVILIZATION" Language="en_US">
+			<Text>Soviet Union</Text>
+		</Row>
+		<!--Pedia-->
+		<Row Tag="LOC_CIVINFO_SC_SOVIETUNION_LOCATION" Language="en_US">
+			<Text>Eurasia</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_SC_SOVIETUNION_POPULATION" Language="en_US">
+			<Text>286,730,819 (1989 A.D.)</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_SC_SOVIETUNION_SIZE" Language="en_US">
+			<Text>22,402,200 square kilometers</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_SC_SOVIETUNION_CAPITAL" Language="en_US">
+			<Text>Petrograd (1917 - 1918), Moscow (1918 - 1991)</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_SC_SOVIETUNION_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>The Union of Soviet Socialist Republics, also known as the USSR, or simply as the Soviet Union, was the second most powerful nation in history, and the first to have been led entirely by communists. It represented the ideology of Marxism-Leninism - that is, the branch of Marxist theory that states any transitional workers' state must be guided by a vanguard party - for all the world to see. Though it faced several initial hardships, the Soviet people endured and built a nation that only its rivals - the United States of America and the People's Republic of China - can compare to today.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_SC_SOVIETUNION_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>Preceeding the Soviet Union was the Russian Empire under the Tsars (the Russian name for monarchs, or "emperors", derived from the Roman title "caesar"). During the early 1900s, the Tsarist regime was in deep trouble; the country was stuck in a technologically backwards rut, the peasantry was starving, people were being jailed constantly, and the entire nation was being driven into a war that nobody wanted (World War I). Under the particularly incompetent Tsar Nicholas Romanov II, millions of good men were sent out to battlefields, only to die senselessly. While the Tsar and his cohorts drove the nation deep into war, a revolutionary fervor began to stir among the peoples of the Russian Empire...and one of the groups behind it was the Bolshevik Party, a communist party that aimed to create a communist society as soon as possible.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_SC_SOVIETUNION_CHAPTER_HISTORY_PARA_3" Language="en_US">
+			<Text>As the war raged on, the Bolsheviks made contacts and built a steady amount of support (as did other revolutionary groups). What distinguished the Bolsheviks from the rest was that their power stemmed from workers' councils in industrial areas; these councils were called "Soviets". The Soviets were able to organize and bring to attention issues on behalf of the Bolshevik Party, and as such the Bolsheviks worked to support the Soviets wherever they could (though such efforts were limited, as the Bolshevik Party was outlawed).</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_SC_SOVIETUNION_CHAPTER_HISTORY_PARA_4" Language="en_US">
+			<Text>Eventually, too many straws broke the camel's back, and the Tsar was forced to give up the crown following a coup. A new provisional government was established in Petrograd, and many of the parties that had been banned by the Tsars - including the Bolsheviks - were permitted to operate legally again. However, three major problems arose. The first was that the provisional government was just about as inefficient as the Tsarist regime that preceeded it (though perhaps it isn't quite fair to judge it this way, as it didn't last long enough to give a truly concrete answer on this matter). The second was that the provisional government soon went back on its promises and outlawed many of the parties it had decriminalized earlier - including the Bolsheviks, who were rising to popularity quite fast. Thirdly, and most damning of all, the provisional government decided to continue its senseless participation in World War I.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_SC_SOVIETUNION_CHAPTER_HISTORY_PARA_5" Language="en_US">
+			<Text>Outraged, the peoples of Russia began to grow restless. The acts of rebellion that had been heavy under the Tsarist regime resumed, and it seemed like things were about to implode. As all this happened, the Bolsheviks took an opportunity to spread their influence, campaigning against the war with the slogan "Peace, Land, Bread" (promising an end to Russian involvement in WWI, land to the peasantry out of the hands of aristocrats and oligarchs, and food for the starving workers). Funnily enough - it worked! On November 7th (October 25th on the calendar at the time), Bolshevik red guards and Soviets stormed the Winter Palace and seized power. Immediately, the Bolsheviks - led by Vladimir Lenin - pulled Russia out of World War I and signed a peace treaty with Germany as they began to reorganize the country under their idealized model.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_SC_SOVIETUNION_CHAPTER_HISTORY_PARA_6" Language="en_US">
+			<Text>The peace achieved by the Bolsheviks lasted very shortly, however, as counterrevolutionary movements - now labeled under the umbrella term "White Russia" (a collection of monarchists, republicans, anti-Bolshevik socialists, and other factions) - began to attack. Furious at Russia's downfall to communists, and even angrier that Russia pulled out of the war, the major Entente powers - the United States, the United Kingdom, Japan, France, and others - invaded Russia. Altogether, this culminated in the start of the incredibly bloody Russian Civil War, which lasted for several years as the Bolsheviks struggled alone against the might of the most powerful nations in history. To survive - and survive alone, as Russia had no industrial allies to support her - Lenin began organizing Russia in a new fashion, dubbed "war communism", which is to say, defensive measures to stifle opposition. It was during this time that the New Economic Policy ("state capitalism") came into practice, and when, unfortunately, the Soviets were dissolved in order to properly coordinate the government during the war.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_SC_SOVIETUNION_CHAPTER_HISTORY_PARA_7" Language="en_US">
+			<Text>Against all odds, somehow the Bolsheviks survived, and took control of the entirety of Russia. Blood marked the snow across Siberia, but the people endured - that is, until a great tragedy took place. As Lenin had led the war effort, he became victim to an assassination attempt which, while not killing him, began to cause strokes later in life that left him vulnerable and weak. He died in 1924 before he could undo the wartime reforms he put into practice. Lenin was succeeded not by his second in command (Leon Trotsky), but rather a simple nobody called Joseph Stalin, who had been in charge of appointing party members to the Politburo. It was with his influence over this position that Stalin was able to maneuver himself into a position of power in the party, swiftly snubbing Trotsky of the leadership position. And it was this singular difference - the choice of leader after Lenin's death, that is - that forever determined the future of the newly-founded Soviet Union.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_SC_SOVIETUNION_CHAPTER_HISTORY_PARA_8" Language="en_US">
+			<Text>Where Leon Trotsky argued for permanent revolution - that is, the spread of communist revolutions across the planet - Joseph Stalin was more concerned with solidifying defense and industry under what he called "socialism in one country". See, the chief thing to understand about Stalin was that he was a heavily paranoid man. The Russian Civil War had left him shaken all the way to his core - and he would have none of that. It was under this mindset that the wartime reforms made under Lenin continued by Stalin's administration, carrying long over until his death - and even then, surviving to the last days of the USSR in some ways.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_SC_SOVIETUNION_CHAPTER_HISTORY_PARA_9" Language="en_US">
+			<Text>And so, during the interwar period, the Soviet Union began building itself anew. Industrial pursuits were taken on quickly and post-haste, for the USSR was in dire need to catch up with everyone else. Stalin began implementing "Five Year Plans", under which rapid means of planned development would be undertaken by Soviet industries. These efforts went astoundingly well - just to give an example, during the Great Depression (under which most major nations suffered heavy GDP and industrial loss), the Soviet Union's industry and GDP quite literally doubled! It got to the point where the Soviet Union experienced industrial growth on levels never before seen in human history! Meanwhile, the agricultural sector became heavily collectivized - that is to say, farmers began forming co-ops with their lands and crops. Often, though, the government itself would intervene and command the collectivized efforts, which led to some problems when it came to stubborn farmers and landowners who refused to change their traditions.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_SC_SOVIETUNION_CHAPTER_HISTORY_PARA_10" Language="en_US">
+			<Text>The economic plans of the Stalin administration were not entirely perfect, of course. In 1932, a natural famine struck in the Ukrainian Soviet Republic, and started taking a toll on the workers. While the administration back in Moscow worked to relieve the famine, both party members and kulaks (non-collectivized land owners, that is to say, aristocratic farmers and landlords) began creating tensions that made food organization difficult. Party members eager to work their way up the ranks gave false reports in the months leading up to the famine, which made getting accurate assessments and providing proper relief difficult; the kulaks, meanwhile, went as far as to burn their crops, slaughter their animals, and destroy their equipment to stick it to the government (while dooming their less-affluent neighbours to starvation). Western historians often cite this famine - called the Holodomor - as an attempted genocide on the part of Stalin's government, whereas others point to material conditions and confusion as the causes. In the end, it's more accurate to look to similar natural disasters that got worse after human intervention (i.e. the Dust Bowl, Hurricane Katrina) and group the Holodomor in there.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_SC_SOVIETUNION_CHAPTER_HISTORY_PARA_11" Language="en_US">
+			<Text>Where pointing the blame for the Holodomor lies in continual debate, what can certainly be blamed for is the political crackdowns by the Stalin administration. It must be reiterated that Stalin was in a perpetual fear of betrayal or invasion; it was under this mindset that the Soviet Union began conducting show trials against suspected foreign agents and saboteurs who might bring the USSR down - snuff it in the crib, so to speak. The NKVD, a secret police force, was formed and began snatching up suspects in the night. While many got simple sentences in normal prisons, others were transported to prison complexes in Siberia called "gulags". These labour camps were the successor system to the near-identical prisons under the Tsarist regime known as "katorgas", and were just as brutal. Life was hard in these prisons, but most endured. About 1,000,000 died in these camps, while millions more came in and out to perform forced labour (though gulag labour contributed surprisingly little to the industrialization of the USSR).</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_SC_SOVIETUNION_CHAPTER_HISTORY_PARA_12" Language="en_US">
+			<Text>Was Stalin right to be so paranoid? That's not really a question that should be debated in a Civ 6 mod, you nerd. What's certain is that the Soviet Union just so happened to be the subject of continuous hate from the Nazis who, a little more than ten years into the USSR's existence, took power in Germany. The Nazis were abhorrent racists (if you know anything about them, "abhorrent" goes without saying) who believed Jews were conspiring and manipulating events around the world to prevent supposedly superior "races" from taking what they "rightfully" deserved. Their leader, Adolf Hitler, decried the Soviet Union as the most evil of Jewish conspiracies - a "Judeo-Bolshevik" horror poised to destroy everyone and everything, because (((reasons))). All the same, Stalin didn't take to kindly to that idea - and began desperately scrambling for a war that would determine the future of Europe and the world.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_SC_SOVIETUNION_CHAPTER_HISTORY_PARA_13" Language="en_US">
+			<Text>Stalin's first move was to approach the United Kingdom and France, the two nations that had been headfirst when it came to invading Russia back during the civil war, with a proposition: a second Entente between Britain, France, and the Soviet Union (formerly Russia) in order to stave off the growing power of Nazi Germany. Britain and France rejected this plan completely, glad to let the communists of Russia get crushed by Germany. Not only did this come up, but Britain and France actually began appeasing the Nazis! Desperate, the Soviets chose to do the only other thing available: make a non-aggression pact with Germany, in which neither nation would invade the other while a treaty was active. Germany, suprisingly, accepted this - but it soon became abundantly clear that both sides were just biding their time to build up armies. This seemed to be looking well for both the USSR and Nazi Germany during the dual invasions of Poland in 1939...that is, until Hitler broke the agreement and began rolling his tanks to Moscow.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_SC_SOVIETUNION_CHAPTER_HISTORY_PARA_14" Language="en_US">
+			<Text>Fortunately, Stalin had managed to buy enough time to build a sizeable army. With some luck, and desperate measures to fight off a literal war of extermination, the Soviets dug down deep into the cold Tundras of Russia and fought back against German invaders. With the German defeat at Stalingrad, the USSR managed to secure an extremely close defense of their home - and began to march back in reverse towards Berlin. It was during this time that, as nations with a common foe, Britain finally accepted an alliance with the Soviet Union, and together with the United States (which had joined the war against Japan) began coordinating Allied assaults on Germany from all sides. The Eastern Front, on which the Soviet Union stood alone, became the single bloodiest side of the war, in which 25,000,000+ Soviets - soldiers and civilians alike - were killed. This did not stop the USSR, however, and slowly but surely the Soviets crushed the Nazis once and for all at Berlin.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_SC_SOVIETUNION_CHAPTER_HISTORY_PARA_15" Language="en_US">
+			<Text>It was in the process of liberating eastern Europe from the Nazis that the USSR found a new slew of countries torn apart by war - countries that, like the United States with western Europe, it could rebuild under a Stalinist vision. This, coupled with the guarantee that western powers like Britain would just go right back to encirclement and denunciation of the USSR, was enough to convince Stalin to begin building a bloc of pro-Soviet nations in what is now called the Warsaw Pact. With western Europe unified under the American-led NATO, this resulted in the start of the Cold War, in which the United States and the Soviet Union - both new-found superpowers - began to threaten each other with nuclear annihilation for nearly 50 years.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_SC_SOVIETUNION_CHAPTER_HISTORY_PARA_16" Language="en_US">
+			<Text>Even with Stalin's death in 1953, the Soviet Union's industries and sciences began to skyrocket - quite literally, in fact! The 1960s saw the USSR as the first nation in human history to send a satellite into space - and then a man! - and a woman! - and a group! - and many more accomplishments beyond the atmosphere. Meanwhile, down on Earth, the USSR began pursuing rapid means of developing Marxist-Leninist rule in several different countries as part of proxy wars. Nations like China, Vietnam, Cuba, Angola, Ethiopia, Korea (later split in two by the United States), and others took on Soviet-styled governments, with Moscow at the helm of it all as Washington was at the helm of the capitalist world.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_SC_SOVIETUNION_CHAPTER_HISTORY_PARA_17" Language="en_US">
+			<Text>During the 70's and 80's, things began to stagnate across the world. Economic growth worldwide was beginning to grow limited, and both east and west saw little GDP development during this time. It was around this time that Mikhail Gorbachev became the premier (leader) of the Soviet Union, and started instituting new reforms - "perestroika" (restructuring) and "glasnost" (openness) became the forefront of the Gorbachev administration. Efforts were made to reduce the authoritarian facets of Soviet life that had lingered since the days of Stalin; open borders, free travel, and less restrictions in general were the way of the USSR under Gorbachev. For a time, it seemed as though the USSR would reach a new era of prosperity...</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_SC_SOVIETUNION_CHAPTER_HISTORY_PARA_18" Language="en_US">
+			<Text>The United States begged to differ.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_SC_SOVIETUNION_CHAPTER_HISTORY_PARA_19" Language="en_US">
+			<Text>While the Soviet Union started approaching some level of "social democracy", the United States kickstarted the neoliberal economics train, which, though at the expense of the well-being for many citizens at home and abroad, increased the overall GDP of the United States (and other nations that adopted this economic model). The Soviet Union, however, refused to take on these changes - the nation of Stalin's gulags would not have Reagan's sweatshops. In response, the United States rapidly ramped up economic pressure and collusion against Soviet allies - until suddenly, the smallest of the bunch couldn't take the economic warfare and espionage, and collapsed to infighting. This began spreading to other nations, and ended up resulting in the Soviet Union being left helpless and alone without any close allies.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_SC_SOVIETUNION_CHAPTER_HISTORY_PARA_20" Language="en_US">
+			<Text>Gorbachev struggled to hold the country together, but it was no use - neoliberal-backed folks like Boris Yeltsin were vying for power, and oligarchs were on the rise. On December 26th, 1991, Gorbachev was forced to dissolve the Soviet Union into different independent nation-states, with Russia being noted as the clear "successor". It was during this time that the former Soviet republics plunged into a neoliberal economic turmoil that they have only just today managed to climb out of - and are always at great trouble of slipping back into.</Text>
+		</Row>
+
+
+		<!--Cities-->
+		<Row Tag="LOC_CITY_NAME_PETROGRAD" Language="en_US">
+			<Text>Petrograd</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_VLADIVOSTOK" Language="en_US">
+			<Text>Vladivostok</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_BAKU" Language="en_US">
+			<Text>Baku</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TASHKENT" Language="en_US">
+			<Text>Tashkent</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GORKY" Language="en_US">
+			<Text>Gorky</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_NOVOSIBIRSK" Language="en_US">
+			<Text>Novosibirsk</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SVERDLOVSK" Language="en_US">
+			<Text>Sverdlovsk</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SC_TBILISI" Language="en_US">
+			<Text>Tbilisi</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_KUYBYSHEV" Language="en_US">
+			<Text>Kuybyshev</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_DNEPROPETROVSK" Language="en_US">
+			<Text>Dnepropetrovsk</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ALMATY" Language="en_US">
+			<Text>Almaty</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ODESSA" Language="en_US">
+			<Text>Odessa</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_DONETSK" Language="en_US">
+			<Text>Donetsk</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_LVOV" Language="en_US">
+			<Text>Lvov</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_KISHINEV" Language="en_US">
+			<Text>Kishinev</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_IZHEVSK" Language="en_US">
+			<Text>Izhevsk</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ULYANOVSK" Language="en_US">
+			<Text>Ulyanovsk</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_KRASNODAR" Language="en_US">
+			<Text>Krasnodar</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_KHABAROVSK" Language="en_US">
+			<Text>Khabarovsk</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_NOVOKUZNETSK" Language="en_US">
+			<Text>Novokuznetsk</Text>
+		</Row>
+
+
+
+		<!--Citizens-->
+		<Row Tag="LOC_CITIZEN_SC_SOVIETUNION_MALE_1" Language="en_US">
+			<Text>Aleksi</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SC_SOVIETUNION_MALE_2" Language="en_US">
+			<Text>Dmitri</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SC_SOVIETUNION_MALE_3" Language="en_US">
+			<Text>Igor</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SC_SOVIETUNION_MALE_4" Language="en_US">
+			<Text>Nicholas</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SC_SOVIETUNION_MALE_5" Language="en_US">
+			<Text>Pavel</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SC_SOVIETUNION_MALE_6" Language="en_US">
+			<Text>Sasha</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SC_SOVIETUNION_MALE_7" Language="en_US">
+			<Text>Vasyl</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SC_SOVIETUNION_MALE_8" Language="en_US">
+			<Text>Ural</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SC_SOVIETUNION_MALE_9" Language="en_US">
+			<Text>Oleg</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SC_SOVIETUNION_MALE_10" Language="en_US">
+			<Text>Piter</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SC_SOVIETUNION_MODERN_MALE_1" Language="en_US">
+			<Text>Vladimir</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SC_SOVIETUNION_MODERN_MALE_2" Language="en_US">
+			<Text>Leonid</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SC_SOVIETUNION_MODERN_MALE_3" Language="en_US">
+			<Text>Mikhail</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SC_SOVIETUNION_MODERN_MALE_4" Language="en_US">
+			<Text>Josef</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SC_SOVIETUNION_MODERN_MALE_5" Language="en_US">
+			<Text>Leon</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SC_SOVIETUNION_MODERN_MALE_6" Language="en_US">
+			<Text>Lev</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SC_SOVIETUNION_MODERN_MALE_7" Language="en_US">
+			<Text>Yuri</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SC_SOVIETUNION_MODERN_MALE_8" Language="en_US">
+			<Text>Andrei</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SC_SOVIETUNION_MODERN_MALE_9" Language="en_US">
+			<Text>Nikolai</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SC_SOVIETUNION_MODERN_MALE_10" Language="en_US">
+			<Text>Misha</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SC_SOVIETUNION_FEMALE_1" Language="en_US">
+			<Text>Dushenka</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SC_SOVIETUNION_FEMALE_2" Language="en_US">
+			<Text>Anastasia</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SC_SOVIETUNION_FEMALE_3" Language="en_US">
+			<Text>Marishka</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SC_SOVIETUNION_FEMALE_4" Language="en_US">
+			<Text>Irina</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SC_SOVIETUNION_FEMALE_5" Language="en_US">
+			<Text>Ursula</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SC_SOVIETUNION_FEMALE_6" Language="en_US">
+			<Text>Agniya</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SC_SOVIETUNION_FEMALE_7" Language="en_US">
+			<Text>Zinaidya</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SC_SOVIETUNION_FEMALE_8" Language="en_US">
+			<Text>Yasmin</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SC_SOVIETUNION_FEMALE_9" Language="en_US">
+			<Text>Anichka</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SC_SOVIETUNION_FEMALE_10" Language="en_US">
+			<Text>Inessa</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SC_SOVIETUNION_MODERN_FEMALE_1" Language="en_US">
+			<Text>Kato</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SC_SOVIETUNION_MODERN_FEMALE_2" Language="en_US">
+			<Text>Nadezhda</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SC_SOVIETUNION_MODERN_FEMALE_3" Language="en_US">
+			<Text>Konstantinova</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SC_SOVIETUNION_MODERN_FEMALE_4" Language="en_US">
+			<Text>Krupskaya</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SC_SOVIETUNION_MODERN_FEMALE_5" Language="en_US">
+			<Text>Lyudmila</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SC_SOVIETUNION_MODERN_FEMALE_6" Language="en_US">
+			<Text>Natascha</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SC_SOVIETUNION_MODERN_FEMALE_7" Language="en_US">
+			<Text>Tatiana</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SC_SOVIETUNION_MODERN_FEMALE_8" Language="en_US">
+			<Text>Marishka</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SC_SOVIETUNION_MODERN_FEMALE_9" Language="en_US">
+			<Text>Sofiya</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SC_SOVIETUNION_MODERN_FEMALE_10" Language="en_US">
+			<Text>Valentina</Text>
+		</Row>
+
+
+
+		<!--LEADER-->
+		<Row Tag="LOC_LEADER_SC_LENIN_NAME" Language="en_US">
+			<Text>Lenin</Text>
+		</Row>
+
+
+		<!--DOM-->
+		<Row Tag="LOC_LOADING_INFO_LEADER_SC_LENIN" Language="en_US">
+			<Text>Solidarity forever, comrade Lenin!  Yours is the Soviet Union, a vast land of great proletarian men and women.  In the trying times of past, tyrants and robber-barons sought to rob these good people of the fruits of their labour. But no longer! 'Tis time for a firey red october to rise, with industrial and political might flowing from workers' councils all across the earth. Show the world what is to be done!</Text>
+		</Row>
+
+
+		<!--Civilopedia-->
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SC_LENIN_TITLE" Language="en_US">
+			<Text>Lenin</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SC_LENIN_SUBTITLE" Language="en_US">
+			<Text>Bolshevik Theorist and Revolutionary</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SC_LENIN_QUOTE" Language="en_US">
+			<Text>There are decades where nothing happens - and then, there are weeks where decades happen!</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SC_LENIN_CHAPTER_CAPSULE_BODY" Language="en_US">
+			<Text>Using the massive industrial base provided by the Soviet Union alongside his political bonuses, Lenin will walk the earth with a mighty revolutionary fervor!</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SC_LENIN_CHAPTER_DETAILED_BODY" Language="en_US">
+			<Text>As leader of the Soviet Union, Lenin has access to a massive industry to power him towards any victory (though he's certainly well suited for Science and Domination!). The Soviet Union provides extra [ICON_Production] Production and [ICON_Science] Science from many different sources; from the frigid Tundras and Snow tiles of Siberia, to the [ICON_GreatEngineer] Great Engineers and [ICON_GreatScientist] Great Scientists with an extra charge, the Soviet industries will become powerful in no-time! Through the unique Naukograd improvement, these bonuses can be boosted tenfold in the late game, where the Soviet Union will truly shine. Meanwhile, the unique T-34 unit can help the Soviet defense greatly.[NEWLINE][NEWLINE]Lenin, meanwhile, has access to strong governments through building Industrial Zones; for every 3 of these, a Diplomatic policy card slot is converted into a Wildcard policy card slot. In addition, if Lenin goes with Communism - as one should expect - he can gain twice the number of Wildcard slots in the same method! With these bonuses, Lenin will truly show the world what is to be done!</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SC_LENIN_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Vladimir Ilyich Ulyanov, better known by the alias "Lenin", is arguably one of the most influential figures of the 20th century. He was a communist theoretician and revolutionary who led several uprisings, with the most noteworthy being the October Revolution of 1917 that established Bolshevik rule of Russia. After this, he became the leading figure in Russia, which in turn would become the Union of Soviet Socialist Republics (the Soviet Union or USSR for short). Through this, his theories - now called Marxism-Leninism - would go on to shape left-wing politics across the world to this very day.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SC_LENIN_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>Following the death of his brother Alexsandyr at the hands of Tsarist forces (after the former attempted an assassination), the would-be Lenin began studing and learning Marxist theory, and soon found himself dedicated to the communist cause. By 1905, he was one of the leading figures in communist theory in Russia - though he had a ways to go to get on the level of men like Kautsky in mainland Europe. As the early years of the 20th century passed by, he became intricately involved with revolutionary efforts, particularly the uprisings in 1905 where he ended up going into exile.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SC_LENIN_CHAPTER_HISTORY_PARA_3" Language="en_US">
+			<Text>Though in exile, Lenin would not stop his efforts to overthrow the Tsarist regime. As World War I broke out and became incredibly unpopular in Russia, Lenin saw his chance. He made a deal with German officials - he would be transported back into Russia on the condition that, if he succeeded, Russia would immediately pull out of the war. Upon returning, Lenin resumed his activities in Petrograd, and worked with his connections among the workers' councils (called "Soviets") to bolster support for the Bolshevik party. Soon came the February Revolution that forced the Tsar's abdication, and following that came the October Revolution of the Bolsheviks, which successfully established a communist-led state in Russia. True to his word, Lenin pulled Russia right out of the war with Germany, and made peace.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SC_LENIN_CHAPTER_HISTORY_PARA_4" Language="en_US">
+			<Text>This peace wouldn't last, however, as civil war broke out following the Bolsheviks' ascendency to power. "White Russians" - that is, an umbrella term for counterrevolutionaries against the Bolsheviks - were joined by invading armies of the Entente (United Kingdom, France, Japan, United States, etc.) to try and crush the October Revolution once and for all. This resulted in a terrible, bloody war right on Russian soil that is simply called the Russian Civil War. In response to the near-impossible odds that the Bolsheviks faced, Lenin began organizing the government under policies of "war communism", which were planned to be dropped following the end of the war. These policies were largely effective at combating counterrevolutionaries and Entente forces, however they resulted in a centralization of power and the end of Soviet workers' councils, and an economy based on "state capitalism" rather than socialism.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SC_LENIN_CHAPTER_HISTORY_PARA_5" Language="en_US">
+			<Text>Ultimately, the Bolsheviks won the civil war, and the Union of Soviet Socialist Republics, or simply the Soviet Union, was founded in 1922. Lenin, however, would not live to see much of the USSR; during the war he was injured in an assassination attempt, and these wounds would later lead to severe strokes that rendered him mute and wheelchair-bound. He died before he could undo the war communism policies or restore the Soviets, as well as before he could properly appoint his right-hand man - Leon Trotsky - as leader of the Soviet Union. Instead, the new position went to a lowly party-member appointee named Joseph Stalin, who would continue to keep the war communism policies intact and steer the USSR away from what the Bolsheviks had aimed for.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SC_LENIN_CHAPTER_HISTORY_PARA_6" Language="en_US">
+			<Text>In the end, Lenin's legacy marks the earth forever. His greatest failure - the inability to steer the newly-founded Soviet Union towards a proper socialist path - is overshadowed by his successes in toppling the brutal Tsarist regime, establishing what would become the second most powerful nation in history, and spreading the ideals of Marxism - even if only through the Leninist branch - across the world. Truly, Lenin walks the earth!</Text>
+		</Row>
+
+
+		<!--Diplomacy-->
+		<!--FIRST MEET-->
+		<!--First AI line-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_SC_LENIN_ANY" Language="en_US">
+			<Text>Welcome to the Soviet Union, stranger, where the frosty winters are only melted by our firey, revolutionary spirit. I am Lenin, and with me stand all the proletariat!</Text>
+		</Row>
+		<!--AI invitation to visit nearby City-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_SC_LENIN_ANY" Language="en_US">
+			<Text>If you yearn for discussions on economic affairs, or perhaps just enjoy the works of Tolstoy, then I invite you to chat with me in our capital. I promise, all of these things are readily available.</Text>
+		</Row>
+		<!--AI accepts Human invitation-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_SC_LENIN_ANY" Language="en_US">
+			<Text>Very well - on the grounds that all those I encounter are equals.</Text>
+		</Row>
+		<!--AI invitation to exchange Capital Information-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_SC_LENIN_ANY" Language="en_US">
+			<Text>Though some in the politburo wish to gather intelligence on our neighbours secretly, my means are not so covert. Rather, we should exchange information on each other's capitals.</Text>
+		</Row>
+		<!--GREETINGS-->
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_SC_LENIN_ANY" Language="en_US">
+			<Text>Hello.</Text>
+		</Row>
+		<!--DELEGATION-->
+		<!--AI Accepts-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_SC_LENIN_ANY" Language="en_US">
+			<Text>Very well. Just tell them to bring their overcoats; we'll provide the ushankas.</Text>
+		</Row>
+		<!--AI Rejects-->
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_SC_LENIN_ANY" Language="en_US">
+			<Text>You think I'm not familiar with foreign governments sending so-called delegates to perform espionage? No, your men will not enter my homeland.</Text>
+		</Row>
+		<!--AI Requests -->
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_SC_LENIN_ANY" Language="en_US">
+			<Text>Would you accept my delegation? They've brought with them fine vodka, as well as some of my works on revolution...for leisure, of course.</Text>
+		</Row>
+		<!--OPEN BORDERS-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_SC_LENIN_ANY" Language="en_US">
+			<Text>...fine, I trust your lot. For now, at any rate.</Text>
+		</Row>
+		<!--AI rejects from human-->
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_SC_LENIN_ANY" Language="en_US">
+			<Text>You must not be aware of what happened the last time foreign men crossed my borders freely.</Text>
+		</Row>
+		<!--AI requests from human-->
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_SC_LENIN_ANY" Language="en_US">
+			<Text>There's no need to close our borders - our workers are good and happy, and they can only benefit from discovering newer cultures and different peoples.</Text>
+		</Row>
+		<!--DECLARE FRIENDSHIP-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_SC_LENIN_ANY" Language="en_US">
+			<Text>Very, well, friends it is. Solidarity, comrade!</Text>
+		</Row>
+		<!--AI Rejects from human -->
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_SC_LENIN_ANY" Language="en_US">
+			<Text>It will take more effort than that to earn my trust, for it is well reserved.</Text>
+		</Row>
+		<!--AI Requests friendship from human-->
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_SC_LENIN_ANY" Language="en_US">
+			<Text>The working men of the world can only truly fight for the future if they are bound beyond the notions of borders. Shall we declare a friendship, then, to show our united resolve?</Text>
+		</Row>
+		<!--Human accepts AI requests, AI responds-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_SC_LENIN_ANY" Language="en_US">
+			<Text>Solidarity, comrade!</Text>
+		</Row>
+		<!--Human rejects AI requests, AI responds-->
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_SC_LENIN_ANY" Language="en_US">
+			<Text>Unfortunate.</Text>
+		</Row>
+		<!--ALLIANCE-->
+		<!--AI Requests an alliance from human-->
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_SC_LENIN_ANY" Language="en_US">
+			<Text>It is the belief of the party that an alliance between our states would be best. Shall we stand together?</Text>
+		</Row>
+		<!--KUDOS & WARNINGS-->
+		<!--AI Kudos-->
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_SC_LENIN_REASON_HAPPY_1" Language="en_US">
+			<Text>I see we both understand the best means of government. Solidarity, comrade!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_SC_LENIN_HAPPY_1" Language="en_US">
+			<Text>(You share the same government type.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_SC_LENIN_REASON_HAPPY_2" Language="en_US">
+			<Text>An industrious revolutionary such as yourself would make an excellent ally!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_SC_LENIN_HAPPY_2" Language="en_US">
+			<Text>(You share the same government type and have high industry.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_SC_LENIN_ANY" Language="en_US">
+			<Text>You serve well as a vanguard of your people.</Text>
+		</Row>
+		<!--AI Warnings-->
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_SC_LENIN_REASON_IMPERIAL" Language="en_US">
+			<Text>Your actions stink of imperialism...and you, in turn, are filth.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_SC_LENIN_UNHAPPY" Language="en_US">
+			<Text>(You do not share government types and are considered a warmongerer.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_SC_LENIN_ANY" Language="en_US">
+			<Text>Even through the cold air of Russia, the heat of your black heart is strong. You can do far better than what you've done, and you know it.</Text>
+		</Row>
+		<!--AI warns player for border troops-->
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_SC_LENIN_ANY" Language="en_US">
+			<Text>The last time armed soldiers stood at my borders, they didn't just wait - they moved in. Are your men going to do the same, and get cut down like the last?</Text>
+		</Row>
+		<!--TRADE-->
+		<!--AI Accepts Deal-->
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_SC_LENIN_ANY" Language="en_US">
+			<Text>I think this is something we can agree upon.</Text>
+		</Row>
+		<!--AI Rejects Deal-->
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_SC_LENIN_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_SC_LENIN_ANY}</Text>
+		</Row>
+		<!--DENOUNCE-->
+		<!--From Human-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_SC_LENIN_ANY" Language="en_US">
+			<Text>A million men across the world have spoken ill of my name because I strove to do the right thing; it makes no difference to me if one more person joins their ranks.</Text>
+		</Row>
+		<!--From AI-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_SC_LENIN_ANY" Language="en_US">
+			<Text>You may be blind to history, but know this: the course of humanity is to end the reign of corrupt, imperialist filth like yourself. (Denounces You)</Text>
+		</Row>
+		<!--DECLARE WAR-->
+		<!--Human Declares War-->
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_SC_LENIN_ANY" Language="en_US">
+			<Text>And thus, the mask comes off, and the imperialist monstrosity reveals itself. Very well - come and face the proletariat, you coward!</Text>
+		</Row>
+		<!--AI Declares War-->
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_SC_LENIN_ANY" Language="en_US">
+			<Text>It's time the proletariat of your imperialist nightmare are freed. Rattle the chains all you like; they will not hold under our righteous might.</Text>
+		</Row>
+		<!--MAKE PEACE-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_SC_LENIN_ANY" Language="en_US">
+			<Text>Very well. I suppose it is better for our people to live in peace, however negative it may be.</Text>
+		</Row>
+		<!--AI refuses human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_SC_LENIN_ANY" Language="en_US">
+			<Text>If you haven't noticed, I'm not fond of those who make bargains.</Text>
+		</Row>
+		<!--AI requests from human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_SC_LENIN_ANY" Language="en_US">
+			<Text>What has this war done but destroy? I can see that, and accept that fully. Can you?</Text>
+		</Row>
+		<!--DEFEAT-->
+		<!--AI is Defeated-->
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_SC_LENIN_ANY" Language="en_US">
+			<Text>What victory do you think you have achieved? You destroy a man, not a belief! My legacy swells the hearts of men across the world, and in time they will break their chains!</Text>
+		</Row>
+		<!--Human is Defeated (will see this in hotseat)-->
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_SC_LENIN_ANY" Language="en_US">
+			<Text>[LOC_DIPLO_DEFEAT_FROM_AI_LEADER_SC_LENIN_ANY]</Text>
+		</Row>
+
+
+
+
+		
+		
+		
+		
+		
+		
+
+		<!--Traits-->
+		<Row Tag="LOC_TRAIT_LEADER_SC_RED_OCTOBER_NAME" Language="en_US">
+			<Text>Red October</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_SC_RED_OCTOBER_DESCRIPTION" Language="en_US">
+			<Text>All Diplomacy slots become Wildcard slots in any government. +1 Wildcard slot under Communism (+2 if you own at least 6 Industrial Zones).</Text>
+		</Row>
+
+
+		<Row Tag="LOC_AGENDA_SC_WHAT_IS_TO_BE_DONE_NAME" Language="en_US">
+			<Text>What Is To Be Done?</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_SC_WHAT_IS_TO_BE_DONE_DESCRIPTION" Language="en_US">
+			<Text>Likes nations with the same government type, especially if they have heavy industry.  Despises warmongerers with a different government type.</Text>
+		</Row>
+
+
+		<Row Tag="LOC_TRAIT_CIVILIZATION_SC_SOVIETUNION_NAME" Language="en_US">
+			<Text>All Power To The Soviets!</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_SC_SOVIETUNION_DESCRIPTION" Language="en_US">
+			<Text>+1 [ICON_Production] Production and [ICON_Science] Science from Tundra and Snow tiles.  [ICON_GreatScientist] Great Scientists and [ICON_GreatEngineer] Great Engineers gain +1 [ICON_GreatPerson] Charge during [ICON_GLORY_GOLDEN_AGE] Golden Ages.  +1 [ICON_GLORY_GOLDEN_AGE] Era Score from constructing Industrial Era (and later) buildings.</Text>
+		</Row>
+
+
+		<Row Tag="LOC_IMPROVEMENT_SC_NAUKOGRAD_NAME" Language="en_US">
+			<Text>Naukograd</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_SC_NAUKOGRAD_DESCRIPTION" Language="en_US">
+			<Text>Unlocks the Builder ability to construct Naukograds on flat Tundra or Snow tiles for the Soviet Union.[NEWLINE][NEWLINE]+1 [ICON_Food] Food and [ICON_Housing] Housing. +1 [ICON_Production] Production and [ICON_Science] Science per two adjacent Woods. +1 [ICON_Production] Production and [ICON_Science] Science to adjacent Industrial Zones, Campuses, and Spaceports. +1 [ICON_Culture] Culture with Ideology. Cannot be built next to another Naukograd.</Text>
+		</Row>
+
+
+		<Row Tag="LOC_UNIT_SC_SOVIETGUARD_NAME" Language="en_US">
+			<Text>Red Guard</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_SC_SOVIETGUARD_DESCRIPTION" Language="en_US">
+			<Text>A special, non-replacement melee unit for Trotsky's Soviet Union.  +1 [ICON_Movement] Movement and +7 [ICON_Strength] Combat Strength on Tundra or Snow tiles (doubled if adjacent to a Spy). Unlocks with Ideology.</Text>
+		</Row>
+
+
+		<Row Tag="LOC_UNIT_SC_T34_NAME" Language="en_US">
+			<Text>T-34</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_SC_T34_DESCRIPTION" Language="en_US">
+			<Text>A unique Tank replacement for the Soviet Union.  Cheaper to build (380 [ICON_Production] Cost vs 480 [ICON_Production] Cost) and costs half the usual maintenance (3 [ICON_Gold] vs 6 [ICON_Gold]). +7 [ICON_Strength] Combat Strength vs City-States; +10 [ICON_Strength] Defense Strength in your borders. Receive a second T-34 whenever you build one during wartime.</Text>
+		</Row>
+
+
+		<Row Tag="LOC_ABILITY_SC_SOVIETGUARD_NAME" Language="en_US">
+			<Text>Red Guard</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_SC_SOVIETGUARD_DESCRIPTION" Language="en_US">
+			<Text>+1 [ICON_Movement] Movement and +7 [ICON_Strength] Combat Strength on Tundra or Snow tiles; these bonuses double when the unit is also adjacent to a friendly Spy.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_SC_T34_NAME" Language="en_US">
+			<Text>T-34</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_SC_T34_DESCRIPTION" Language="en_US">
+			<Text>+7 [ICON_Strength] Combat Strength vs City-States; +10 [ICON_Strength] Defense Strength in your borders.</Text>
+		</Row>
+
+
+		<Row Tag="LOC_ABILITY_SC_SOVIETGUARD_TUNDRA_SNOW_MOVEMENT_DESCRIPTION" Language="en_US">
+			<Text>+1 [ICON_Movement] Movement in Tundra or Snow.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_SC_SOVIETGUARD_TUNDRA_SNOW_STRENGTH_DESCRIPTION" Language="en_US">
+			<Text>+7 [ICON_Strength] Combat Strength in Tundra or Snow.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_SC_SOVIETGUARD_TUNDRA_SPY_MOVEMENT_DESCRIPTION" Language="en_US">
+			<Text>+1 [ICON_Movement] Movement in Tundra while a Spy is adjacent.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_SC_SOVIETGUARD_TUNDRA_SPY_STRENGTH_DESCRIPTION" Language="en_US">
+			<Text>+7 [ICON_Strength] Combat Strength in Tundra while a Spy is adjacent.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_SC_SOVIETGUARD_SNOW_SPY_MOVEMENT_DESCRIPTION" Language="en_US">
+			<Text>+1 [ICON_Movement] Movement in Snow while a Spy is adjacent.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_SC_SOVIETGUARD_SNOW_SPY_STRENGTH_DESCRIPTION" Language="en_US">
+			<Text>+7 [ICON_Strength] Combat Strength in Snow while a Spy is adjacent.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_SC_SOVIETGUARD_TUNDRA_HILLS_SPY_MOVEMENT_DESCRIPTION" Language="en_US">
+			<Text>+1 [ICON_Movement] Movement in Tundra (Hills) while a Spy is adjacent.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_SC_SOVIETGUARD_TUNDRA_HILLS_SPY_STRENGTH_DESCRIPTION" Language="en_US">
+			<Text>+7 [ICON_Strength] Combat Strength in Tundra (Hills) while a Spy is adjacent.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_SC_SOVIETGUARD_SNOW_HILLS_SPY_MOVEMENT_DESCRIPTION" Language="en_US">
+			<Text>+1 [ICON_Movement] Movement in Snow (Hills) while a Spy is adjacent.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_SC_SOVIETGUARD_SNOW_HILLS_SPY_STRENGTH_DESCRIPTION" Language="en_US">
+			<Text>+7 [ICON_Strength] Combat Strength in Snow (Hills) while a Spy is adjacent.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_SC_T34_CITY_STATE_STRENGTH_DESCRIPTION" Language="en_US">
+			<Text>+7 [ICON_Strength] Combat Strength vs City-States.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_SC_T34_DEFENSE_STRENGTH_DESCRIPTION" Language="en_US">
+			<Text>+10 [ICON_Strength] Defense Strength in your borders.</Text>
+		</Row>
+
+
+		<Row Tag="LOC_SC_NAUKOGRAD_WOODS_PRODUCTION" Language="en_US">
+			<Text>+1 [ICON_Production] Production per two adjacent Woods</Text>
+		</Row>
+		<Row Tag="LOC_SC_NAUKOGRAD_WOODS_SCIENCE" Language="en_US">
+			<Text>+1 [ICON_Science] Science per two adjacent Woods</Text>
+		</Row>
+		<Row Tag="LOC_SC_NAUKOGRAD_PRODUCTION" Language="en_US">
+			<Text>+1 [ICON_Production] Production per adjacent Naukograd</Text>
+		</Row>
+		<Row Tag="LOC_SC_NAUKOGRAD_SCIENCE" Language="en_US">
+			<Text>+1 [ICON_Science] Science per adjacent Naukograd</Text>
+		</Row>
+
+
+		<!--RWF Support-->
+		<Row Tag="LOC_GOVERNMENT_JFD_CHIEFDOM_LEADER_TITLE_SC_SOVIETUNION" Language="en_US">
+			<Text>Voivode</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_AUTOCRACY_LEADER_TITLE_SC_SOVIETUNION" Language="en_US">
+			<Text>Knyaz</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_OLIGARCHY_LEADER_TITLE_SC_SOVIETUNION" Language="en_US">
+			<Text>Kulak</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_FEUDAL_MONARCHY_LEADER_TITLE_SC_SOVIETUNION" Language="en_US">
+			<Text>Boyar</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_ABSOLUTE_MONARCHY_LEADER_TITLE_SC_SOVIETUNION" Language="en_US">
+			<Text>Tsar</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_MERCHANT_REPUBLIC_LEADER_TITLE_SC_SOVIETUNION" Language="en_US">
+			<Text>Kommersant</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_NOBLE_REPUBLIC_LEADER_TITLE_SC_SOVIETUNION" Language="en_US">
+			<Text>Podschityvat</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_LIBERAL_DEMOCRACY_LEADER_TITLE_SC_SOVIETUNION" Language="en_US">
+			<Text>President</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_PEOPLES_REPUBLIC_LEADER_TITLE_SC_SOVIETUNION" Language="en_US">
+			<Text>Premier</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_PEOPLES_REPUBLIC_LEADER_TITLE_SC_LENIN" Language="en_US">
+			<Text>Chairman</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_MILITARY_GUARDIANSHIP_LEADER_TITLE_SC_SOVIETUNION" Language="en_US">
+			<Text>Oligarch</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_EMPIRE_LEADER_TITLE_SC_SOVIETUNION" Language="en_US">
+			<Text>Tsar</Text>
+		</Row>
+	</LocalizedText>
+</GameData>

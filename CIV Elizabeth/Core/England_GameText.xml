@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<LocalizedText>
+		<!--DREADNOUGHT-->
+		<Row Tag="LOC_UNIT_JFD_DREADNOAUGHT_NAME" Language="en_US">
+			<Text>Dreadnought</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_JFD_DREADNOAUGHT_DESCRIPTION" Language="en_US">
+			<Text>English unique Modern era unit that replaces the Battleship. Is significantly stronger and earns [ICON_SCIENCE] Science from kills, but costs more to train.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_JFD_DREADNOAUGHT_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>A dreadnought is a type of battleship built during the early 20th century. First engineered by the British Royal Navy in 1906, the dreadnought was such a revolutionary design in its power that it became a key symbol in the race for naval superiority. Because of this, however, the dreadnought was quickly outclassed by the "super-dreadnought" and only ever saw combat in one battle: the Battle of Jutland between Britain and Germany, which ended in a stalemate.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_JFD_DREADNOAUGHT_NAME" Language="en_US">
+			<Text>Dreadnought</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_JFD_DREADNOAUGHT_DESCRIPTION" Language="en_US">
+			<Text>Earns [ICON_SCIENCE] Science from defeating enemy units equal to 20% of their Combat Strength.</Text>
+		</Row>
+	</LocalizedText>
+</GameData>

@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<AssetObjects..XLP>
+	<m_Version>
+		<major>4</major>
+		<minor>0</minor>
+		<build>315</build>
+		<revision>805</revision>
+	</m_Version>
+	<m_ClassName text="UITexture"/>
+	<m_PackageName text="UI/Icons"/>
+	<m_Entries>
+		<Element>
+			<m_EntryID text="PekhotaUnitFlags22"/>
+			<m_ObjectName text="PekhotaUnitFlags22"/>
+		</Element>
+		<Element>
+			<m_EntryID text="PekhotaUnitFlags256"/>
+			<m_ObjectName text="PekhotaUnitFlags256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="PekhotaUnitFlags32"/>
+			<m_ObjectName text="PekhotaUnitFlags32"/>
+		</Element>
+		<Element>
+			<m_EntryID text="PekhotaUnitFlags38"/>
+			<m_ObjectName text="PekhotaUnitFlags38"/>
+		</Element>
+		<Element>
+			<m_EntryID text="PekhotaUnitFlags50"/>
+			<m_ObjectName text="PekhotaUnitFlags50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="PekhotaUnitFlags80"/>
+			<m_ObjectName text="PekhotaUnitFlags80"/>
+		</Element>
+		<Element>
+			<m_EntryID text="USSR200"/>
+			<m_ObjectName text="USSR200"/>
+		</Element>
+		<Element>
+			<m_EntryID text="USSR22"/>
+			<m_ObjectName text="USSR22"/>
+		</Element>
+		<Element>
+			<m_EntryID text="USSR256"/>
+			<m_ObjectName text="USSR256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="USSR30"/>
+			<m_ObjectName text="USSR30"/>
+		</Element>
+		<Element>
+			<m_EntryID text="USSR36"/>
+			<m_ObjectName text="USSR36"/>
+		</Element>
+		<Element>
+			<m_EntryID text="USSR44"/>
+			<m_ObjectName text="USSR44"/>
+		</Element>
+		<Element>
+			<m_EntryID text="USSR48"/>
+			<m_ObjectName text="USSR48"/>
+		</Element>
+		<Element>
+			<m_EntryID text="USSR50"/>
+			<m_ObjectName text="USSR50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="USSR64"/>
+			<m_ObjectName text="USSR64"/>
+		</Element>
+		<Element>
+			<m_EntryID text="USSR80"/>
+			<m_ObjectName text="USSR80"/>
+		</Element>
+		<Element>
+			<m_EntryID text="USSR128"/>
+			<m_ObjectName text="USSR128"/>
+		</Element>
+		<Element>
+			<m_EntryID text="USSRNaukograd128"/>
+			<m_ObjectName text="USSRNaukograd128"/>
+		</Element>
+		<Element>
+			<m_EntryID text="USSRNaukograd256"/>
+			<m_ObjectName text="USSRNaukograd256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="USSRNaukograd32"/>
+			<m_ObjectName text="USSRNaukograd32"/>
+		</Element>
+		<Element>
+			<m_EntryID text="USSRNaukograd38"/>
+			<m_ObjectName text="USSRNaukograd38"/>
+		</Element>
+		<Element>
+			<m_EntryID text="USSRNaukograd50"/>
+			<m_ObjectName text="USSRNaukograd50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="USSRNaukograd80"/>
+			<m_ObjectName text="USSRNaukograd80"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Moment_UniqueDistrict_JFD_SovietUnion"/>
+			<m_ObjectName text="Moment_UniqueDistrict_JFD_SovietUnion"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Moment_UniqueUnit_JFD_SovietUnion"/>
+			<m_ObjectName text="Moment_UniqueUnit_JFD_SovietUnion"/>
+		</Element>
+		<Element>
+			<m_EntryID text="PekhotaUnitPortraits200"/>
+			<m_ObjectName text="PekhotaUnitPortraits200"/>
+		</Element>
+		<Element>
+			<m_EntryID text="PekhotaUnitPortraits256"/>
+			<m_ObjectName text="PekhotaUnitPortraits256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="PekhotaUnitPortraits38"/>
+			<m_ObjectName text="PekhotaUnitPortraits38"/>
+		</Element>
+		<Element>
+			<m_EntryID text="PekhotaUnitPortraits50"/>
+			<m_ObjectName text="PekhotaUnitPortraits50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="PekhotaUnitPortraits70"/>
+			<m_ObjectName text="PekhotaUnitPortraits70"/>
+		</Element>
+		<Element>
+			<m_EntryID text="PekhotaUnitPortraits95"/>
+			<m_ObjectName text="PekhotaUnitPortraits95"/>
+		</Element>
+		<Element>
+			<m_EntryID text="USSR45"/>
+			<m_ObjectName text="USSR45"/>
+		</Element>
+	</m_Entries>
+	<m_AllowedPlatforms>
+		<Element>WINDOWS</Element>
+		<Element>LINUX</Element>
+		<Element>MACOS</Element>
+		<Element>IOS</Element>
+	</m_AllowedPlatforms>
+</AssetObjects..XLP>
+

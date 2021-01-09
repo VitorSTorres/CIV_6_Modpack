@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<MomentIllustrations>
+		<Row MomentIllustrationType="MOMENT_ILLUSTRATION_UNIQUE_UNIT" MomentDataType="MOMENT_DATA_UNIT" GameDataType="UNIT_CONS_NK_PARTISAN" Texture="MOMENT_CONS_PARTISAN"/>
+		<Row MomentIllustrationType="MOMENT_ILLUSTRATION_UNIQUE_UNIT" MomentDataType="MOMENT_DATA_UNIT" GameDataType="UNIT_CONS_NK_KOKSAN" Texture="MOMENT_CONS_KOKSAN"/>
+		<Row MomentIllustrationType="MOMENT_ILLUSTRATION_UNIQUE_DISTRICT" MomentDataType="MOMENT_DATA_DISTRICT" GameDataType="DISTRICT_CONS_IDEOLOGICAL_TRAINING_CENTER" Texture="MOMENT_CONS_ITC"/>
+		<Row MomentIllustrationType="MOMENT_ILLUSTRATION_RELIGION" MomentDataType="MOMENT_DATA_RELIGION" GameDataType="RELIGION_CONS_JUCHEISM" Texture="MOMENT_CONS_JUCHEISM"/>
+	</MomentIllustrations>
+</GameData>

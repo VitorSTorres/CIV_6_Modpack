@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- GameData1 -->
+<!-- Author: Zebrah -->
+<!-- DateCreated: 7/10/2017 8:11:55 PM -->
+<GameData>
+
+	<Improvement_ValidFeatures>
+		<Row ImprovementType="IMPROVEMENT_GREAT_WALL" FeatureType="FEATURE_FOREST"/>
+		<Row ImprovementType="IMPROVEMENT_GREAT_WALL" FeatureType="FEATURE_JUNGLE"/>
+	</Improvement_ValidFeatures>
+
+	<RequirementSetRequirements>
+		<Row>
+			<RequirementSetId>GARRISON_PLOT_REQUIREMENTS</RequirementSetId>
+			<RequirementId>UNIT_IS_OCCUPYING_GREAT_WALL_REQUIREMENT</RequirementId>
+		</Row>
+	</RequirementSetRequirements>
+
+	<Requirements>
+		<Row>
+			<RequirementId>UNIT_IS_OCCUPYING_GREAT_WALL_REQUIREMENT</RequirementId>
+			<RequirementType>REQUIREMENT_ATTACKER_PLOT_IMPROVEMENT_TYPE_MATCHES</RequirementType>
+		</Row>
+	</Requirements>
+
+	<RequirementArguments>
+		<Row>
+			<RequirementId>UNIT_IS_OCCUPYING_GREAT_WALL_REQUIREMENT</RequirementId>
+			<Name>ImprovementType</Name>
+			<Value>IMPROVEMENT_GREAT_WALL</Value>
+		</Row>
+	</RequirementArguments>
+
+</GameData>

@@ -1,0 +1,198 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="41be3047-dde7-450c-afa0-34556b606e32" version="1">
+  <Properties>
+    <Name>Sovet Union (Vladimir Lenin)</Name>
+    <Description>Adds the Soviet Union as a playable civilization, led by Vladimir Lenin.</Description>
+    <Teaser>Adds the Soviet Union as a playable civilization, led by Vladimir Lenin.</Teaser>
+    <Authors>Space Communist</Authors>
+  </Properties>
+  <FrontEndActions>
+    <UpdateArt id="NewAction">
+      <File>Sovet Union (Vladimir Lenin).dep</File>
+    </UpdateArt>
+    <UpdateIcons id="NewAction">
+      <File>Core Files/Soviet_Icons.xml</File>
+      <File>Core Files/Spain_Icons.sql</File>
+    </UpdateIcons>
+    <UpdateDatabase id="NewAction">
+      <File>Core Files/Soviet_Config.sql</File>
+    </UpdateDatabase>
+    <UpdateText id="NewAction">
+      <File>Core Files/Soviet_GameText.xml</File>
+    </UpdateText>
+  </FrontEndActions>
+  <InGameActions>
+    <UpdateArt id="NewAction">
+      <File>Sovet Union (Vladimir Lenin).dep</File>
+    </UpdateArt>
+    <UpdateDatabase id="NewAction2">
+      <File>Mod Support/SC_Lenin_RwF.sql</File>
+      <File>Mod Support/SC_Lenin_YnAEMP.sql</File>
+    </UpdateDatabase>
+    <UpdateIcons id="NewAction">
+      <File>Core Files/Soviet_Icons.xml</File>
+      <File>Core Files/Spain_Icons.sql</File>
+    </UpdateIcons>
+    <UpdateText id="NewAction">
+      <File>Core Files/Soviet_GameText.xml</File>
+    </UpdateText>
+    <UpdateDatabase id="NewAction">
+      <File>Core Files/Soviet_Agenda.sql</File>
+      <File>Core Files/Soviet_GameDefines.sql</File>
+      <File>Core Files/Soviet_Improvements.xml</File>
+      <File>Core Files/Soviet_Strategy.sql</File>
+      <File>Core Files/Soviet_Units.xml</File>
+      <File>Core Files/Spain_Colours.sql</File>
+    </UpdateDatabase>
+  </InGameActions>
+  <Files>
+    <File>ArtDefs/Civilizations.artdef</File>
+    <File>ArtDefs/Cultures.artdef</File>
+    <File>ArtDefs/Districts.artdef</File>
+    <File>ArtDefs/FallbackLeaders.artdef</File>
+    <File>ArtDefs/Improvements.artdef</File>
+    <File>ArtDefs/Landmarks.artdef</File>
+    <File>ArtDefs/Leaders.artdef</File>
+    <File>ArtDefs/Units.artdef</File>
+    <File>Core Files/Soviet_Agenda.sql</File>
+    <File>Core Files/Soviet_Config.sql</File>
+    <File>Core Files/Soviet_GameDefines.sql</File>
+    <File>Core Files/Soviet_GameText.xml</File>
+    <File>Core Files/Soviet_Icons.xml</File>
+    <File>Core Files/Soviet_Improvements.xml</File>
+    <File>Core Files/Soviet_Strategy.sql</File>
+    <File>Core Files/Soviet_Units.xml</File>
+    <File>Core Files/Spain_Colours.sql</File>
+    <File>Core Files/Spain_Icons.sql</File>
+    <File>Mod Support/SC_Lenin_RwF.sql</File>
+    <File>Mod Support/SC_Lenin_RwF_Governments.sql</File>
+    <File>Mod Support/SC_Lenin_YnAEMP.sql</File>
+    <File>Platforms/MacOS/BLPs/LeaderBackgrounds.blp</File>
+    <File>Platforms/MacOS/BLPs/LeaderFallbacks.blp</File>
+    <File>Platforms/MacOS/BLPs/UILeaders.blp</File>
+    <File>Platforms/MacOS/BLPs/UI/Icons.blp</File>
+    <File>Platforms/Windows/BLPs/LeaderBackgrounds.blp</File>
+    <File>Platforms/Windows/BLPs/LeaderFallbacks.blp</File>
+    <File>Platforms/Windows/BLPs/UILeaders.blp</File>
+    <File>Platforms/Windows/BLPs/UI/Icons.blp</File>
+    <File>Sovet Union (Vladimir Lenin).dep</File>
+    <File>Textures/FALLBACK_NEUTRAL_SC_LENIN.dds</File>
+    <File>Textures/FALLBACK_NEUTRAL_SC_LENIN.tex</File>
+    <File>Textures/LEADER_SC_LENIN_BACKGROUND.dds</File>
+    <File>Textures/LEADER_SC_LENIN_BACKGROUND.tex</File>
+    <File>Textures/LEADER_SC_LENIN_NEUTRAL.dds</File>
+    <File>Textures/LEADER_SC_LENIN_NEUTRAL.tex</File>
+    <File>Textures/SC_LENIN_1.dds</File>
+    <File>Textures/SC_LENIN_1.tex</File>
+    <File>Textures/SC_LENIN_4.dds</File>
+    <File>Textures/SC_LENIN_4.tex</File>
+    <File>Textures/SC_Lenin_Icon256.dds</File>
+    <File>Textures/SC_Lenin_Icon256.tex</File>
+    <File>Textures/SC_Lenin_Icon32.dds</File>
+    <File>Textures/SC_Lenin_Icon32.tex</File>
+    <File>Textures/SC_Lenin_Icon45.dds</File>
+    <File>Textures/SC_Lenin_Icon45.tex</File>
+    <File>Textures/SC_Lenin_Icon50.dds</File>
+    <File>Textures/SC_Lenin_Icon50.tex</File>
+    <File>Textures/SC_Lenin_Icon55.dds</File>
+    <File>Textures/SC_Lenin_Icon55.tex</File>
+    <File>Textures/SC_Lenin_Icon64.dds</File>
+    <File>Textures/SC_Lenin_Icon64.tex</File>
+    <File>Textures/SC_Lenin_Icon80.dds</File>
+    <File>Textures/SC_Lenin_Icon80.tex</File>
+    <File>Textures/SC_Naukograd_Icon256.dds</File>
+    <File>Textures/SC_Naukograd_Icon256.tex</File>
+    <File>Textures/SC_Naukograd_Icon38.dds</File>
+    <File>Textures/SC_Naukograd_Icon38.tex</File>
+    <File>Textures/SC_Naukograd_Icon45.dds</File>
+    <File>Textures/SC_Naukograd_Icon45.tex</File>
+    <File>Textures/SC_Naukograd_Icon50.dds</File>
+    <File>Textures/SC_Naukograd_Icon50.tex</File>
+    <File>Textures/SC_Naukograd_Icon80.dds</File>
+    <File>Textures/SC_Naukograd_Icon80.tex</File>
+    <File>Textures/SC_Soviet_Lenin_Icon45.dds</File>
+    <File>Textures/SC_Soviet_Lenin_Icon45.tex</File>
+    <File>Textures/SC_Spain_Icon128.dds</File>
+    <File>Textures/SC_Spain_Icon128.tex</File>
+    <File>Textures/SC_Spain_Icon200.dds</File>
+    <File>Textures/SC_Spain_Icon200.tex</File>
+    <File>Textures/SC_Spain_Icon22.dds</File>
+    <File>Textures/SC_Spain_Icon22.tex</File>
+    <File>Textures/SC_Spain_Icon256.dds</File>
+    <File>Textures/SC_Spain_Icon256.tex</File>
+    <File>Textures/SC_Spain_Icon30.dds</File>
+    <File>Textures/SC_Spain_Icon30.tex</File>
+    <File>Textures/SC_Spain_Icon32.dds</File>
+    <File>Textures/SC_Spain_Icon32.tex</File>
+    <File>Textures/SC_Spain_Icon36.dds</File>
+    <File>Textures/SC_Spain_Icon36.tex</File>
+    <File>Textures/SC_Spain_Icon44.dds</File>
+    <File>Textures/SC_Spain_Icon44.tex</File>
+    <File>Textures/SC_Spain_Icon45.dds</File>
+    <File>Textures/SC_Spain_Icon45.tex</File>
+    <File>Textures/SC_Spain_Icon48.dds</File>
+    <File>Textures/SC_Spain_Icon48.tex</File>
+    <File>Textures/SC_Spain_Icon50.dds</File>
+    <File>Textures/SC_Spain_Icon50.tex</File>
+    <File>Textures/SC_Spain_Icon55.dds</File>
+    <File>Textures/SC_Spain_Icon55.tex</File>
+    <File>Textures/SC_Spain_Icon64.dds</File>
+    <File>Textures/SC_Spain_Icon64.tex</File>
+    <File>Textures/SC_Spain_Icon80.dds</File>
+    <File>Textures/SC_Spain_Icon80.tex</File>
+    <File>Textures/SovietGuard_Icon22.dds</File>
+    <File>Textures/SovietGuard_Icon22.tex</File>
+    <File>Textures/SovietGuard_Icon256.dds</File>
+    <File>Textures/SovietGuard_Icon256.tex</File>
+    <File>Textures/SovietGuard_Icon32.dds</File>
+    <File>Textures/SovietGuard_Icon32.tex</File>
+    <File>Textures/SovietGuard_Icon38.dds</File>
+    <File>Textures/SovietGuard_Icon38.tex</File>
+    <File>Textures/SovietGuard_Icon45.dds</File>
+    <File>Textures/SovietGuard_Icon45.tex</File>
+    <File>Textures/SovietGuard_Icon50.dds</File>
+    <File>Textures/SovietGuard_Icon50.tex</File>
+    <File>Textures/SovietGuard_Icon80.dds</File>
+    <File>Textures/SovietGuard_Icon80.tex</File>
+    <File>Textures/Soviet_Civ_Icon128.dds</File>
+    <File>Textures/Soviet_Civ_Icon128.tex</File>
+    <File>Textures/Soviet_Civ_Icon200.dds</File>
+    <File>Textures/Soviet_Civ_Icon200.tex</File>
+    <File>Textures/Soviet_Civ_Icon22.dds</File>
+    <File>Textures/Soviet_Civ_Icon22.tex</File>
+    <File>Textures/Soviet_Civ_Icon256.dds</File>
+    <File>Textures/Soviet_Civ_Icon256.tex</File>
+    <File>Textures/Soviet_Civ_Icon32.dds</File>
+    <File>Textures/Soviet_Civ_Icon32.tex</File>
+    <File>Textures/Soviet_Civ_Icon36.dds</File>
+    <File>Textures/Soviet_Civ_Icon36.tex</File>
+    <File>Textures/Soviet_Civ_Icon44.dds</File>
+    <File>Textures/Soviet_Civ_Icon44.tex</File>
+    <File>Textures/Soviet_Civ_Icon48.dds</File>
+    <File>Textures/Soviet_Civ_Icon48.tex</File>
+    <File>Textures/Soviet_Civ_Icon50.dds</File>
+    <File>Textures/Soviet_Civ_Icon50.tex</File>
+    <File>Textures/Soviet_Civ_Icon55.dds</File>
+    <File>Textures/Soviet_Civ_Icon55.tex</File>
+    <File>Textures/Soviet_Civ_Icon64.dds</File>
+    <File>Textures/Soviet_Civ_Icon64.tex</File>
+    <File>Textures/Soviet_Civ_Icon80.dds</File>
+    <File>Textures/Soviet_Civ_Icon80.tex</File>
+    <File>Textures/T34_Icon256.dds</File>
+    <File>Textures/T34_Icon256.tex</File>
+    <File>Textures/T34_Icon32.dds</File>
+    <File>Textures/T34_Icon32.tex</File>
+    <File>Textures/T34_Icon38.dds</File>
+    <File>Textures/T34_Icon38.tex</File>
+    <File>Textures/T34_Icon45.dds</File>
+    <File>Textures/T34_Icon45.tex</File>
+    <File>Textures/T34_Icon50.dds</File>
+    <File>Textures/T34_Icon50.tex</File>
+    <File>Textures/T34_Icon80.dds</File>
+    <File>Textures/T34_Icon80.tex</File>
+    <File>XLPs/LeaderBackgrounds.xlp</File>
+    <File>XLPs/LeaderFallbacks.xlp</File>
+    <File>XLPs/UIIcons.xlp</File>
+    <File>XLPs/UILeaders.xlp</File>
+  </Files>
+</Mod>

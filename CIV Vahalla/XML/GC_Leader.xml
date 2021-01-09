@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Types>
+		<Row Type="LEADER_CONS_DANA" Kind="KIND_LEADER" />
+		<Row Type="TRAIT_LEADER_CONS_DANA" Kind="KIND_TRAIT" />
+		<Row Type="LEADER_CONS_JILL" Kind="KIND_LEADER" />
+		<Row Type="TRAIT_LEADER_CONS_JILL" Kind="KIND_TRAIT" />
+	</Types>
+	<Leaders>
+		<Row LeaderType="LEADER_CONS_DANA" Name="LOC_LEADER_CONS_DANA_NAME" Sex="Female" InheritFrom="LEADER_DEFAULT" SceneLayers="1"/>
+		<Row LeaderType="LEADER_CONS_JILL" Name="LOC_LEADER_CONS_JILL_NAME" Sex="Female" SameSexPercentage="100" InheritFrom="LEADER_DEFAULT" SceneLayers="1"/>
+	</Leaders>
+	<LoadingInfo>
+		<Row LeaderType="LEADER_CONS_DANA" ForegroundImage="LEADER_CONS_DANA_NEUTRAL.dds" BackgroundImage="LEADER_CONS_DANA_BACKGROUND.dds"/>
+		<Row LeaderType="LEADER_CONS_JILL" ForegroundImage="LEADER_CONS_JILL_NEUTRAL.dds" BackgroundImage="LEADER_CONS_JILL_BACKGROUND.dds"/>
+	</LoadingInfo>
+	<LeaderQuotes>
+		<Row LeaderType="LEADER_CONS_DANA" Quote="LOC_LEADER_CONS_DANA_QUOTE"/>
+		<Row LeaderType="LEADER_CONS_JILL" Quote="LOC_LEADER_CONS_JILL_QUOTE"/>
+	</LeaderQuotes>
+	<HistoricalAgendas>
+		<Row LeaderType="LEADER_CONS_DANA" AgendaType="AGENDA_CONS_DANA"/>
+		<Row LeaderType="LEADER_CONS_JILL" AgendaType="AGENDA_CONS_JILL"/>
+	</HistoricalAgendas>
+	<AgendaPreferredLeaders>
+		<!--<Row AgendaType="AGENDA_FLIRTATIOUS" LeaderType="LEADER_CONS_JILL" PercentageChance="100"/>-->
+	</AgendaPreferredLeaders>
+	<Traits>
+		<Row TraitType="TRAIT_LEADER_CONS_DANA" Name="LOC_TRAIT_LEADER_CONS_DANA_NAME" Description="LOC_TRAIT_LEADER_CONS_DANA_DESCRIPTION"/>
+		<Row TraitType="TRAIT_LEADER_CONS_JILL" Name="LOC_TRAIT_LEADER_CONS_JILL_NAME" Description="LOC_TRAIT_LEADER_CONS_JILL_DESCRIPTION"/>
+	</Traits>
+	<LeaderTraits>
+		<Row LeaderType="LEADER_CONS_DANA" TraitType="TRAIT_LEADER_CONS_DANA"/>
+		<Row LeaderType="LEADER_CONS_JILL" TraitType="TRAIT_LEADER_CONS_JILL"/>
+	</LeaderTraits>
+	
+	<TraitModifiers>
+		<Row TraitType="TRAIT_LEADER_CONS_DANA" ModifierId="TRAIT_LEADER_CONS_DANA_TRADE_ROUTE_PLUNDER_IMMUNITY"/>
+		<Row TraitType="TRAIT_LEADER_CONS_DANA" ModifierId="TRAIT_LEADER_CONS_DANA_UNIT_INCREASE_STRENGTH_IN_OWNER_TERRITORY"/>
+		<Row TraitType="TRAIT_LEADER_CONS_JILL" ModifierId="TRAIT_LEADER_CONS_JILL_GRANT_DUMMY_RESOURCE_FOR_UNIQUE_PROJECT"/>
+	</TraitModifiers>
+	<Modifiers>
+		<Row ModifierId="TRAIT_LEADER_CONS_DANA_TRADE_ROUTE_PLUNDER_IMMUNITY" ModifierType="MODIFIER_PLAYER_UNITS_GRANT_ABILITY" SubjectRequirementSetId="UNIT_IS_TRADER"/>
+		<Row ModifierId="TRAIT_LEADER_CONS_DANA_UNIT_INCREASE_STRENGTH_IN_OWNER_TERRITORY" ModifierType="MODIFIER_PLAYER_UNITS_ATTACH_MODIFIER"/>
+		<Row ModifierId="TRAIT_LEADER_CONS_DANA_UNIT_INCREASE_STRENGTH_IN_OWNER_TERRITORY_MOD" ModifierType="MODIFIER_UNIT_ADJUST_COMBAT_STRENGTH" OwnerRequirementSetId="REQ_SET_CONS_DANA_PLOT_IS_OWNER"/>
+		<Row ModifierId="TRAIT_LEADER_CONS_JILL_GRANT_DUMMY_RESOURCE_FOR_UNIQUE_PROJECT" ModifierType="MODIFIER_PLAYER_CITIES_ATTACH_MODIFIER"/>
+		<Row ModifierId="TRAIT_LEADER_CONS_JILL_GRANT_DUMMY_RESOURCE_FOR_UNIQUE_PROJECT_MOD" ModifierType="MODIFIER_SINGLE_CITY_GRANT_RESOURCE_IN_CITY" RunOnce="true" Permanent="true"/>
+	</Modifiers>
+	<ModifierArguments>
+		<Row ModifierId="TRAIT_LEADER_CONS_DANA_TRADE_ROUTE_PLUNDER_IMMUNITY" Name="AbilityType" Value="ABILITY_CONS_DANA_TRADE_ROUTE_PLUNDER_IMMUNITY"/>
+		<Row ModifierId="TRAIT_LEADER_CONS_DANA_UNIT_INCREASE_STRENGTH_IN_OWNER_TERRITORY" Name="ModifierId" Value="TRAIT_LEADER_CONS_DANA_UNIT_INCREASE_STRENGTH_IN_OWNER_TERRITORY_MOD"/>
+		<Row ModifierId="TRAIT_LEADER_CONS_DANA_UNIT_INCREASE_STRENGTH_IN_OWNER_TERRITORY_MOD" Name="Amount" Value="10"/>
+		<Row ModifierId="TRAIT_LEADER_CONS_JILL_GRANT_DUMMY_RESOURCE_FOR_UNIQUE_PROJECT" Name="ModifierId" Value="TRAIT_LEADER_CONS_JILL_GRANT_DUMMY_RESOURCE_FOR_UNIQUE_PROJECT_MOD"/>
+		<Row ModifierId="TRAIT_LEADER_CONS_JILL_GRANT_DUMMY_RESOURCE_FOR_UNIQUE_PROJECT_MOD" Name="ResourceType" Value="RESOURCE_CONS_JILL_DUMMY"/>
+		<Row ModifierId="TRAIT_LEADER_CONS_JILL_GRANT_DUMMY_RESOURCE_FOR_UNIQUE_PROJECT_MOD" Name="Amount" Value="1"/>
+	</ModifierArguments>
+	<ModifierStrings>
+		<Row ModifierId="TRAIT_LEADER_CONS_DANA_UNIT_INCREASE_STRENGTH_IN_OWNER_TERRITORY_MOD" Context="Preview" Text="LOC_TRAIT_LEADER_CONS_DANA_UNIT_INCREASE_STRENGTH_IN_OWNER_TERRITORY_MOD_DESCRIPTION"/>
+	</ModifierStrings>
+	
+	<RequirementSets>
+		<Row RequirementSetId="REQ_SET_CONS_DANA_PLOT_IS_OWNER" RequirementSetType="REQUIREMENTSET_TEST_ALL"/>
+	</RequirementSets>
+	<RequirementSetRequirements>
+		<Row RequirementSetId="REQ_SET_CONS_DANA_PLOT_IS_OWNER" RequirementId="REQ_CONS_DANA_PLOT_IS_OWNER"/>
+	</RequirementSetRequirements>
+	<Requirements>
+		<Row RequirementId="REQ_CONS_DANA_PLOT_IS_OWNER" RequirementType="REQUIREMENT_UNIT_IN_OWNER_TERRITORY"/>
+	</Requirements>
+	<!--<RequirementArguments>
+		<Row RequirementId="REQ_CONS_DANA_PLOT_IS_OWNER" Name="" Value=""/>
+	</RequirementArguments>-->
+	
+	<AiListTypes>
+		<Row ListType="Cons_DanaWonders"/>
+		<Row ListType="Cons_DanaCivics"/>
+		<Row ListType="Cons_DanaTechs"/>
+		<Row ListType="Cons_JillWonders"/>
+		<Row ListType="Cons_JillCivics"/>
+		<Row ListType="Cons_JillTechs"/>
+	</AiListTypes>
+	<AiLists>
+		<Row ListType="Cons_DanaWonders" LeaderType="TRAIT_LEADER_CONS_DANA" System="Buildings"/>
+		<Row ListType="Cons_DanaCivics" LeaderType="TRAIT_LEADER_CONS_DANA" System="Civics"/>
+		<Row ListType="Cons_DanaTechs" LeaderType="TRAIT_LEADER_CONS_DANA" System="Technologies"/>
+		<Row ListType="Cons_JillWonders" LeaderType="TRAIT_LEADER_CONS_JILL" System="Buildings"/>
+		<Row ListType="Cons_JillCivics" LeaderType="TRAIT_LEADER_CONS_JILL" System="Civics"/>
+		<Row ListType="Cons_JillTechs" LeaderType="TRAIT_LEADER_CONS_JILL" System="Technologies"/>
+	</AiLists>
+	<AiFavoredItems>
+		<Row ListType="Cons_DanaWonders" Item="BUILDING_COLOSSUS"/>
+		<Row ListType="Cons_DanaWonders" Item="BUILDING_GREAT_ZIMBABWE"/>
+		<Row ListType="Cons_DanaCivics" Item="CIVIC_FOREIGN_TRADE"/>
+		<Row ListType="Cons_DanaCivics" Item="CIVIC_PROFESSIONAL_SPORTS"/>
+		<Row ListType="Cons_DanaTechs" Item="TECH_CURRENCY"/>
+		<Row ListType="Cons_DanaTechs" Item="TECH_ECONOMICS"/>
+		<Row ListType="Cons_DanaTechs" Item="TECH_CELESTIAL_NAVIGATION"/>
+		<Row ListType="Cons_JillWonders" Item="BUILDING_COLOSSUS"/>
+		<Row ListType="Cons_JillWonders" Item="BUILDING_GREAT_ZIMBABWE"/>
+		<Row ListType="Cons_JillCivics" Item="CIVIC_FOREIGN_TRADE"/>
+		<Row ListType="Cons_JillCivics" Item="CIVIC_PROFESSIONAL_SPORTS"/>
+		<Row ListType="Cons_JillTechs" Item="TECH_CURRENCY"/>
+		<Row ListType="Cons_JillTechs" Item="TECH_ECONOMICS"/>
+		<Row ListType="Cons_JillTechs" Item="TECH_CELESTIAL_NAVIGATION"/>
+	</AiFavoredItems>
+</GameData>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<GameData>
+	<PlayerColors>
+		<Row>
+			<Type>LEADER_CONS_DANA</Type>
+			<Usage>Unique</Usage>
+			<PrimaryColor>COLOR_PLAYER_CONS_DANA</PrimaryColor>
+			<SecondaryColor>COLOR_PLAYER_CONS_DANA_SEC</SecondaryColor>
+			<TextColor>COLOR_CLEAR</TextColor>
+		</Row>
+		<Row>
+			<Type>LEADER_CONS_JILL</Type>
+			<Usage>Unique</Usage>
+			<PrimaryColor>COLOR_PLAYER_CONS_JILL</PrimaryColor>
+			<SecondaryColor>COLOR_PLAYER_CONS_JILL_SEC</SecondaryColor>
+			<TextColor>COLOR_CLEAR</TextColor>
+		</Row>
+	</PlayerColors>
+	<Colors>
+		<Row>
+			<Type>COLOR_PLAYER_CONS_DANA</Type>
+			<Color>243,222,211,255</Color>
+		</Row>
+		<Row>
+			<Type>COLOR_PLAYER_CONS_DANA_SEC</Type>
+			<Color>41,20,55,255</Color>
+		</Row>
+		<Row>
+			<Type>COLOR_PLAYER_CONS_JILL</Type>
+			<Color>88,13,52,255</Color>
+		</Row>
+		<Row>
+			<Type>COLOR_PLAYER_CONS_JILL_SEC</Type>
+			<Color>253,242,235,255</Color>
+		</Row>
+	</Colors>
+</GameData>

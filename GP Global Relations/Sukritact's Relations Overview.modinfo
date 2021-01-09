@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="d3375ed7-abb2-4480-be4c-33e61161b6d3" version="1">
+  <Properties>
+    <Name>Sukritact's Global Relations Panel</Name>
+    <Description>Adds a panel that allows you to see the current state of Global Relations at a glance.</Description>
+    <Teaser>Adds a panel that allows you to see the current state of Global Relations at a glance.</Teaser>
+    <Authors>Sukritact</Authors>
+    <AffectsSavedGames>0</AffectsSavedGames>
+    <CompatibleVersions>1.2,2.0</CompatibleVersions>
+  </Properties>
+  <InGameActions>
+    <AddUserInterfaces id="AddUserInterfaces">
+      <Properties>
+        <Context>InGame</Context>
+      </Properties>
+      <File>UI/Suk_RelationsOverview.xml</File>
+    </AddUserInterfaces>
+    <UpdateArt id="UpdateArt">
+      <File>Sukritact_s_Relations_Overview.dep</File>
+    </UpdateArt>
+    <UpdateText id="UpdateText">
+      <File>Core/Localisation.sql</File>
+    </UpdateText>
+  </InGameActions>
+  <Files>
+    <File>ArtDefs/UserInterface.artdef</File>
+    <File>Core/Localisation.sql</File>
+    <File>Platforms/MacOS/BLPs/UITextures.blp</File>
+    <File>Platforms/Windows/BLPs/UITextures.blp</File>
+    <File>Sukritact_s_Relations_Overview.dep</File>
+    <File>UI/Suk_RelationsOverview.lua</File>
+    <File>UI/Suk_RelationsOverview.xml</File>
+  </Files>
+</Mod>

@@ -1,0 +1,379 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<Row Tag="LOC_CIVILIZATION_CONS_NORTH_KOREA_NAME" Language="en_US">
+			<Text>North Korea</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CONS_NORTH_KOREA_DESCRIPTION" Language="en_US">
+			<Text>North Korea Empire</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CONS_NORTH_KOREA_ADJECTIVE" Language="en_US">
+			<Text>North Korea</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CONS_NORTH_KOREA_DESCRIPTION_JFD_CIVILIZATION" Language="en_US">
+			<Text>North Korea Civilization</Text>
+		</Row>
+
+		<Row Tag="LOC_LEADER_CONS_KIM_ILSUNG_NAME" Language="en_US">
+			<Text>Kim Il-sung</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INFO_LEADER_CONS_KIM_ILSUNG" Language="en_US">
+			<Text></Text>
+		</Row>
+
+		<Row Tag="LOC_LEADER_CONS_KIM_JONGIL_NAME" Language="en_US">
+			<Text>Kim Jong-il</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INFO_LEADER_CONS_KIM_JONGIL" Language="en_US">
+			<Text></Text>
+		</Row>
+
+		<Row Tag="LOC_LEADER_CONS_KIM_JONGUN_NAME" Language="en_US">
+			<Text>Kim Jong-un</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INFO_LEADER_CONS_KIM_JONGUN" Language="en_US">
+			<Text></Text>
+		</Row>
+
+		<Row Tag="LOC_TRAIT_CIVILIZATION_CONS_NORTH_KOREA_NAME" Language="en_US">
+			<Text>Workers' Party of Korea</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_CONS_NORTH_KOREA_DESCRIPTION" Language="en_US">
+			<Text>Enemy Spies level reduced by 2 in your lands. However all cities suffer -1 [ICON_Amenities] Amenity. Builds Goverment district and buildings in half the time. All your cities within 20 tiles from Goverment district are always 100% Loyal. May not build Entertainment Complex districts.</Text>
+		</Row>
+
+		<Row Tag="LOC_TRAIT_LEADER_CONS_KIM_ILSUNG_NAME" Language="en_US">
+			<Text>Hwa-Chun Double Sided Strategy</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_CONS_KIM_ILSUNG_DESCRIPTION" Language="en_US">
+			<Text>Receive a second Recon unit each time you train a Recon unit. Increase military unit production speed by +15%, When you are peace with major civilization. +1 [ICON_Movement] Movement for the first 10 turns after declaring a Surprise War.</Text>
+		</Row>
+
+		<Row Tag="LOC_TRAIT_LEADER_CONS_KIM_JONGIL_NAME" Language="en_US">
+			<Text>Songun Policy</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_CONS_KIM_JONGIL_DESCRIPTION" Language="en_US">
+			<Text>All Diplomatic policy slots in the current government are converted to Military policy slots. Gain the Koksan unique unit when they research the Steel technology.</Text>
+		</Row>
+
+		<Row Tag="LOC_TRAIT_LEADER_CONS_KIM_JONGUN_NAME" Language="en_US">
+			<Text>ROCKET-MAN</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_CONS_KIM_JONGUN_DESCRIPTION" Language="en_US">
+			<Text>+100% [ICON_Production] Production to nuclear program projects and WMDs. Luxuries provide 2 Less [ICON_Amenities] Amenity. Propaganda Districts provide 3 [ICON_Amenities] Amenity.</Text>
+		</Row>
+
+		<Row Tag="LOC_AGENDA_CONS_KIM_ILSUNG_NAME" Language="en_US">
+			<Text>Communist Redification</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_CONS_KIM_ILSUNG_DESCRIPTION" Language="en_US">
+			<Text>Prefer to declare Surprise War. Favors civilizations with the same type of government, but dislikes civilizations that have etiher different governments or small armies. Despises civilizations with different governments of the same era as its own.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_CONS_KIM_ILSUNG_REASON_AGENDA_MODIFIER_CONS_KIM_ILSUNG_LIKE_SAME_GOVERNMENT" Language="en_US">
+			<Text>(Your government is same as Kim Il-sung.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_CONS_KIM_ILSUNG_REASON_AGENDA_MODIFIER_CONS_KIM_ILSUNG_HATE_DIFFERENT_GOVERNMENT" Language="en_US">
+			<Text>(Your government is different from Kim Il-sung.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_CONS_KIM_ILSUNG_REASON_AGENDA_MODIFIER_CONS_KIM_ILSUNG_HATE_LOW_STANDING_ARMY" Language="en_US">
+			<Text>(Your standing army is too small.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_CONS_KIM_ILSUNG_LIKE_SAME_GOVERNMENT" Language="en_US">
+			<Text>Kim Il-sung is pleased to see you rule your people the same way</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_CONS_KIM_ILSUNG_HATE_DIFFERENT_GOVERNMENT" Language="en_US">
+			<Text>Kim Il-sung dislike your approach to governing</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_CONS_KIM_ILSUNG_HATE_LOW_STANDING_ARMY" Language="en_US">
+			<Text>Kim Il-sung dislike civilizations with a small standing army</Text>
+		</Row>
+
+		<Row Tag="LOC_AGENDA_CONS_KIM_JONGIL_NAME" Language="en_US">
+			<Text>Arduous March</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_CONS_KIM_JONGIL_DESCRIPTION" Language="en_US">
+			<Text>Always tries to keep a large standing army and nuclear weapon. Likes civilizations who pose no threat or has high population. Dislikes civilizations with strong militaries or ones with nearby cities.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_CONS_KIM_ILSUNG_REASON_AGENDA_MODIFIER_CONS_KIM_JONGIL_LIKE_HIGH_POPULATION" Language="en_US">
+			<Text>(You have a high population.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_CONS_KIM_JONGIL_LIKE_HIGH_POPULATION" Language="en_US">
+			<Text>Kim Jong-il is pleased to see a civilization with high population</Text>
+		</Row>
+
+		<Row Tag="LOC_AGENDA_CONS_KIM_JONGUN_NAME" Language="en_US">
+			<Text>Madman Strategy</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_CONS_KIM_JONGUN_DESCRIPTION" Language="en_US">
+			<Text>Always tries to keep a large standing army and nuclear weapon. Hate all civilization.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_CONS_KIM_JONGUN_REASON_AGENDA_MODIFIER_CONS_KIM_JONGIL_HATE_ALL_CIVILIZATION" Language="en_US">
+			<Text>(They just hate you.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_CONS_KIM_JONGUN_HATE_ALL_CIVILIZATION" Language="en_US">
+			<Text>Kim Jong-un just dislike civilizations</Text>
+		</Row>
+
+		<Row Tag="LOC_UNIT_CONS_NK_PARTISAN_NAME" Language="en_US">
+			<Text>Partisan</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_CONS_NK_PARTISAN_DESCRIPTION" Language="en_US">
+			<Text>North Korea unique unit that replace Ranger. Requires Nationalism civic. Weaker than normal Ranger. This unit may enter foreign territory even without Open Borders. Starts with the Camouflage promotion effect. +7 [ICON_Strength] Combat Strength when attacking, and -7 [ICON_Strength] Combat Strength when defending. Pillaging costs only 1 [ICON_Movement] Movement point.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_CONS_NK_PARTISAN_NAME" Language="en_US">
+			<Text>Partisan</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_CONS_NK_PARTISAN_DESCRIPTION" Language="en_US">
+			<Text>Even without Open Borders, this unit can enter foreign territory. gain Camouflage promotion effect. +7 [ICON_Strength] Combat Strength when attacking, and -7 [ICON_Strength] Combat Strength when defending. Pillaging costs only 1 [ICON_Movement] Movement point.</Text>
+		</Row>
+
+		<Row Tag="LOC_UNIT_CONS_NK_KOKSAN_NAME" Language="en_US">
+			<Text>Koksan</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_CONS_NK_KOKSAN_DESCRIPTION" Language="en_US">
+			<Text>Kim Jong-il unique unit that replace Artillery. Weaker than normal Artillery, but increase 1 range and more cheaper.</Text>
+		</Row>
+
+		<Row Tag="LOC_DISTRICT_CONS_IDEOLOGICAL_TRAINING_CENTER_NAME" Language="en_US">
+			<Text>Propaganda District</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_CONS_IDEOLOGICAL_TRAINING_CENTER_DESCRIPTION" Language="en_US">
+			<Text>North Korea unique district. Provides +1 [ICON_Amenities] Amenity and +1 [ICON_Amenities] Amenity per era from medieval era. [ICON_GreatPerson] Great People Points earned 50% slower.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_CONS_IDEOLOGICAL_TRAINING_CENTER_ADJACENCY" Language="en_US">
+			<Text>Adjacency: Major [ICON_Production] Production bonus for adjacent district tiles.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_CONS_IDEOLOGICAL_TRAINING_CENTER_DISTRICT_PRODUCTION" Language="en_US">
+			<Text>+{1_num} [ICON_Production] Production from the adjacent {1_Num : plural 1?district; other?districts;}.</Text>
+		</Row>
+
+		<Row Tag="LOC_RELIGION_CONS_JUCHEISM" Language="en_US">
+			<Text>Jucheism</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_RELIGIONS_PAGE_RELIGION_CONS_JUCHEISM_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Juche, usually left untranslated, or translated as "self-reliance", is the official state ideology of North Korea, described by the government as Kim Il-sung's "original, brilliant and revolutionary contribution to national and international thought". It says that an individual is "the master of his destiny", that the North Korean masses are to act as the "masters of the revolution and construction", and that by becoming a self-reliant and strong nation one can achieve true socialism.</Text>
+		</Row>
+
+		<!-- 시민 이름 목록 -->
+		<Row Tag="LOC_CITIZEN_CONS_NORTH_KOREA_MALE_01" Language="en_US">
+			<Text>Jang Song-thaek</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CONS_NORTH_KOREA_MALE_02" Language="en_US">
+			<Text>Kang Kon</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CONS_NORTH_KOREA_MALE_03" Language="en_US">
+			<Text>Kim Chaek</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CONS_NORTH_KOREA_MALE_04" Language="en_US">
+			<Text>Choe Yong-gon</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CONS_NORTH_KOREA_MALE_05" Language="en_US">
+			<Text>Choe Hyon</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CONS_NORTH_KOREA_MALE_06" Language="en_US">
+			<Text>Ri Yong-ho</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CONS_NORTH_KOREA_MALE_07" Language="en_US">
+			<Text>Choe Ryong-hae</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CONS_NORTH_KOREA_MALE_08" Language="en_US">
+			<Text>Hwang Pyong-so</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CONS_NORTH_KOREA_MALE_09" Language="en_US">
+			<Text>Sim Young</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CONS_NORTH_KOREA_FEMALE_01" Language="en_US">
+			<Text>Kim Kyong-hui</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CONS_NORTH_KOREA_FEMALE_02" Language="en_US">
+			<Text>Ri Sol-ju</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CONS_NORTH_KOREA_FEMALE_03" Language="en_US">
+			<Text>Ri Chun-hee</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CONS_NORTH_KOREA_FEMALE_04" Language="en_US">
+			<Text>Ryu Jong-ok</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CONS_NORTH_KOREA_FEMALE_05" Language="en_US">
+			<Text>jeon song-hui</Text>
+		</Row>
+
+		<!-- 도시 이름 목록 -->
+		<Row Tag="LOC_CIVILIZATION_CONS_NORTH_KOREA_CITY_01" Language="en_US">
+			<Text>Pyongyang</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CONS_NORTH_KOREA_CITY_02" Language="en_US">
+			<Text>Nampo</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CONS_NORTH_KOREA_CITY_03" Language="en_US">
+			<Text>Kaesong</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CONS_NORTH_KOREA_CITY_04" Language="en_US">
+			<Text>Wonsan</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CONS_NORTH_KOREA_CITY_05" Language="en_US">
+			<Text>Pyongsong</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CONS_NORTH_KOREA_CITY_06" Language="en_US">
+			<Text>Sariwon</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CONS_NORTH_KOREA_CITY_07" Language="en_US">
+			<Text>Haeju</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CONS_NORTH_KOREA_CITY_08" Language="en_US">
+			<Text>Hamhung</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CONS_NORTH_KOREA_CITY_09" Language="en_US">
+			<Text>Kanggye</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CONS_NORTH_KOREA_CITY_10" Language="en_US">
+			<Text>Sinuiju</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CONS_NORTH_KOREA_CITY_11" Language="en_US">
+			<Text>Hyesan</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CONS_NORTH_KOREA_CITY_12" Language="en_US">
+			<Text>Chongjin</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CONS_NORTH_KOREA_CITY_13" Language="en_US">
+			<Text>Rason</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CONS_NORTH_KOREA_CITY_14" Language="en_US">
+			<Text>Uiju</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CONS_NORTH_KOREA_CITY_15" Language="en_US">
+			<Text>Songnim</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CONS_NORTH_KOREA_CITY_16" Language="en_US">
+			<Text>Sunchon</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CONS_NORTH_KOREA_CITY_17" Language="en_US">
+			<Text>Chongju</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CONS_NORTH_KOREA_CITY_18" Language="en_US">
+			<Text>Kusong</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CONS_NORTH_KOREA_CITY_19" Language="en_US">
+			<Text>Huichon</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CONS_NORTH_KOREA_CITY_20" Language="en_US">
+			<Text>Manpo</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CONS_NORTH_KOREA_CITY_21" Language="en_US">
+			<Text>Hungnam</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CONS_NORTH_KOREA_CITY_22" Language="en_US">
+			<Text>Chunggang</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CONS_NORTH_KOREA_CITY_23" Language="en_US">
+			<Text>Hoeryong</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CONS_NORTH_KOREA_CITY_24" Language="en_US">
+			<Text>Sinpo</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CONS_NORTH_KOREA_CITY_25" Language="en_US">
+			<Text>Tanchon</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CONS_NORTH_KOREA_CITY_26" Language="en_US">
+			<Text>Munchon</Text>
+		</Row>
+
+		<!-- 시빌로피디아 텍스트 -->
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_CONS_NORTH_KOREA_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>North Korea, officially the Democratic People's Republic of Korea (DPRK), is a country in East Asia constituting the northern part of the Korean Peninsula. Pyongyang is the nation's capital and largest city. To the north and northwest the country is bordered by China and by Russia along the Amnok (known as the Yalu in China) and Tumen rivers; it is bordered to the south by South Korea, with the heavily fortified Korean Demilitarized Zone (DMZ) separating the two.</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_CIVILIZATION_CONS_NORTH_KOREA_LOCATION" Language="en_US">
+			<Text>Asia</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_CIVILIZATION_CONS_NORTH_KOREA_SIZE" Language="en_US">
+			<Text>Est. 120 thousand square km</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_CIVILIZATION_CONS_NORTH_KOREA_POPULATION" Language="en_US">
+			<Text>Est. 25 million</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_CIVILIZATION_CONS_NORTH_KOREA_CAPITAL" Language="en_US">
+			<Text>Pyongyang</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CONS_KIM_ILSUNG_CHAPTER_CAPSULE_BODY" Language="en_US">
+			<Text>Kim Il-sung can scout nearby territories quickly, and can also train troops very fast at peace, making him great at surprise wars in which he gets a temporary mobility boost</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CONS_KIM_ILSUNG_CHAPTER_DETAILED_BODY" Language="en_US">
+			<Text>Kim Il-sung can scout nearby territories quickly, and can also train troops very fast at peace, making him great at surprise wars in which he gets a temporary mobility boost</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CONS_KIM_ILSUNG_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Kim Il-sung (15 April 1912 – 8 July 1994) was the supreme leader of North Korea from its establishment in 1948 until his death in 1994. He held the posts of Prime Minister from 1948 to 1972 and President from 1972 to 1994. He was also the leader of the Workers' Party of Korea (WPK) from 1949 to 1994 (titled as chairman from 1949 to 1966 and as general secretary after 1966). Coming to power after the overthrow of Japanese rule in 1945, he authorized the invasion of South Korea in 1950 triggering a defense of South Korea by the United Nations led by the United States. A cease-fire in the Korean War was signed on 27 July 1953. He was one of the longest-serving non-royal heads of state in the 20th century, in office for more than 45 years.</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_CONS_KIM_ILSUNG_QUOTE" Language="en_US">
+			<Text>The oppressed peoples can liberate themselves only through struggle. This is a simple and clear truth confirmed by history.</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CONS_KIM_JONGIL_CHAPTER_CAPSULE_BODY" Language="en_US">
+			<Text>Kim Jong-Il pays less maintenance towards units while at war, and can also train troops fast.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CONS_KIM_JONGIL_CHAPTER_DETAILED_BODY" Language="en_US">
+			<Text>Kim Jong-Il pays less maintenance towards units while at war, and can also train troops fast.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CONS_KIM_JONGIL_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Kim Jong-il (16 February 1941/1942 – 17 December 2011) was the supreme leader of the Democratic People's Republic of Korea (DPRK), commonly referred to as North Korea, from 1994 to 2011. By the early 1980s Kim had become the heir apparent for the leadership of the country and assumed important posts in the party and army organs. He succeeded his father and founder of the DPRK, Kim Il-sung, following the elder Kim's death in 1994. Kim Jong-il was the General Secretary of the Workers' Party of Korea (WPK), Politburo Standing Committee member of WPK, Chairman of the National Defence Commission (NDC) of North Korea, and the Supreme Commander of the Korean People's Army (KPA), the fourth-largest standing army in the world. Kim's leadership is thought to have been even more authoritarian than his father's.</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_CONS_KIM_JONGIL_QUOTE" Language="en_US">
+			<Text>Glory to the heroic soldiers of the Korean People's Army!</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CONS_KIM_JONGUN_CHAPTER_CAPSULE_BODY" Language="en_US">
+			<Text>Kim Jong-un's spies start with Con Artists, while his Propaganda Districts are more effective. Kim Jong-un may also produce nuclear weapons without Uranium.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CONS_KIM_JONGUN_CHAPTER_DETAILED_BODY" Language="en_US">
+			<Text>Kim Jong-un's spies start with Con Artists, while his Propaganda Districts are more effective. Kim Jong-un may also produce nuclear weapons without Uranium.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CONS_KIM_JONGUN_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Kim Jong-un (8 January 1984 or 5 July 1984) is the Chairman of the Workers' Party of Korea (WPK) and supreme leader of the Democratic People's Republic of Korea (DPRK), commonly referred to as North Korea. Kim is the second child of Kim Jong-il (1941–2011) and his consort Ko Yong-hui. Little is known for certain about Kim Jong-un. Before taking power, he had barely been seen in public, and many of the activities of both Kim and his government remain shrouded in secrecy. Even details such as what year he was born, and whether he did indeed attend a Western school under a pseudonym, are difficult to confirm with certainty.</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_CONS_KIM_JONGUN_QUOTE" Language="en_US">
+			<Text>Want to know what’s more destructive than a nuclear bomb? Words.</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_CONS_NK_PARTISAN_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>A partisan is a member of an irregular military force formed to oppose control of an area by a foreign power or by an army of occupation by some kind of insurgent activity. The term can apply to the field element of resistance movements, examples of which are the civilians who opposed Nazi German, Ustaše and Fascist Italian rule in several countries during World War II.</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_CONS_NK_KOKSAN_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>The M-1978 (Koksan) is a 170 mm self-propelled (SP) gun of North Korean design and manufacture. Very little information is available due to the secretive nature of the North Korean government. The designations M-1978 and Koksan were given to the type by American military analysts, as they first became aware of it in that year in Koksan, North Korea.</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_DISTRICTS_PAGE_DISTRICT_CONS_IDEOLOGICAL_TRAINING_CENTER_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Conditions inside North Korean prison camps are unsanitary and life-threatening. Prisoners are subject to torture and inhumane treatment. Public and secret executions of prisoners, even children, especially in cases of attempted escape are commonplace. Infanticides (and infant killings upon birth) also often occur. The mortality rate is very high, because many prisoners die of starvation, illnesses, work accidents, or torture.</Text>
+		</Row>
+
+
+		<!-- 지도자 대사 -->
+		<!--<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_CONS_KIM_ILSUNG_ANY" Language="en_US">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_CONS_KIM_ILSUNG_ANY" Language="en_US">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_CONS_KIM_ILSUNG_ANY" Language="en_US">
+			<Text></Text>
+		</Row>-->
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_CONS_KIM_ILSUNG_ANY" Language="en_US">
+			<Text>I see you're a like-minded individual, and must commend your government practices.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_CONS_KIM_ILSUNG_ANY" Language="en_US">
+			<Text>Our ideological differences are only the beginning. I cannot approve of the way you govern your people...</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_CONS_KIM_JONGIL_ANY" Language="en_US">
+			<Text>The number of people living in your empire is truly impressive.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_CONS_KIM_JONGIL_ANY" Language="en_US">
+			<Text>You have so few troops.  Aren't you scared for your life?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_CONS_KIM_JONGUN_ANY" Language="en_US">
+			<Text>I see you're a like-minded individual, and must commend your government practices.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_CONS_KIM_JONGUN_ANY" Language="en_US">
+			<Text>You have so few troops.  Aren't you scared for your life?</Text>
+		</Row>
+	</LocalizedText>
+</GameData>

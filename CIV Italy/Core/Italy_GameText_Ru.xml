@@ -1,0 +1,258 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<LocalizedText>
+		<!--CIVILIZATION-->
+		<Row Tag="LOC_CIVILIZATION_JFD_ITALY_NAME" Language="ru_RU">
+			<Text>Италия</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_JFD_ITALY_DESCRIPTION" Language="ru_RU">
+			<Text>Итальянская империя</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_JFD_ITALY_ADJECTIVE" Language="ru_RU">
+			<Text>Итальянский</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_JFD_ITALY_DESCRIPTION_JFD_CIVILIZATION" Language="ru_RU">
+			<Text>Итальянская цивилизация</Text>
+		</Row>
+		<!--Trait-->
+		<Row Tag="LOC_TRAIT_CIVILIZATION_JFD_CENTRES_OF_RENAISSANCE_NAME" Language="ru_RU">
+			<Text>Центры Возрождения</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_JFD_CENTRES_OF_RENAISSANCE_DESCRIPTION" Language="ru_RU">
+			<Text>Все районы получают дополнительные очки [ICON_GREATPERSON] великих людей за соседство с другим районом.</Text>
+		</Row>
+		<!--Cities-->
+		<Row Tag="LOC_CITY_NAME_JFD_ITALY_1" Language="ru_RU">
+			<Text>Рим</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JFD_ITALY_2" Language="ru_RU">
+			<Text>Неаполь</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JFD_ITALY_3" Language="ru_RU">
+			<Text>Милан</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JFD_ITALY_4" Language="ru_RU">
+			<Text>Турин</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JFD_ITALY_5" Language="ru_RU">
+			<Text>Палермо</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JFD_ITALY_6" Language="ru_RU">
+			<Text>Модена</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JFD_ITALY_7" Language="ru_RU">
+			<Text>Венеция</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JFD_ITALY_8" Language="ru_RU">
+			<Text>Брешиа</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JFD_ITALY_9" Language="ru_RU">
+			<Text>Генуя</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JFD_ITALY_10" Language="ru_RU">
+			<Text>Виченца</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JFD_ITALY_11" Language="ru_RU">
+			<Text>Флоренция</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JFD_ITALY_12" Language="ru_RU">
+			<Text>Прато</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JFD_ITALY_13" Language="ru_RU">
+			<Text>Болонья</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JFD_ITALY_14" Language="ru_RU">
+			<Text>Бари</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JFD_ITALY_15" Language="ru_RU">
+			<Text>Катания</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JFD_ITALY_16" Language="ru_RU">
+			<Text>Верона</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JFD_ITALY_17" Language="ru_RU">
+			<Text>Парма</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JFD_ITALY_18" Language="ru_RU">
+			<Text>Ливорно</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JFD_ITALY_19" Language="ru_RU">
+			<Text>Кальяри</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JFD_ITALY_20" Language="ru_RU">
+			<Text>Фоджа</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JFD_ITALY_21" Language="ru_RU">
+			<Text>Салерно</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JFD_ITALY_22" Language="ru_RU">
+			<Text>Пиза</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JFD_ITALY_23" Language="ru_RU">
+			<Text>Асти</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JFD_ITALY_24" Language="ru_RU">
+			<Text>Мессина</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JFD_ITALY_25" Language="ru_RU">
+			<Text>Триест</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JFD_ITALY_26" Language="ru_RU">
+			<Text>Падуя</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JFD_ITALY_27" Language="ru_RU">
+			<Text>Сиракуза</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JFD_ITALY_28" Language="ru_RU">
+			<Text>Феррара</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JFD_ITALY_29" Language="ru_RU">
+			<Text>Новара</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JFD_ITALY_30" Language="ru_RU">
+			<Text>Римини</Text>
+		</Row>
+		<!--Citizens-->
+		<Row Tag="LOC_CITIZEN_JFD_ITALY_MALE_1" Language="ru_RU">
+			<Text>Антонио</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_ITALY_MALE_2" Language="ru_RU">
+			<Text>Бернардо</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_ITALY_MALE_3" Language="ru_RU">
+			<Text>Витале</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_ITALY_MALE_4" Language="ru_RU">
+			<Text>Гуерино</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_ITALY_MALE_5" Language="ru_RU">
+			<Text>Джакомо</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_ITALY_MALE_6" Language="ru_RU">
+			<Text>Коломбано</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_ITALY_MALE_7" Language="ru_RU">
+			<Text>Лоренцо</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_ITALY_MALE_8" Language="ru_RU">
+			<Text>Мэнлайо</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_ITALY_MALE_9" Language="ru_RU">
+			<Text>Никола</Text>
+		</Row>
+                <Row Tag="LOC_CITIZEN_JFD_ITALY_MALE_10" Language="ru_RU">
+			<Text>Вилли</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_ITALY_MODERN_MALE_1" Language="ru_RU">
+			<Text>Орсино</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_ITALY_MODERN_MALE_2" Language="ru_RU">
+			<Text>Паоло</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_ITALY_MODERN_MALE_3" Language="ru_RU">
+			<Text>Руджеро</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_ITALY_MODERN_MALE_4" Language="ru_RU">
+			<Text>Сильвио</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_ITALY_MODERN_MALE_5" Language="ru_RU">
+			<Text>Фабио</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_ITALY_MODERN_MALE_6" Language="ru_RU">
+			<Text>Фабрицио</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_ITALY_MODERN_MALE_7" Language="ru_RU">
+			<Text>Чезаре</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_ITALY_MODERN_MALE_8" Language="ru_RU">
+			<Text>Элиджио</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_ITALY_MODERN_MALE_9" Language="ru_RU">
+			<Text>Джузеппе</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_ITALY_MODERN_MALE_10" Language="ru_RU">
+			<Text>Леопольдо</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_ITALY_FEMALE_1" Language="ru_RU">
+			<Text>Анжелика</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_ITALY_FEMALE_2" Language="ru_RU">
+			<Text>Беатрис</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_ITALY_FEMALE_3" Language="ru_RU">
+			<Text>Винсенза</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_ITALY_FEMALE_4" Language="ru_RU">
+			<Text>Габриэлла</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_ITALY_FEMALE_5" Language="ru_RU">
+			<Text>Дебора</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_ITALY_FEMALE_6" Language="ru_RU">
+			<Text>Елена</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_ITALY_FEMALE_7" Language="ru_RU">
+			<Text>Женевра</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_ITALY_FEMALE_8" Language="ru_RU">
+			<Text>Инес</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_ITALY_FEMALE_9" Language="ru_RU">
+			<Text>Карлотта</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_ITALY_FEMALE_10" Language="ru_RU">
+			<Text>Лукреция</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_ITALY_MODERN_FEMALE_1" Language="ru_RU">
+			<Text>Мими</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_ITALY_MODERN_FEMALE_2" Language="ru_RU">
+			<Text>Николетта</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_ITALY_MODERN_FEMALE_3" Language="ru_RU">
+			<Text>Орсола</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_ITALY_MODERN_FEMALE_4" Language="ru_RU">
+			<Text>Патриция</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_ITALY_MODERN_FEMALE_5" Language="ru_RU">
+			<Text>Розетта</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_ITALY_MODERN_FEMALE_6" Language="ru_RU">
+			<Text>Сусана</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_ITALY_MODERN_FEMALE_7" Language="ru_RU">
+			<Text>Фелисита</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_ITALY_MODERN_FEMALE_8" Language="ru_RU">
+			<Text>Эрсилия</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_ITALY_MODERN_FEMALE_9" Language="ru_RU">
+			<Text>Чиэра</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_ITALY_MODERN_FEMALE_10" Language="ru_RU">
+			<Text>Тина</Text>
+		</Row>
+		<!--CONDOTIERRE-->
+		<Row Tag="LOC_UNIT_JFD_CONDOTIERRE_NAME" Language="ru_RU">
+			<Text>Кондотьер</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_JFD_CONDOTIERRE_DESCRIPTION" Language="ru_RU">
+			<Text>Итальянский уникальный средневековый конный юнит, который может быть приобретен только за [ICON_GOLD] золото, но не требует затрат на содержание. Получает +5 [ICON_STRENGTH] к боевой мощи, когда сражается на (или около) своей территории.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_JFD_CONDOTIERRE_NAME" Language="ru_RU">
+			<Text>Белый отряд</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_JFD_CONDOTIERRE_DESCRIPTION" Language="ru_RU">
+			<Text>+5 [ICON_Strength] к боевой мощи, когда сражается на (или около) своей территории.</Text>
+		</Row>
+		<!--DUOMO-->
+		<Row Tag="LOC_BUILDING_JFD_DUOMO_NAME" Language="ru_RU">
+			<Text>Дуомо</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_JFD_DUOMO_DESCRIPTION" Language="ru_RU">
+			<Text>Итальянское уникальное здание, которое дает бонус к [ICON_FAITH] вере, эквивалентный бонусу к [ICON_CULTURE] культуре от соседства для театральной площади. Содержит ячейку шедевра изобразительного искусства и генерирует очки [ICON_CULTURE] культуры.</Text>
+		</Row>
+	</LocalizedText>
+</GameData>

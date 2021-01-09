@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<AssetObjects..XLP>
+	<m_Version>
+		<major>4</major>
+		<minor>0</minor>
+		<build>315</build>
+		<revision>805</revision>
+	</m_Version>
+	<m_ClassName text="UITexture"/>
+	<m_PackageName text="UI/Icons"/>
+	<m_Entries>
+		<Element>
+			<m_EntryID text="DuomoBuildingPortraits128"/>
+			<m_ObjectName text="DuomoBuildingPortraits128"/>
+		</Element>
+		<Element>
+			<m_EntryID text="DuomoBuildingPortraits256"/>
+			<m_ObjectName text="DuomoBuildingPortraits256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="DuomoBuildingPortraits32"/>
+			<m_ObjectName text="DuomoBuildingPortraits32"/>
+		</Element>
+		<Element>
+			<m_EntryID text="DuomoBuildingPortraits38"/>
+			<m_ObjectName text="DuomoBuildingPortraits38"/>
+		</Element>
+		<Element>
+			<m_EntryID text="DuomoBuildingPortraits50"/>
+			<m_ObjectName text="DuomoBuildingPortraits50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="DuomoBuildingPortraits80"/>
+			<m_ObjectName text="DuomoBuildingPortraits80"/>
+		</Element>
+		<Element>
+			<m_EntryID text="CondotierreUnitFlags22"/>
+			<m_ObjectName text="CondotierreUnitFlags22"/>
+		</Element>
+		<Element>
+			<m_EntryID text="CondotierreUnitFlags256"/>
+			<m_ObjectName text="CondotierreUnitFlags256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="CondotierreUnitFlags32"/>
+			<m_ObjectName text="CondotierreUnitFlags32"/>
+		</Element>
+		<Element>
+			<m_EntryID text="CondotierreUnitFlags38"/>
+			<m_ObjectName text="CondotierreUnitFlags38"/>
+		</Element>
+		<Element>
+			<m_EntryID text="CondotierreUnitFlags50"/>
+			<m_ObjectName text="CondotierreUnitFlags50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="CondotierreUnitFlags80"/>
+			<m_ObjectName text="CondotierreUnitFlags80"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Italy22"/>
+			<m_ObjectName text="Italy22"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Italy256"/>
+			<m_ObjectName text="Italy256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Italy30"/>
+			<m_ObjectName text="Italy30"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Italy36"/>
+			<m_ObjectName text="Italy36"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Italy44"/>
+			<m_ObjectName text="Italy44"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Italy48"/>
+			<m_ObjectName text="Italy48"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Italy50"/>
+			<m_ObjectName text="Italy50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Italy64"/>
+			<m_ObjectName text="Italy64"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Italy80"/>
+			<m_ObjectName text="Italy80"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Italy200"/>
+			<m_ObjectName text="Italy200"/>
+		</Element>
+		<Element>
+			<m_EntryID text="CondotierreUnitPortraits200"/>
+			<m_ObjectName text="CondotierreUnitPortraits200"/>
+		</Element>
+		<Element>
+			<m_EntryID text="CondotierreUnitPortraits256"/>
+			<m_ObjectName text="CondotierreUnitPortraits256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="CondotierreUnitPortraits38"/>
+			<m_ObjectName text="CondotierreUnitPortraits38"/>
+		</Element>
+		<Element>
+			<m_EntryID text="CondotierreUnitPortraits50"/>
+			<m_ObjectName text="CondotierreUnitPortraits50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="CondotierreUnitPortraits70"/>
+			<m_ObjectName text="CondotierreUnitPortraits70"/>
+		</Element>
+		<Element>
+			<m_EntryID text="CondotierreUnitPortraits95"/>
+			<m_ObjectName text="CondotierreUnitPortraits95"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Italy45"/>
+			<m_ObjectName text="Italy45"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Moment_UniqueBuilding_JFD_Italy"/>
+			<m_ObjectName text="Moment_UniqueBuilding_JFD_Italy"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Moment_UniqueUnit_JFD_Italy"/>
+			<m_ObjectName text="Moment_UniqueUnit_JFD_Italy"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Italy128"/>
+			<m_ObjectName text="Italy128"/>
+		</Element>
+	</m_Entries>
+	<m_AllowedPlatforms>
+		<Element>WINDOWS</Element>
+		<Element>LINUX</Element>
+		<Element>MACOS</Element>
+		<Element>IOS</Element>
+	</m_AllowedPlatforms>
+</AssetObjects..XLP>
+

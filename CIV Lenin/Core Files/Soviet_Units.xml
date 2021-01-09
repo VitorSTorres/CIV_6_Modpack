@@ -1,0 +1,408 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Types>
+		<Row Type="UNIT_SC_SOVIETGUARD" Kind="KIND_UNIT"/>
+		<Row Type="UNIT_SC_T34" Kind="KIND_UNIT"/>
+		<Row Type="ABILITY_SC_SOVIETGUARD" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_SC_T34" Kind="KIND_ABILITY"/>
+		<Row Type="TRAIT_CIVILIZATION_UNIT_SC_SOVIETGUARD" Kind="KIND_TRAIT"/>
+		<Row Type="TRAIT_CIVILIZATION_UNIT_SC_T34" Kind="KIND_TRAIT"/>
+	</Types>
+	<Traits>
+		<Row TraitType="TRAIT_CIVILIZATION_UNIT_SC_SOVIETGUARD" Name="LOC_UNIT_SC_SOVIETGUARD_NAME" Description="LOC_UNIT_SC_SOVIETGUARD_DESCRIPTION"/>
+		<Row TraitType="TRAIT_CIVILIZATION_UNIT_SC_T34" Name="LOC_UNIT_SC_T34_NAME" Description="LOC_UNIT_SC_T34_DESCRIPTION"/>
+	</Traits>
+
+	<TypeTags>
+		<Row Type="ABILITY_SC_SOVIETGUARD" Tag="CLASS_SC_SOVIETGUARD"/>
+		<Row Type="ABILITY_SC_T34" Tag="CLASS_SC_T34"/>
+	</TypeTags>
+
+	<Tags>
+		<Row Tag="CLASS_SC_SOVIETGUARD" Vocabulary="ABILITY_CLASS"/>
+		<Row Tag="CLASS_SC_T34" Vocabulary="ABILITY_CLASS"/>
+	</Tags>
+	
+	<UnitAiInfos>
+		<Row UnitType="UNIT_SC_SOVIETGUARD" AiType="UNITAI_COMBAT"/>
+		<Row UnitType="UNIT_SC_SOVIETGUARD" AiType="UNITAI_EXPLORE"/>
+		<Row UnitType="UNIT_SC_SOVIETGUARD" AiType="UNITTYPE_MELEE"/>
+		<Row UnitType="UNIT_SC_SOVIETGUARD" AiType="UNITTYPE_LAND_COMBAT"/>
+		<Row UnitType="UNIT_SC_T34" AiType="UNITAI_COMBAT"/>
+		<Row UnitType="UNIT_SC_T34" AiType="UNITTYPE_MELEE"/>
+		<Row UnitType="UNIT_SC_T34" AiType="UNITTYPE_CAVALRY"/>
+		<Row UnitType="UNIT_SC_T34" AiType="UNITTYPE_LAND_COMBAT"/>
+	</UnitAiInfos>
+	
+	<TypeTags>
+		<Row Type="UNIT_SC_SOVIETGUARD" Tag="CLASS_MELEE"/>
+		<Row Type="UNIT_SC_SOVIETGUARD" Tag="CLASS_SC_SOVIETGUARD"/>
+		<Row Type="UNIT_SC_T34" Tag="CLASS_HEAVY_CHARIOT"/>
+		<Row Type="UNIT_SC_T34" Tag="CLASS_HEAVY_CAVALRY"/>
+		<Row Type="UNIT_SC_T34" Tag="CLASS_SC_T34"/>
+	</TypeTags>
+	
+	<Units>
+		<Row UnitType="UNIT_SC_SOVIETGUARD" BaseMoves="2" Cost="400" AdvisorType="ADVISOR_CONQUEST" BaseSightRange="2" Domain="DOMAIN_LAND" FormationClass="FORMATION_CLASS_LAND_COMBAT" Name="LOC_UNIT_SC_SOVIETGUARD_NAME" Description="LOC_UNIT_SC_SOVIETGUARD_DESCRIPTION" PurchaseYield="YIELD_GOLD" PromotionClass="PROMOTION_CLASS_MELEE" Maintenance="6" Combat="64" PrereqCivic="CIVIC_IDEOLOGY" TraitType="TRAIT_CIVILIZATION_UNIT_SC_SOVIETGUARD"/>
+		<Row UnitType="UNIT_SC_T34" Cost="380" Maintenance="3" BaseMoves="4" BaseSightRange="2" ZoneOfControl="true" Domain="DOMAIN_LAND" Combat="80" FormationClass="FORMATION_CLASS_LAND_COMBAT" PromotionClass="PROMOTION_CLASS_HEAVY_CAVALRY" AdvisorType="ADVISOR_CONQUEST" Name="LOC_UNIT_SC_T34_NAME" Description="LOC_UNIT_SC_T34_DESCRIPTION" PurchaseYield="YIELD_GOLD" PrereqTech="TECH_COMBUSTION" TraitType="TRAIT_CIVILIZATION_UNIT_SC_T34"/>
+	</Units>
+	
+	<UnitUpgrades>
+		<Row Unit="UNIT_SC_SOVIETGUARD" UpgradeUnit="UNIT_MECHANIZED_INFANTRY"/>
+		<Row Unit="UNIT_SC_T34" UpgradeUnit="UNIT_MODERN_ARMOR"/>
+	</UnitUpgrades>
+	
+	
+	<UnitReplaces>
+		<Row CivUniqueUnitType="UNIT_SC_T34" ReplacesUnitType="UNIT_TANK"/>
+	</UnitReplaces>
+
+	<UnitAbilities>
+		<Row UnitAbilityType="ABILITY_SC_SOVIETGUARD" Name="LOC_ABILITY_SC_SOVIETGUARD_NAME" Description="LOC_ABILITY_SC_SOVIETGUARD_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_SC_T34" Name="LOC_ABILITY_SC_T34_NAME" Description="LOC_ABILITY_SC_T34_DESCRIPTION"/>
+	</UnitAbilities>
+
+
+	<UnitAbilityModifiers>
+		<Row>
+			<UnitAbilityType>ABILITY_SC_SOVIETGUARD</UnitAbilityType>
+			<ModifierId>SC_SOVIETGUARD_TUNDRA_SNOW_MOVEMENT</ModifierId>
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_SC_SOVIETGUARD</UnitAbilityType>
+			<ModifierId>SC_SOVIETGUARD_TUNDRA_SNOW_STRENGTH</ModifierId>
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_SC_SOVIETGUARD</UnitAbilityType>
+			<ModifierId>SC_SOVIETGUARD_TUNDRA_SPY_MOVEMENT</ModifierId>
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_SC_SOVIETGUARD</UnitAbilityType>
+			<ModifierId>SC_SOVIETGUARD_TUNDRA_SPY_STRENGTH</ModifierId>
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_SC_SOVIETGUARD</UnitAbilityType>
+			<ModifierId>SC_SOVIETGUARD_SNOW_SPY_MOVEMENT</ModifierId>
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_SC_SOVIETGUARD</UnitAbilityType>
+			<ModifierId>SC_SOVIETGUARD_SNOW_SPY_STRENGTH</ModifierId>
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_SC_SOVIETGUARD</UnitAbilityType>
+			<ModifierId>SC_SOVIETGUARD_TUNDRA_HILLS_SPY_MOVEMENT</ModifierId>
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_SC_SOVIETGUARD</UnitAbilityType>
+			<ModifierId>SC_SOVIETGUARD_TUNDRA_HILLS_SPY_STRENGTH</ModifierId>
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_SC_SOVIETGUARD</UnitAbilityType>
+			<ModifierId>SC_SOVIETGUARD_SNOW_HILLS_SPY_MOVEMENT</ModifierId>
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_SC_SOVIETGUARD</UnitAbilityType>
+			<ModifierId>SC_SOVIETGUARD_SNOW_HILLS_SPY_STRENGTH</ModifierId>
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_SC_T34</UnitAbilityType>
+			<ModifierId>SC_T34_CITY_STATE_STRENGTH</ModifierId>
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_SC_T34</UnitAbilityType>
+			<ModifierId>SC_T34_DEFENSE_STRENGTH</ModifierId>
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_SC_T34</UnitAbilityType>
+			<ModifierId>SC_T34_SECOND_COPY</ModifierId>
+		</Row>
+	</UnitAbilityModifiers>
+
+	<Modifiers>
+		<Row>
+			<ModifierId>SC_SOVIETGUARD_TUNDRA_SNOW_MOVEMENT</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_UNIT_ADJUST_MOVEMENT</ModifierType>
+			<SubjectRequirementSetId>SC_REQUIREMENT_SOVIETGUARD_PLOT_IS_TUNDRA_OR_SNOW</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>SC_SOVIETGUARD_TUNDRA_SNOW_STRENGTH</ModifierId>
+			<ModifierType>MODIFIER_UNIT_ADJUST_COMBAT_STRENGTH</ModifierType>
+			<SubjectRequirementSetId>SC_REQUIREMENT_SOVIETGUARD_PLOT_IS_TUNDRA_OR_SNOW</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>SC_SOVIETGUARD_TUNDRA_SPY_MOVEMENT</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_UNIT_ADJUST_MOVEMENT</ModifierType>
+			<SubjectRequirementSetId>SC_REQUIREMENT_SOVIETGUARD_PLOT_IS_TUNDRA_SPY</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>SC_SOVIETGUARD_TUNDRA_SPY_STRENGTH</ModifierId>
+			<ModifierType>MODIFIER_UNIT_ADJUST_COMBAT_STRENGTH</ModifierType>
+			<SubjectRequirementSetId>SC_REQUIREMENT_SOVIETGUARD_PLOT_IS_TUNDRA_SPY</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>SC_SOVIETGUARD_SNOW_SPY_MOVEMENT</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_UNIT_ADJUST_MOVEMENT</ModifierType>
+			<SubjectRequirementSetId>SC_REQUIREMENT_SOVIETGUARD_PLOT_IS_SNOW_SPY</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>SC_SOVIETGUARD_SNOW_SPY_STRENGTH</ModifierId>
+			<ModifierType>MODIFIER_UNIT_ADJUST_COMBAT_STRENGTH</ModifierType>
+			<SubjectRequirementSetId>SC_REQUIREMENT_SOVIETGUARD_PLOT_IS_SNOW_SPY</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>SC_SOVIETGUARD_TUNDRA_HILLS_SPY_MOVEMENT</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_UNIT_ADJUST_MOVEMENT</ModifierType>
+			<SubjectRequirementSetId>SC_REQUIREMENT_SOVIETGUARD_PLOT_IS_TUNDRA_HILLS_SPY</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>SC_SOVIETGUARD_TUNDRA_HILLS_SPY_STRENGTH</ModifierId>
+			<ModifierType>MODIFIER_UNIT_ADJUST_COMBAT_STRENGTH</ModifierType>
+			<SubjectRequirementSetId>SC_REQUIREMENT_SOVIETGUARD_PLOT_IS_TUNDRA_HILLS_SPY</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>SC_SOVIETGUARD_SNOW_HILLS_SPY_MOVEMENT</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_UNIT_ADJUST_MOVEMENT</ModifierType>
+			<SubjectRequirementSetId>SC_REQUIREMENT_SOVIETGUARD_PLOT_IS_SNOW_HILLS_SPY</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>SC_SOVIETGUARD_SNOW_HILLS_SPY_STRENGTH</ModifierId>
+			<ModifierType>MODIFIER_UNIT_ADJUST_COMBAT_STRENGTH</ModifierType>
+			<SubjectRequirementSetId>SC_REQUIREMENT_SOVIETGUARD_PLOT_IS_SNOW_HILLS_SPY</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>SC_T34_CITY_STATE_STRENGTH</ModifierId>
+			<ModifierType>MODIFIER_UNIT_ADJUST_COMBAT_STRENGTH</ModifierType>
+			<SubjectRequirementSetId>REQUIREMENTS_OPPONENT_IS_MINOR_CIV</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>SC_T34_DEFENSE_STRENGTH</ModifierId>
+			<ModifierType>MODIFIER_UNIT_ADJUST_COMBAT_STRENGTH</ModifierType>
+			<SubjectRequirementSetId>SC_REQSET_T34_DEFENSE</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>SC_T34_SECOND_COPY</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_UNITS_ADJUST_EXTRA_UNIT_COPY</ModifierType>
+			<SubjectRequirementSetId>SC_REQSET_T34_WARTIME</SubjectRequirementSetId>
+		</Row>
+	</Modifiers>
+
+	<ModifierArguments>
+		<Row>
+			<ModifierId>SC_SOVIETGUARD_TUNDRA_SNOW_MOVEMENT</ModifierId>
+			<Name>Amount</Name>
+			<Value>1</Value>
+		</Row>
+		<Row>
+			<ModifierId>SC_SOVIETGUARD_TUNDRA_SNOW_STRENGTH</ModifierId>
+			<Name>Amount</Name>
+			<Value>7</Value>
+		</Row>
+		<Row>
+			<ModifierId>SC_SOVIETGUARD_TUNDRA_SPY_MOVEMENT</ModifierId>
+			<Name>Amount</Name>
+			<Value>1</Value>
+		</Row>
+		<Row>
+			<ModifierId>SC_SOVIETGUARD_TUNDRA_SPY_STRENGTH</ModifierId>
+			<Name>Amount</Name>
+			<Value>7</Value>
+		</Row>
+		<Row>
+			<ModifierId>SC_SOVIETGUARD_SNOW_SPY_MOVEMENT</ModifierId>
+			<Name>Amount</Name>
+			<Value>1</Value>
+		</Row>
+		<Row>
+			<ModifierId>SC_SOVIETGUARD_SNOW_SPY_STRENGTH</ModifierId>
+			<Name>Amount</Name>
+			<Value>7</Value>
+		</Row>
+		<Row>
+			<ModifierId>SC_SOVIETGUARD_TUNDRA_HILLS_SPY_MOVEMENT</ModifierId>
+			<Name>Amount</Name>
+			<Value>1</Value>
+		</Row>
+		<Row>
+			<ModifierId>SC_SOVIETGUARD_TUNDRA_HILLS_SPY_STRENGTH</ModifierId>
+			<Name>Amount</Name>
+			<Value>7</Value>
+		</Row>
+		<Row>
+			<ModifierId>SC_SOVIETGUARD_SNOW_HILLS_SPY_MOVEMENT</ModifierId>
+			<Name>Amount</Name>
+			<Value>1</Value>
+		</Row>
+		<Row>
+			<ModifierId>SC_SOVIETGUARD_SNOW_HILLS_SPY_STRENGTH</ModifierId>
+			<Name>Amount</Name>
+			<Value>7</Value>
+		</Row>
+		<Row>
+			<ModifierId>SC_T34_CITY_STATE_STRENGTH</ModifierId>
+			<Name>Amount</Name>
+			<Value>7</Value>
+		</Row>
+		<Row>
+			<ModifierId>SC_T34_DEFENSE_STRENGTH</ModifierId>
+			<Name>Amount</Name>
+			<Value>10</Value>
+		</Row>
+		<Row>
+			<ModifierId>SC_T34_SECOND_COPY</ModifierId>
+			<Name>UnitType</Name>
+			<Value>UNIT_SC_T34</Value>
+		</Row>
+		<Row>
+			<ModifierId>SC_T34_SECOND_COPY</ModifierId>
+			<Name>Amount</Name>
+			<Value>1</Value>
+		</Row>
+	</ModifierArguments>
+
+	<RequirementSets>
+		<Row>
+			<RequirementSetId>SC_REQUIREMENT_SOVIETGUARD_PLOT_IS_TUNDRA_OR_SNOW</RequirementSetId>
+			<RequirementSetType>REQUIREMENTSET_TEST_ANY</RequirementSetType>
+		</Row>
+		<Row>
+			<RequirementSetId>SC_REQUIREMENT_SOVIETGUARD_PLOT_IS_TUNDRA_SPY</RequirementSetId>
+			<RequirementSetType>REQUIREMENTSET_TEST_ALL</RequirementSetType>
+		</Row>
+		<Row>
+			<RequirementSetId>SC_REQUIREMENT_SOVIETGUARD_PLOT_IS_SNOW_SPY</RequirementSetId>
+			<RequirementSetType>REQUIREMENTSET_TEST_ALL</RequirementSetType>
+		</Row>
+		<Row>
+			<RequirementSetId>SC_REQUIREMENT_SOVIETGUARD_PLOT_IS_TUNDRA_HILLS_SPY</RequirementSetId>
+			<RequirementSetType>REQUIREMENTSET_TEST_ALL</RequirementSetType>
+		</Row>
+		<Row>
+			<RequirementSetId>SC_REQUIREMENT_SOVIETGUARD_PLOT_IS_SNOW_HILLS_SPY</RequirementSetId>
+			<RequirementSetType>REQUIREMENTSET_TEST_ALL</RequirementSetType>
+		</Row>
+		<Row>
+			<RequirementSetId>SC_REQSET_T34_DEFENSE</RequirementSetId>
+			<RequirementSetType>REQUIREMENTSET_TEST_ALL</RequirementSetType>
+		</Row>
+		<Row>
+			<RequirementSetId>SC_REQSET_T34_WARTIME</RequirementSetId>
+			<RequirementSetType>REQUIREMENTSET_TEST_ALL</RequirementSetType>
+		</Row>
+	</RequirementSets>
+
+	<RequirementSetRequirements>
+		<Row>
+			<RequirementSetId>SC_REQUIREMENT_SOVIETGUARD_PLOT_IS_TUNDRA_OR_SNOW</RequirementSetId>
+			<RequirementId>REQUIRES_PLOT_HAS_TUNDRA</RequirementId>
+		</Row>
+		<Row>
+			<RequirementSetId>SC_REQUIREMENT_SOVIETGUARD_PLOT_IS_TUNDRA_OR_SNOW</RequirementSetId>
+			<RequirementId>SC_SOVIETGUARD_PLOT_IS_SNOW</RequirementId>
+		</Row>
+		<Row>
+			<RequirementSetId>SC_REQUIREMENT_SOVIETGUARD_PLOT_IS_TUNDRA_OR_SNOW</RequirementSetId>
+			<RequirementId>REQUIRES_PLOT_HAS_TUNDRA_HILLS</RequirementId>
+		</Row>
+		<Row>
+			<RequirementSetId>SC_REQUIREMENT_SOVIETGUARD_PLOT_IS_TUNDRA_OR_SNOW</RequirementSetId>
+			<RequirementId>SC_SOVIETGUARD_PLOT_IS_SNOW_HILLS</RequirementId>
+		</Row>
+		<Row>
+			<RequirementSetId>SC_REQUIREMENT_SOVIETGUARD_PLOT_IS_TUNDRA_SPY</RequirementSetId>
+			<RequirementId>REQUIRES_PLOT_HAS_TUNDRA</RequirementId>
+		</Row>
+		<Row>
+			<RequirementSetId>SC_REQUIREMENT_SOVIETGUARD_PLOT_IS_TUNDRA_SPY</RequirementSetId>
+			<RequirementId>SC_SOVIETGUARD_REQUIRES_ADJACENT_SPY</RequirementId>
+		</Row>
+		<Row>
+			<RequirementSetId>SC_REQUIREMENT_SOVIETGUARD_PLOT_IS_SNOW_SPY</RequirementSetId>
+			<RequirementId>SC_SOVIETGUARD_PLOT_IS_SNOW</RequirementId>
+		</Row>
+		<Row>
+			<RequirementSetId>SC_REQUIREMENT_SOVIETGUARD_PLOT_IS_SNOW_SPY</RequirementSetId>
+			<RequirementId>SC_SOVIETGUARD_REQUIRES_ADJACENT_SPY</RequirementId>
+		</Row>
+		<Row>
+			<RequirementSetId>SC_REQUIREMENT_SOVIETGUARD_PLOT_IS_TUNDRA_HILLS_SPY</RequirementSetId>
+			<RequirementId>REQUIRES_PLOT_HAS_TUNDRA_HILLS</RequirementId>
+		</Row>
+		<Row>
+			<RequirementSetId>SC_REQUIREMENT_SOVIETGUARD_PLOT_IS_TUNDRA_HILLS_SPY</RequirementSetId>
+			<RequirementId>SC_SOVIETGUARD_REQUIRES_ADJACENT_SPY</RequirementId>
+		</Row>
+		<Row>
+			<RequirementSetId>SC_REQUIREMENT_SOVIETGUARD_PLOT_IS_SNOW_HILLS_SPY</RequirementSetId>
+			<RequirementId>SC_SOVIETGUARD_PLOT_IS_SNOW_HILLS</RequirementId>
+		</Row>
+		<Row>
+			<RequirementSetId>SC_REQUIREMENT_SOVIETGUARD_PLOT_IS_SNOW_HILLS_SPY</RequirementSetId>
+			<RequirementId>SC_SOVIETGUARD_REQUIRES_ADJACENT_SPY</RequirementId>
+		</Row>
+		<Row>
+			<RequirementSetId>SC_REQSET_T34_DEFENSE</RequirementSetId>
+			<RequirementId>UNIT_WEAK_WHEN_DEFENDING_REQUIREMENT</RequirementId>
+		</Row>
+		<Row>
+			<RequirementSetId>SC_REQSET_T34_DEFENSE</RequirementSetId>
+			<RequirementId>UNIT_IN_OWNER_TERRITORY_REQUIREMENT</RequirementId>
+		</Row>
+		<Row>
+			<RequirementSetId>SC_REQSET_T34_WARTIME</RequirementSetId>
+			<RequirementId>SC_T34_REQUIRES_WARTIME</RequirementId>
+		</Row>
+	</RequirementSetRequirements>
+
+	<Requirements>
+		<Row>
+			<RequirementId>SC_SOVIETGUARD_PLOT_IS_SNOW</RequirementId>
+			<RequirementType>REQUIREMENT_PLOT_TERRAIN_TYPE_MATCHES</RequirementType>
+		</Row>
+		<Row>
+			<RequirementId>SC_SOVIETGUARD_PLOT_IS_SNOW_HILLS</RequirementId>
+			<RequirementType>REQUIREMENT_PLOT_TERRAIN_TYPE_MATCHES</RequirementType>
+		</Row>
+		<Row>
+			<RequirementId>SC_SOVIETGUARD_REQUIRES_ADJACENT_SPY</RequirementId>
+			<RequirementType>REQUIREMENT_PLOT_ADJACENT_FRIENDLY_UNIT_TYPE_MATCHES</RequirementType>
+		</Row>
+		<Row>
+			<RequirementId>SC_T34_REQUIRES_WARTIME</RequirementId>
+			<RequirementType>REQUIREMENT_PLAYER_IS_AT_PEACE_WITH_ALL_MAJORS</RequirementType>
+			<Inverse>true</Inverse>
+		</Row>
+	</Requirements>
+
+	<RequirementArguments>
+		<Row>
+			<RequirementId>SC_SOVIETGUARD_PLOT_IS_SNOW</RequirementId>
+			<Name>TerrainType</Name>
+			<Value>TERRAIN_SNOW</Value>
+		</Row>
+		<Row>
+			<RequirementId>SC_SOVIETGUARD_PLOT_IS_SNOW_HILLS</RequirementId>
+			<Name>TerrainType</Name>
+			<Value>TERRAIN_SNOW_HILLS</Value>
+		</Row>
+		<Row>
+			<RequirementId>SC_SOVIETGUARD_REQUIRES_ADJACENT_SPY</RequirementId>
+			<Name>UnitType</Name>
+			<Value>UNIT_SPY</Value>
+		</Row>
+	</RequirementArguments>
+
+	<ModifierStrings>
+		<Row ModifierId="SC_SOVIETGUARD_TUNDRA_SNOW_MOVEMENT" Context="Preview" Text="LOC_ABILITY_SC_SOVIETGUARD_TUNDRA_SNOW_MOVEMENT_DESCRIPTION"/>
+		<Row ModifierId="SC_SOVIETGUARD_TUNDRA_SNOW_STRENGTH" Context="Preview" Text="LOC_ABILITY_SC_SOVIETGUARD_TUNDRA_SNOW_STRENGTH_DESCRIPTION"/>
+		<Row ModifierId="SC_SOVIETGUARD_TUNDRA_SPY_MOVEMENT" Context="Preview" Text="LOC_ABILITY_SC_SOVIETGUARD_TUNDRA_SPY_MOVEMENT_DESCRIPTION"/>
+		<Row ModifierId="SC_SOVIETGUARD_TUNDRA_SPY_STRENGTH" Context="Preview" Text="LOC_ABILITY_SC_SOVIETGUARD_TUNDRA_SPY_STRENGTH_DESCRIPTION"/>
+		<Row ModifierId="SC_SOVIETGUARD_SNOW_SPY_MOVEMENT" Context="Preview" Text="LOC_ABILITY_SC_SOVIETGUARD_SNOW_SPY_MOVEMENT_DESCRIPTION"/>
+		<Row ModifierId="SC_SOVIETGUARD_SNOW_SPY_STRENGTH" Context="Preview" Text="LOC_ABILITY_SC_SOVIETGUARD_SNOW_SPY_STRENGTH_DESCRIPTION"/>
+		<Row ModifierId="SC_SOVIETGUARD_TUNDRA_HILLS_SPY_MOVEMENT" Context="Preview" Text="LOC_ABILITY_SC_SOVIETGUARD_TUNDRA_HILLS_SPY_MOVEMENT_DESCRIPTION"/>
+		<Row ModifierId="SC_SOVIETGUARD_TUNDRA_HILLS_SPY_STRENGTH" Context="Preview" Text="LOC_ABILITY_SC_SOVIETGUARD_TUNDRA_HILLS_SPY_STRENGTH_DESCRIPTION"/>
+		<Row ModifierId="SC_SOVIETGUARD_SNOW_HILLS_SPY_MOVEMENT" Context="Preview" Text="LOC_ABILITY_SC_SOVIETGUARD_SNOW_HILLS_SPY_MOVEMENT_DESCRIPTION"/>
+		<Row ModifierId="SC_SOVIETGUARD_SNOW_HILLS_SPY_STRENGTH" Context="Preview" Text="LOC_ABILITY_SC_SOVIETGUARD_SNOW_HILLS_SPY_STRENGTH_DESCRIPTION"/>
+		<Row ModifierId="SC_T34_CITY_STATE_STRENGTH" Context="Preview" Text="LOC_ABILITY_SC_T34_CITY_STATE_STRENGTH_DESCRIPTION"/>
+		<Row ModifierId="SC_T34_DEFENSE_STRENGTH" Context="Preview" Text="LOC_ABILITY_SC_T34_DEFENSE_STRENGTH_DESCRIPTION"/>
+	</ModifierStrings>
+</GameData>

@@ -1,0 +1,53 @@
+Event	ID	Name			Wwise Object Path	Notes
+	182642590	Start_Music_Leu_Mexico			\Default Work Unit\Start_Music_Leu_Mexico	LEU_MEXICO
+	1094588140	Stop_Music_Leu_Mexico			\Default Work Unit\Stop_Music_Leu_Mexico	LEU_MEXICO
+	1245455386	Stop_Leader_Music_Leu_Mexico			\Default Work Unit\Stop_Leader_Music_Leu_Mexico	LEU_MEXICO
+	2756264484	Pause_Music_Leu_Mexico			\Default Work Unit\Pause_Music_Leu_Mexico	LEU_MEXICO
+	3100915035	Resume_Music_Leu_Mexico			\Default Work Unit\Resume_Music_Leu_Mexico	LEU_MEXICO
+	3359758358	Play_Music_Leu_Mexico			\Default Work Unit\Play_Music_Leu_Mexico	LEU_MEXICO
+	3801966344	Play_Leader_Music_Leu_Mexico			\Default Work Unit\Play_Leader_Music_Leu_Mexico	LEU_MEXICO
+
+State Group	ID	Name			Wwise Object Path	Notes
+	3441926412	Game_Views			\Default Work Unit\Game_Views	
+
+State	ID	Name	State Group			Notes
+	138330285	LENS	Game_Views			
+	319258907	PAUSED	Game_Views			
+	706390200	NORMAL_VIEW	Game_Views			
+	748895195	None	Game_Views			
+	2005704188	MAIN_MENU	Game_Views			
+	2664707777	LEADER_SCREEN	Game_Views			
+	4264815106	ENDGAME	Game_Views			
+
+Custom State	ID	Name	State Group	Owner		Notes
+	15339170	ENDGAME	Game_Views	\Interactive Music Hierarchy\Default Work Unit\Leu_Mexico_Main_Theme		
+	195055787	LEADER_SCREEN	Game_Views	\Interactive Music Hierarchy\Default Work Unit\Leu_Mexico_Main_Theme		
+	211046846	ENDGAME	Game_Views	\Interactive Music Hierarchy\Default Work Unit\Leu_Mexico_Cultural_Soundtrack		
+	614646495	MAIN_MENU	Game_Views	\Interactive Music Hierarchy\Default Work Unit\Leu_Mexico_Main_Theme		
+	904588273	LEADER_SCREEN	Game_Views	\Interactive Music Hierarchy\Default Work Unit\Leu_Mexico_Cultural_Soundtrack		
+	993847867	MAIN_MENU	Game_Views	\Interactive Music Hierarchy\Default Work Unit\Leu_Mexico_Cultural_Soundtrack		
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	61196352	Mexico_Medieval_Cultural_7	C:\Users\MuXu\Documents\WwiseProjects\Leu_Mexico_Soundtrack\.cache\Windows\SFX\Mexico_Medieval_Cultural_7_4B8CC0C5.wem		\Interactive Music Hierarchy\Default Work Unit\Leu_Mexico_Cultural_Soundtrack\Mexico_Industrial_Soundtrack\Mexico_Medieval_Cultural_7\Mexico_Medieval_Cultural_7		17704
+	301456134	Mexico_Ancient	C:\Users\MuXu\Documents\WwiseProjects\Leu_Mexico_Soundtrack\.cache\Windows\SFX\Mexico_Ancient_4B8CC0C5.wem		\Interactive Music Hierarchy\Default Work Unit\Leu_Mexico_Main_Theme\Mexico_Ancient\Mexico_Ancient		17704
+	310099346	Mexico_Cultural_4	C:\Users\MuXu\Documents\WwiseProjects\Leu_Mexico_Soundtrack\.cache\Windows\SFX\Mexico_Cultural_4_4B8CC0C5.wem		\Interactive Music Hierarchy\Default Work Unit\Leu_Mexico_Cultural_Soundtrack\Mexico_Ancient_Soundtrack\Mexico_Cultural_4\Mexico_Cultural_4		8884
+	494457247	Mexico_Cultural_6	C:\Users\MuXu\Documents\WwiseProjects\Leu_Mexico_Soundtrack\.cache\Windows\SFX\Mexico_Cultural_6_4B8CC0C5.wem		\Interactive Music Hierarchy\Default Work Unit\Leu_Mexico_Cultural_Soundtrack\Mexico_Industrial_Soundtrack\Mexico_Cultural_6\Mexico_Cultural_6		17704
+	499257402	Mexico_Cultural_3	C:\Users\MuXu\Documents\WwiseProjects\Leu_Mexico_Soundtrack\.cache\Windows\SFX\Mexico_Cultural_3_4B8CC0C5.wem		\Interactive Music Hierarchy\Default Work Unit\Leu_Mexico_Cultural_Soundtrack\Mexico_Industrial_Soundtrack\Mexico_Cultural_3\Mexico_Cultural_3		8884
+	504222627	Mexico_Industrial	C:\Users\MuXu\Documents\WwiseProjects\Leu_Mexico_Soundtrack\.cache\Windows\SFX\Mexico_Industrial_4B8CC0C5.wem		\Interactive Music Hierarchy\Default Work Unit\Leu_Mexico_Main_Theme\Mexico_Industrial\Mexico_Industrial		17704
+	569430386	Mexico_Cultural_5	C:\Users\MuXu\Documents\WwiseProjects\Leu_Mexico_Soundtrack\.cache\Windows\SFX\Mexico_Cultural_5_4B8CC0C5.wem		\Interactive Music Hierarchy\Default Work Unit\Leu_Mexico_Cultural_Soundtrack\Mexico_Ancient_Soundtrack\Mexico_Cultural_5\Mexico_Cultural_5		17704
+	864734497	Mexico_Cultural_1	C:\Users\MuXu\Documents\WwiseProjects\Leu_Mexico_Soundtrack\.cache\Windows\SFX\Mexico_Cultural_1_4B8CC0C5.wem		\Interactive Music Hierarchy\Default Work Unit\Leu_Mexico_Cultural_Soundtrack\Mexico_Ancient_Soundtrack\Mexico_Cultural_1\Mexico_Cultural_1		8884
+	899326883	Mexico_Medieval-	C:\Users\MuXu\Documents\WwiseProjects\Leu_Mexico_Soundtrack\.cache\Windows\SFX\Mexico_Medieval-_4B8CC0C5.wem		\Interactive Music Hierarchy\Default Work Unit\Leu_Mexico_Main_Theme\Mexico_Medieval-\Mexico_Medieval-		17704
+	946060948	Mexico_Cultural_2	C:\Users\MuXu\Documents\WwiseProjects\Leu_Mexico_Soundtrack\.cache\Windows\SFX\Mexico_Cultural_2_4B8CC0C5.wem		\Interactive Music Hierarchy\Default Work Unit\Leu_Mexico_Cultural_Soundtrack\Mexico_Ancient_Soundtrack\Mexico_Cultural_2\Mexico_Cultural_2		8884
+
+Streamed Audio	ID	Name	Audio source file	Generated audio file	Wwise Object Path	Notes
+	61196352	Mexico_Medieval_Cultural_7	C:\Users\MuXu\Documents\WwiseProjects\Leu_Mexico_Soundtrack\.cache\Windows\SFX\Mexico_Medieval_Cultural_7_4B8CC0C5.wem	61196352.wem	\Interactive Music Hierarchy\Default Work Unit\Leu_Mexico_Cultural_Soundtrack\Mexico_Industrial_Soundtrack\Mexico_Medieval_Cultural_7\Mexico_Medieval_Cultural_7	
+	301456134	Mexico_Ancient	C:\Users\MuXu\Documents\WwiseProjects\Leu_Mexico_Soundtrack\.cache\Windows\SFX\Mexico_Ancient_4B8CC0C5.wem	301456134.wem	\Interactive Music Hierarchy\Default Work Unit\Leu_Mexico_Main_Theme\Mexico_Ancient\Mexico_Ancient	
+	310099346	Mexico_Cultural_4	C:\Users\MuXu\Documents\WwiseProjects\Leu_Mexico_Soundtrack\.cache\Windows\SFX\Mexico_Cultural_4_4B8CC0C5.wem	310099346.wem	\Interactive Music Hierarchy\Default Work Unit\Leu_Mexico_Cultural_Soundtrack\Mexico_Ancient_Soundtrack\Mexico_Cultural_4\Mexico_Cultural_4	
+	494457247	Mexico_Cultural_6	C:\Users\MuXu\Documents\WwiseProjects\Leu_Mexico_Soundtrack\.cache\Windows\SFX\Mexico_Cultural_6_4B8CC0C5.wem	494457247.wem	\Interactive Music Hierarchy\Default Work Unit\Leu_Mexico_Cultural_Soundtrack\Mexico_Industrial_Soundtrack\Mexico_Cultural_6\Mexico_Cultural_6	
+	499257402	Mexico_Cultural_3	C:\Users\MuXu\Documents\WwiseProjects\Leu_Mexico_Soundtrack\.cache\Windows\SFX\Mexico_Cultural_3_4B8CC0C5.wem	499257402.wem	\Interactive Music Hierarchy\Default Work Unit\Leu_Mexico_Cultural_Soundtrack\Mexico_Industrial_Soundtrack\Mexico_Cultural_3\Mexico_Cultural_3	
+	504222627	Mexico_Industrial	C:\Users\MuXu\Documents\WwiseProjects\Leu_Mexico_Soundtrack\.cache\Windows\SFX\Mexico_Industrial_4B8CC0C5.wem	504222627.wem	\Interactive Music Hierarchy\Default Work Unit\Leu_Mexico_Main_Theme\Mexico_Industrial\Mexico_Industrial	
+	569430386	Mexico_Cultural_5	C:\Users\MuXu\Documents\WwiseProjects\Leu_Mexico_Soundtrack\.cache\Windows\SFX\Mexico_Cultural_5_4B8CC0C5.wem	569430386.wem	\Interactive Music Hierarchy\Default Work Unit\Leu_Mexico_Cultural_Soundtrack\Mexico_Ancient_Soundtrack\Mexico_Cultural_5\Mexico_Cultural_5	
+	864734497	Mexico_Cultural_1	C:\Users\MuXu\Documents\WwiseProjects\Leu_Mexico_Soundtrack\.cache\Windows\SFX\Mexico_Cultural_1_4B8CC0C5.wem	864734497.wem	\Interactive Music Hierarchy\Default Work Unit\Leu_Mexico_Cultural_Soundtrack\Mexico_Ancient_Soundtrack\Mexico_Cultural_1\Mexico_Cultural_1	
+	899326883	Mexico_Medieval-	C:\Users\MuXu\Documents\WwiseProjects\Leu_Mexico_Soundtrack\.cache\Windows\SFX\Mexico_Medieval-_4B8CC0C5.wem	899326883.wem	\Interactive Music Hierarchy\Default Work Unit\Leu_Mexico_Main_Theme\Mexico_Medieval-\Mexico_Medieval-	
+	946060948	Mexico_Cultural_2	C:\Users\MuXu\Documents\WwiseProjects\Leu_Mexico_Soundtrack\.cache\Windows\SFX\Mexico_Cultural_2_4B8CC0C5.wem	946060948.wem	\Interactive Music Hierarchy\Default Work Unit\Leu_Mexico_Cultural_Soundtrack\Mexico_Ancient_Soundtrack\Mexico_Cultural_2\Mexico_Cultural_2	
+

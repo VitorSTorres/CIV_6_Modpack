@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<IconDefinitions>
+		<Row Name="ICON_BUILDING_IMAGEBOARD"			Atlas="ICON_ATLAS_TDA_BUILDINGS"	Index="0"/>
+		<Row Name="ICON_UNIT_MEME_MAGICIAN"				Atlas="ICON_ATLAS_TDA_UNITS"		Index="0"/>
+		<Row Name="ICON_UNIT_MEME_MAGICIAN_PORTRAIT"	Atlas="ICON_ATLAS_TDA_PORTRAITS"	Index="0"/>
+		<Row Name="ICON_UNIT_BORDER_PATROL"				Atlas="ICON_ATLAS_TDA_UNITS"		Index="1"/>
+		<Row Name="ICON_UNIT_BORDER_PATROL_PORTRAIT"	Atlas="ICON_ATLAS_TDA_PORTRAITS"	Index="1"/>
+		<Row Name="ICON_LEADER_TDA_TRUMP"				Atlas="ICON_ATLAS_TDA_TRUMP"		Index="0"/>
+		<Row Name="ICON_CIVILIZATION_KEKISTAN"			Atlas="ICON_ATLAS_KEKISTAN"			Index="0"/>
+	</IconDefinitions>
+	
+	<IconTextureAtlases>
+		<Row Name="ICON_ATLAS_TDA_TRUMP" 		IconSize="32"	IconsPerRow="1" IconsPerColumn="1" Filename="Icon_TDA_Trump_32"/>
+		<Row Name="ICON_ATLAS_TDA_TRUMP" 		IconSize="45"	IconsPerRow="1" IconsPerColumn="1" Filename="Icon_TDA_Trump_45"/>
+		<Row Name="ICON_ATLAS_TDA_TRUMP" 		IconSize="48"	IconsPerRow="1" IconsPerColumn="1" Filename="Icon_TDA_Trump_48"/>
+		<Row Name="ICON_ATLAS_TDA_TRUMP" 		IconSize="50"	IconsPerRow="1" IconsPerColumn="1" Filename="Icon_TDA_Trump_50"/>
+		<Row Name="ICON_ATLAS_TDA_TRUMP" 		IconSize="55"	IconsPerRow="1" IconsPerColumn="1" Filename="Icon_TDA_Trump_55"/>
+		<Row Name="ICON_ATLAS_TDA_TRUMP" 		IconSize="64"	IconsPerRow="1" IconsPerColumn="1" Filename="Icon_TDA_Trump_64"/>
+		<Row Name="ICON_ATLAS_TDA_TRUMP" 		IconSize="80"	IconsPerRow="1" IconsPerColumn="1" Filename="Icon_TDA_Trump_80"/>
+		<Row Name="ICON_ATLAS_TDA_TRUMP" 		IconSize="256"	IconsPerRow="1" IconsPerColumn="1" Filename="Icon_TDA_Trump_256"/>
+		
+		<Row Name="ICON_ATLAS_KEKISTAN"			IconSize="22"	IconsPerRow="1" IconsPerColumn="1" Filename="CivKekistan22"/>
+		<Row Name="ICON_ATLAS_KEKISTAN"			IconSize="30"	IconsPerRow="1" IconsPerColumn="1" Filename="CivKekistan30"/>
+		<Row Name="ICON_ATLAS_KEKISTAN"			IconSize="32"	IconsPerRow="1" IconsPerColumn="1" Filename="CivKekistan32"/>
+		<Row Name="ICON_ATLAS_KEKISTAN"			IconSize="36"	IconsPerRow="1" IconsPerColumn="1" Filename="CivKekistan36"/>
+		<Row Name="ICON_ATLAS_KEKISTAN"			IconSize="44"	IconsPerRow="1" IconsPerColumn="1" Filename="CivKekistan44"/>
+		<Row Name="ICON_ATLAS_KEKISTAN"			IconSize="45"	IconsPerRow="1" IconsPerColumn="1" Filename="CivKekistan45"/>
+		<Row Name="ICON_ATLAS_KEKISTAN"			IconSize="48"	IconsPerRow="1" IconsPerColumn="1" Filename="CivKekistan48"/>
+		<Row Name="ICON_ATLAS_KEKISTAN"			IconSize="50"	IconsPerRow="1" IconsPerColumn="1" Filename="CivKekistan50"/>
+		<Row Name="ICON_ATLAS_KEKISTAN"			IconSize="64"	IconsPerRow="1" IconsPerColumn="1" Filename="CivKekistan64"/>
+		<Row Name="ICON_ATLAS_KEKISTAN"			IconSize="80"	IconsPerRow="1" IconsPerColumn="1" Filename="CivKekistan80"/>
+		<Row Name="ICON_ATLAS_KEKISTAN"			IconSize="128"  IconsPerRow="1" IconsPerColumn="1" Filename="CivKekistan128"/>
+		<Row Name="ICON_ATLAS_KEKISTAN"			IconSize="256"  IconsPerRow="1" IconsPerColumn="1" Filename="CivKekistan256"/>
+		
+		<Row Name="ICON_ATLAS_TDA_PORTRAITS"	IconSize="38"	IconsPerRow="2" IconsPerColumn="1" Filename="TDA_UnitPortraits_38"/>
+		<Row Name="ICON_ATLAS_TDA_PORTRAITS"	IconSize="50"	IconsPerRow="2" IconsPerColumn="1" Filename="TDA_UnitPortraits_50"/>
+		<Row Name="ICON_ATLAS_TDA_PORTRAITS"	IconSize="70"	IconsPerRow="2" IconsPerColumn="1" Filename="TDA_UnitPortraits_70"/>
+		<Row Name="ICON_ATLAS_TDA_PORTRAITS"	IconSize="95"	IconsPerRow="2" IconsPerColumn="1" Filename="TDA_UnitPortraits_95"/>
+		<Row Name="ICON_ATLAS_TDA_PORTRAITS"	IconSize="200"	IconsPerRow="2" IconsPerColumn="1" Filename="TDA_UnitPortraits_200"/>
+		<Row Name="ICON_ATLAS_TDA_PORTRAITS"	IconSize="256"	IconsPerRow="2" IconsPerColumn="1" Filename="TDA_UnitPortraits_256"/>
+		
+		<Row Name="ICON_ATLAS_TDA_UNITS"		IconSize="32"	IconsPerRow="2" IconsPerColumn="1" Filename="TDA_Units_32"/>
+		<Row Name="ICON_ATLAS_TDA_UNITS"		IconSize="38"	IconsPerRow="2" IconsPerColumn="1" Filename="TDA_Units_38"/>
+		<Row Name="ICON_ATLAS_TDA_UNITS"		IconSize="50"	IconsPerRow="2" IconsPerColumn="1" Filename="TDA_Units_50"/>
+		<Row Name="ICON_ATLAS_TDA_UNITS"		IconSize="80"	IconsPerRow="2" IconsPerColumn="1" Filename="TDA_Units_80"/>
+		<Row Name="ICON_ATLAS_TDA_UNITS"		IconSize="256"	IconsPerRow="2" IconsPerColumn="1" Filename="TDA_Units_256"/>
+		
+		<Row Name="ICON_ATLAS_TDA_BUILDINGS"	IconSize="32"	IconsPerRow="1" IconsPerColumn="1" Filename="TDA_Buildings_32"/>
+		<Row Name="ICON_ATLAS_TDA_BUILDINGS"	IconSize="38"	IconsPerRow="1" IconsPerColumn="1" Filename="TDA_Buildings_38"/>
+		<Row Name="ICON_ATLAS_TDA_BUILDINGS"	IconSize="50"	IconsPerRow="1" IconsPerColumn="1" Filename="TDA_Buildings_50"/>
+		<Row Name="ICON_ATLAS_TDA_BUILDINGS"	IconSize="80"	IconsPerRow="1" IconsPerColumn="1" Filename="TDA_Buildings_80"/>
+		<Row Name="ICON_ATLAS_TDA_BUILDINGS"	IconSize="128"	IconsPerRow="1" IconsPerColumn="1" Filename="TDA_Buildings_128"/>
+		<Row Name="ICON_ATLAS_TDA_BUILDINGS"	IconSize="256"	IconsPerRow="1" IconsPerColumn="1" Filename="TDA_Buildings_256"/>
+	</IconTextureAtlases>
+</GameData>

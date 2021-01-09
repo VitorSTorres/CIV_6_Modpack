@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Types>
+		<Row Type="LEADER_CONS_KIM_ILSUNG" Kind="KIND_LEADER" />
+		<Row Type="TRAIT_LEADER_CONS_KIM_ILSUNG" Kind="KIND_TRAIT" />
+		<Row Type="LEADER_CONS_KIM_JONGIL" Kind="KIND_LEADER" />
+		<Row Type="TRAIT_LEADER_CONS_KIM_JONGIL" Kind="KIND_TRAIT" />
+		<Row Type="LEADER_CONS_KIM_JONGUN" Kind="KIND_LEADER" />
+		<Row Type="TRAIT_LEADER_CONS_KIM_JONGUN" Kind="KIND_TRAIT" />
+	</Types>
+	<Leaders>
+		<Row LeaderType="LEADER_CONS_KIM_ILSUNG" Name="LOC_LEADER_CONS_KIM_ILSUNG_NAME" InheritFrom="LEADER_DEFAULT" SceneLayers="2"/>
+		<Row LeaderType="LEADER_CONS_KIM_JONGIL" Name="LOC_LEADER_CONS_KIM_JONGIL_NAME" InheritFrom="LEADER_DEFAULT" SceneLayers="2"/>
+		<Row LeaderType="LEADER_CONS_KIM_JONGUN" Name="LOC_LEADER_CONS_KIM_JONGUN_NAME" InheritFrom="LEADER_DEFAULT" SceneLayers="2"/>
+	</Leaders>
+	<LoadingInfo>
+		<Row LeaderType="LEADER_CONS_KIM_ILSUNG" ForegroundImage="LEADER_CONS_KIM_ILSUNG_NEUTRAL.dds" BackgroundImage="LEADER_CONS_KIM_ILSUNG_BACKGROUND.dds"/>
+		<Row LeaderType="LEADER_CONS_KIM_JONGIL" ForegroundImage="LEADER_CONS_KIM_JONGIL_NEUTRAL.dds" BackgroundImage="LEADER_CONS_KIM_JONGIL_BACKGROUND.dds"/>
+		<Row LeaderType="LEADER_CONS_KIM_JONGUN" ForegroundImage="LEADER_CONS_KIM_JONGUN_NEUTRAL.dds" BackgroundImage="LEADER_CONS_KIM_JONGUN_BACKGROUND.dds"/>
+	</LoadingInfo>
+	<LeaderQuotes>
+		<Row LeaderType="LEADER_CONS_KIM_ILSUNG" Quote="LOC_LEADER_CONS_KIM_ILSUNG_QUOTE"/>
+		<Row LeaderType="LEADER_CONS_KIM_JONGIL" Quote="LOC_LEADER_CONS_KIM_JONGIL_QUOTE"/>
+		<Row LeaderType="LEADER_CONS_KIM_JONGUN" Quote="LOC_LEADER_CONS_KIM_JONGUN_QUOTE"/>
+	</LeaderQuotes>
+	<HistoricalAgendas>
+		<Row LeaderType="LEADER_CONS_KIM_ILSUNG" AgendaType="AGENDA_CONS_KIM_ILSUNG"/>
+		<Row LeaderType="LEADER_CONS_KIM_JONGIL" AgendaType="AGENDA_CONS_KIM_JONGIL"/>
+		<Row LeaderType="LEADER_CONS_KIM_JONGUN" AgendaType="AGENDA_CONS_KIM_JONGUN"/>
+	</HistoricalAgendas>
+	<Traits>
+		<Row TraitType="TRAIT_LEADER_CONS_KIM_ILSUNG" Name="LOC_TRAIT_LEADER_CONS_KIM_ILSUNG_NAME" Description="LOC_TRAIT_LEADER_CONS_KIM_ILSUNG_DESCRIPTION"/>
+		<Row TraitType="TRAIT_LEADER_CONS_KIM_JONGIL" Name="LOC_TRAIT_LEADER_CONS_KIM_JONGIL_NAME" Description="LOC_TRAIT_LEADER_CONS_KIM_JONGIL_DESCRIPTION"/>
+		<Row TraitType="TRAIT_LEADER_CONS_KIM_JONGUN" Name="LOC_TRAIT_LEADER_CONS_KIM_JONGUN_NAME" Description="LOC_TRAIT_LEADER_CONS_KIM_JONGUN_DESCRIPTION"/>
+	</Traits>
+	<LeaderTraits>
+		<Row LeaderType="LEADER_CONS_KIM_ILSUNG" TraitType="TRAIT_LEADER_CONS_KIM_ILSUNG"/>
+		<Row LeaderType="LEADER_CONS_KIM_JONGIL" TraitType="TRAIT_LEADER_CONS_KIM_JONGIL"/>
+		<Row LeaderType="LEADER_CONS_KIM_JONGIL" TraitType="TRAIT_LEADER_UNIT_CONS_NK_KOKSAN"/>
+		<Row LeaderType="LEADER_CONS_KIM_JONGUN" TraitType="TRAIT_LEADER_CONS_KIM_JONGUN"/>
+	</LeaderTraits>
+	<FavoredReligions>
+		<Row LeaderType="LEADER_CONS_KIM_ILSUNG" ReligionType="RELIGION_CONS_JUCHEISM"/>
+		<Row LeaderType="LEADER_CONS_KIM_JONGIL" ReligionType="RELIGION_CONS_JUCHEISM"/>
+		<Row LeaderType="LEADER_CONS_KIM_JONGUN" ReligionType="RELIGION_CONS_JUCHEISM"/>
+	</FavoredReligions>
+	
+	<TraitModifiers>
+		<Row TraitType="TRAIT_LEADER_CONS_KIM_ILSUNG" ModifierId="TRAIT_LEADER_CONS_KIM_ILSUNG_UNIT_PRODUCTION_AT_PEACE"/>
+		<Row TraitType="TRAIT_LEADER_CONS_KIM_ILSUNG" ModifierId="TRAIT_LEADER_CONS_KIM_ILSUNG_SURPRISE_MOVEMENT"/>
+		<Row TraitType="TRAIT_LEADER_CONS_KIM_ILSUNG" ModifierId="TRAIT_LEADER_CONS_KIM_ILSUNG_EXTRA_RECON"/>
+
+		<Row TraitType="TRAIT_LEADER_CONS_KIM_JONGIL" ModifierId="TRAIT_LEADER_CONS_KIM_JONGIL_ALL_DIPLO_POLICY_ARE_MILITARY"/>
+
+		<Row TraitType="TRAIT_LEADER_CONS_KIM_JONGUN" ModifierId="TRAIT_LEADER_CONS_KIM_JONGUN_MANHATTAN_PROJECT_PRODUCTION"/>
+		<Row TraitType="TRAIT_LEADER_CONS_KIM_JONGUN" ModifierId="TRAIT_LEADER_CONS_KIM_JONGUN_PROJECT_IVY_PRODUCTION"/>
+		<Row TraitType="TRAIT_LEADER_CONS_KIM_JONGUN" ModifierId="TRAIT_LEADER_CONS_KIM_JONGUN_NUCLEAR_DEVICE_PRODUCTION"/>
+		<Row TraitType="TRAIT_LEADER_CONS_KIM_JONGUN" ModifierId="TRAIT_LEADER_CONS_KIM_JONGUN_THERMONUCLEAR_DEVICE_PRODUCTION"/>
+		<Row TraitType="TRAIT_LEADER_CONS_KIM_JONGUN" ModifierId="TRAIT_LEADER_CONS_KIM_JONGUN_REDUCE_LUXURY_AMUNITY"/>
+		<Row TraitType="TRAIT_LEADER_CONS_KIM_JONGUN" ModifierId="TRAIT_LEADER_CONS_KIM_JONGUN_INCREASE_AMUNITY_FOR_ITC"/>
+	</TraitModifiers>
+	<Modifiers>
+		<Row ModifierId="TRAIT_LEADER_CONS_KIM_ILSUNG_UNIT_PRODUCTION_AT_PEACE" ModifierType="MODIFIER_PLAYER_CITIES_ADJUST_MILITARY_UNITS_PRODUCTION" SubjectRequirementSetId="PLAYER_IS_AT_PEACE_WITH_ALL_MAJORS"/>
+		<Row ModifierId="TRAIT_LEADER_CONS_KIM_ILSUNG_SURPRISE_MOVEMENT" ModifierType="MODIFIER_PLAYER_ADD_DIPLOMATIC_MOVEMENT_MODIFIER"/>
+		<Row ModifierId="TRAIT_LEADER_CONS_KIM_ILSUNG_EXTRA_RECON" ModifierType="MODIFIER_PLAYER_UNITS_ADJUST_EXTRA_UNIT_COPY_TAG"/>
+
+		<Row ModifierId="TRAIT_LEADER_CONS_KIM_JONGIL_ALL_DIPLO_POLICY_ARE_MILITARY" ModifierType="MODIFIER_PLAYER_CULTURE_REPLACE_GOVERNMENT_SLOTS"/>
+
+		<Row ModifierId="TRAIT_LEADER_CONS_KIM_JONGUN_MANHATTAN_PROJECT_PRODUCTION" ModifierType="MODIFIER_PLAYER_CITIES_ADJUST_PROJECT_PRODUCTION"/>
+		<Row ModifierId="TRAIT_LEADER_CONS_KIM_JONGUN_PROJECT_IVY_PRODUCTION" ModifierType="MODIFIER_PLAYER_CITIES_ADJUST_PROJECT_PRODUCTION"/>
+		<Row ModifierId="TRAIT_LEADER_CONS_KIM_JONGUN_NUCLEAR_DEVICE_PRODUCTION" ModifierType="MODIFIER_PLAYER_CITIES_ADJUST_PROJECT_PRODUCTION"/>
+		<Row ModifierId="TRAIT_LEADER_CONS_KIM_JONGUN_THERMONUCLEAR_DEVICE_PRODUCTION" ModifierType="MODIFIER_PLAYER_CITIES_ADJUST_PROJECT_PRODUCTION"/>
+		<Row ModifierId="TRAIT_LEADER_CONS_KIM_JONGUN_REDUCE_LUXURY_AMUNITY" ModifierType="MODIFIER_PLAYER_OWNED_LUXURY_EXTRA_AMENITIES"/>
+		<Row ModifierId="TRAIT_LEADER_CONS_KIM_JONGUN_INCREASE_AMUNITY_FOR_ITC" ModifierType="MODIFIER_PLAYER_CITIES_ADJUST_POLICY_AMENITY" SubjectRequirementSetId="REQ_CONS_LEADER_CONS_KIM_JONGIL_CITY_HAS_ITC"/>
+	</Modifiers>
+	<ModifierArguments>
+		<Row ModifierId="TRAIT_LEADER_CONS_KIM_ILSUNG_UNIT_PRODUCTION_AT_PEACE" Name="Amount" Value="15"/>
+		<Row ModifierId="TRAIT_LEADER_CONS_KIM_ILSUNG_SURPRISE_MOVEMENT" Name="DiplomaticYieldSource" Value="SURPRISE_WAR_INITIATED"/>
+		<Row ModifierId="TRAIT_LEADER_CONS_KIM_ILSUNG_SURPRISE_MOVEMENT" Name="TurnsActive" Value="10"/>
+		<Row ModifierId="TRAIT_LEADER_CONS_KIM_ILSUNG_SURPRISE_MOVEMENT" Name="Amount" Value="1"/>
+		<Row ModifierId="TRAIT_LEADER_CONS_KIM_ILSUNG_EXTRA_RECON" Name="Tag" Value="CLASS_RECON"/>
+		<Row ModifierId="TRAIT_LEADER_CONS_KIM_ILSUNG_EXTRA_RECON" Name="Amount" Value="1"/>
+
+		<Row ModifierId="TRAIT_LEADER_CONS_KIM_JONGIL_ALL_DIPLO_POLICY_ARE_MILITARY" Name="ReplacedGovernmentSlotType" Value="SLOT_DIPLOMATIC"/>
+		<Row ModifierId="TRAIT_LEADER_CONS_KIM_JONGIL_ALL_DIPLO_POLICY_ARE_MILITARY" Name="AddedGovernmentSlotType" Value="SLOT_MILITARY"/>
+		<Row ModifierId="TRAIT_LEADER_CONS_KIM_JONGIL_ALL_DIPLO_POLICY_ARE_MILITARY" Name="ReplacesAll" Value="true"/>
+
+		<Row ModifierId="TRAIT_LEADER_CONS_KIM_JONGUN_MANHATTAN_PROJECT_PRODUCTION" Name="ProjectType" Value="PROJECT_MANHATTAN_PROJECT"/>
+		<Row ModifierId="TRAIT_LEADER_CONS_KIM_JONGUN_MANHATTAN_PROJECT_PRODUCTION" Name="Amount" Value="100"/>
+		<Row ModifierId="TRAIT_LEADER_CONS_KIM_JONGUN_PROJECT_IVY_PRODUCTION" Name="ProjectType" Value="PROJECT_OPERATION_IVY"/>
+		<Row ModifierId="TRAIT_LEADER_CONS_KIM_JONGUN_PROJECT_IVY_PRODUCTION" Name="Amount" Value="100"/>
+		<Row ModifierId="TRAIT_LEADER_CONS_KIM_JONGUN_NUCLEAR_DEVICE_PRODUCTION" Name="ProjectType" Value="PROJECT_BUILD_NUCLEAR_DEVICE"/>
+		<Row ModifierId="TRAIT_LEADER_CONS_KIM_JONGUN_NUCLEAR_DEVICE_PRODUCTION" Name="Amount" Value="100"/>
+		<Row ModifierId="TRAIT_LEADER_CONS_KIM_JONGUN_THERMONUCLEAR_DEVICE_PRODUCTION" Name="ProjectType" Value="PROJECT_BUILD_THERMONUCLEAR_DEVICE"/>
+		<Row ModifierId="TRAIT_LEADER_CONS_KIM_JONGUN_THERMONUCLEAR_DEVICE_PRODUCTION" Name="Amount" Value="100"/>
+		<Row ModifierId="TRAIT_LEADER_CONS_KIM_JONGUN_REDUCE_LUXURY_AMUNITY" Name="Amount" Value="-2"/>
+		<Row ModifierId="TRAIT_LEADER_CONS_KIM_JONGUN_INCREASE_AMUNITY_FOR_ITC" Name="Amount" Value="3"/>
+	</ModifierArguments>
+
+	<RequirementSets>
+		<Row RequirementSetId="REQ_CONS_LEADER_CONS_KIM_JONGIL_CITY_HAS_ITC" RequirementSetType="REQUIREMENTSET_TEST_ALL"/>
+	</RequirementSets>
+	<RequirementSetRequirements>
+		<Row RequirementSetId="REQ_CONS_LEADER_CONS_KIM_JONGIL_CITY_HAS_ITC" RequirementId="CONS_NK_CITY_HAS_ITC"/>
+	</RequirementSetRequirements>
+	
+	<AiListTypes>
+		<Row ListType="Cons_KimilsungCivics"/>
+		<Row ListType="Cons_KimilsungTechs"/>
+		<Row ListType="Cons_KimilsungDiplomacy"/>
+		<Row ListType="Cons_KimilsungDistricts"/>
+		<Row ListType="Cons_KimilsungPseudoYield"/>
+		
+		<Row ListType="Cons_KimjongilCivics"/>
+		<Row ListType="Cons_KimjongilTechs"/>
+		<Row ListType="Cons_KimjongilDiplomacy"/>
+		<Row ListType="Cons_KimjongilDistricts"/>
+		<Row ListType="Cons_KimjongilProject"/>
+		<Row ListType="Cons_KimjongilPseudoYield"/>
+		
+		<Row ListType="Cons_KimjongunCivics"/>
+		<Row ListType="Cons_KimjongunTechs"/>
+		<Row ListType="Cons_KimjongunDiplomacy"/>
+		<Row ListType="Cons_KimjongunDistricts"/>
+		<Row ListType="Cons_KimjongunProject"/>
+		<Row ListType="Cons_KimjongunPseudoYield"/>
+	</AiListTypes>
+	<AiLists>
+		<Row ListType="Cons_KimilsungCivics" LeaderType="TRAIT_LEADER_CONS_KIM_ILSUNG" System="Civics"/>
+		<Row ListType="Cons_KimilsungTechs" LeaderType="TRAIT_LEADER_CONS_KIM_ILSUNG" System="Technologies"/>
+		<Row ListType="Cons_KimilsungDiplomacy" LeaderType="TRAIT_LEADER_CONS_KIM_ILSUNG" System="DiplomaticActions"/>
+		<Row ListType="Cons_KimilsungDistricts" LeaderType="TRAIT_LEADER_CONS_KIM_ILSUNG" System="Districts"/>
+		<Row ListType="Cons_KimilsungPseudoYield" LeaderType="TRAIT_LEADER_CONS_KIM_ILSUNG" System="PseudoYields"/>
+
+		<Row ListType="Cons_KimjongilCivics" LeaderType="TRAIT_LEADER_CONS_KIM_JONGIL" System="Civics"/>
+		<Row ListType="Cons_KimjongilTechs" LeaderType="TRAIT_LEADER_CONS_KIM_JONGIL" System="Technologies"/>
+		<Row ListType="Cons_KimjongilDiplomacy" LeaderType="TRAIT_LEADER_CONS_KIM_JONGIL" System="DiplomaticActions"/>
+		<Row ListType="Cons_KimjongilDistricts" LeaderType="TRAIT_LEADER_CONS_KIM_JONGIL" System="Districts"/>
+		<Row ListType="Cons_KimjongilProject" LeaderType="TRAIT_LEADER_CONS_KIM_JONGIL" System="Projects"/>
+		<Row ListType="Cons_KimjongilPseudoYield" LeaderType="TRAIT_LEADER_CONS_KIM_JONGIL" System="PseudoYields"/>
+
+		<Row ListType="Cons_KimjongunCivics" LeaderType="TRAIT_LEADER_CONS_KIM_JONGUN" System="Civics"/>
+		<Row ListType="Cons_KimjongunTechs" LeaderType="TRAIT_LEADER_CONS_KIM_JONGUN" System="Technologies"/>
+		<Row ListType="Cons_KimjongunDiplomacy" LeaderType="TRAIT_LEADER_CONS_KIM_JONGUN" System="DiplomaticActions"/>
+		<Row ListType="Cons_KimjongunDistricts" LeaderType="TRAIT_LEADER_CONS_KIM_JONGUN" System="Districts"/>
+		<Row ListType="Cons_KimjongunProject" LeaderType="TRAIT_LEADER_CONS_KIM_JONGUN" System="Projects"/>
+		<Row ListType="Cons_KimjongunPseudoYield" LeaderType="TRAIT_LEADER_CONS_KIM_JONGUN" System="PseudoYields"/>
+	</AiLists>
+	<AiFavoredItems>
+		<Row ListType="Cons_KimilsungCivics" Item="CIVIC_TOTALITARIANISM" Favored="true"/>
+		<Row ListType="Cons_KimilsungCivics" Item="CIVIC_CLASS_STRUGGLE" Favored="true"/>
+		<Row ListType="Cons_KimilsungCivics" Item="CIVIC_COLD_WAR" Favored="true"/>
+		<Row ListType="Cons_KimilsungCivics" Item="CIVIC_NUCLEAR_PROGRAM" Favored="true"/>
+		<Row ListType="Cons_KimilsungTechs" Item="TECH_NUCLEAR_FISSION" Favored="true"/>
+		<Row ListType="Cons_KimilsungDiplomacy" Item="DIPLOACTION_DECLARE_SURPRISE_WAR" Favored="true" Value="1"/>
+		<Row ListType="Cons_KimilsungDistricts" Item="DISTRICT_CONS_IDEOLOGICAL_TRAINING_CENTER" Favored="true" Value="1"/>
+		<Row ListType="Cons_KimilsungPseudoYield" Item="PSEUDOYIELD_UNIT_COMBAT" Favored="true" Value="10"/>
+
+		<Row ListType="Cons_KimjongilCivics" Item="CIVIC_TOTALITARIANISM" Favored="true"/>
+		<Row ListType="Cons_KimjongilCivics" Item="CIVIC_COLD_WAR" Favored="true"/>
+		<Row ListType="Cons_KimjongilCivics" Item="CIVIC_NUCLEAR_PROGRAM" Favored="true"/>
+		<Row ListType="Cons_KimjongilTechs" Item="TECH_NUCLEAR_FISSION" Favored="true"/>
+		<Row ListType="Cons_KimjongilDiplomacy" Item="DIPLOACTION_DEMAND_TRIBUTE" Favored="true" Value="1"/>
+		<Row ListType="Cons_KimjongilDistricts"		Item="DISTRICT_CONS_IDEOLOGICAL_TRAINING_CENTER" Favored="true" Value="1"/>
+		<Row ListType="Cons_KimjongilProject"		Item="PROJECT_MANHATTAN_PROJECT" Favored="true" Value="1"/>
+		<Row ListType="Cons_KimjongilProject"		Item="PROJECT_BUILD_NUCLEAR_DEVICE" Favored="true" Value="1"/>
+		<Row ListType="Cons_KimjongilPseudoYield"	Item="PSEUDOYIELD_UNIT_COMBAT" Favored="true" Value="20"/>
+		<Row ListType="Cons_KimjongilPseudoYield"	Item="PSEUDOYIELD_NUCLEAR_WEAPON" Favored="true" Value="20"/>
+
+		<Row ListType="Cons_KimjongunCivics" Item="CIVIC_TOTALITARIANISM" Favored="true"/>
+		<Row ListType="Cons_KimjongunCivics" Item="CIVIC_COLD_WAR" Favored="true"/>
+		<Row ListType="Cons_KimjongunCivics" Item="CIVIC_NUCLEAR_PROGRAM" Favored="true"/>
+		<Row ListType="Cons_KimjongunTechs" Item="TECH_NUCLEAR_FISSION" Favored="true"/>
+		<Row ListType="Cons_KimjongunTechs" Item="TECH_NUCLEAR_FUSION" Favored="true"/>
+		<Row ListType="Cons_KimjongunDiplomacy" Item="DIPLOACTION_USE_NUCLEAR_WEAPON" Favored="true" Value="1"/>
+		<Row ListType="Cons_KimjongunDiplomacy" Item="DIPLOACTION_DEMAND_TRIBUTE" Favored="true" Value="1"/>
+		<Row ListType="Cons_KimjongunDistricts" Item="DISTRICT_CONS_IDEOLOGICAL_TRAINING_CENTER" Favored="true" Value="1"/>
+		<Row ListType="Cons_KimjongunProject" Item="PROJECT_MANHATTAN_PROJECT" Favored="true" Value="1"/>
+		<Row ListType="Cons_KimjongunProject" Item="PROJECT_BUILD_NUCLEAR_DEVICE" Favored="true" Value="1"/>
+		<Row ListType="Cons_KimjongunProject" Item="PROJECT_OPERATION_IVY" Favored="true" Value="1"/>
+		<Row ListType="Cons_KimjongunProject" Item="PROJECT_BUILD_THERMONUCLEAR_DEVICE" Favored="true" Value="1"/>
+		<Row ListType="Cons_KimjongunPseudoYield" Item="PSEUDOYIELD_UNIT_COMBAT" Favored="true" Value="20"/>
+		<Row ListType="Cons_KimjongunPseudoYield" Item="PSEUDOYIELD_NUCLEAR_WEAPON" Favored="true" Value="20"/>
+	</AiFavoredItems>
+</GameData>

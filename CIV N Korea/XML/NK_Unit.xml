@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Types>
+		<Row Type="TRAIT_CIVILIZATION_UNIT_CONS_NK_PARTISAN" Kind="KIND_TRAIT" />
+		<Row Type="TRAIT_LEADER_UNIT_CONS_NK_KOKSAN" Kind="KIND_TRAIT" />
+		<Row Type="UNIT_CONS_NK_PARTISAN" Kind="KIND_UNIT"/>
+		<Row Type="UNIT_CONS_NK_KOKSAN" Kind="KIND_UNIT"/>
+		<Row Type="ABILITY_CONS_NK_PARTISAN" Kind="KIND_ABILITY"/>
+	</Types>
+	<Traits>
+		<Row TraitType="TRAIT_CIVILIZATION_UNIT_CONS_NK_PARTISAN" Name="LOC_UNIT_CONS_NK_PARTISAN_NAME" Description="LOC_UNIT_CONS_NK_PARTISAN_DESCRIPTION" />
+		<Row TraitType="TRAIT_LEADER_UNIT_CONS_NK_KOKSAN" Name="LOC_UNIT_CONS_NK_KOKSAN_NAME" Description="LOC_UNIT_CONS_NK_KOKSAN_DESCRIPTION" />
+	</Traits>
+	<UnitAiInfos>
+		<Row UnitType="UNIT_CONS_NK_PARTISAN" AiType="UNITAI_EXPLORE"/>
+		<Row UnitType="UNIT_CONS_NK_PARTISAN" AiType="UNITTYPE_LAND_COMBAT"/>
+		<Row UnitType="UNIT_CONS_NK_KOKSAN" AiType="UNITAI_COMBAT"/>
+		<Row UnitType="UNIT_CONS_NK_KOKSAN" AiType="UNITTYPE_RANGED"/>
+		<Row UnitType="UNIT_CONS_NK_KOKSAN" AiType="UNITTYPE_SIEGE"/>
+		<Row UnitType="UNIT_CONS_NK_KOKSAN" AiType="UNITTYPE_LAND_COMBAT"/>
+	</UnitAiInfos>
+	<UnitReplaces>
+		<Row CivUniqueUnitType="UNIT_CONS_NK_PARTISAN" ReplacesUnitType="UNIT_RANGER"/>
+		<Row CivUniqueUnitType="UNIT_CONS_NK_KOKSAN" ReplacesUnitType="UNIT_ARTILLERY"/>
+	</UnitReplaces>
+	<Tags>
+		<Row Tag="CLASS_CONS_NK_PARTISAN" Vocabulary="ABILITY_CLASS"/>
+	</Tags>
+	<TypeTags>
+		<Row Type="UNIT_CONS_NK_PARTISAN" Tag="CLASS_RECON"/>
+		<Row Type="UNIT_CONS_NK_PARTISAN" Tag="CLASS_CONS_NK_PARTISAN"/>
+		<Row Type="ABILITY_CONS_NK_PARTISAN" Tag="CLASS_CONS_NK_PARTISAN"/>
+		<Row Type="UNIT_CONS_NK_KOKSAN" Tag="CLASS_SIEGE"/>
+		<Row Type="UNIT_CONS_NK_KOKSAN" Tag="CLASS_FORWARD_OBSERVER"/>
+	</TypeTags>
+	<UnitAbilities>
+		<Row UnitAbilityType="ABILITY_CONS_NK_PARTISAN" Name="LOC_ABILITY_CONS_NK_PARTISAN_NAME" Description="LOC_ABILITY_CONS_NK_PARTISAN_DESCRIPTION" />
+	</UnitAbilities>
+	<UnitAbilityModifiers>
+		<Row UnitAbilityType="ABILITY_CONS_NK_PARTISAN" ModifierId="MOD_ENTER_FOREIGN_LANDS"/>
+		<Row UnitAbilityType="ABILITY_CONS_NK_PARTISAN" ModifierId="CAMOUFLAGE_STEALTH"/>
+		<Row UnitAbilityType="ABILITY_CONS_NK_PARTISAN" ModifierId="DEPREDATION_BONUS_ADVANCED_PILLAGING"/>
+		<Row UnitAbilityType="ABILITY_CONS_NK_PARTISAN" ModifierId="UNIT_STRONG_WHEN_ATTACKING"/>
+		<Row UnitAbilityType="ABILITY_CONS_NK_PARTISAN" ModifierId="UNIT_WEAK_WHEN_DEFENDING"/>
+	</UnitAbilityModifiers>
+	<Units>
+		<Row UnitType="UNIT_CONS_NK_PARTISAN" BaseMoves="3" Cost="380" AdvisorType="ADVISOR_CONQUEST" BaseSightRange="2" ZoneOfControl="true" Domain="DOMAIN_LAND" FormationClass="FORMATION_CLASS_LAND_COMBAT" Name="LOC_UNIT_CONS_NK_PARTISAN_NAME" Description="LOC_UNIT_CONS_NK_PARTISAN_DESCRIPTION" PurchaseYield="YIELD_GOLD" PromotionClass="PROMOTION_CLASS_RECON" Maintenance="5" Combat="40" RangedCombat="55" Range="1" PrereqCivic="CIVIC_NATIONALISM" TraitType="TRAIT_CIVILIZATION_UNIT_CONS_NK_PARTISAN"/>
+		<Row UnitType="UNIT_CONS_NK_KOKSAN" BaseMoves="2" Cost="380" AdvisorType="ADVISOR_CONQUEST" BaseSightRange="2" ZoneOfControl="false" Domain="DOMAIN_LAND" FormationClass="FORMATION_CLASS_LAND_COMBAT" Name="LOC_UNIT_CONS_NK_KOKSAN_NAME" Description="LOC_UNIT_CONS_NK_KOKSAN_DESCRIPTION" PurchaseYield="YIELD_GOLD" PromotionClass="PROMOTION_CLASS_SIEGE" Maintenance="6" Combat="50" Range="3" PrereqTech="TECH_STEEL" Bombard="75" TraitType="TRAIT_LEADER_UNIT_CONS_NK_KOKSAN"/>
+	</Units>
+	<UnitUpgrades>
+		<Row Unit="UNIT_CONS_NK_KOKSAN" UpgradeUnit="UNIT_ROCKET_ARTILLERY"/>
+	</UnitUpgrades>
+</GameData>

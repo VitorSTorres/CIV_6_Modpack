@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Types>
+		<Row Type="DISTRICT_CONS_GC_EXTRA_HOLY_SITE" Kind="KIND_DISTRICT"/>
+		<Row Type="DISTRICT_CONS_GC_EXTRA_CAMPUS" Kind="KIND_DISTRICT"/>
+		<Row Type="DISTRICT_CONS_GC_EXTRA_HARBOR" Kind="KIND_DISTRICT"/>
+		<Row Type="DISTRICT_CONS_GC_EXTRA_COMMERCIAL_HUB" Kind="KIND_DISTRICT"/>
+		<Row Type="DISTRICT_CONS_GC_EXTRA_THEATER" Kind="KIND_DISTRICT"/>
+		<Row Type="DISTRICT_CONS_GC_EXTRA_INDUSTRIAL_ZONE" Kind="KIND_DISTRICT"/>
+		<Row Type="DISTRICT_CONS_GC_BTC" Kind="KIND_DISTRICT"/>
+		<Row Type="TRAIT_CIVILIZATION_DISTRICT_CONS_GC_BTC" Kind="KIND_TRAIT" />
+	</Types>
+	<Traits>
+		<Row TraitType="TRAIT_CIVILIZATION_DISTRICT_CONS_GC_BTC" Name="LOC_DISTRICT_CONS_GC_BTC_NAME" Description="LOC_DISTRICT_CONS_GC_BTC_DESCRIPTION" />
+	</Traits>
+	<DistrictReplaces>
+		<Row CivUniqueDistrictType="DISTRICT_CONS_GC_BTC" ReplacesDistrictType="DISTRICT_ENTERTAINMENT_COMPLEX"/>
+	</DistrictReplaces>
+	<Districts>
+		<Row DistrictType="DISTRICT_CONS_GC_EXTRA_HOLY_SITE" Name="LOC_DISTRICT_CONS_GC_EXTRA_HOLY_SITE_NAME" Description="LOC_DISTRICT_HOLY_SITE_DESCRIPTION" PrereqTech="TECH_ASTROLOGY" PlunderType="PLUNDER_FAITH" PlunderAmount="25" AdvisorType="ADVISOR_RELIGIOUS" Cost="54" CostProgressionModel="COST_PROGRESSION_NUM_UNDER_AVG_PLUS_TECH" CostProgressionParam1="40" Maintenance="1" RequiresPlacement="true" RequiresPopulation="false" AllowsHolyCity="true" Aqueduct="false" NoAdjacentCity="false" InternalOnly="false" ZOC="false" CaptureRemovesBuildings="true" CaptureRemovesCityDefenses="false" MilitaryDomain="NO_DOMAIN" Appeal="1" CityStrengthModifier="2" TraitType="TRAIT_CIVILIZATION_CONS_GLITCH_CITY_EXTRA_DISTRICTS"/>
+		<Row DistrictType="DISTRICT_CONS_GC_EXTRA_CAMPUS" Name="LOC_DISTRICT_CONS_GC_EXTRA_CAMPUS_NAME" Description="LOC_DISTRICT_CAMPUS_DESCRIPTION" PrereqTech="TECH_WRITING" PlunderType="PLUNDER_SCIENCE" PlunderAmount="25" AdvisorType="ADVISOR_TECHNOLOGY" Cost="54" CostProgressionModel="COST_PROGRESSION_NUM_UNDER_AVG_PLUS_TECH" CostProgressionParam1="40" Maintenance="1" RequiresPlacement="true" RequiresPopulation="false" Aqueduct="false" NoAdjacentCity="false" InternalOnly="false" ZOC="false" CaptureRemovesBuildings="true" CaptureRemovesCityDefenses="false" MilitaryDomain="NO_DOMAIN" CityStrengthModifier="2" TraitType="TRAIT_CIVILIZATION_CONS_GLITCH_CITY_EXTRA_DISTRICTS"/>
+		<Row DistrictType="DISTRICT_CONS_GC_EXTRA_HARBOR" Name="LOC_DISTRICT_CONS_GC_EXTRA_HARBOR_NAME" Description="LOC_DISTRICT_HARBOR_DESCRIPTION" PrereqTech="TECH_CELESTIAL_NAVIGATION" PlunderType="PLUNDER_GOLD" PlunderAmount="50" AdvisorType="ADVISOR_GENERIC" Cost="54" CostProgressionModel="COST_PROGRESSION_NUM_UNDER_AVG_PLUS_TECH" CostProgressionParam1="40" RequiresPlacement="true" RequiresPopulation="false" Coast="true" Aqueduct="false" FreeEmbark="true" NoAdjacentCity="false" AdjacentToLand="true" InternalOnly="false" ZOC="false" TradeEmbark="true" CaptureRemovesBuildings="true" CaptureRemovesCityDefenses="true" MilitaryDomain="NO_DOMAIN" TravelTime="2" CityStrengthModifier="2" TraitType="TRAIT_CIVILIZATION_CONS_GLITCH_CITY_EXTRA_DISTRICTS"/>
+		<Row DistrictType="DISTRICT_CONS_GC_EXTRA_COMMERCIAL_HUB" Name="LOC_DISTRICT_CONS_GC_EXTRA_COMMERCIAL_HUB_NAME" Description="LOC_DISTRICT_COMMERCIAL_HUB_DESCRIPTION" PrereqTech="TECH_CURRENCY" PlunderType="PLUNDER_GOLD" PlunderAmount="50" AdvisorType="ADVISOR_GENERIC" Cost="54" CostProgressionModel="COST_PROGRESSION_NUM_UNDER_AVG_PLUS_TECH" CostProgressionParam1="40" RequiresPlacement="true" RequiresPopulation="false" Aqueduct="false" NoAdjacentCity="false" InternalOnly="false" ZOC="false" CaptureRemovesBuildings="true" CaptureRemovesCityDefenses="false" MilitaryDomain="NO_DOMAIN" TravelTime="3" CityStrengthModifier="2" TraitType="TRAIT_CIVILIZATION_CONS_GLITCH_CITY_EXTRA_DISTRICTS"/>
+		<Row DistrictType="DISTRICT_CONS_GC_EXTRA_THEATER" Name="LOC_DISTRICT_CONS_GC_EXTRA_THEATER_NAME" Description="LOC_DISTRICT_THEATER_DESCRIPTION" PrereqCivic="CIVIC_DRAMA_POETRY" PlunderType="PLUNDER_CULTURE" PlunderAmount="25" AdvisorType="ADVISOR_CULTURE" Cost="54" CostProgressionModel="COST_PROGRESSION_NUM_UNDER_AVG_PLUS_TECH" CostProgressionParam1="40" Maintenance="1" RequiresPlacement="true" RequiresPopulation="false" Aqueduct="false" NoAdjacentCity="false" InternalOnly="false" ZOC="false" CaptureRemovesBuildings="true" CaptureRemovesCityDefenses="false" MilitaryDomain="NO_DOMAIN" Appeal="1" CityStrengthModifier="2" TraitType="TRAIT_CIVILIZATION_CONS_GLITCH_CITY_EXTRA_DISTRICTS"/>
+		<Row DistrictType="DISTRICT_CONS_GC_EXTRA_INDUSTRIAL_ZONE" Name="LOC_DISTRICT_CONS_GC_EXTRA_INDUSTRIAL_ZONE_NAME" Description="LOC_DISTRICT_INDUSTRIAL_ZONE_DESCRIPTION" PrereqTech="TECH_APPRENTICESHIP" PlunderType="PLUNDER_SCIENCE" PlunderAmount="25" AdvisorType="ADVISOR_GENERIC" Cost="54" CostProgressionModel="COST_PROGRESSION_NUM_UNDER_AVG_PLUS_TECH" CostProgressionParam1="40" Maintenance="1" RequiresPlacement="true" RequiresPopulation="false" Aqueduct="false" NoAdjacentCity="false" InternalOnly="false" ZOC="false" CaptureRemovesBuildings="false" CaptureRemovesCityDefenses="true" MilitaryDomain="NO_DOMAIN" Appeal="-1" CityStrengthModifier="2" TraitType="TRAIT_CIVILIZATION_CONS_GLITCH_CITY_EXTRA_DISTRICTS"/>
+		
+		<Row DistrictType="DISTRICT_CONS_GC_BTC" Name="LOC_DISTRICT_CONS_GC_BTC_NAME" Description="LOC_DISTRICT_CONS_GC_BTC_DESCRIPTION" PrereqCivic="CIVIC_GAMES_RECREATION" PlunderType="PLUNDER_HEAL" PlunderAmount="100" AdvisorType="ADVISOR_GENERIC" Cost="27" Entertainment="2" CostProgressionModel="COST_PROGRESSION_NUM_UNDER_AVG_PLUS_TECH" CostProgressionParam1="40" Maintenance="1" RequiresPlacement="true" RequiresPopulation="true" Aqueduct="false" NoAdjacentCity="false" InternalOnly="false" ZOC="false" CaptureRemovesBuildings="false" CaptureRemovesCityDefenses="false" MilitaryDomain="NO_DOMAIN" Appeal="1" CityStrengthModifier="2" TraitType="TRAIT_CIVILIZATION_DISTRICT_CONS_GC_BTC"/>
+	</Districts>
+	<District_Adjacencies>
+
+		<Row DistrictType="DISTRICT_CONS_GC_EXTRA_HOLY_SITE" YieldChangeId="NaturalWonder_Faith"/>
+		<Row DistrictType="DISTRICT_CONS_GC_EXTRA_HOLY_SITE" YieldChangeId="Mountain_Faith1"/>
+		<Row DistrictType="DISTRICT_CONS_GC_EXTRA_HOLY_SITE" YieldChangeId="Mountain_Faith2"/>
+		<Row DistrictType="DISTRICT_CONS_GC_EXTRA_HOLY_SITE" YieldChangeId="Mountain_Faith3"/>
+		<Row DistrictType="DISTRICT_CONS_GC_EXTRA_HOLY_SITE" YieldChangeId="Mountain_Faith4"/>
+		<Row DistrictType="DISTRICT_CONS_GC_EXTRA_HOLY_SITE" YieldChangeId="Mountain_Faith5"/>
+		<Row DistrictType="DISTRICT_CONS_GC_EXTRA_HOLY_SITE" YieldChangeId="Forest_Faith"/>
+		<Row DistrictType="DISTRICT_CONS_GC_EXTRA_HOLY_SITE" YieldChangeId="District_Faith"/>
+		<Row DistrictType="DISTRICT_CONS_GC_EXTRA_HOLY_SITE" YieldChangeId="Government_Faith"/>
+		<Row DistrictType="DISTRICT_CONS_GC_EXTRA_CAMPUS" YieldChangeId="Mountains_Science1"/>
+		<Row DistrictType="DISTRICT_CONS_GC_EXTRA_CAMPUS" YieldChangeId="Mountains_Science2"/>
+		<Row DistrictType="DISTRICT_CONS_GC_EXTRA_CAMPUS" YieldChangeId="Mountains_Science3"/>
+		<Row DistrictType="DISTRICT_CONS_GC_EXTRA_CAMPUS" YieldChangeId="Mountains_Science4"/>
+		<Row DistrictType="DISTRICT_CONS_GC_EXTRA_CAMPUS" YieldChangeId="Mountains_Science5"/>
+		<Row DistrictType="DISTRICT_CONS_GC_EXTRA_CAMPUS" YieldChangeId="Jungle_Science"/>
+		<Row DistrictType="DISTRICT_CONS_GC_EXTRA_CAMPUS" YieldChangeId="District_Science"/>
+		<Row DistrictType="DISTRICT_CONS_GC_EXTRA_CAMPUS" YieldChangeId="Government_Science"/>
+		<Row DistrictType="DISTRICT_CONS_GC_EXTRA_HARBOR" YieldChangeId="SeaResource_Gold"/>
+		<Row DistrictType="DISTRICT_CONS_GC_EXTRA_HARBOR" YieldChangeId="District_Gold"/>
+		<Row DistrictType="DISTRICT_CONS_GC_EXTRA_HARBOR" YieldChangeId="Harbor_City_Gold"/>
+		<Row DistrictType="DISTRICT_CONS_GC_EXTRA_HARBOR" YieldChangeId="Government_Gold"/>
+		<Row DistrictType="DISTRICT_CONS_GC_EXTRA_COMMERCIAL_HUB" YieldChangeId="River_Gold"/>
+		<Row DistrictType="DISTRICT_CONS_GC_EXTRA_COMMERCIAL_HUB" YieldChangeId="Harbor_Gold"/>
+		<Row DistrictType="DISTRICT_CONS_GC_EXTRA_COMMERCIAL_HUB" YieldChangeId="Cons_Extra_Harbor_Gold"/>
+		<Row DistrictType="DISTRICT_CONS_GC_EXTRA_COMMERCIAL_HUB" YieldChangeId="RoyalDock_Gold"/>
+		<Row DistrictType="DISTRICT_CONS_GC_EXTRA_COMMERCIAL_HUB" YieldChangeId="District_Gold"/>
+		<Row DistrictType="DISTRICT_CONS_GC_EXTRA_COMMERCIAL_HUB" YieldChangeId="Government_Gold"/>
+		<Row DistrictType="DISTRICT_CONS_GC_EXTRA_THEATER" YieldChangeId="Wonder_Culture"/>
+		<Row DistrictType="DISTRICT_CONS_GC_EXTRA_THEATER" YieldChangeId="District_Culture"/>
+		<Row DistrictType="DISTRICT_CONS_GC_EXTRA_THEATER" YieldChangeId="Government_Culture"/>
+		<Row DistrictType="DISTRICT_CONS_GC_EXTRA_INDUSTRIAL_ZONE" YieldChangeId="Mine_Production"/>
+		<Row DistrictType="DISTRICT_CONS_GC_EXTRA_INDUSTRIAL_ZONE" YieldChangeId="Quarry_Production"/>
+		<Row DistrictType="DISTRICT_CONS_GC_EXTRA_INDUSTRIAL_ZONE" YieldChangeId="District_Production"/>
+		<Row DistrictType="DISTRICT_CONS_GC_EXTRA_INDUSTRIAL_ZONE" YieldChangeId="Government_Production"/>
+		<Row DistrictType="DISTRICT_COMMERCIAL_HUB" YieldChangeId="Cons_Extra_Harbor_Gold"/>
+	</District_Adjacencies>
+	<District_GreatPersonPoints>
+		<Row DistrictType="DISTRICT_CONS_GC_EXTRA_HOLY_SITE" GreatPersonClassType="GREAT_PERSON_CLASS_PROPHET" PointsPerTurn="1"/>
+		<Row DistrictType="DISTRICT_CONS_GC_EXTRA_CAMPUS" GreatPersonClassType="GREAT_PERSON_CLASS_SCIENTIST" PointsPerTurn="1"/>
+		<Row DistrictType="DISTRICT_CONS_GC_EXTRA_HARBOR" GreatPersonClassType="GREAT_PERSON_CLASS_ADMIRAL" PointsPerTurn="1"/>
+		<Row DistrictType="DISTRICT_CONS_GC_EXTRA_COMMERCIAL_HUB" GreatPersonClassType="GREAT_PERSON_CLASS_MERCHANT" PointsPerTurn="1"/>
+		<Row DistrictType="DISTRICT_CONS_GC_EXTRA_THEATER" GreatPersonClassType="GREAT_PERSON_CLASS_WRITER" PointsPerTurn="1"/>
+		<Row DistrictType="DISTRICT_CONS_GC_EXTRA_THEATER" GreatPersonClassType="GREAT_PERSON_CLASS_ARTIST" PointsPerTurn="1"/>
+		<Row DistrictType="DISTRICT_CONS_GC_EXTRA_THEATER" GreatPersonClassType="GREAT_PERSON_CLASS_MUSICIAN" PointsPerTurn="1"/>
+		<Row DistrictType="DISTRICT_CONS_GC_EXTRA_INDUSTRIAL_ZONE" GreatPersonClassType="GREAT_PERSON_CLASS_ENGINEER" PointsPerTurn="1"/>
+	</District_GreatPersonPoints>
+	<District_TradeRouteYields>
+		<Row DistrictType="DISTRICT_CONS_GC_EXTRA_HOLY_SITE" YieldType="YIELD_FOOD" YieldChangeAsOrigin="0" YieldChangeAsDomesticDestination="1" YieldChangeAsInternationalDestination="0"/>
+		<Row DistrictType="DISTRICT_CONS_GC_EXTRA_HOLY_SITE" YieldType="YIELD_FAITH" YieldChangeAsOrigin="0" YieldChangeAsDomesticDestination="0" YieldChangeAsInternationalDestination="1"/>
+		<Row DistrictType="DISTRICT_CONS_GC_EXTRA_CAMPUS" YieldType="YIELD_FOOD" YieldChangeAsOrigin="0" YieldChangeAsDomesticDestination="1" YieldChangeAsInternationalDestination="0"/>
+		<Row DistrictType="DISTRICT_CONS_GC_EXTRA_CAMPUS" YieldType="YIELD_SCIENCE" YieldChangeAsOrigin="0" YieldChangeAsDomesticDestination="0" YieldChangeAsInternationalDestination="1"/>
+		<Row DistrictType="DISTRICT_CONS_GC_EXTRA_HARBOR" YieldType="YIELD_PRODUCTION" YieldChangeAsOrigin="0" YieldChangeAsDomesticDestination="1" YieldChangeAsInternationalDestination="0"/>
+		<Row DistrictType="DISTRICT_CONS_GC_EXTRA_HARBOR" YieldType="YIELD_GOLD" YieldChangeAsOrigin="0" YieldChangeAsDomesticDestination="0" YieldChangeAsInternationalDestination="3"/>
+		<Row DistrictType="DISTRICT_CONS_GC_EXTRA_COMMERCIAL_HUB" YieldType="YIELD_PRODUCTION" YieldChangeAsOrigin="0" YieldChangeAsDomesticDestination="1" YieldChangeAsInternationalDestination="0"/>
+		<Row DistrictType="DISTRICT_CONS_GC_EXTRA_COMMERCIAL_HUB" YieldType="YIELD_GOLD" YieldChangeAsOrigin="0" YieldChangeAsDomesticDestination="0" YieldChangeAsInternationalDestination="3"/>
+		<Row DistrictType="DISTRICT_CONS_GC_EXTRA_THEATER" YieldType="YIELD_FOOD" YieldChangeAsOrigin="0" YieldChangeAsDomesticDestination="1" YieldChangeAsInternationalDestination="0"/>
+		<Row DistrictType="DISTRICT_CONS_GC_EXTRA_THEATER" YieldType="YIELD_CULTURE" YieldChangeAsOrigin="0" YieldChangeAsDomesticDestination="0" YieldChangeAsInternationalDestination="1"/>
+		<Row DistrictType="DISTRICT_CONS_GC_EXTRA_INDUSTRIAL_ZONE" YieldType="YIELD_PRODUCTION" YieldChangeAsOrigin="0" YieldChangeAsDomesticDestination="1" YieldChangeAsInternationalDestination="1"/>
+		<Row DistrictType="DISTRICT_CONS_GC_BTC" YieldType="YIELD_FOOD" YieldChangeAsOrigin="0" YieldChangeAsDomesticDestination="1" YieldChangeAsInternationalDestination="1"/>
+	</District_TradeRouteYields>
+	<District_CitizenYieldChanges>
+		<Row DistrictType="DISTRICT_CONS_GC_EXTRA_HOLY_SITE" YieldType="YIELD_FAITH" YieldChange="2"/>
+		<Row DistrictType="DISTRICT_CONS_GC_EXTRA_CAMPUS" YieldType="YIELD_SCIENCE" YieldChange="2"/>
+		<Row DistrictType="DISTRICT_CONS_GC_EXTRA_HARBOR" YieldType="YIELD_GOLD" YieldChange="2"/>
+		<Row DistrictType="DISTRICT_CONS_GC_EXTRA_HARBOR" YieldType="YIELD_SCIENCE" YieldChange="1"/>
+		<Row DistrictType="DISTRICT_CONS_GC_EXTRA_COMMERCIAL_HUB" YieldType="YIELD_GOLD" YieldChange="4"/>
+		<Row DistrictType="DISTRICT_CONS_GC_EXTRA_THEATER" YieldType="YIELD_CULTURE" YieldChange="2"/>
+		<Row DistrictType="DISTRICT_CONS_GC_EXTRA_INDUSTRIAL_ZONE" YieldType="YIELD_PRODUCTION" YieldChange="2"/>
+		<Row DistrictType="DISTRICT_CONS_GC_BTC" YieldType="YIELD_GOLD" YieldChange="2"/>
+	</District_CitizenYieldChanges>
+	<Adjacency_YieldChanges>
+		<Row ID="Cons_Extra_Harbor_Gold" Description="LOC_DISTRICT_HARBOR_GOLD" YieldType="YIELD_GOLD" YieldChange="2" TilesRequired="1" AdjacentDistrict="DISTRICT_HARBOR"/>
+	</Adjacency_YieldChanges>
+	
+	<DistrictModifiers>
+		<Row DistrictType="DISTRICT_CONS_GC_EXTRA_COMMERCIAL_HUB" ModifierId="MOD_CONS_GC_EXTRA_COMMERCIAL_HUB_TRADE_ROUTE_CAPACITY"/>
+		<Row DistrictType="DISTRICT_CONS_GC_EXTRA_HARBOR" ModifierId="MOD_CONS_GC_EXTRA_HARBOR_TRADE_ROUTE_CAPACITY"/>
+		<Row DistrictType="DISTRICT_CONS_GC_BTC" ModifierId="MOD_CONS_GC_BTC_CULTURE_TO_INCOMING_FOREIGN_ROUTES"/>
+		<Row DistrictType="DISTRICT_CONS_GC_BTC" ModifierId="MOD_CONS_GC_BTC_GOLD_FROM_INCOMING_FOREIGN_ROUTES"/>
+	</DistrictModifiers>
+	<Modifiers>
+		<Row ModifierId="MOD_CONS_GC_EXTRA_COMMERCIAL_HUB_TRADE_ROUTE_CAPACITY" ModifierType="MODIFIER_PLAYER_ADJUST_TRADE_ROUTE_CAPACITY"/>
+		<Row ModifierId="MOD_CONS_GC_EXTRA_HARBOR_TRADE_ROUTE_CAPACITY" ModifierType="MODIFIER_PLAYER_ADJUST_TRADE_ROUTE_CAPACITY" SubjectRequirementSetId="REQ_SET_CONS_NO_EXTRA_COMMERCIAL_HUB"/>
+		<Row ModifierId="MOD_CONS_GC_BTC_CULTURE_TO_INCOMING_FOREIGN_ROUTES" ModifierType="MODIFIER_SINGLE_CITY_ADJUST_TRADE_ROUTE_YIELD_TO_OTHERS"/>
+		<Row ModifierId="MOD_CONS_GC_BTC_GOLD_FROM_INCOMING_FOREIGN_ROUTES" ModifierType="MODIFIER_SINGLE_CITY_ADJUST_TRADE_ROUTE_YIELD_FROM_OTHERS"/>
+	</Modifiers>
+	<ModifierArguments>
+		<Row ModifierId="MOD_CONS_GC_EXTRA_COMMERCIAL_HUB_TRADE_ROUTE_CAPACITY" Name="Amount" Value="1"/>
+		<Row ModifierId="MOD_CONS_GC_EXTRA_HARBOR_TRADE_ROUTE_CAPACITY" Name="Amount" Value="1"/>
+		<Row ModifierId="MOD_CONS_GC_BTC_CULTURE_TO_INCOMING_FOREIGN_ROUTES" Name="YieldType" Value="YIELD_CULTURE"/>
+		<Row ModifierId="MOD_CONS_GC_BTC_CULTURE_TO_INCOMING_FOREIGN_ROUTES" Name="Amount" Value="3"/>
+		<Row ModifierId="MOD_CONS_GC_BTC_GOLD_FROM_INCOMING_FOREIGN_ROUTES" Name="YieldType" Value="YIELD_GOLD"/>
+		<Row ModifierId="MOD_CONS_GC_BTC_GOLD_FROM_INCOMING_FOREIGN_ROUTES" Name="Amount" Value="3"/>
+	</ModifierArguments>
+
+	<RequirementSets>
+		<Row RequirementSetId="REQ_SET_CONS_NO_EXTRA_COMMERCIAL_HUB" RequirementSetType="REQUIREMENTSET_TEST_ALL"/>
+	</RequirementSets>
+	<RequirementSetRequirements>
+		<Row RequirementSetId="REQ_SET_CONS_NO_EXTRA_COMMERCIAL_HUB" RequirementId="REQ_CONS_NO_EXTRA_COMMERCIAL_HUB"/>
+
+	</RequirementSetRequirements>
+	<Requirements>
+		<Row RequirementId="REQ_CONS_NO_EXTRA_COMMERCIAL_HUB" RequirementType="REQUIREMENT_CITY_HAS_DISTRICT" Inverse="true"/>
+	</Requirements>
+	<RequirementArguments>
+		<Row RequirementId="REQ_CONS_NO_EXTRA_COMMERCIAL_HUB" Name="DistrictType" Value="DISTRICT_CONS_GC_EXTRA_COMMERCIAL_HUB"/>
+	</RequirementArguments>
+</GameData>

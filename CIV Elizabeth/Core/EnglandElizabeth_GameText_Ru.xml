@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<LocalizedText>
+		<!--LEADERS-->
+		<Row Tag="LOC_LEADER_JFD_ELIZABETH_NAME" Language="ru_RU">
+			<Text>Елизавета I</Text>
+		</Row>
+		<!--Agenda-->
+		<Row Tag="LOC_AGENDA_JFD_VIDEO_ET_TACEO_NAME" Language="ru_RU">
+			<Text>Владычица морей</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_JFD_VIDEO_ET_TACEO_DESCRIPTION" Language="ru_RU">
+			<Text>Делает ставку на сильный флот и симпатизирует тем, кто делает то же самое. Старается получить высокий уровень дипломатического доступа.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_JFD_ELIZABETH_REASON_LEADS_NAVY" Language="ru_RU">
+			<Text>(У вас сильный флот)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_JFD_VIDEO_ET_TACEO_LAGS_AIRFORCE" Language="ru_RU">
+			<Text>Елизавета I в восторге от вашей военно-морской мощи</Text>
+		</Row>
+		<!--DOM-->
+		<Row Tag="LOC_LOADING_INFO_LEADER_JFD_ELIZABETH" Language="ru_RU">
+			<Text>Королева Елизавета, ваши первые шаги в управлении страной вызывают восхищение. Продолжайте и дальше проводить осторожную политику. Вдобавок на ваши плечи ложится важнейшая задача: продолжить развивать флот и превращать Англию в морскую империю. Не бойтесь лично спонсировать морские экспедиции и даже торгово-пиратские рейды. Позвольте взойти звезде Дрейка. И тогда уже над самой английской державой взойдет солнце могущества и славы.</Text>
+		</Row>
+		<!--Traits-->
+		<Row Tag="LOC_TRAIT_LEADER_JFD_DRAKE_NORRIS_NAME" Language="ru_RU">
+			<Text>Английская армада</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_JFD_DRAKE_NORRIS_DESCRIPTION" Language="ru_RU">
+			<Text>Все [ICON_GREATADMIRAL] великие флотоводцы получают дополнительный заряд способности "Отойти от дел". После использования [ICON_GREATADMIRAL] великим флотоводцем первого заряда способности "Отойти от дел" появляется Поселенец, в дополнение к исходному эффекту этой способности (дополнительный эффект становится доступен после исследования Судостроения). Англия получает уникальный юнит "Морской пес" после исследования социального института "Меркантилизм".</Text>
+		</Row>
+		<!--Civilopedia-->
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_ELIZABETH_TITLE" Language="ru_RU">
+			<Text>Елизавета I</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_ELIZABETH_SUBTITLE" Language="ru_RU">
+			<Text>Королева Англии</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_ELIZABETH_QUOTE" Language="ru_RU">
+			<Text>Вижу, но молчу.</Text>
+		</Row>		
+		<!--SEA DOG-->
+		<Replace Tag="LOC_UNIT_ENGLISH_SEADOG_DESCRIPTION" Language="ru_RU">
+			<Text>Уникальный английский морской юнит эпохи Возрождения, заменяющий Капер, если Елизавета I является лидером. Может захватывать вражеские корабли. Виден только с соседних клеток.</Text>
+		</Replace>
+		<!--MOD SUPPORT-->
+	</LocalizedText>
+</GameData>

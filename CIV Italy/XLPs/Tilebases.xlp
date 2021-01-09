@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<AssetObjects:XLP>
+	<m_Version>
+		<major>4</major>
+		<minor>0</minor>
+		<build>260</build>
+		<revision>754</revision>
+	</m_Version>
+	<m_ClassName text="TileBase"/>
+	<m_PackageName text="landmarks/tilebases"/>
+	<m_Entries>
+		<Element>
+			<m_EntryID text="DIS_THR_CLA_DUOMO_Base01"/>
+			<m_ObjectName text="DIS_THR_CLA_DUOMO_Base01"/>
+		</Element>
+		<Element>
+			<m_EntryID text="DIS_THR_CLA_DUOMO_Base02"/>
+			<m_ObjectName text="DIS_THR_CLA_DUOMO_Base02"/>
+		</Element>
+		<Element>
+			<m_EntryID text="DIS_THR_REN_DUOMO_Base03ART"/>
+			<m_ObjectName text="DIS_THR_REN_DUOMO_Base03ART"/>
+		</Element>
+		<Element>
+			<m_EntryID text="DIS_THR_REN_DUOMO_Base03NAT"/>
+			<m_ObjectName text="DIS_THR_REN_DUOMO_Base03NAT"/>
+		</Element>
+
+		<Element>
+			<m_EntryID text="DIS_THR_IND_DUOMO_Base01"/>
+			<m_ObjectName text="DIS_THR_IND_DUOMO_Base01"/>
+		</Element>
+		<Element>
+			<m_EntryID text="DIS_THR_IND_DUOMO_Base02"/>
+			<m_ObjectName text="DIS_THR_IND_DUOMO_Base02"/>
+		</Element>
+		<Element>
+			<m_EntryID text="DIS_THR_IND_DUOMO_Base03ART"/>
+			<m_ObjectName text="DIS_THR_IND_DUOMO_Base03ART"/>
+		</Element>
+		<Element>
+			<m_EntryID text="DIS_THR_IND_DUOMO_Base03NAT"/>
+			<m_ObjectName text="DIS_THR_IND_DUOMO_Base03NAT"/>
+		</Element>
+
+		<Element>
+			<m_EntryID text="DIS_THR_MOD_DUOMO_Base01"/>
+			<m_ObjectName text="DIS_THR_MOD_DUOMO_Base01"/>
+		</Element>
+		<Element>
+			<m_EntryID text="DIS_THR_MOD_DUOMO_Base02"/>
+			<m_ObjectName text="DIS_THR_MOD_DUOMO_Base02"/>
+		</Element>
+		<Element>
+			<m_EntryID text="DIS_THR_MOD_DUOMO_Base03ART"/>
+			<m_ObjectName text="DIS_THR_MOD_DUOMO_Base03ART"/>
+		</Element>
+		<Element>
+			<m_EntryID text="DIS_THR_MOD_DUOMO_Base03NAT"/>
+			<m_ObjectName text="DIS_THR_MOD_DUOMO_Base03NAT"/>
+		</Element>
+		<Element>
+			<m_EntryID text="DIS_THR_MOD_DUOMO_Base04ART"/>
+			<m_ObjectName text="DIS_THR_MOD_DUOMO_Base04ART"/>
+		</Element>
+		<Element>
+			<m_EntryID text="DIS_THR_MOD_DUOMO_Base04NAT"/>
+			<m_ObjectName text="DIS_THR_MOD_DUOMO_Base04NAT"/>
+		</Element>
+	</m_Entries>
+	<m_AllowedPlatforms>
+		<Element>WINDOWS</Element>
+		<Element>LINUX</Element>
+		<Element>MACOS</Element>
+	</m_AllowedPlatforms>
+</AssetObjects:XLP>
+

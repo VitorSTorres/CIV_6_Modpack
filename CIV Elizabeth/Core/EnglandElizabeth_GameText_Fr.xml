@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<LocalizedText>
+		<!--LEADERS-->
+		<Row Tag="LOC_LEADER_JFD_ELIZABETH_NAME" Language="fr_FR">
+			<Text>Élisabeth Ière</Text>
+			<Gender>feminine:no_article</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<!--Agenda-->
+		<Row Tag="LOC_AGENDA_JFD_VIDEO_ET_TACEO_NAME" Language="fr_FR">
+			<Text>Video et Taceo</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_JFD_VIDEO_ET_TACEO_DESCRIPTION" Language="fr_FR">
+			<Text>Construit une marine puissante, et respecte les civilisations qui font de même. Tente également de rassembler autant d'accès diplomatique que possible.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_JFD_ELIZABETH_REASON_LEADS_NAVY" Language="fr_FR">
+			<Text>(Votre marine est puissante.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_JFD_VIDEO_ET_TACEO_LAGS_AIRFORCE" Language="fr_FR">
+			<Text>Élisabeth respecte votre puissance navale.</Text>
+		</Row>
+		<!--DOM-->
+		<Row Tag="LOC_LOADING_INFO_LEADER_JFD_ELIZABETH" Language="fr_FR">
+			<Text>Un nouveau monde a été révélé, Votre Majesté reine Élisabeth, et l'Angleterre aspire à en faire le sien. Les mers sont vastes mais pas indomptables, tant que ses marins vous tiennent à cœur. Naviguez vers l'inconnu, et revenez dans la gloire.</Text>
+		</Row>
+		<!--Traits-->
+		<Row Tag="LOC_TRAIT_LEADER_JFD_DRAKE_NORRIS_NAME" Language="fr_FR">
+			<Text>Expédition Drake-Norreys</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_JFD_DRAKE_NORRIS_DESCRIPTION" Language="fr_FR">
+			<Text>Les [ICON_GREATADMIRAL] amiraux illustres disposent d'une charge supplémentaire. Obtient un colon lors de la première retraite d'un amiral illustre une fois la construction navale découverte. Apparition de l'unité exclusive du chien de mer une fois le mercantilisme découvert.</Text>
+		</Row>
+		<!--Civilopedia-->
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_ELIZABETH_TITLE" Language="fr_FR">
+			<Text>Élisabeth Ière</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_ELIZABETH_SUBTITLE" Language="fr_FR">
+			<Text>Reine d'Angleterre</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_ELIZABETH_QUOTE" Language="fr_FR">
+			<Text>Je vois et je ne dis rien.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_ELIZABETH_CHAPTER_HISTORY_PARA_1" Language="fr_FR">
+			<Text>Élisabeth Ière fut une femme d'exception qui vécut à une époque exceptionnelle. Belle, intelligente et coriace, elle réussit à s'imposer à la tête de l'Angleterre, à une époque où les femmes n'étaient guère considérées.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_ELIZABETH_CHAPTER_HISTORY_PARA_2" Language="fr_FR">
+			<Text>Avec le roi Henri VIII d'Angleterre comme père et Anne Boleyn (qui fut exécutée pour ne pas avoir donné de fils héritier au roi) comme mère, Élisabeth vécut une jeunesse pleine de dangers. Fille non désirée d'un roi complètement fou qui détruisit les liens de l'Angleterre avec l'Église catholique et qui engagea son pays dans une guerre civile afin de pouvoir épouser une autre femme (plusieurs femmes, en réalité), Élisabeth dut faire preuve de ruse et de finesse pour survivre. Elle reçut une excellente éducation délivrée par les plus grands érudits de l'époque. Elle fut une élève brillante et parlait cinq langues couramment.[NEWLINE][NEWLINE]Lorsque Henri VIII mourut, c'est son jeune fils, Edouard, qui lui succéda au trône. À l'âge de 15 ans, Élisabeth fut impliquée dans un complot visant à le détrôner. Elle risqua l'exécution et ne survécut que grâce à ses talents d'oratrice, persuadant ses interrogateurs qu'elle ignorait tout du complot.[NEWLINE][NEWLINE]À la mort du roi Edouard en 1553, c'est la soeur aînée d'Élisabeth, Marie, qui prit le pouvoir. Fervente catholique, Marie n'était pas très populaire auprès de la noblesse protestante qui tenta, en vain, de la renverser en 1554. Élisabeth fut de nouveau inquiétée, mais elle réussit une fois de plus à échapper à l'exécution. La reine Marie mourut en 1558 et Élisabeth devint enfin reine d'Angleterre.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_ELIZABETH_CHAPTER_HISTORY_PARA_3" Language="fr_FR">
+			<Text>Élisabeth fut une dirigeante extraordinaire. Elle fit de l'Église protestante l'église officielle d'Angleterre. Cependant, elle tenta de mettre un terme à la persécution des catholiques dans le pays (sans toutefois faire preuve de trop d'acharnement dans la mesure où la noblesse catholique n'espérait que sa mort). Elle mit un terme à la dévalorisation de la monnaie d'Angleterre, étape cruciale afin de restaurer les finances chancelantes de la nation.[NEWLINE][NEWLINE]Élisabeth usa de tous les moyens en sa possession pour atteindre ses objectifs. Elle se bâtit une image qui lui valut le surnom de "Reine vierge", augmentant d'autant plus sa popularité. Elle reçut bon nombre de propositions en mariage de la part de nobles et rois d'Europe. Mais elle les refusa toutes, profitant de son statut de femme célibataire pour contrôler ses alliés comme ses ennemis : si l'un des partis commençait à poser problème, elle le menaçait d'un éventuel "mariage" avec le dirigeant du parti adverse.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_ELIZABETH_CHAPTER_HISTORY_PARA_4" Language="fr_FR">
+			<Text>Élisabeth était une véritable mécène. Elle appréciait tout particulièrement la musique et la littérature. Elle fit de l'Angleterre un centre culturel, dans lequel évoluèrent de formidables artistes tels que William Shakespeare. C'est au cours de son règne que le premier théâtre fut construit, puis d'autres virent rapidement le jour dont le Théâtre du Globe de Shakespeare. En 1574, les représentations en semaine furent autorisées. Passionnée de poésie, Élisabeth s'essaya, avec succès, à l'écriture de quelques poèmes.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_ELIZABETH_CHAPTER_HISTORY_PARA_5" Language="fr_FR">
+			<Text>D'un point de vue militaire, l'Espagne catholique représentait la plus grande menace pour l'Angleterre. L'Espagne était alors la plus grande puissance continentale et son chef, le roi Philippe, tenta à maintes reprises d'envahir l'Angleterre. En 1588, il lança une offensive et prit la tête d'une imposante armada pour parvenir à ses fins. Élisabeth organisa la marine militaire du pays afin de repousser l'ennemi, et grâce à une tactique des plus élaborées, des navires de meilleure qualité et une mauvaise météo, l'Angleterre vainquit les troupes espagnoles. Il s'écoula 400 ans avant qu'une autre nation ne tente d'envahir l'île britannique.[NEWLINE][NEWLINE]Au cours du règne d'Élisabeth, l'Angleterre, la France, l'Espagne et les Pays-Bas établirent des colonies dans le Nouveau Monde. Élisabeth, à l'instar des autres chefs d'État, fit appel aux services d'un grand nombre de corsaires pour attaquer les colonies et les navires étrangers. L'Espagne et ses colonies restèrent les cibles privilégiées des corsaires.[NEWLINE][NEWLINE]Dans l'ensemble, et à l'exception de son triomphe chanceux face à l'armada espagnole, Élisabeth ne fut pas un grand chef de guerre. Elle lança des offensives maladroites en Irlande, en France et aux Pays-Bas, qui ne contribuèrent en rien à son image prestigieuse.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_ELIZABETH_CHAPTER_HISTORY_PARA_6" Language="fr_FR">
+			<Text>Élisabeth mourut en 1603, après 45 années de règne. Même si, à la fin de sa vie, la reine essuya de nombreux revers économiques et militaires qui ternirent grandement son image (à tel point que les Anglais furent soulagés par sa disparition), elle laissa derrière elle un pays en bien meilleur état qu'il ne l'était lorsqu'elle accéda au pouvoir. Son instinct de survie infaillible, son charisme et sa résistance firent d'elle l'un des meilleurs dirigeants de l'histoire. Et c'est avec une citation empruntée à Élisabeth elle-même que nous conclurons sa biographie : "Je sais que j'ai le corps d'une femme faible et fragile, mais j'ai le cœur et l'estomac d'un roi !"</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_ELIZABETH_CHAPTER_CAPSULE_BODY" Language="fr_FR">
+			<Text>Élisabeth est une reine féroce et indomptable, qui protégera l'empire anglais en construisant une grande et puissante marine.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_ELIZABETH_CHAPTER_DETAILED_BODY" Language="fr_FR">
+			<Text>Élisabeth et l'Angleterre en général s'illustrent quand il s'agit de faire rayonner la puissance britannique sur tous les continents. Très tôt, elle utilise le port militaire de la Royal Navy et ses chiens de mer pour contrôler les océans, puis elle parcourera le monde avec son équipage expérimenté d'amiraux illustres pour coloniser des terres étrangères. Couplée à sa marine immuable, Élisabeth pourra défendre le territoire anglais avant que quiconque puisse y pénétrer.</Text>
+		</Row>
+		<!--Diplomacy-->
+		<!--FIRST MEET-->
+		<!--First AI line-->		
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_JFD_ELIZABETH_ANY" Language="fr_FR">
+			<Text>Salutations. Je suis la reine Élisabeth d'Angleterre. Ne vous méprenez pas. Je n'ai beau être qu'une femme, je n'aime pas être traitée à la légère.</Text>
+		</Row>
+		<!--AI invitation to visit nearby City-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_JFD_ELIZABETH_ANY" Language="fr_FR">
+			<Text>Je vous en prie. Je vous invite à me rendre visite dans ma ville voisine. Vous avez l'air fatigué.</Text>
+		</Row>
+		<!--AI accepts Human invitation-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_JFD_ELIZABETH_ANY" Language="fr_FR">
+			<Text>J'accepte très gracieusement.</Text>
+		</Row>
+		<!--AI invitation to exchange Capital Information-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_JFD_ELIZABETH_ANY" Language="fr_FR">
+			<Text>Je crois que nous gagnerions à être un peu plus transparents. Souhaitez-vous échanger des informations sur nos capitales ?</Text>
+		</Row>
+		<!--GREETINGS-->
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_JFD_ELIZABETH_ANY" Language="fr_FR">
+			<Text>Salutations.</Text>
+		</Row>
+		<!--DELEGATION-->
+		<!--AI Accepts-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_JFD_ELIZABETH_ANY" Language="fr_FR">
+			<Text>J'ai reçu votre délégation, et je m'entretiendrai avec elle en temps utile.</Text>
+		</Row>
+		<!--AI Rejects-->
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_JFD_ELIZABETH_ANY" Language="fr_FR">
+			<Text>J'ai reçu votre délégation, quelque peu... débraillée. Je l'ai donc renvoyée, bien sûr. Je n'adresse pas la parole à ceux qui s'habillent comme des mendiants dans ma cour.</Text>
+		</Row>
+		<!--AI Requests-->
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_JFD_ELIZABETH_ANY" Language="fr_FR">
+			<Text>J'ai arrangé un petit cadeau pour vous, provenant de nos colonies exotiques situées par-delà les mers. J'espère que vous l'accepterez.</Text>
+		</Row>
+		<!--OPEN BORDERS-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_JFD_ELIZABETH_ANY" Language="fr_FR">
+			<Text>J'en suis ravie.</Text>
+		</Row>
+		<!--AI rejects from human-->
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_JFD_ELIZABETH_ANY" Language="fr_FR">
+			<Text>Très bien. Je n'oublierai pas cela.</Text>
+		</Row>
+		<!--AI requests from human-->
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_JFD_ELIZABETH_ANY" Language="fr_FR">
+			<Text>Je crois que nous pouvons arriver à un arrangement concernant nos frontières, n'est-ce pas ?</Text>
+		</Row>
+		<!--DECLARE FRIENDSHIP-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_JFD_ELIZABETH_ANY" Language="fr_FR">
+			<Text>Je vous remercie.</Text>
+		</Row>
+		<!--AI Rejects from human-->
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_JFD_ELIZABETH_ANY" Language="fr_FR">
+			<Text>Ce serait imprudent de ma part. Je dois refuser.</Text>
+		</Row>
+		<!--AI Requests friendship from human-->
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_JFD_ELIZABETH_ANY" Language="fr_FR">
+			<Text>Vous tenez une place toute particulière dans mon cœur, et j'aimerais vous considérer comme un ami proche de l'Angleterre. Qu'en dites-vous ?</Text>
+		</Row>
+		<!--Human accepts AI requests, AI responds-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_JFD_ELIZABETH_ANY" Language="fr_FR">
+			<Text>Je vous remercie infiniment.</Text>
+		</Row>
+		<!--Human rejects AI requests, AI responds-->
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_JFD_ELIZABETH_ANY" Language="fr_FR">
+			<Text>Vous m'êtes désagréable.</Text>
+		</Row>
+		<!--ALLIANCE-->
+		<!--AI Requests an alliance from human-->
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_JFD_ELIZABETH_ANY" Language="fr_FR">
+			<Text>Seriez-vous intéressé par une alliance avec l'Angleterre ?</Text>
+		</Row>
+		<!--KUDOS & WARNINGS-->	
+		<!--AI Kudos-->
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_JFD_ELIZABETH_ANY" Language="fr_FR">
+			<Text>Un dirigeant sensible connaît la valeur d'une marine forte. Vous êtes raisonnable.</Text>
+		</Row>
+		<!--AI Warnings-->
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_JFD_ELIZABETH_ANY" Language="fr_FR">
+			<Text>Je suppose que vous comptez sur vos forces terrestres pour vous protéger...</Text>
+		</Row>
+		<!--AI warns player for border troops-->
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_JFD_ELIZABETH_ANY" Language="fr_FR">
+			<Text>Nous ne souhaitons pas une guerre. Pourquoi donc approchez-vous vos troupes si près d'ici ?</Text>
+		</Row>
+		<!--TRADE-->
+		<!--AI Accepts Deal-->
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_JFD_ELIZABETH_ANY" Language="fr_FR">
+			<Text>{LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_JFD_ELIZABETH_ANY}</Text>
+		</Row>
+		<!-- AI Rejects Deal -->
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_JFD_ELIZABETH_ANY" Language="fr_FR">
+			<Text>{LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_JFD_ELIZABETH_ANY}</Text>
+		</Row>
+		<!--DENOUNCE-->
+		<!--From Human-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_JFD_ELIZABETH_ANY" Language="fr_FR">
+			<Text>Très bien.</Text>
+		</Row>
+		<!--From AI-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_JFD_ELIZABETH_ANY" Language="fr_FR">
+			<Text>Je ne resterai pas les bras croisés pendant que vous humiliez et menacez mon peuple. (Dénonciation)</Text>
+		</Row>
+		<!--Rationale
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_JFD_VIDEO_ET_TACEO_" Language="fr_FR">
+			<Text>()</Text>
+		</Row>	-->
+		<!--DECLARE WAR-->
+		<!--Human Declares War-->
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_JFD_ELIZABETH_ANY" Language="fr_FR">
+			<Text>Il n'y aura pas de reddition tant que je vis et respire.</Text>
+		</Row>
+		<!--AI Declares War-->
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_JFD_ELIZABETH_ANY" Language="fr_FR">
+			<Text>Vous êtes la plus grande menace pour mon peuple. Je vous arrêterai de toutes mes forces.</Text>
+		</Row>
+		<!--MAKE PEACE-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_JFD_ELIZABETH_ANY" Language="fr_FR">
+			<Text>Très bien. J'accepte.</Text>
+		</Row>
+		<!--AI refuses human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_JFD_ELIZABETH_ANY" Language="fr_FR">
+			<Text>Je ne crois pas en cette soi-disant paix.</Text>
+		</Row>
+		<!--AI requests from human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_JFD_ELIZABETH_ANY" Language="fr_FR">
+			<Text>Je crois qu'il est temps que nous mettions fin à cette guerre.</Text>
+		</Row>
+		<!--DEFEAT-->
+		<!--AI is Defeated-->
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_JFD_ELIZABETH_ANY" Language="fr_FR">
+			<Text>Je suis peut-être vaincue, mais je ne serai pas oubliée. L'Angleterre prévaudra.</Text>
+		</Row>
+		<!--Human is Defeated (will see this in hotseat)-->
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_JFD_ELIZABETH_ANY" Language="fr_FR">
+			<Text>[LOC_DIPLO_DEFEAT_FROM_AI_LEADER_JFD_ELIZABETH_ANY]</Text>
+		</Row>
+		<!--SEA DOG-->
+		<Replace Tag="LOC_UNIT_ENGLISH_SEADOG_DESCRIPTION" Language="fr_FR">
+			<Text>Unité navale anglaise de l'époque Renaissance unique qui remplace le corsaire. Peut capturer des navires ennemis. Ne peut être repérée que par les unités adjacentes.</Text>
+		</Replace>
+		<!--MOD SUPPORT-->
+		<!--JFD Rule with Faith-->
+		<Row Tag="LOC_GOVERNMENT_JFD_CHIEFDOM_LEADER_TITLE_JFD_ELIZABETH" Language="fr_FR">
+			<Text>Baronne</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_AUTOCRACY_LEADER_TITLE_JFD_ELIZABETH" Language="fr_FR">
+			<Text>Baronne</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_CLASSICAL_DEMOCRACY_LEADER_TITLE_JFD_ELIZABETH" Language="fr_FR">
+			<Text>Oratrice</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_OLIGARCHY_LEADER_TITLE_JFD_ELIZABETH" Language="fr_FR">
+			<Text>Comtesse</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_MERCHANT_REPUBLIC_LEADER_TITLE_JFD_ELIZABETH" Language="fr_FR">
+			<Text>Protectrice</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_MONARCHY_LEADER_TITLE_JFD_ELIZABETH" Language="fr_FR">
+			<Text>Reine</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_NOBLE_REPUBLIC_LEADER_TITLE_JFD_ELIZABETH" Language="fr_FR">
+			<Text>Protectrice</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_PEOPLES_REPUBLIC_LEADER_TITLE_JFD_ELIZABETH" Language="fr_FR">
+			<Text>Secrétaire générale</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_LIBERAL_DEMOCRACY_LEADER_TITLE_JFD_ELIZABETH" Language="fr_FR">
+			<Text>Reine</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_MILITARY_GUARDIANSHIP_LEADER_TITLE_JFD_ELIZABETH" Language="fr_FR">
+			<Text>Protectrice</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_EMPIRE_LEADER_TITLE_JFD_ELIZABETH" Language="fr_FR">
+			<Text>Impératrice-reine</Text>
+		</Row>
+	</LocalizedText>
+</GameData>

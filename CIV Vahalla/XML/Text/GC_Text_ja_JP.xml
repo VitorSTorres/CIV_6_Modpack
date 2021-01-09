@@ -1,0 +1,640 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<Row Tag="LOC_CIVILIZATION_CONS_GLITCH_CITY_NAME" Language="ja_JP">
+			<Text>グリッチシティ</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CONS_GLITCH_CITY_DESCRIPTION" Language="ja_JP">
+			<Text>グリッチシティ</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CONS_GLITCH_CITY_ADJECTIVE" Language="ja_JP">
+			<Text>グリッチシティ</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CONS_GLITCH_CITY_DESCRIPTION_JFD_CIVILIZATION" Language="ja_JP">
+			<Text>グリッチシティ</Text>
+		</Row>
+
+		<Row Tag="LOC_LEADER_CONS_DANA_NAME" Language="ja_JP">
+			<Text>デイナ・ゼイン</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INFO_LEADER_CONS_DANA" Language="ja_JP">
+			<Text>おお、デイナ・ゼイン、数あまたの強敵と激闘を繰り広げ、世界を震撼させた「赤い彗星」よ！貴女の活躍はリングの上に留まらず、ある時は学校、またある時はネオサンフランシスコ、はたまた世界が壊れ行く中でも、多くの英雄譚を残し、語り継がれていることを我らは片時たりとも忘れようがない。そして、今度はグリッチシティという名のリングで、再びその雄姿を拝みたいと熱望する民が群れを成している。時は来たれり。ゴングは既に鳴った。次の試合相手は……世界だ！</Text>
+		</Row>
+
+		<Row Tag="LOC_LEADER_CONS_JILL_NAME" Language="ja_JP">
+			<Text>ジュリアン・スティングレイ</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INFO_LEADER_CONS_JILL" Language="ja_JP">
+			<Text>我々は皆、心に傷を抱えながらも、常にそれを隠して生きている。しかしジル・スティングレイ、貴女は人々の本心が、グラスの奥底に沈んでいると見抜いた数少ないバーテンダーだ。多くの人々と出会い、酒とともに語り合った君ならば、このグリッチシティという巨大なグラスに沈んだ民の心も、必ずや救済できることであろう。掃除は済んだ。ジュークボックスに曲をセットした。さあ開店の時だ。今日も「一日を変え、一生を変えるカクテルを！」</Text>
+		</Row>
+
+		<!--<Row Tag="LOC_TRAIT_CIVILIZATION_CONS_GLITCH_CITY_CONFIG_NAME" Language="ja_JP">
+			<Text>The guinea pig of the world</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_CONS_GLITCH_CITY_CONFIG_DESCRIPTION" Language="ja_JP">
+			<Text>Cannot train Settler. 2 [ICON_TradeRoute] Trade Routes per era. 1 [ICON_Science] Science, [ICON_Culture] Culture, [ICON_Production] Production, [ICON_Gold] Gold from international [ICON_TradeRoute] Trade Routes and additional 1 yields at Medieval, Industrial, Atomic Era. 1 [ICON_Citizen] Free citizen and [ICON_Housing] Housing per 1 district (Up to 15). -1 [ICON_Amenities] Amenity per 3 district (Up to -5). Can build Second Holy Site, Campus, Harbor, Commercial Hub, Theater, Industrial Zone district which cannot build buildings, ignore Population requirement, doesn't receive Policy, Religion Beliefs, City-State Bonus effect. All districts in capital receive an 5 times adjacency bonus for being adjacent to another district.</Text>
+		</Row>-->
+		<Row Tag="LOC_TRAIT_CIVILIZATION_CONS_GLITCH_CITY_FOR_TEXT_01_NAME" Language="ja_JP">
+			<Text>世界の実験場</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_CONS_GLITCH_CITY_FOR_TEXT_01_DESCRIPTION" Language="ja_JP">
+			<Text>開拓者を生産できない。時代が進歩するごとに[ICON_TradeRoute]交易路+2。他文明との交易で[ICON_Science]科学力、[ICON_Culture]文化力、[ICON_Production]生産力、[ICON_Gold]ゴールドが+1され、時代が中世、産業時代、原子力時代に達するごとに更に+1ずつされる。区域に配置された[ICON_Citizen]市民１人ごとに住宅が+1(最大+15)されるが、3区域ごとに[ICON_Amenities]快適性が-1される。(最大-5)</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_CONS_GLITCH_CITY_FOR_TEXT_02_NAME" Language="ja_JP">
+			<Text>財閥コーポレーション</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_CONS_GLITCH_CITY_FOR_TEXT_02_DESCRIPTION" Language="ja_JP">
+			<Text>通常の区域とは別に、人口数にかかわらず、聖地、キャンパス、湾港、商業ハブ、劇場、工業地帯にあたるグリッチシティ独自の区域を建設できる。しかしこれらの区域は建造物を建てることができず、信仰や社会政策、都市国家などからのボーナスを受け取らない。また、グリッチシティ首都の都心から区域に与えられるボーナスは、通常のボーナスの5倍となる。</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_CONS_GLITCH_CITY_NAME" Language="ja_JP">
+			<Text>世界の実験場</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_CONS_GLITCH_CITY_DESCRIPTION" Language="ja_JP">
+			<Text>開拓者を生産できない。時代が進歩するごとに[ICON_TradeRoute]交易路+2。他文明との交易で[ICON_Science]科学力、[ICON_Culture]文化力、[ICON_Production]生産力[ICON_Gold]ゴールドが+1され、時代が中世、産業時代、原子力時代に達するごとに更に+1ずつされる。区域に配置された[ICON_Citizen]市民１人ごとに住宅が+1(最大+15)されるが、3区域ごとに[ICON_Amenities]快適性が-1される。(最大-5) 通常の区域とは別に、人口数にかかわらず、聖地、キャンパス、湾港、商業ハブ、劇場、工業地帯にあたるグリッチシティ独自の区域を建設できる。しかしこれらの区域は建造物を建てることができず、信仰や社会政策、都市国家などからのボーナスを受け取らない。また、グリッチシティ首都の都心から区域に与えられるボーナスは、通常のボーナスの5倍となる。</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_CONS_GLITCH_CITY_EXTRA_DISTRICTS_NAME" Language="ja_JP">
+			<Text>財閥コーポレーション</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_CONS_GLITCH_CITY_EXTRA_DISTRICTS_DESCRIPTION" Language="ja_JP">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_CONS_GC_EXTRA_HOLY_SITE_NAME" Language="ja_JP">
+			<Text>犬科独立支援協会</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_CONS_GC_EXTRA_CAMPUS_NAME" Language="ja_JP">
+			<Text>オーグメンテッドアイ</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_CONS_GC_EXTRA_HARBOR_NAME" Language="ja_JP">
+			<Text>汚水処理場</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_CONS_GC_EXTRA_COMMERCIAL_HUB_NAME" Language="ja_JP">
+			<Text>アルテミスウィルモール</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_CONS_GC_EXTRA_THEATER_NAME" Language="ja_JP">
+			<Text>スーパーシルバーサンダードーム</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_CONS_GC_EXTRA_INDUSTRIAL_ZONE_NAME" Language="ja_JP">
+			<Text>ディルド工場</Text>
+		</Row>
+
+		<Row Tag="LOC_TRAIT_LEADER_CONS_DANA_NAME" Language="ja_JP">
+			<Text>VA-11 Hall-Aオーナー兼バウンサー</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_CONS_DANA_DESCRIPTION" Language="ja_JP">
+			<Text>[ICON_TradeRoute]交易路が敵ユニットに略奪されない。自文明領土内での[ICON_Strength]戦闘力が+10。</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_CONS_DANA_UNIT_INCREASE_STRENGTH_IN_OWNER_TERRITORY_MOD_DESCRIPTION" Language="ja_JP">
+			<Text>自文明領土内での[ICON_Strength]戦闘力が+10。</Text>
+		</Row>
+
+		<Row Tag="LOC_TRAIT_LEADER_CONS_JILL_NAME" Language="ja_JP">
+			<Text>VA-11 Hall-Aバーテンダー</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_CONS_JILL_DESCRIPTION" Language="ja_JP">
+			<Text>グリッチシティ固有の区域である「英国商標協会」で、独自の贅沢資源を生産するプロジェクトを実行できる。</Text>
+		</Row>
+
+		<Row Tag="LOC_AGENDA_CONS_DANA_NAME" Language="ja_JP">
+			<Text>最高の上司</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_CONS_DANA_DESCRIPTION" Language="ja_JP">
+			<Text>同じ大陸に都市を保有していたり、自文明と交易する文明を好む。同じ大陸の友好都市国家や文明を非難したり、戦争を仕掛ける文明を嫌う。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_CONS_DANA_REASON_AGENDA_MODIFIER_CONS_DANA_LIKE_CONTINENT_PEACEFUL" Language="ja_JP">
+			<Text>(同じ大陸にいながら、平和が保たれている。いいことだ。)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_CONS_DANA_REASON_AGENDA_MODIFIER_CONS_DANA_HATE_CONTINENT_ATTACKED" Language="ja_JP">
+			<Text>(私の同じ大陸の文明を攻撃するとはね。)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_CONS_DANA_REASON_AGENDA_MODIFIER_CONS_DANA_HATE_DENOUNCED_FRIEND" Language="ja_JP">
+			<Text>(友を貶すとは許せないな。)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_CONS_DANA_LIKE_CONTINENT_PEACEFUL" Language="ja_JP">
+			<Text>デイナは同じ大陸の平和的な文明を好む</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_CONS_DANA_HATE_CONTINENT_ATTACKED" Language="ja_JP">
+			<Text>デイナは同じ大陸の好戦的な文明を嫌う</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_CONS_DANA_HATE_DENOUNCED_FRIEND" Language="ja_JP">
+			<Text>デイナは仲の良い文明を非難する文明を嫌う</Text>
+		</Row>
+
+		<Row Tag="LOC_AGENDA_CONS_JILL_NAME" Language="ja_JP">
+			<Text>自転車操業</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_CONS_JILL_DESCRIPTION" Language="ja_JP">
+			<Text>週末の支払いに怯え、1ターンごとの[ICON_Gold]ゴールド収入を高めようとする。自文明よりも[ICON_Gold]ゴールド収入の高い文明を好む。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_CONS_DANA_REASON_AGENDA_MODIFIER_CONS_JILL_LIKE_HIGH_INCOME" Language="ja_JP">
+			<Text>(お金持ちなのはいいことね……)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_CONS_DANA_REASON_AGENDA_MODIFIER_CONS_JILL_HATE_LOW_INCOME" Language="ja_JP">
+			<Text>(こいつ貧乏なんじゃ……)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_CONS_JILL_LIKE_HIGH_INCOME" Language="ja_JP">
+			<Text>ジルはゴールド収入の多い文明を好む</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_CONS_JILL_HATE_LOW_INCOME" Language="ja_JP">
+			<Text>ジルはゴールド収入の少ない文明を嫌う</Text>
+		</Row>
+
+		<Row Tag="LOC_UNIT_CONS_GC_WHITE_KNIGHT_NAME" Language="ja_JP">
+			<Text>ホワイトナイト</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_CONS_GC_WHITE_KNIGHT_DESCRIPTION" Language="ja_JP">
+			<Text>機械化歩兵に代わるグリッチシティ固有のユニット。通常の機械化歩兵に比べて戦闘力に劣るが、自文明の領土内で[ICON_Strength]戦闘力が+5され、更に区域内では[ICON_Strength]戦闘力が+10される。都市化(技術)を研究することで解禁される。</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_CONS_GC_WHITE_KNIGHT_NAME" Language="ja_JP">
+			<Text>ホワイトナイト</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_CONS_GC_WHITE_KNIGHT_DESCRIPTION" Language="ja_JP">
+			<Text>区域内で[ICON_Strength]戦闘力が+10。自文明の領土内で[ICON_Strength]戦闘力+5。</Text>
+		</Row>
+		<Row Tag="LOC_MOD_CONS_GC_WHITE_KNIGHT_INCREASE_STRENGTH_IN_DISTRICT_DESCRIPTION" Language="ja_JP">
+			<Text>区域内で[ICON_Strength]戦闘力が+10</Text>
+		</Row>
+		<Row Tag="LOC_MOD_CONS_GC_WHITE_KNIGHT_INCREASE_STRENGTH_IN_OWNER_TERRITORY_DESCRIPTION" Language="ja_JP">
+			<Text>自文明領土内で[ICON_Strength]戦闘力+5</Text>
+		</Row>
+
+		<Row Tag="LOC_DISTRICT_CONS_GC_BTC_NAME" Language="ja_JP">
+			<Text>英国商標協会</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_CONS_GC_BTC_DESCRIPTION" Language="ja_JP">
+			<Text>総合娯楽施設に代わるグリッチシティ固有の区域。[ICON_Amenities]快適性が+2され、[ICON_Citizen]市民1人ごとにゴールドを+2。他文明との[ICON_TradeRoute]交易路1本につき[ICON_Gold]ゴールドを+3し、交易相手に[ICON_Culture]文化力を+3提供する。</Text>
+		</Row>
+		<!--<Row Tag="LOC_DISTRICT_CONS_GC_BTC_ADJACENCY" Language="ja_JP">
+			<Text>새 특수 지구 인접효과: </Text>
+		</Row>-->
+
+		<Row Tag="LOC_RESOURCE_CONS_GC_DUMMY_NAME" Language="ja_JP">
+			<Text>グリッチシティに希望</Text>
+		</Row>
+		<Row Tag="LOC_RESOURCE_CONS_JILL_DUMMY_NAME" Language="ja_JP">
+			<Text>ジュリアン・スティングレイに過去と向き合う勇気</Text>
+		</Row>
+		<Row Tag="LOC_RESOURCE_CONS_JILL_BAD_TOUCH_NAME" Language="ja_JP">
+			<Text>バッドタッチ</Text>
+		</Row>
+		<Row Tag="LOC_RESOURCE_CONS_JILL_PIANO_WOMAN_NAME" Language="ja_JP">
+			<Text>ピアノウーマン</Text>
+		</Row>
+		<Row Tag="LOC_RESOURCE_CONS_JILL_BRANDTINI_NAME" Language="ja_JP">
+			<Text>ブランディーニ</Text>
+		</Row>
+		<Row Tag="LOC_RESOURCE_CONS_JILL_GUT_PUNCH_NAME" Language="ja_JP">
+			<Text>ガットパンチ</Text>
+		</Row>
+		<Row Tag="LOC_RESOURCE_CONS_JILL_ZEN_STAR_NAME" Language="ja_JP">
+			<Text>ゼンスター</Text>
+		</Row>
+
+		<Row Tag="LOC_PROJECT_CONS_JILL_MAKE_BAD_TOUCH_NAME" Language="ja_JP">
+			<Text>バッドタッチ</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_CONS_JILL_MAKE_BAD_TOUCH_SHORT_NAME" Language="ja_JP">
+			<Text>バッドタッチ</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_CONS_JILL_MAKE_BAD_TOUCH_DESCRIPTION" Language="ja_JP">
+			<Text>ジルの固有プロジェクト。カクテルを作り、高級資源「バッドタッチ」を獲得する。プロジェクト以外でカクテルを入手することはできない。[ICON_Amenities]快適性が+4される。</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_CONS_JILL_MAKE_PIANO_WOMAN_NAME" Language="ja_JP">
+			<Text>ピアノウーマン</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_CONS_JILL_MAKE_PIANO_WOMAN_SHORT_NAME" Language="ja_JP">
+			<Text>ピアノウーマン</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_CONS_JILL_MAKE_PIANO_WOMAN_DESCRIPTION" Language="ja_JP">
+			<Text>ジルの固有プロジェクト。カクテルを作り、高級資源「ピアノウーマン」を獲得する。プロジェクト以外でカクテルを入手することはできない。[ICON_Amenities]快適性が+4される。</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_CONS_JILL_MAKE_BRANDTINI_NAME" Language="ja_JP">
+			<Text>ブランディーニ</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_CONS_JILL_MAKE_BRANDTINI_SHORT_NAME" Language="ja_JP">
+			<Text>ブランディーニ</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_CONS_JILL_MAKE_BRANDTINI_DESCRIPTION" Language="ja_JP">
+			<Text>ジルの固有プロジェクト。カクテルを作り、高級資源「ブランディーニ」を獲得する。プロジェクト以外でカクテルを入手することはできない。[ICON_Amenities]快適性が+4される。</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_CONS_JILL_MAKE_GUT_PUNCH_NAME" Language="ja_JP">
+			<Text>ガットパンチ</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_CONS_JILL_MAKE_GUT_PUNCH_SHORT_NAME" Language="ja_JP">
+			<Text>ガットパンチ</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_CONS_JILL_MAKE_GUT_PUNCH_DESCRIPTION" Language="ja_JP">
+			<Text>ジルの固有プロジェクト。カクテルを作り、高級資源「ガットパンチ」を獲得する。プロジェクト以外でカクテルを入手することはできない。[ICON_Amenities]快適性が+4される。</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_CONS_JILL_MAKE_ZEN_STAR_NAME" Language="ja_JP">
+			<Text>ゼンスター</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_CONS_JILL_MAKE_ZEN_STAR_SHORT_NAME" Language="ja_JP">
+			<Text>ゼンスター</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_CONS_JILL_MAKE_ZEN_STAR_DESCRIPTION" Language="ja_JP">
+			<Text>ジルの固有プロジェクト。カクテルを作り、高級資源「ゼンスター」を獲得する。プロジェクト以外でカクテルを入手することはできない。[ICON_Amenities]快適性が+4される。</Text>
+		</Row>
+
+		<!-- 시민 이름 목록 -->
+		<Row Tag="LOC_CITIZEN_CONS_GLITCH_CITY_MALE_01" Language="ja_JP">
+			<Text>ディール</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CONS_GLITCH_CITY_MALE_02" Language="ja_JP">
+			<Text>イカ柴</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CONS_GLITCH_CITY_MALE_03" Language="ja_JP">
+			<Text>ジェイミー</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CONS_GLITCH_CITY_MALE_04" Language="ja_JP">
+			<Text>ドノヴァン・D・ドーソン</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CONS_GLITCH_CITY_MALE_05" Language="ja_JP">
+			<Text>ヴァージリオ</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CONS_GLITCH_CITY_MALE_06" Language="ja_JP">
+			<Text>イングラム</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CONS_GLITCH_CITY_MALE_07" Language="ja_JP">
+			<Text>マリオ</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CONS_GLITCH_CITY_MALE_08" Language="ja_JP">
+			<Text>アート・フォン・ダラー</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CONS_GLITCH_CITY_MALE_09" Language="ja_JP">
+			<Text>テイラー</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CONS_GLITCH_CITY_FEMALE_01" Language="ja_JP">
+			<Text>ドロシー</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CONS_GLITCH_CITY_FEMALE_02" Language="ja_JP">
+			<Text>セイ</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CONS_GLITCH_CITY_FEMALE_03" Language="ja_JP">
+			<Text>ステラ</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CONS_GLITCH_CITY_FEMALE_04" Language="ja_JP">
+			<Text>ベアトリス</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CONS_GLITCH_CITY_FEMALE_05" Language="ja_JP">
+			<Text>アルマ</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CONS_GLITCH_CITY_FEMALE_06" Language="ja_JP">
+			<Text>キム</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CONS_GLITCH_CITY_FEMALE_07" Language="ja_JP">
+			<Text>キラ☆ミキ</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CONS_GLITCH_CITY_FEMALE_08" Language="ja_JP">
+			<Text>すとり～みんぐチャン</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CONS_GLITCH_CITY_FEMALE_09" Language="ja_JP">
+			<Text>ノーマ</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CONS_GLITCH_CITY_FEMALE_10" Language="ja_JP">
+			<Text>アナ</Text>
+		</Row>
+
+		<!-- 도시 이름 목록 -->
+		<Row Tag="LOC_CIVILIZATION_CONS_GLITCH_CITY_CITY_01" Language="ja_JP">
+			<Text>グリッチシティ</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CONS_GLITCH_CITY_CITY_02" Language="ja_JP">
+			<Text>VA-11 Hall-A</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CONS_GLITCH_CITY_CITY_03" Language="ja_JP">
+			<Text>VA-1 Hall-A</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CONS_GLITCH_CITY_CITY_04" Language="ja_JP">
+			<Text>N1-RV Ann-A</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CONS_GLITCH_CITY_CITY_05" Language="ja_JP">
+			<Text>N1-RV Ann-B</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CONS_GLITCH_CITY_CITY_06" Language="ja_JP">
+			<Text>MI-6 Hall-C</Text>
+		</Row>
+
+		<!-- 시빌로피디아 텍스트 -->
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_CONS_GLITCH_CITY_CHAPTER_HISTORY_PARA_1" Language="ja_JP">
+			<Text>財閥コーポレーションの傀儡、クインシー市長のもとに管理され、犯罪と腐敗に満ち溢れた巨大都市グリッチシティ。文字通りゴミ溜めや掃きだめと称されるにふさわしい都市であるが、一方リリムや犬などの非人間の権利を保障するなどの社会実験場としての側面を持つ。このことから「世界の実験場」とあだ名されている。[NEWLINE][NEWLINE]裏通りを少し進んだところにあるバーVA-11 HALL-Aは、知る人ぞ知る隠れた名店として、酔っ払いから各界の有力者や著名人まで訪れる。</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_CIVILIZATION_CONS_GLITCH_CITY_LOCATION" Language="ja_JP">
+			<Text>不明(未来の地球のどこか)</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_CIVILIZATION_CONS_GLITCH_CITY_SIZE" Language="ja_JP">
+			<Text>不明(すごくでかい)</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_CIVILIZATION_CONS_GLITCH_CITY_POPULATION" Language="ja_JP">
+			<Text>不明(人間にリリム、あとしゃべる犬でごった返している)</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_CIVILIZATION_CONS_GLITCH_CITY_CAPITAL" Language="ja_JP">
+			<Text>グリッチシティ</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CONS_DANA_CHAPTER_CAPSULE_BODY" Language="ja_JP">
+			<Text>グリッチシティでは新しく開拓者を生産することはできませんが、その代わり他の文明では類を見ない巨大都市を築くことができます。区域は快適性を損なう代わり強力な効果を発揮します。防衛戦争に秀で、自文明の領地内では戦闘力にボーナスが加わります。交易路が蛮族や他文明からの略奪を受けないため、戦時下でも自文明や友好文明に出力をもたらすでしょう。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CONS_DANA_CHAPTER_DETAILED_BODY" Language="ja_JP">
+			<Text>グリッチシティは都市国家に限りなく近い文明です。開拓者を何らかの方法で手に入れれば第二都市を築くこともできますが、開拓者の生産ができないため、基本的には一都市のみでの勝利を狙うことになります。グリッチシティでは通常の区域に加え、聖地、キャンパス、湾港、商業ハブ、劇場、工業地帯にあたる独自の区域を建設することができます。しかし、これらの区域は3つごとに快適性を-1ずつ低下させてしまいます。グリッチシティは他文明より多くの交易路を持つことができ、更にデイナの交易路は他文明や蛮族からの略奪を受けない強みがあります。友好文明や都市国家と強力な関係を交易を通じて築き、いざ侵略を受けた際は軍勢を率いて世界の女番長(SUKEBAN)になりましょう。強力な交易路を生かした文化圧力と宗教圧力をもってすれば、文化勝利や宗教勝利をもって勝利を手にすることもできるでしょう。ですがご注意を、友好文明との交易は、同時に彼らの勝利にも力を貸してしまうのです。近隣国によく目を光らせて、調子に乗っていたら「シめる」のもスケバンの仕事です。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CONS_DANA_CHAPTER_HISTORY_PARA_1" Language="ja_JP">
+			<Text>壮絶という言葉が彼女ほどよく当てはまる人物は世界でも数えるほどしかいないだろう。「赤い彗星」ことデイナ・ゼインは、義に生き、人を救い、悪を許さない正義のレスラーだ。[NEWLINE][NEWLINE]彼女は昔から器用に生きるのが苦手だった。子どものころから困っている人を見れば、手を差し伸ばさずにはいられない性分であった。高校時代はマフィア化した校内ギャングを腕っぷし一つで壊滅させ、その後女番長(SUKEBAN)として数多くの伝説を作った。その後大学へ進学したデイナは、学生レスリングの試合にたびたび飛び入り参加しては、ベルトを次々と掻っ攫っていった。女子の試合はおろか、男子の試合でも謎の覆面レスラーに敗れ続けたレスリング部は、その正体を探るため、大学中を彷徨う羽目になるが……それはまた別の機会に記したい。その傍ら、強烈なキャラクターが功を成し、ゲーム会社などでマスコットとして活動をするようになる。不幸な男の死にざまを幾度となく見させられたり、食事前にテーブルを焼かれたりといった、常人ではPTSD級のインシデントに遭遇するが、幸いデイナはあまり気にしていないようである。(文句は言う)その後女子レスラー、MMAチャンピョン、煙突掃除、配管工、カワイイ学術士、アニメ評論家、ベータテスターとして世界を転々とした彼女は、やはり各地で伝説を遺し、風のように去っていった。ネオサンフランシスコで警察官として無茶をしたり、親友のアイリスと共に無茶苦茶なプレゼンをしたりと、紆余曲折を経た彼女はやがて、BTC、英国商標協会のもとで働くことになった。[NEWLINE][NEWLINE]スーパーバイザーとして各店の売り上げ向上に貢献した彼女は、とうとうオーナーとして店を任されるようになる。VA-11 HALL-A、当人きっての希望で任されたこの店は、幾度もの看板の「リニューアル」を通じてVALLHALLA、ヴァルハラとあだ名される隠れた名店へと生まれ変わった。ここで起こった事件・珍事・騒動を記したいのは山々だが、続きは是非SteamかGoG.comで『VA-11 Hall-A: Cyberpunk Bartender Action』を買って己が目で確認されたし。定価15ドル。セールもときどきやる。</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_CONS_DANA_QUOTE" Language="ja_JP">
+			<Text>どうしてお前はスパイシーチキンウィングのバケツを持ち歩いていないのだ？</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CONS_JILL_CHAPTER_CAPSULE_BODY" Language="ja_JP">
+			<Text>グリッチシティでは新しく開拓者を生産することはできませんが、その代わり他の文明では類を見ない巨大都市を築くことができます。区域は快適性を損なう代わり強力な効果を発揮し、ジルのカクテルは高級資源として失われた快適性をカバーするのに十分な効果を発揮するでしょう。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CONS_JILL_CHAPTER_DETAILED_BODY" Language="ja_JP">
+			<Text>グリッチシティは都市国家に限りなく近い文明です。開拓者を何らかの方法で手に入れれば第二都市を築くこともできますが、開拓者の生産ができないため、基本的には一都市のみでの勝利を狙うことになります。他文明より多くの交易路を持つことができるため、交易産出を生かして都市を発展させましょう。グリッチシティでは通常の区域に加え、聖地、キャンパス、湾港、商業ハブ、劇場、工業地帯にあたる独自の区域を建設することができますが、これらの区域は3つごとに快適性を-1ずつ低下させてしまいます。これを補うために、総合娯楽施設の代替区域である「英国商標協会」でジルはプロジェクトを通じてカクテルを合成することができます。カクテルは独自の高級資源として都市の快適性を向上させ、過剰な分は他文明との交易に用いることもできます。都心から発生する強力な区域へのボーナスと、区域の数を生かした出力を活用すれば、宗教勝利や文化勝利をもって世界を手にすることもできるでしょう。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CONS_JILL_CHAPTER_HISTORY_PARA_1" Language="ja_JP">
+			<Text>人生は何が起こる分からないものである。「ジル」ことジュリアン・ナタリー・スティングレイの生きざまもまさしくそれだ。大学で化学を専攻し、研究所からのオファーが来ていたにも関わらず、踏ん切りがつかずに各地を転々とした挙句、結局グリッチシティに帰ってきた。幸いにして職にありつけた彼女は、趣味の人間観察と化学の知識を生かし、BTC認定バーVA-11 HALL-Aのバーテンダーとして多くの客たちとのふれあいを楽しみながら仕事をしている。同僚のギリアン、そして慕情を寄せる上司のデイナとともにVA-11 HALL-Aは今日も誰かを救っている。SteamとGoG.comで『VA-11 Hall-A: Cyberpunk Bartender Action』は絶賛発売中。定価15ドル。セールあり。買い。</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_CONS_JILL_QUOTE" Language="ja_JP">
+			<Text>一日を変え、一生を変えるカクテルを！</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_CONS_GC_WHITE_KNIGHT_CHAPTER_HISTORY_PARA_1" Language="ja_JP">
+			<Text>グリッチシティには治安を守る民警のほかに、軍警察にあたる治安維持部隊が存在する。財閥コーポレーションのもとで編制されたホワイトナイトである。当局の定めた適当かつ、いい加減な法令を市民に順守させるべく、ホワイトナイトは日夜グリッチナイトで目を光らせている。ホワイトナイトは強大な組織であり、市民の反乱に対処するジャッ……でカーに限りなく近い「電撃隊」や、救急救命に従事する「ヴァルキリー隊」などが刑事事件・事故を担当している。その他民事を補佐する部署として、企業の監査を担当する隊や、経理を担当する隊も活動している。かつては教育機関に配置され、いじめ防止に取り組んだ隊も存在した。ホワイトナイトの装備は財閥コーポレーションの技術の粋を尽くして開発・配備されている。スーツやヘルメットは隊員一人一人にフィットし、高い機動性を保ちながら防護力に優れる。アーマー部分は、最も薄い箇所でもクラスIII以下の投射武器に耐えうる強度をもつ。反乱市民や犯罪者の制圧のためにテイザーやガス弾投射筒を数多く用意してあり、昔ながらの催涙弾や、香港でその実用性を証明した木弾、ナノマシンの活性化や物理ハッキングを促すハードアクセスガス弾が日常的に用いられる。ハード面では世界のあらゆる警察、ないし警察軍を凌駕しているのは確かであるが、その一方でソフト面では様々な問題が露呈している。市民に対する高圧的な姿勢は官民連携を阻害し、職権を濫用した希少物資の横流しや、贈賄による犯罪組織の放免など、ホワイトナイト全体にはびこる腐敗によって、今や市民はおろか「飼い主」の財閥コーポレーションからも疎まれる存在になりつつある。何らかの機があれば、財閥はホワイトナイトを切り捨てるのも厭わないだろう。</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_DISTRICTS_PAGE_DISTRICT_CONS_GC_BTC_CHAPTER_HISTORY_PARA_1" Language="ja_JP">
+			<Text>世界中にチェーン店を展開する英国商標協会は、グリッチシティにも多くのバーを展開している。VA-11 HALL-Aもその一つである。しかし昨今ではBTCの管理下に置かれたバーが、他企業や政府からの干渉を受けづらいのをいいことに犯罪行為の隠れ蓑にされているのが現状だ。これを受けたBTCは、現在グリッチシティで展開していたバーの40%を閉鎖させている。VA-11 HALL-Aにも嫌疑はかけられており、売り上げの低迷もあって閉店候補として監査を受けている。</Text>
+		</Row>
+
+		<!-- 지도자 대사 -->
+		<!--<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_CONS_DANA_ANY" Language="ja_JP">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_CONS_DANA_ANY" Language="ja_JP">
+			<Text></Text>
+		</Row>-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_CONS_DANA_ANY" Language="ja_JP">
+			<Text>これまでも君は友だったが、今日からは親友と書いて[NEWLINE]ダチと読まなくてはな。今後ともよろしく！</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_CONS_DANA_ANY" Language="ja_JP">
+			<Text>私としては今すぐにでもイエスと言いたいのだが……[NEWLINE]街全体に関わることだからもう少し考えさせてほしい。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_CONS_DANA_ANY" Language="ja_JP">
+			<Text>残念ながらこの世界はろくでもないが、君とならうまく[NEWLINE]やっていけそうな気がする。どうか友誼を結んでもらえないかな。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_CONS_DANA_ANY" Language="ja_JP">
+			<Text>うれしいよ！これで私たちは親友だ。[NEWLINE]困ったことがあったらなんでも言ってくれ！</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_CONS_DANA_ANY" Language="ja_JP">
+			<Text>フられちゃったか。それでもまだ私たちは友達だと信じているよ！</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_CONS_DANA_ANY" Language="ja_JP">
+			<Text>戦いは嫌いじゃない。それに街のみんながやられるのを、黙って見ていられるほどお人よしじゃないものでね。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_CONS_DANA_ANY" Language="ja_JP">
+			<Text>何の因果か戦争だ。笑いたければ笑うがいいさ。だがな！！[NEWLINE]てめぇみてぇに魂まで薄汚れちゃいねぇんだぜ！！</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_CONS_DANA_ANY" Language="ja_JP">
+			<Text>わざわざお客さんを連れてきてくれてうれしいよ。[NEWLINE]レアルティヌアのツテで部屋は用意してある。[NEWLINE]ようこそグリッチシティへ。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_CONS_DANA_ANY" Language="ja_JP">
+			<Text>悪いけど、店にも客を選ぶ権利はあるんだ。[NEWLINE]またのご来店をお待ちしてるよ。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_CONS_DANA_ANY" Language="ja_JP">
+			<Text>うちに来たお客に頼んで、私のプロマイドやらグッズを[NEWLINE]贈らせてもらうよ。是非話のタネにしてくれ！</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_CONS_DANA_ANY" Language="ja_JP">
+			<Text>確かにこの街はひどいところだが、それを口に[NEWLINE]出したことは必ず後悔させてやるぞ。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_CONS_DANA_ANY" Language="ja_JP">
+			<Text>君のことは友だと思いたいが、ここ最近の振る舞いは目に余るところがある。一度頭を冷やした方がいい。(非難)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_CONS_DANA_ANY" Language="ja_JP">
+			<Text>どうもはじめまして！私がヴァルハラのオーナー、[NEWLINE]デイナ・ゼインだ。今後ともよしなに！</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_CONS_DANA_ANY" Language="ja_JP">
+			<Text>もし君さえ良ければ、うちのバーで飲んでいかないか。[NEWLINE]たまには私が一杯作ろう。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_CONS_DANA_ANY" Language="ja_JP">
+			<Text>ありがとう！</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_CONS_DANA_ANY" Language="ja_JP">
+			<Text>お互いの首都について教えっこするのはどうだ？[NEWLINE]ネンガジョも送ってやるぞ！</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_CONS_DANA_ANY" Language="ja_JP">
+			<Text>こんちは！何の用かな？</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_CONS_DANA_ANY" Language="ja_JP">
+			<Text>私たちってなかなか上手くやれてるんじゃないかな。[NEWLINE]これからも仲良くやっていこうじゃないか！</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_CONS_DANA_ANY" Language="ja_JP">
+			<Text>私の友だちに対する扱いがずいぶんとひどくないか？[NEWLINE]無法はいつまでも見逃されるわけじゃあない。それだけは覚えておくんだな。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_CONS_DANA_ANY" Language="ja_JP">
+			<Text>盟を結びたいと思う。どうかな？</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_CONS_DANA_ANY" Language="ja_JP">
+			<Text>分かった。戦いはもうやめよう。[NEWLINE]いい試合だったんじゃないかな？</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_CONS_DANA_ANY" Language="ja_JP">
+			<Text>まだ試合は終わっていないぞ！</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_CONS_DANA_ANY" Language="ja_JP">
+			<Text>そろそろタオルを投げさせてはもらえないかな。[NEWLINE]これでどうだい？</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_CONS_DANA_ANY" Language="ja_JP">
+			<Text>兵隊？別に構わないさ。私もあとで見物させてくれ。[NEWLINE]一杯やりたくなったらぜひうちに寄ってくれ。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_CONS_DANA_ANY" Language="ja_JP">
+			<Text>すまないけど街のみんなが怖がってる。[NEWLINE]今回は帰ってもらえないか。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_CONS_DANA_ANY" Language="ja_JP">
+			<Text>悪いんだけど、うちの兵隊をちょっと通してくれないか？シメなきゃいけない奴がいてね。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_CONS_DANA_ANY" Language="ja_JP">
+			<Text>おー、ずいぶん立派な兵隊たちだね。[NEWLINE]たまたま通りがかっただけだよな？そうだろ？</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_CONS_DANA_ANY" Language="ja_JP">
+			<Text>残念だけど、君の勝ちだ。おめでとう。[NEWLINE]私はまた巡業にでも出るとするよ。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_CONS_DANA_ANY" Language="ja_JP">
+			<Text>それは残念。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_CONS_DANA_ANY" Language="ja_JP">
+			<Text>ありがとう！助かるよ。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_CONS_DANA_ANY" Language="ja_JP">
+			<Text>存分に楽しんでくれ！</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_EMBASSY_FROM_HUMAN_LEADER_CONS_DANA_ANY" Language="ja_JP">
+			<Text>この間丁度BTCのバーが潰れたんだ。[NEWLINE]広さは十分足りるはずだぞ！</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_EMBASSY_FROM_HUMAN_LEADER_CONS_DANA_ANY" Language="ja_JP">
+			<Text>すまないが、今は空き家がなくてね。[NEWLINE]また日を改めて来てくれないか？</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_EMBASSY_FROM_AI_LEADER_CONS_DANA_ANY" Language="ja_JP">
+			<Text>そっちにバーの支店を開こうと思うんだけど、[NEWLINE]どうか許可してもらえないかな？</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_EMBASSY_FROM_AI_LEADER_CONS_DANA_ANY" Language="ja_JP">
+			<Text>ありがたい！開店したら是非飲みに来てくれ！</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_EMBASSY_FROM_AI_LEADER_CONS_DANA_ANY" Language="ja_JP">
+			<Text>うーん残念。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_ALLIANCE_FROM_HUMAN_LEADER_CONS_DANA_ANY" Language="ja_JP">
+			<Text>オッケー。これで私たちは盟友だな。[NEWLINE]私たちを止められる奴は世界のどこにもいないぞ！</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_ALLIANCE_FROM_HUMAN_LEADER_CONS_DANA_ANY" Language="ja_JP">
+			<Text>魅力的な提案だけど、重大な決断だから[NEWLINE]もう少し考えさせてくれないか。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_ALLIANCE_FROM_AI_LEADER_CONS_DANA_ANY" Language="ja_JP">
+			<Text>よし！これで私たちは盟友だ。[NEWLINE]これからも一緒に頑張ろう！</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_ALLIANCE_FROM_AI_LEADER_CONS_DANA_ANY" Language="ja_JP">
+			<Text>うーん、そうか……考えが変わったら教えてくれないか？</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_HUMAN_ACCEPT_DEMAND_FROM_AI_LEADER_CONS_DANA_ANY" Language="ja_JP">
+			<Text>それでいい。身の程をわきまえてるじゃないか。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_HUMAN_REFUSE_DEMAND_FROM_AI_LEADER_CONS_DANA_ANY" Language="ja_JP">
+			<Text>口で言っても分からないようだな。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_PEACE_FROM_AI_LEADER_CONS_DANA_ANY" Language="ja_JP">
+			<Text>よし。終戦だ。お互いの復興を願ってるぞ。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_PEACE_FROM_AI_LEADER_CONS_DANA_ANY" Language="ja_JP">
+			<Text>それじゃあもう少し続けさせてもらうぞ。[NEWLINE]どこまでもつか見ものだな。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_CONS_JILL_ANY" Language="ja_JP">
+			<Text>友好、ね。ありがたく受け入れさせてもらうわ。[NEWLINE]これからも仲良くしましょう。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_CONS_JILL_ANY" Language="ja_JP">
+			<Text>悪いんだけど、お断りさせてもらいます。[NEWLINE]友達選びは慎重にしたいしね。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_CONS_JILL_ANY" Language="ja_JP">
+			<Text>ツケないでちゃんとお代を払う客って、意外と少ないの。貴方とは話してて楽しいし、よければお得意様になってくれない？</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_CONS_JILL_ANY" Language="ja_JP">
+			<Text>ありがとう。今後ともヴァルハラをごひいきに。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_CONS_JILL_ANY" Language="ja_JP">
+			<Text>残念ね。でも、友達を慎重に選ぶのは大事だと思うわ。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_CONS_JILL_ANY" Language="ja_JP">
+			<Text>戦争……好きじゃないけど、わがままばかり[NEWLINE]言ってられませんね。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_CONS_JILL_ANY" Language="ja_JP">
+			<Text>悪いけど宣戦を布告させてもらうわ。[NEWLINE]ドリンク代わりの軍事力をとくとご賞味あれ。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_CONS_JILL_ANY" Language="ja_JP">
+			<Text>いらっしゃいませ。ようこそヴァルハラへ。[NEWLINE]ご注文は何にいたしますか？</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_CONS_JILL_ANY" Language="ja_JP">
+			<Text>ごめんなさい。ちょっと今立て込んでいまして……[NEWLINE]また改めてご来店いただけますか？あっ、フォア！[NEWLINE]そっちはダメだって！</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_CONS_JILL_ANY" Language="ja_JP">
+			<Text>実はうちのお客さんが、あなたのところへ遊びに[NEWLINE]行きたがっていまして……ビールやシュガーラッシュを[NEWLINE]お土産に持たせたので、よろしくしてあげてください。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_CONS_JILL_ANY" Language="ja_JP">
+			<Text>なるほど。ではこちらからも言わせてもらいますが、[NEWLINE]あなたに飲み物や食べ物を出す人を怒らせない方がいいですよ。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_CONS_JILL_ANY" Language="ja_JP">
+			<Text>店と客の関係は信頼で成り立っています。[NEWLINE]それを無下にするという事は……もうお分かりですね。 (非難)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_CONS_JILL_ANY" Language="ja_JP">
+			<Text>はじめまして。私はバーテンダーの……ジルです。[NEWLINE]どうぞよろしく。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_CONS_JILL_ANY" Language="ja_JP">
+			<Text>もしよろしければ、ヴァルハラ――うちのバーに[NEWLINE]寄っていきませんか。一杯おごりますよ。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_CONS_JILL_ANY" Language="ja_JP">
+			<Text>ありがとうございます。今後ともごひいきに。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_CONS_JILL_ANY" Language="ja_JP">
+			<Text>首都の位置を共有しませんか。そちらも開発計画を[NEWLINE]立てたいところでしょうし。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_CONS_JILL_ANY" Language="ja_JP">
+			<Text>こんばんは。ご注文ですか？</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_CONS_JILL_ANY" Language="ja_JP">
+			<Text>上手く経済を回してるみたいね。そんなに儲かってるなら週末も乗り切れるんじゃない?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_CONS_JILL_ANY" Language="ja_JP">
+			<Text>おっと、ずいぶんと資金繰りが苦しそうですね。[NEWLINE]そんなんじゃ家賃も払えないんじゃないですか?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_CONS_JILL_ANY" Language="ja_JP">
+			<Text>カクテルではありませんが、同盟はいかがでしょう？</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_CONS_JILL_ANY" Language="ja_JP">
+			<Text>休戦しましょう。また会うときは敵同士ではなく、[NEWLINE]ただの客と店員でいたいものですね。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_CONS_JILL_ANY" Language="ja_JP">
+			<Text>まだつぶれるには早いんじゃないんですか？</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_CONS_JILL_ANY" Language="ja_JP">
+			<Text>お互い疲弊するばかりですし、戦争はやめにしませんか。週末の支払いが近くてそれどころじゃないんです。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_CONS_JILL_ANY" Language="ja_JP">
+			<Text>軍隊なんて維持費ばかりかさんで大変でしょうに……[NEWLINE]お酒がご入用でしたらヴァルハラにどうぞ。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_CONS_JILL_ANY" Language="ja_JP">
+			<Text>申し訳ありませんが、満席になっておりまして……[NEWLINE]またのお越しをお待ちしております。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_CONS_JILL_ANY" Language="ja_JP">
+			<Text>悪いんだけど、うちの軍隊を通してもらえない？[NEWLINE]見返りはちゃんと用意しているから。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_CONS_JILL_ANY" Language="ja_JP">
+			<Text>おやまあ、ずいぶんご大層な軍隊ですね。お客でしたら[NEWLINE]大歓迎ですけど……土足で上がりこまないで下さいね。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_CONS_JILL_ANY" Language="ja_JP">
+			<Text>やれやれ、これでヴァルハラも閉店。[NEWLINE]ボスといっしょにパナマでも行くかな……</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_CONS_JILL_ANY" Language="ja_JP">
+			<Text>残念です。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_CONS_JILL_ANY" Language="ja_JP">
+			<Text>またのお越しをお待ちしています。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_CONS_JILL_ANY" Language="ja_JP">
+			<Text>いらっしゃいませ、ようこそヴァルハラへ。[NEWLINE]一日を変え、一生を変えるカクテルを！</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_EMBASSY_FROM_HUMAN_LEADER_CONS_JILL_ANY" Language="ja_JP">
+			<Text>大使館？構わないけど、[NEWLINE]ごみはちゃんと決められた日に出してくださいね。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_EMBASSY_FROM_HUMAN_LEADER_CONS_JILL_ANY" Language="ja_JP">
+			<Text>ちょっと今は部屋が足りなくて……[NEWLINE]今回はお断りさせてもらいます。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_EMBASSY_FROM_AI_LEADER_CONS_JILL_ANY" Language="ja_JP">
+			<Text>そちらにもバーを置かせてもらえませんか？[NEWLINE]最高の一杯でおもてなししますよ。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_EMBASSY_FROM_AI_LEADER_CONS_JILL_ANY" Language="ja_JP">
+			<Text>ありがとうございます。開店したらおごりますよ。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_EMBASSY_FROM_AI_LEADER_CONS_JILL_ANY" Language="ja_JP">
+			<Text>残念です。またの機会に。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_ALLIANCE_FROM_HUMAN_LEADER_CONS_JILL_ANY" Language="ja_JP">
+			<Text>そうしましょう。これで私たちは運命共同体、でしょ。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_ALLIANCE_FROM_HUMAN_LEADER_CONS_JILL_ANY" Language="ja_JP">
+			<Text>え！？うーん、どーしよう……組む方が良いだろうけど、[NEWLINE]でもやっぱり急すぎるかもしれないし……考えさせて。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_ALLIANCE_FROM_AI_LEADER_CONS_JILL_ANY" Language="ja_JP">
+			<Text>病める時も貧しい時も……なんて昔は言ってたそうで。[NEWLINE]私たちもこれからはそうなるんですよ。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_ALLIANCE_FROM_AI_LEADER_CONS_JILL_ANY" Language="ja_JP">
+			<Text>ちょっと急ぎすぎたかな……ごめん、気にしないで。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_HUMAN_ACCEPT_DEMAND_FROM_AI_LEADER_CONS_JILL_ANY" Language="ja_JP">
+			<Text>どうも。自分の立場をよくご存じのようで。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_HUMAN_REFUSE_DEMAND_FROM_AI_LEADER_CONS_JILL_ANY" Language="ja_JP">
+			<Text>そういう態度をとってられるのも、いまのうちですよ。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_PEACE_FROM_AI_LEADER_CONS_JILL_ANY" Language="ja_JP">
+			<Text>平和が戻ってきましたね。もしよろしければ、[NEWLINE]今度は客としてお越しください。お待ちしています。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_PEACE_FROM_AI_LEADER_CONS_JILL_ANY" Language="ja_JP">
+			<Text>継戦……やらなきゃいけないことは山ほどあるのに……</Text>
+		</Row>
+	</LocalizedText>
+</GameData>

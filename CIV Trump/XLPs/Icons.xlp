@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<AssetObjects..XLP>
+	<m_Version>
+		<major>4</major>
+		<minor>0</minor>
+		<build>315</build>
+		<revision>805</revision>
+	</m_Version>
+	<m_ClassName text="UITexture"/>
+	<m_PackageName text="UI/Icons"/>
+	<m_Entries>
+		<Element>
+			<m_EntryID text="AmericaTrump45"/>
+			<m_ObjectName text="AmericaTrump45"/>
+		</Element>
+		<Element>
+			<m_EntryID text="JFD_TRUMP_1"/>
+			<m_ObjectName text="JFD_TRUMP_1"/>
+		</Element>
+		<Element>
+			<m_EntryID text="JFD_TRUMP_4"/>
+			<m_ObjectName text="JFD_TRUMP_4"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Moment_UniqueUnit_JFD_AmericaTrump"/>
+			<m_ObjectName text="Moment_UniqueUnit_JFD_AmericaTrump"/>
+		</Element>
+		<Element>
+			<m_EntryID text="SupercarrierUnitFlags22"/>
+			<m_ObjectName text="SupercarrierUnitFlags22"/>
+		</Element>
+		<Element>
+			<m_EntryID text="SupercarrierUnitFlags256"/>
+			<m_ObjectName text="SupercarrierUnitFlags256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="SupercarrierUnitFlags32"/>
+			<m_ObjectName text="SupercarrierUnitFlags32"/>
+		</Element>
+		<Element>
+			<m_EntryID text="SupercarrierUnitFlags38"/>
+			<m_ObjectName text="SupercarrierUnitFlags38"/>
+		</Element>
+		<Element>
+			<m_EntryID text="SupercarrierUnitFlags50"/>
+			<m_ObjectName text="SupercarrierUnitFlags50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="SupercarrierUnitFlags80"/>
+			<m_ObjectName text="SupercarrierUnitFlags80"/>
+		</Element>
+		<Element>
+			<m_EntryID text="SupercarrierUnitPortraits200"/>
+			<m_ObjectName text="SupercarrierUnitPortraits200"/>
+		</Element>
+		<Element>
+			<m_EntryID text="SupercarrierUnitPortraits256"/>
+			<m_ObjectName text="SupercarrierUnitPortraits256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="SupercarrierUnitPortraits38"/>
+			<m_ObjectName text="SupercarrierUnitPortraits38"/>
+		</Element>
+		<Element>
+			<m_EntryID text="SupercarrierUnitPortraits50"/>
+			<m_ObjectName text="SupercarrierUnitPortraits50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="SupercarrierUnitPortraits70"/>
+			<m_ObjectName text="SupercarrierUnitPortraits70"/>
+		</Element>
+		<Element>
+			<m_EntryID text="SupercarrierUnitPortraits95"/>
+			<m_ObjectName text="SupercarrierUnitPortraits95"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Trump256"/>
+			<m_ObjectName text="Trump256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Trump32"/>
+			<m_ObjectName text="Trump32"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Trump45"/>
+			<m_ObjectName text="Trump45"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Trump48"/>
+			<m_ObjectName text="Trump48"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Trump50"/>
+			<m_ObjectName text="Trump50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Trump55"/>
+			<m_ObjectName text="Trump55"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Trump64"/>
+			<m_ObjectName text="Trump64"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Trump80"/>
+			<m_ObjectName text="Trump80"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_JFD_TRUMP_NEUTRAL"/>
+			<m_ObjectName text="LEADER_JFD_TRUMP_NEUTRAL"/>
+		</Element>
+	</m_Entries>
+	<m_AllowedPlatforms>
+		<Element>WINDOWS</Element>
+		<Element>LINUX</Element>
+		<Element>MACOS</Element>
+		<Element>IOS</Element>
+	</m_AllowedPlatforms>
+</AssetObjects..XLP>
+

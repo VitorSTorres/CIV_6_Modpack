@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="1a1ec263-e735-4f0f-90e9-6ac661bfa079" version="1">
+  <Properties>
+    <Name>Merrick's Enomoto Takeaki (Japan)</Name>
+    <Description>Adds Enomoto Takeaki as a leader for Japan.</Description>
+    <Teaser>Adds Enomoto Takeaki as a leader for Japan.</Teaser>
+    <Authors>Merrick</Authors>
+  </Properties>
+  <FrontEndActions>
+    <UpdateDatabase id="NewAction">
+      <File>Core/JapanEnomoto_Config.xml</File>
+    </UpdateDatabase>
+    <UpdateText id="NewAction">
+      <File>Core/JapanEnomoto_GameText.xml</File>
+    </UpdateText>
+    <UpdateIcons id="NewAction">
+      <File>Core/JapanEnomoto_IconDefinitions.sql</File>
+    </UpdateIcons>
+    <UpdateArt id="NewAction">
+      <File>Merrick's Enomoto Takeaki (Japan).dep</File>
+    </UpdateArt>
+  </FrontEndActions>
+  <InGameActions>
+    <UpdateDatabase id="NewAction">
+      <File>Core/JapanEnomoto_GameDefines.sql</File>
+      <File>Core/Support.sql</File>
+    </UpdateDatabase>
+    <UpdateArt id="NewAction">
+      <File>Merrick's Enomoto Takeaki (Japan).dep</File>
+    </UpdateArt>
+    <UpdateIcons id="NewAction">
+      <File>Core/JapanEnomoto_IconDefinitions.sql</File>
+    </UpdateIcons>
+    <UpdateText id="NewAction">
+      <File>Core/JapanEnomoto_GameText.xml</File>
+    </UpdateText>
+  </InGameActions>
+  <Files>
+    <File>ArtDefs/FallbackLeaders.artdef</File>
+    <File>ArtDefs/Leaders.artdef</File>
+    <File>Core/JapanEnomoto_Config.xml</File>
+    <File>Core/JapanEnomoto_GameDefines.sql</File>
+    <File>Core/JapanEnomoto_GameText.xml</File>
+    <File>Core/JapanEnomoto_IconDefinitions.sql</File>
+    <File>Core/Support.sql</File>
+    <File>Merrick's Enomoto Takeaki (Japan).dep</File>
+    <File>Platforms/MacOS/BLPs/LeaderFallbacks.blp</File>
+    <File>Platforms/MacOS/BLPs/UI/Icons.blp</File>
+    <File>Platforms/Windows/BLPs/LeaderFallbacks.blp</File>
+    <File>Platforms/Windows/BLPs/UI/Icons.blp</File>
+  </Files>
+</Mod>

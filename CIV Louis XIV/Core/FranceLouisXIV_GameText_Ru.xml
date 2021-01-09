@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<LocalizedText>
+		<Row Tag="LOC_LEADER_JFD_LOUIS_XIV_NAME" Language="ru_RU">
+			<Text>Людовик XIV</Text>
+		</Row>
+		<!--Enlightened Absolutism-->
+		<Row Tag="LOC_AGENDA_JFD_ABSOLUTISM_NAME" Language="ru_RU">
+			<Text>Просвещённый абсолютизм</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_JFD_ABSOLUTISM_DESCRIPTION" Language="ru_RU">
+			<Text>Симпатизирует цивилизациям, которые имеют схожее правительство и высокий уровень [ICON_CULTURE] культуры. Стремится строить много чудес. Не любит цивилизации, которые имеют низкий уровень [ICON_CULTURE] культуры и отличное правительство.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_JFD_LOUIS_XIV_REASON_LEADS_CULTURE_AND_SAME_GOVERNMENT" Language="ru_RU">
+			<Text>(У вас схожее правительство и высокий культурный уровень.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_AGENDA_JFD_ABSOLUTISM_LEADS_CULTURE_AND_SAME_GOVERNMENT" Language="ru_RU">
+			<Text>Людовик XIV рад, что у вас такое же просвещенное правительство, а ваш уровень культуры высок</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_JFD_LOUIS_XIV_REASON_DIFF_GOVERNMENT" Language="ru_RU">
+			<Text>(У вас другое правительство.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_AGENDA_JFD_ABSOLUTISM_DIFF_GOVERNMENT" Language="ru_RU">
+			<Text>Людовик XIV глумится над вашей системой власти</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_JFD_LOUIS_XIV_REASON_LAGS_CULTURE" Language="ru_RU">
+			<Text>(У вас слабая культура.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_AGENDA_JFD_ABSOLUTISM_LAGS_CULTURE" Language="ru_RU">
+			<Text>Людовика XIV отвращает ваша посредственная культура</Text>
+		</Row>
+		<!--DOM-->
+		<Row Tag="LOC_LOADING_INFO_LEADER_JFD_LOUIS_XIV" Language="ru_RU">
+			<Text>Пришло время, Людовик XIV, руководить самостоятельной и независимой от Фронды и кардиналов Францией. Аристократы трепещут в тени вашего Большого стиля. Используйте их покорность для объединения людей в единое централизованное государство. Используйте это государство для превращения Франции в законодательницу мод, наук и искусств, на зависть и удивление другим державам.</Text>
+		</Row>
+		<!--Traits-->
+		<Row Tag="LOC_TRAIT_LEADER_JFD_SUN_KING_NAME" Language="ru_RU">
+			<Text>Король-солнце</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_JFD_SUN_KING_DESCRIPTION" Language="ru_RU">
+			<Text>+1 [ICON_ENVOY] посол и +2 [ICON_CULTURE] культуры (за ход) за каждое чудо, построенное в [ICON_CAPITAL] столице. Получает уникальный юнит «Старая гвардия» после исследования технологии «Порох».</Text>
+		</Row>
+		<!--Civilopedia-->
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_LOUIS_XIV_TITLE" Language="ru_RU">
+			<Text>Людовик XIV</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_LOUIS_XIV_SUBTITLE" Language="ru_RU">
+			<Text>Король Франции</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_LOUIS_XIV_QUOTE" Language="ru_RU">
+			<Text>Государство - это я!</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_LOUIS_XIV_CHAPTER_HISTORY_PARA_1" Language="ru_RU">
+			<Text>Людовик XIV де Бурбон, также известный как «король-солнце», (5 сентября 1638, Сен-Жермен-ан-Ле - 1 сентября 1715, Версаль) - король Франции и Наварры с 14 мая 1643 г. Царствовал 72 года - дольше, чем какой-либо другой европейский король в истории (из монархов Европы дольше у власти были только некоторые правители мелких государств Священной Римской империи, например, Бернард VII Липпский или Карл Фридрих Баденский).</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_LOUIS_XIV_CHAPTER_HISTORY_PARA_2" Language="ru_RU">
+			<Text>Людовик, в детские годы переживший войны Фронды, стал убеждённым сторонником принципа абсолютной монархии и божественного права королей (ему приписывают выражение «Государство - это я!»), укрепление своей власти он сочетал с удачным подбором государственных деятелей на ключевые политические посты. Царствование Людовика - время значительной консолидации единства Франции, её военной мощи, политического веса и интеллектуального престижа, расцвета культуры, вошло в историю как Великий век.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_LOUIS_XIV_CHAPTER_HISTORY_PARA_3" Language="ru_RU">
+			<Text>Вместе с тем долголетние военные конфликты, в которых Франция участвовала во время правления Людовика Великого, привели к повышению налогов, что тяжёлым бременем легло на плечи населения и вызвало народные восстания, а в результате принятия эдикта Фонтенбло, отменившего Нантский эдикт о веротерпимости внутри королевства, около 200 тысяч гугенотов эмигрировали из Франции.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_LOUIS_XIV_CHAPTER_CAPSULE_BODY" Language="ru_RU">
+			<Text>Даже будучи номинально культурным игроком, Франция - опасный противник. Людовик XIV будет использовать свои таланты в строительстве чудес, чтобы иметь культурный и дипломатический отрыв от своих соперников.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_LOUIS_XIV_CHAPTER_DETAILED_BODY" Language="ru_RU">
+			<Text>Как Клеопатра и Цинь Шихуанди, Франция тоже хочет быть ведущим игроком в гонке чудес. Успех должен сделать их серьезными претендентами на культурную победу. С Людовиком XIV у руля французы используют свои чудеса света для дипломатического развития и быстрого продвижения по древу социальных институтов. Вторым по приоритетности после чудес является создание прекрасных шато, которые значительно способствуют культурной победе французов. [ICON_Culture] Культура поможет им двигаться быстрее по древу социальных институтов и сформировать самые современные войска раньше всех. Берегитесь!</Text>
+		</Row>
+		<!--Diplomacy-->
+		<!--FIRST MEET-->
+		<!--First AI line-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_JFD_LOUIS_XIV_ANY" Language="ru_RU">
+			<Text>Очень рад знакомству! Я Людовик XIV. Приходите, приходите, я хочу показать вам великолепие дворцов Франции.</Text>
+		</Row>
+		<!--AI invitation to visit nearby City-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_JFD_LOUIS_XIV_ANY" Language="ru_RU">
+			<Text>Я приглашаю вас на бал в мой самый грандиозный дворец. Это будет замечательное времяпровождение. Ха-ха! Вы скоро увидите, что я имею в виду.</Text>
+		</Row>
+		<!--AI accepts Human invitation-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_JFD_LOUIS_XIV_ANY" Language="ru_RU">
+			<Text>Феерично. Я даже испытываю лёгкое головокружение от восторга.</Text>
+		</Row>
+		<!--AI invitation to exchange Capital Information-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_JFD_LOUIS_XIV_ANY" Language="ru_RU">
+			<Text>Я предлагаю обмениваться информацией о наших столицах, так чтобы вы могли поглазеть на мою славную столицу, а я бы увидел чудную вашу.</Text>
+		</Row>
+		<!--GREETINGS-->
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_JFD_LOUIS_XIV_ANY" Language="ru_RU">
+			<Text>Готовы ослепнуть от моей красоты, дорогуша?</Text>
+		</Row>
+		<!--DELEGATION-->
+		<!--AI Accepts-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_JFD_LOUIS_XIV_ANY" Language="ru_RU">
+			<Text>Я принял вашу делегацию с распростёртыми объятиями. Рад вам в любое время, всегда готов провести вас и ваших людей по своим роскошным паркам.</Text>
+		</Row>
+		<!--AI Rejects-->
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_JFD_LOUIS_XIV_ANY" Language="ru_RU">
+			<Text>Нет, нет. Я не должен быть замечен в вашей компании. Вашим делегатам просто необходимо научиться этикету. Хорошего дня и прощайте.</Text>
+		</Row>
+		<!--AI Requests-->
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_JFD_LOUIS_XIV_ANY" Language="ru_RU">
+			<Text>В знак доброй дружбы я послал в вашу столицу делегацию с прекрасными духами из моей собственной коллекции.</Text>
+		</Row>
+		<!--OPEN BORDERS-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_JFD_LOUIS_XIV_ANY" Language="ru_RU">
+			<Text>Блеск.</Text>
+		</Row>
+		<!--AI rejects from human-->
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_JFD_LOUIS_XIV_ANY" Language="ru_RU">
+			<Text>Вы хотите, чтобы ваш беспардонный и неумытый народец шатался по моим улицам? Не бывать этому.</Text>
+		</Row>
+		<!--AI requests from human-->
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_JFD_LOUIS_XIV_ANY" Language="ru_RU">
+			<Text>Мы должны взаимно открыть границы ради культурного обмена.</Text>
+		</Row>
+		<!--DECLARE FRIENDSHIP-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_JFD_LOUIS_XIV_ANY" Language="ru_RU">
+			<Text>Пускай все королевские дворы Европы завидуют нашей дружбе. Восхитительно!</Text>
+		</Row>
+		<!--AI Rejects from human-->
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_JFD_LOUIS_XIV_ANY" Language="ru_RU">
+			<Text>Вы думаете, что готовы стать другом для меня? Для великого Людовика XIV? Сначала научитесь хотя бы не чавкать за столом.</Text>
+		</Row>
+		<!--AI Requests friendship from human-->
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_JFD_LOUIS_XIV_ANY" Language="ru_RU">
+			<Text>Хотите быть моим иностранным фаворитом? Пусть остальные лопнут от ревности!</Text>
+		</Row>
+		<!--Human accepts AI requests, AI responds-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_JFD_LOUIS_XIV_ANY" Language="ru_RU">
+			<Text>Мне очень приятно, о да.</Text>
+		</Row>
+		<!--Human rejects AI requests, AI responds-->
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_JFD_LOUIS_XIV_ANY" Language="ru_RU">
+			<Text>Вы отвергаете моё великодушие, глупец? Подите прочь.</Text>
+		</Row>
+		<!--ALLIANCE-->
+		<!--AI Requests an alliance from human-->
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_JFD_LOUIS_XIV_ANY" Language="ru_RU">
+			<Text>Франция жаждет величия, которого только с вашей помощью она сможет добиться. Вы получите... свой кусочек славы... по доверенности, конечно.</Text>
+		</Row>
+		<!--KUDOS & WARNINGS-->
+		<!--AI Kudos-->
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_JFD_LOUIS_XIV_ANY" Language="ru_RU">
+			<Text>Я всегда рад видеть вас.</Text>
+		</Row>
+		<!--AI Warnings-->
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_JFD_LOUIS_XIV_ANY" Language="ru_RU">
+			<Text>Я рад, что вы покидаете меня. Вы уродовали мои залы достаточно долго...</Text>
+		</Row>
+		<!--AI warns player for border troops-->
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_JFD_LOUIS_XIV_ANY" Language="ru_RU">
+			<Text>Не принимайте мою утончённость за слабость. Я могу, не проронив капельки пота, отогнать силы, которые даже в десять раз превышают мои.</Text>
+		</Row>
+		<!--TRADE-->
+		<!--AI Accepts Deal-->
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_JFD_LOUIS_XIV_ANY" Language="ru_RU">
+			<Text>{LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_JFD_LOUIS_XIV_ANY}</Text>
+		</Row>
+		<!-- AI Rejects Deal -->
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_JFD_LOUIS_XIV_ANY" Language="ru_RU">
+			<Text>{LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_JFD_LOUIS_XIV_ANY}</Text>
+		</Row>
+		<!--DENOUNCE-->
+		<!--From Human-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_JFD_LOUIS_XIV_ANY" Language="ru_RU">
+			<Text>Как вы смеете?! Никогда я не был так оскорблён.</Text>
+		</Row>
+		<!--From AI-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_JFD_LOUIS_XIV_ANY" Language="ru_RU">
+			<Text>В придворном обществе говорят, что вы плетёте против меня интриги. Вот такая благодарность за всё, что я для вас сделал? (Осуждает вас).</Text>
+		</Row>
+		<!--Rationale-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_JFD_ABSOLUTISM_DIFF_GOVERNMENT" Language="ru_RU">
+			<Text>(У вас другое правительство.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_JFD_ABSOLUTISM_LAGS_CULTURE" Language="ru_RU">
+			<Text>(У вас слабая культура.)</Text>
+		</Row>
+		<!--DECLARE WAR-->
+		<!--Human Declares War-->
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_JFD_LOUIS_XIV_ANY" Language="ru_RU">
+			<Text>Никогда не забывайте, что часто в лайковой перчатке сокрыт железный кулак.</Text>
+		</Row>
+		<!--AI Declares War-->
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_JFD_LOUIS_XIV_ANY" Language="ru_RU">
+			<Text>Ваши дворцы будут прекрасным дополнением к моей коллекции.</Text>
+		</Row>
+		<!--MAKE PEACE-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_JFD_LOUIS_XIV_ANY" Language="ru_RU">
+			<Text>Очень хорошо. Я рад, что вы осознали всю горечь положения невежи и невежды.</Text>
+		</Row>
+		<!--AI refuses human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_JFD_LOUIS_XIV_ANY" Language="ru_RU">
+			<Text>Я ещё не закончил чистить ваши «Авгиевы конюшни».</Text>
+		</Row>
+		<!--AI requests from human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_JFD_LOUIS_XIV_ANY" Language="ru_RU">
+			<Text>Давайте заниматься любовью, а не войной.</Text>
+		</Row>
+		<!--DEFEAT-->
+		<!--AI is Defeated-->
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_JFD_LOUIS_XIV_ANY" Language="ru_RU">
+			<Text>Я ухожу, но государство будет жить всегда...</Text>
+		</Row>
+		<!--Human is Defeated (will see this in hotseat)-->
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_JFD_LOUIS_XIV_ANY" Language="ru_RU">
+			<Text>[LOC_DIPLO_DEFEAT_FROM_AI_LEADER_JFD_LOUIS_XIV_ANY]</Text>
+		</Row>
+		<!--VIEUX-->
+		<Row Tag="LOC_UNIT_JFD_VIEUX_NAME" Language="ru_RU">
+			<Text>Старая Гвардия</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_JFD_VIEUX_DESCRIPTION" Language="ru_RU">
+			<Text>Уникальный французский юнит эпохи Возрождения, если лидером является Людовик XIV. Имеет +7 к [ICON_STRENGTH] боевой мощи при обороне от атак города и может двигаться после атаки. Содержание на 2 единицы больше, чем у мушкетеров.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_JFD_VIEUX_CHAPTER_HISTORY_PARA_1" Language="ru_RU">
+			<Text>Шестью великими стариками в период Старого режима назывались шесть старейших постоянных французских армейских полков. Изначально, старыми назывались полки, сформированные из старых формирований приграничных провинций. В боевом порядке расположены после полков королевского военного дома, полка французской гвардии, полка швейцарских гвардейцев. Старая гвардия командует другими пехотными полками и воодушевляет их.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_JFD_VIEUX_CITY_CENTER_COMBAT_DESC" Language="ru_RU">
+			<Text>+7 к [ICON_STRENGTH] боевой мощи при обороне от атак города. Может двигаться после атаки.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_JFD_VIEUX_NAME" Language="ru_RU">
+			<Text>Старый порядок</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_JFD_VIEUX_DESCRIPTION" Language="ru_RU">
+			<Text>+{1_Num} при обороне от атак города.</Text>
+		</Row>
+		<!--MOD SUPPORT-->
+	</LocalizedText>
+</GameData>

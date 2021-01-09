@@ -1,0 +1,147 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="b5d4b45d-72ae-4c25-9dba-6799337a95e4" version="1">
+  <Properties>
+    <Name>JFD's [COLOR_FLOAT_GOLD]France[ENDCOLOR]: Louis XIV</Name>
+    <Description>------------------------------------[NEWLINE]LEADER -- LOUIS XIV[NEWLINE][NEWLINE]TRAIT - SUN KING[NEWLINE]Receives +1 [ICON_ENVOY] Envoy and +2 [ICON_CULTURE] Culture Per Turn for each Wonder constructed in the [ICON_CAPITAL] Capital; +1 [ICON_CULTURE] Culture elsewhere. Bonuses doubled during a [ICON_GLORY_GOLDEN_AGE] Golden Age. Gain the Vieux Corps unique unit when they research the Gunpowder technology.[NEWLINE][NEWLINE]UNIT - VIEUX CORPS[NEWLINE]French unique Renaissance era unit when Louis XIV is their leader. Has +7 [ICON_STRENGTH] Combat Strength when defending vs. city attacks and can move after attacking. Costs 2 more Maintenance than the contemporary Musketman.[NEWLINE][NEWLINE]AGENDA - ENLIGHTENED ABSOLUTISM[NEWLINE]Prefers monarchic Governments, and strives to lead his government into a [ICON_GLORY_GOLDEN_AGE] Golden Age. Likes civilizations that share the same Government that are also in a [ICON_GLORY_GOLDEN_AGE] Golden Age. Dislikes civilizations that are in a [ICON_GLORY_DARK_AGE] Dark Age or that have a different Government.</Description>
+    <Teaser>Adds Louis XIV to France. Click for details.</Teaser>
+    <Authors>JFD, Janboruta</Authors>
+  </Properties>
+  <Dependencies>
+    <Mod id="1B28771A-C749-434B-9053-D1380C553DE9" title="LOC_EXPANSION1_MOD_TITLE" />
+  </Dependencies>
+  <References>
+    <Mod id="01159f41-7ca0-4181-84cf-2f2c912edfdd" title="DELIVERATOR STEEL AND THUNDER" />
+    <Mod id="8342b98d-80c7-4002-87bb-419646bd9b54" title="DELIVERATOR MOAR UNITS" />
+    <Mod id="514aaa88-ffd2-475f-ace6-ea49b34a100a" title="GEDEMON CORDIFORM EARTH FOR YNAEMP" />
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" title="GEDEMON YNAEMP" />
+    <Mod id="650ff782-47b4-4b46-93fb-00bef8da8b8e" title="JFD RULE WITH FAITH" />
+  </References>
+  <ActionCriteria>
+    <Criteria id="Expansion1">
+      <GameCoreInUse>Expansion1</GameCoreInUse>
+    </Criteria>
+  </ActionCriteria>
+  <FrontEndActions>
+    <UpdateDatabase id="UpdateDatabase">
+      <Properties>
+        <LoadOrder>10</LoadOrder>
+      </Properties>
+      <File>Core/FranceLouisXIV_Config.sql</File>
+    </UpdateDatabase>
+    <UpdateIcons id="UpdateIcons">
+      <File>Core/FranceLouisXIV_IconDefinitions.sql</File>
+    </UpdateIcons>
+    <UpdateText id="UpdateText">
+      <File>Core/FranceLouisXIV_GameText.xml</File>
+      <File>Core/FranceLouisXIV_GameText_De.xml</File>
+      <File>Core/FranceLouisXIV_GameText_Fr.xml</File>
+      <File>Core/FranceLouisXIV_GameText_Ru.xml</File>
+    </UpdateText>
+    <UpdateArt id="UpdateArt">
+      <File>JFD's France - Louis XIV.dep</File>
+    </UpdateArt>
+  </FrontEndActions>
+  <InGameActions>
+    <UpdateDatabase id="UpdateDatabase">
+      <Properties>
+        <LoadOrder>10</LoadOrder>
+      </Properties>
+      <File>Core/FranceLouisXIV_GameDefines.sql</File>
+    </UpdateDatabase>
+    <UpdateIcons id="UpdateIcons">
+      <File>Core/FranceLouisXIV_IconDefinitions.sql</File>
+    </UpdateIcons>
+    <UpdateText id="UpdateText">
+      <File>Core/FranceLouisXIV_GameText.xml</File>
+      <File>Core/FranceLouisXIV_GameText_De.xml</File>
+      <File>Core/FranceLouisXIV_GameText_Fr.xml</File>
+      <File>Core/FranceLouisXIV_GameText_Ru.xml</File>
+    </UpdateText>
+    <UpdateArt id="UpdateArt">
+      <File>JFD's France - Louis XIV.dep</File>
+    </UpdateArt>
+  </InGameActions>
+  <Files>
+    <File>ArtDefs/FallbackLeaders.artdef</File>
+    <File>ArtDefs/Leaders.artdef</File>
+    <File>ArtDefs/Units.artdef</File>
+    <File>ArtDefs/UserInterface.artdef</File>
+    <File>Core/FranceLouisXIV_Config.sql</File>
+    <File>Core/FranceLouisXIV_GameDefines.sql</File>
+    <File>Core/FranceLouisXIV_GameText.xml</File>
+    <File>Core/FranceLouisXIV_GameText_De.xml</File>
+    <File>Core/FranceLouisXIV_GameText_Fr.xml</File>
+    <File>Core/FranceLouisXIV_GameText_Ru.xml</File>
+    <File>Core/FranceLouisXIV_IconDefinitions.sql</File>
+    <File>Credits.txt</File>
+    <File>JFD's France - Louis XIV.dep</File>
+    <File>Platforms/MacOS/BLPs/LeaderFallbacks.blp</File>
+    <File>Platforms/MacOS/BLPs/UI/Icons.blp</File>
+    <File>Platforms/Windows/BLPs/LeaderFallbacks.blp</File>
+    <File>Platforms/Windows/BLPs/UI/Icons.blp</File>
+    <File>Textures/FALLBACK_NEUTRAL_JFD_LOUIS_XIV.dds</File>
+    <File>Textures/FALLBACK_NEUTRAL_JFD_LOUIS_XIV.tex</File>
+    <File>Textures/FranceDeGaulle45.dds</File>
+    <File>Textures/FranceDeGaulle45.tex</File>
+    <File>Textures/FranceLouisXIV45.dds</File>
+    <File>Textures/FranceLouisXIV45.tex</File>
+    <File>Textures/JFD_DE_GAULLE_1.dds</File>
+    <File>Textures/JFD_DE_GAULLE_1.tex</File>
+    <File>Textures/JFD_DE_GAULLE_4.dds</File>
+    <File>Textures/JFD_DE_GAULLE_4.tex</File>
+    <File>Textures/JFD_LOUIS_XIV_1.dds</File>
+    <File>Textures/JFD_LOUIS_XIV_1.tex</File>
+    <File>Textures/JFD_LOUIS_XIV_2.dds</File>
+    <File>Textures/JFD_LOUIS_XIV_2.tex</File>
+    <File>Textures/JFD_LOUIS_XIV_4.dds</File>
+    <File>Textures/JFD_LOUIS_XIV_4.tex</File>
+    <File>Textures/LEADER_JFD_LOUIS_XIV_NEUTRAL.dds</File>
+    <File>Textures/LEADER_JFD_LOUIS_XIV_NEUTRAL.tex</File>
+    <File>Textures/LouisXIV256.dds</File>
+    <File>Textures/LouisXIV256.tex</File>
+    <File>Textures/LouisXIV32.dds</File>
+    <File>Textures/LouisXIV32.tex</File>
+    <File>Textures/LouisXIV45.dds</File>
+    <File>Textures/LouisXIV45.tex</File>
+    <File>Textures/LouisXIV48.dds</File>
+    <File>Textures/LouisXIV48.tex</File>
+    <File>Textures/LouisXIV50.dds</File>
+    <File>Textures/LouisXIV50.tex</File>
+    <File>Textures/LouisXIV55.dds</File>
+    <File>Textures/LouisXIV55.tex</File>
+    <File>Textures/LouisXIV64.dds</File>
+    <File>Textures/LouisXIV64.tex</File>
+    <File>Textures/LouisXIV80.dds</File>
+    <File>Textures/LouisXIV80.tex</File>
+    <File>Textures/Moment_UniqueUnit_JFD_FranceLouisXIV.dds</File>
+    <File>Textures/Moment_UniqueUnit_JFD_FranceLouisXIV.tex</File>
+    <File>Textures/VieuxUnitFlags22.dds</File>
+    <File>Textures/VieuxUnitFlags22.tex</File>
+    <File>Textures/VieuxUnitFlags256.dds</File>
+    <File>Textures/VieuxUnitFlags256.tex</File>
+    <File>Textures/VieuxUnitFlags32.dds</File>
+    <File>Textures/VieuxUnitFlags32.tex</File>
+    <File>Textures/VieuxUnitFlags38.dds</File>
+    <File>Textures/VieuxUnitFlags38.tex</File>
+    <File>Textures/VieuxUnitFlags50.dds</File>
+    <File>Textures/VieuxUnitFlags50.tex</File>
+    <File>Textures/VieuxUnitFlags80.dds</File>
+    <File>Textures/VieuxUnitFlags80.tex</File>
+    <File>Textures/VieuxUnitPortraits.dds</File>
+    <File>Textures/VieuxUnitPortraits.tex</File>
+    <File>Textures/VieuxUnitPortraits200.dds</File>
+    <File>Textures/VieuxUnitPortraits200.tex</File>
+    <File>Textures/VieuxUnitPortraits256.dds</File>
+    <File>Textures/VieuxUnitPortraits256.tex</File>
+    <File>Textures/VieuxUnitPortraits38.dds</File>
+    <File>Textures/VieuxUnitPortraits38.tex</File>
+    <File>Textures/VieuxUnitPortraits50.dds</File>
+    <File>Textures/VieuxUnitPortraits50.tex</File>
+    <File>Textures/VieuxUnitPortraits70.dds</File>
+    <File>Textures/VieuxUnitPortraits70.tex</File>
+    <File>Textures/VieuxUnitPortraits95.dds</File>
+    <File>Textures/VieuxUnitPortraits95.tex</File>
+    <File>XLPs/Icons.xlp</File>
+    <File>XLPs/LeaderFallbacks.xlp</File>
+  </Files>
+</Mod>

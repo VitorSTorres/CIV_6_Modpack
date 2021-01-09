@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<LocalizedText>
+		<!--CIVILIZATION-->
+		<Row Tag="LOC_CIVILIZATION_JFD_USSR_NAME" Language="fr_FR">
+			<Text>Union soviétique</Text>
+			<Gender>feminine:vowel</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_JFD_USSR_DESCRIPTION" Language="fr_FR">
+			<Text>Empire soviétique</Text>
+			<Gender>masculine:vowel</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_JFD_USSR_ADJECTIVE" Language="fr_FR">
+			<Text>soviétique|soviétique|soviétiques|soviétiques</Text>
+			<Gender>masculine|feminine|masculine|feminine</Gender>
+			<Plurality>1|1|2|2</Plurality>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_JFD_USSR_DESCRIPTION_JFD_CIVILIZATION" Language="fr_FR">
+			<Text>Civilisation soviétique</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<!--Pedia-->
+		<Row Tag="LOC_CIVINFO_JFD_USSR_LOCATION" Language="fr_FR">
+			<Text>Europe</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_JFD_USSR_POPULATION" Language="fr_FR">
+			<Text>Environ 293 millions</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_JFD_USSR_SIZE" Language="fr_FR">
+			<Text>Environ 22,4 millions de kilomètres carrés</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_JFD_USSR_CAPITAL" Language="fr_FR">
+			<Text>Moscou</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_JFD_USSR_CHAPTER_HISTORY_PARA_1" Language="fr_FR">
+			<Text>L'Union soviétique, connue officiellement sous le nom d'Union des républiques socialistes soviétiques, était un État socialiste en Eurasie qui a existé de 1922 à 1991. Il s'agissait symboliquement d'une union supranationale de républiques nationales, dont le gouvernement et l'économie étaient fortement centralisés au sein d'une nation unitaire à bien des égards. Bien que chaque république avait son propre parti communiste, l'Union était un État à parti unique, de nature fédérale et gouvernée par le parti de tous les syndicats, le Parti communiste de l'Union soviétique. La république russe (qui était elle-même fédérale) n'était pas privilégiée par la loi, mais elle était, à certains égards, dominante sur le plan culturel. La capitale de l'Union était Moscou.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_JFD_USSR_CHAPTER_HISTORY_PARA_2" Language="fr_FR">
+			<Text>L'Union soviétique tire son origine de la Révolution d'Octobre 1917, lorsque les bolcheviks, menés par Vladimir Ilitch Lénine, renversèrent le Gouvernement provisoire russe qui avait remplacé le tsar Nicolas II. Ce coup d'État provoqua la naissance de la République socialiste fédérative soviétique de Russie (RSFS de Russie) et lança le début de la guerre civile russe entre les "Rouges" révolutionnaires et les "Blancs" contre-révolutionnaires. L'Armée rouge pénétra dans plusieurs territoires de l'ancien Empire russe, et a aida les communistes locaux à prendre le pouvoir à travers des conseils ouvriers appelés "soviets", qui agissaient nominalement en faveur des travailleurs et des paysans. En 1922, les communistes furent victorieux, formant l'Union soviétique avec l'unification des républiques russes, transcaucasiennes, ukrainiennes et biélorusses. Après la mort de Lénine en 1924, une direction collective (troïka) et une brève lutte de pouvoir, Joseph Staline prit le pouvoir. Staline supprima toute opposition politique à son règne, engagea l'idéologie de l'État dans le marxisme-léninisme (qu'il créa) et a lança une  économie planifiée centralement. En conséquence, le pays subit une période d'industrialisation et de collectivisation rapide qui jeta les bases de sa victoire dans la Seconde Guerre mondiale et dans sa domination en Europe de l'Est après-guerre. Staline alimenta également la paranoïa politique, et mena la Grande Purge pour enlever ses adversaires au sein du parti communiste. Il fit arrêter arbitrairement de nombreuses personnes (dirigeants militaires, membres du parti communiste et citoyens ordinaires), qui furent ensuite envoyés dans des camps de travail correctionnels (goulags), ou condamnés à mort.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_JFD_USSR_CHAPTER_HISTORY_PARA_3" Language="fr_FR">
+			<Text>Peu avant le début de la Seconde Guerre mondiale, Staline signa le pacte de non-agression Molotov-Ribbentrop avec l'Allemagne nazie; après quoi les deux pays envahirent la Pologne en septembre 1939. En juin 1941, les Allemands envahirent l'Union Soviétique, ouvrant le plus grand et le plus sanglant théâtre de guerre de l'Histoire. Les pertes de guerre soviétiques représentèrent la plus grande proportion du conflit, particulièrement lorsque l'URSS réussit à repousser les forces de l'Axe lors de batailles intenses telles que celle de Stalingrad. Les forces soviétiques capturèrent finalement Berlin en 1945. Le territoire libéré par l'Armée rouge devint les États satellites du bloc de l'Est. La guerre froide émergea en 1947, alors que le bloc soviétique confrontait les États occidentaux qui s'unirent à l'OTAN en 1949.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_JFD_USSR_CHAPTER_HISTORY_PARA_4" Language="fr_FR">
+			<Text>Suite au décès de Staline en 1953, une période de libéralisation politique et économique, connue sous le nom de  "déstalinisation" et de "dégel", se déroula sous la direction de Nikita Khrouchtchev. Le pays se développa rapidement, alors que des millions de paysans furent transférés dans des villes industrialisées. L'URSS prit une avance anticipée dans la course spatiale avec Spoutnik 1, le premier satellite, et Vostok 1, le premier vol spatial habité. Dans les années 1970, une légère détente des relations se fit avec les États-Unis, mais les tensions reprirent avec la guerre soviéto-afghane en 1979. La guerre attéuna les ressources économiques, et fut accompagnée d'une intensification de l'aide militaire américaine aux Moudjahidins.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_JFD_USSR_CHAPTER_HISTORY_PARA_5" Language="fr_FR">
+			<Text>Au milieu des années 1980, le dernier chef soviétique, Mikhaïl Gorbatchev, chercha à réformer et à libéraliser l'économie par ses politiques de glasnost et de perestroïka. L'objectif était de préserver le Parti communiste tout en inversant la stagnation économique. La guerre froide prit fin pendant son mandat, et en 1989, les pays satellites soviétiques en Europe de l'Est renversèrent leurs régimes communistes respectifs. Cela conduisit à la montée de forts mouvements nationalistes et séparatistes au sein de l'URSS. Les autorités centrales lancèrent un référendum sur l'avenir de l'Union soviétique - boycotté par l'Arménie, la Géorgie, la Moldavie et les républiques baltes - ce qui permit à la majorité des citoyens participants de voter en faveur de la préservation de l'Union en tant qu'Union des États souverains. En août 1991, un coup d'État fut tenté par des partisans du parti communiste. Ce fut un échec, et le président russe Boris Yeltsin joua un rôle de haut niveau face à ce coup d'État, entraînant l'interdiction du parti communiste. Gorbatchev démissionna le 25 décembre 1991, et les douze républiques constituantes restantes émergèrent de la dissolution de l'Union soviétique en tant qu'États post-soviétiques indépendants. La Fédération de Russie (anciennement RSFS de Russie) assuma les droits et obligations de l'Union soviétique, et apparut comme le principal successeur juridique reconnu de l'Union soviétique.</Text>
+		</Row>
+		<!--Trait-->
+		<Row Tag="LOC_TRAIT_CIVILIZATION_JFD_COMMUNIST_NATIONALISM_NAME" Language="fr_FR">
+			<Text>National-communisme</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_JFD_COMMUNIST_NATIONALISM_DESCRIPTION" Language="fr_FR">
+			<Text>Les bâtiments dans les campus et les zones industrielles produisent de la [ICON_CULTURE] culture et du [ICON_TOURISM] tourisme équivalent à la moitié de leurs rendements intrinsèques. Construit ces quartiers 33% plus rapidement.</Text>
+		</Row>
+		<!--Cities-->
+		<Row Tag="LOC_CITY_NAME_JFD_USSR_2" Language="fr_FR">
+			<Text>Léningrad</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JFD_USSR_3" Language="fr_FR">
+			<Text>Kiev</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JFD_USSR_4" Language="fr_FR">
+			<Text>Minsk</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JFD_USSR_5" Language="fr_FR">
+			<Text>Kharkov</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JFD_USSR_6" Language="fr_FR">
+			<Text>Stalingrad</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JFD_USSR_7" Language="fr_FR">
+			<Text>Sverdlovsk</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JFD_USSR_8" Language="fr_FR">
+			<Text>Gorki</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JFD_USSR_9" Language="fr_FR">
+			<Text>Krasnodar</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JFD_USSR_10" Language="fr_FR">
+			<Text>Vladivostok</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JFD_USSR_11" Language="fr_FR">
+			<Text>Novosibirsk</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JFD_USSR_12" Language="fr_FR">
+			<Text>Krasnoïarsk</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JFD_USSR_13" Language="fr_FR">
+			<Text>Kouïbychev</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JFD_USSR_14" Language="fr_FR">
+			<Text>Bakou</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JFD_USSR_15" Language="fr_FR">
+			<Text>Tbilissi</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JFD_USSR_16" Language="fr_FR">
+			<Text>Alma-Ata</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JFD_USSR_17" Language="fr_FR">
+			<Text>Tashkent</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JFD_USSR_18" Language="fr_FR">
+			<Text>Omsk</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JFD_USSR_19" Language="fr_FR">
+			<Text>Oufa</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JFD_USSR_20" Language="fr_FR">
+			<Text>Tcheliabinsk</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JFD_USSR_21" Language="fr_FR">
+			<Text>Sébastopol</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JFD_USSR_22" Language="fr_FR">
+			<Text>Molotov</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JFD_USSR_23" Language="fr_FR">
+			<Text>Kaliningrad</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JFD_USSR_24" Language="fr_FR">
+			<Text>Riga</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JFD_USSR_25" Language="fr_FR">
+			<Text>Tallinn</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JFD_USSR_26" Language="fr_FR">
+			<Text>Kazan</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JFD_USSR_27" Language="fr_FR">
+			<Text>Odessa</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JFD_USSR_28" Language="fr_FR">
+			<Text>Viatka</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JFD_USSR_29" Language="fr_FR">
+			<Text>Oulianovsk</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JFD_USSR_30" Language="fr_FR">
+			<Text>Dnipropetrovsk</Text>
+		</Row>
+		<!--Citizens-->
+		<Row Tag="LOC_CITIZEN_JFD_USSR_MALE_1" Language="fr_FR">
+			<Text>Igor</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_USSR_MALE_2" Language="fr_FR">
+			<Text>Vladlen</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_USSR_MALE_3" Language="fr_FR">
+			<Text>Zhores</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_USSR_MALE_4" Language="fr_FR">
+			<Text>Rem</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_USSR_MALE_5" Language="fr_FR">
+			<Text>Revolt</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_USSR_MALE_6" Language="fr_FR">
+			<Text>Aleksandr</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_USSR_MALE_7" Language="fr_FR">
+			<Text>Gely</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_USSR_MALE_8" Language="fr_FR">
+			<Text>Radner</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_USSR_MALE_9" Language="fr_FR">
+			<Text>Melor</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_USSR_MODERN_MALE_1" Language="fr_FR">
+			<Text>Barrikad</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_USSR_MODERN_MALE_2" Language="fr_FR">
+			<Text>Elem</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_USSR_MODERN_MALE_3" Language="fr_FR">
+			<Text>Vladimir</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_USSR_MODERN_MALE_4" Language="fr_FR">
+			<Text>Yuri</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_USSR_MODERN_MALE_5" Language="fr_FR">
+			<Text>Reino</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_USSR_MODERN_MALE_6" Language="fr_FR">
+			<Text>Konon</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_USSR_MODERN_MALE_7" Language="fr_FR">
+			<Text>Valery</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_USSR_MODERN_MALE_8" Language="fr_FR">
+			<Text>Susemihl</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_USSR_MODERN_MALE_9" Language="fr_FR">
+			<Text>Ain-Ervin</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_USSR_MODERN_MALE_10" Language="fr_FR">
+			<Text>Mikhail</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_USSR_FEMALE_1" Language="fr_FR">
+			<Text>Ursula</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_USSR_FEMALE_2" Language="fr_FR">
+			<Text>Moura</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_USSR_FEMALE_3" Language="fr_FR">
+			<Text>Anna</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_USSR_FEMALE_4" Language="fr_FR">
+			<Text>Alla</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_USSR_FEMALE_5" Language="fr_FR">
+			<Text>Anastasia</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_USSR_FEMALE_6" Language="fr_FR">
+			<Text>Valeria</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_USSR_FEMALE_7" Language="fr_FR">
+			<Text>Barbara</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_USSR_FEMALE_8" Language="fr_FR">
+			<Text>Vera</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_USSR_FEMALE_9" Language="fr_FR">
+			<Text>Veronika</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_USSR_FEMALE_10" Language="fr_FR">
+			<Text>Galina</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_USSR_MODERN_FEMALE_1" Language="fr_FR">
+			<Text>Kseniya</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_USSR_MODERN_FEMALE_2" Language="fr_FR">
+			<Text>Larisa</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_USSR_MODERN_FEMALE_3" Language="fr_FR">
+			<Text>Irina</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_USSR_MODERN_FEMALE_4" Language="fr_FR">
+			<Text>Olga</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_USSR_MODERN_FEMALE_5" Language="fr_FR">
+			<Text>Yulia</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_USSR_MODERN_FEMALE_6" Language="fr_FR">
+			<Text>Yana</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_USSR_MODERN_FEMALE_7" Language="fr_FR">
+			<Text>Tatiana</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_USSR_MODERN_FEMALE_8" Language="fr_FR">
+			<Text>Svetlana</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_USSR_MODERN_FEMALE_9" Language="fr_FR">
+			<Text>Ekaterina</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_USSR_MODERN_FEMALE_10" Language="fr_FR">
+			<Text>Galina</Text>
+		</Row>
+		<!--PEKHOTA-->
+		<Row Tag="LOC_UNIT_JFD_RED_ARMY_NAME" Language="fr_FR">
+			<Text>Pekhota|Pekhota</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1|2</Plurality>
+		</Row>
+		<Row Tag="LOC_UNIT_JFD_RED_ARMY_DESCRIPTION" Language="fr_FR">
+			<Text>Exclusive à l'Union soviétique, cette unité de l'ère moderne a un coût de déplacement réduit d'1 [ICON_Movement] PM en cas de pillage et a un coût d'entretien réduit.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_JFD_RED_ARMY_CHAPTER_HISTORY_PARA_1" Language="fr_FR">
+			<Text>Le pekhota est un soldat d'infanterie dans l'Armée rouge. L'armée fut créée immédiatement après la révolution d'octobre 1917. Les bolcheviks soulevèrent une armée pour s'opposer aux confédérations militaires de leurs adversaires (en particulier les différents groupes collectivement connus sous le nom de l'Armée blanche) pendant la guerre civile russe. À partir de février 1946, l'Armée rouge, avec la marine soviétique, incarna le principal élément des forces armées soviétiques. Prenant le nom officiel d'armée soviétique, elle fut dissoute en décembre 1991.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_JFD_RED_ARMY_NAME" Language="fr_FR">
+			<Text>Terre brûlée</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_JFD_RED_ARMY_DESCRIPTION" Language="fr_FR">
+			<Text>Coût de déplacement réduit d'1 [ICON_Movement] PM en cas de pillage.</Text>
+		</Row>
+		<!--NAUKOGRAD-->
+		<Row Tag="LOC_DISTRICT_JFD_NAUKOGRAD_NAME" Language="fr_FR">
+			<Text>Naoukograd|Naoukograds</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1|2</Plurality>
+		</Row>
+		<Row Tag="LOC_DISTRICT_JFD_NAUKOGRAD_DESCRIPTION" Language="fr_FR">
+			<Text>Quartier exclusif à l'Union soviétique, remplaçant le quartier résidentiel et favorisant le progrès scientifique.[NEWLINE][NEWLINE]Bonus de [ICON_SCIENCE] science lors du remplacement d'une ferme par ce quartier. Génère 2 points de [ICON_GreatScientist] savant illustre et une production de [ICON_SCIENCE] science supplémentaire si un campus est adjacent. Bonus de [ICON_PRODUCTION] production pour les projets de la course à l'espace. Les bonus ne se cumulent pas dans une même ville.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_DISTRICTS_PAGE_DISTRICT_JFD_NAUKOGRAD_CHAPTER_HISTORY_PARA_1" Language="fr_FR">
+			<Text>Naoukograd, littéralement "cité scientifique", est un terme formel pour désigner les villes présentant une importante concentration de complexes de recherche et développement en Russie et en Union soviétique. Certaines de ces villes furent d'ailleurs construites spécialement dans ce but par l'URSS. Une partie des naoukograds étaient secrètes et faisaient partie des villes fermées d'URSS, fruits des travaux forcés des goulag. Dans la Fédération de Russie de l'époque post-soviétique, le terme est généralement employé pour désigner une soixantaine de villes dotées de complexes scientifiques importants. Il est également utilisé de manière plus spécifique pour un petit nombre de villes reconnues pour leurs capacités scientifiques qui leur donnent accès à certains privilèges.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_JFD_NAUKOGRAD_SCIENCE" Language="fr_FR">
+			<Text>[ICON_SCIENCE] Science +{1_num} grâce au campus adjacent.</Text>
+		</Row>
+		<Replace Tag="LOC_GOODYHUT_LARGE_SCIENCE_DESCRIPTION" Language="fr_FR">
+			<Text>[COLOR_FLOAT_SCIENCE][ICON_SCIENCE] +{1_Num}[ENDCOLOR]</Text>
+		</Replace>
+		<!--MOD SUPPORT-->
+		<!--JFD Rule with Faith-->
+		<Row Tag="LOC_GOVERNMENT_JFD_CHIEFDOM_LEADER_TITLE_JFD_STALIN" Language="fr_FR">
+			<Text>Voïvode</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_AUTOCRACY_LEADER_TITLE_JFD_STALIN" Language="fr_FR">
+			<Text>Knèze</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_CLASSICAL_DEMOCRACY_LEADER_TITLE_JFD_STALIN" Language="fr_FR">
+			<Text>Conseiller</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_OLIGARCHY_LEADER_TITLE_JFD_STALIN" Language="fr_FR">
+			<Text>Boyard</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_MERCHANT_REPUBLIC_LEADER_TITLE_JFD_STALIN" Language="fr_FR">
+			<Text>Chancelier</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_MONARCHY_LEADER_TITLE_JFD_STALIN" Language="fr_FR">
+			<Text>Roi</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_NOBLE_REPUBLIC_LEADER_TITLE_JFD_STALIN" Language="fr_FR">
+			<Text>Président</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_PEOPLES_REPUBLIC_LEADER_TITLE_JFD_STALIN" Language="fr_FR">
+			<Text>Secrétaire général</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_LIBERAL_DEMOCRACY_LEADER_TITLE_JFD_STALIN" Language="fr_FR">
+			<Text>Président</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_MILITARY_GUARDIANSHIP_LEADER_TITLE_JFD_STALIN" Language="fr_FR">
+			<Text>Généralissime</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_EMPIRE_LEADER_TITLE_JFD_STALIN" Language="fr_FR">
+			<Text>Empereur</Text>
+		</Row>
+	</LocalizedText>
+</GameData>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Types>
+		<Row Type="RESOURCE_CONS_JILL_DUMMY" Kind="KIND_RESOURCE"/>
+		<Row Type="RESOURCE_CONS_JILL_BAD_TOUCH" Kind="KIND_RESOURCE"/>
+		<Row Type="RESOURCE_CONS_JILL_PIANO_WOMAN" Kind="KIND_RESOURCE"/>
+		<Row Type="RESOURCE_CONS_JILL_BRANDTINI" Kind="KIND_RESOURCE"/>
+		<Row Type="RESOURCE_CONS_JILL_GUT_PUNCH" Kind="KIND_RESOURCE"/>
+		<Row Type="RESOURCE_CONS_JILL_ZEN_STAR" Kind="KIND_RESOURCE"/>
+	</Types>
+	<Resources>
+		<Row ResourceType="RESOURCE_CONS_JILL_DUMMY" Name="LOC_RESOURCE_CONS_JILL_DUMMY_NAME" ResourceClassType="RESOURCECLASS_BONUS" Frequency="0"/>
+		<Row ResourceType="RESOURCE_CONS_JILL_BAD_TOUCH" Name="LOC_RESOURCE_CONS_JILL_BAD_TOUCH_NAME" ResourceClassType="RESOURCECLASS_LUXURY" Happiness="4" Frequency="0"/>
+		<Row ResourceType="RESOURCE_CONS_JILL_PIANO_WOMAN" Name="LOC_RESOURCE_CONS_JILL_PIANO_WOMAN_NAME" ResourceClassType="RESOURCECLASS_LUXURY" Happiness="4" Frequency="0"/>
+		<Row ResourceType="RESOURCE_CONS_JILL_BRANDTINI" Name="LOC_RESOURCE_CONS_JILL_BRANDTINI_NAME" ResourceClassType="RESOURCECLASS_LUXURY" Happiness="4" Frequency="0"/>
+		<Row ResourceType="RESOURCE_CONS_JILL_GUT_PUNCH" Name="LOC_RESOURCE_CONS_JILL_GUT_PUNCH_NAME" ResourceClassType="RESOURCECLASS_LUXURY" Happiness="4" Frequency="0"/>
+		<Row ResourceType="RESOURCE_CONS_JILL_ZEN_STAR" Name="LOC_RESOURCE_CONS_JILL_ZEN_STAR_NAME" ResourceClassType="RESOURCECLASS_LUXURY" Happiness="4" Frequency="0"/>
+	</Resources>
+</GameData>

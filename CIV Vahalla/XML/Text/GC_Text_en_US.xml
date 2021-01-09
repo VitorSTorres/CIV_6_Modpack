@@ -1,0 +1,391 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<Row Tag="LOC_CIVILIZATION_CONS_GLITCH_CITY_NAME" Language="en_US">
+			<Text>Glitch City</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CONS_GLITCH_CITY_DESCRIPTION" Language="en_US">
+			<Text>Glitch City</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CONS_GLITCH_CITY_ADJECTIVE" Language="en_US">
+			<Text>Glitch City</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CONS_GLITCH_CITY_DESCRIPTION_JFD_CIVILIZATION" Language="en_US">
+			<Text>Glitch City</Text>
+		</Row>
+
+		<Row Tag="LOC_LEADER_CONS_DANA_NAME" Language="en_US">
+			<Text>Dana Zane</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INFO_LEADER_CONS_DANA" Language="en_US">
+			<Text></Text>
+		</Row>
+
+		<Row Tag="LOC_LEADER_CONS_JILL_NAME" Language="en_US">
+			<Text>Julianne Stingray</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INFO_LEADER_CONS_JILL" Language="en_US">
+			<Text></Text>
+		</Row>
+
+		<!--<Row Tag="LOC_TRAIT_CIVILIZATION_CONS_GLITCH_CITY_CONFIG_NAME" Language="en_US">
+			<Text>The guinea pig of the world</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_CONS_GLITCH_CITY_CONFIG_DESCRIPTION" Language="en_US">
+			<Text>Cannot train Settler. 2 [ICON_TradeRoute] Trade Routes per era. 1 [ICON_Science] Science, [ICON_Culture] Culture, [ICON_Production] Production, [ICON_Gold] Gold from international [ICON_TradeRoute] Trade Routes and additional 1 yields at Medieval, Industrial, Atomic Era. 1 [ICON_Citizen] Free citizen and [ICON_Housing] Housing per 1 district (Up to 15). -1 [ICON_Amenities] Amenity per 3 district (Up to -5). Can build Second Holy Site, Campus, Harbor, Commercial Hub, Theater, Industrial Zone district which cannot build buildings, ignore Population requirement, doesn't receive Policy, Religion Beliefs, City-State Bonus effect. All districts in capital receive an 5 times adjacency bonus for being adjacent to another district.</Text>
+		</Row>-->
+		<Row Tag="LOC_TRAIT_CIVILIZATION_CONS_GLITCH_CITY_FOR_TEXT_01_NAME" Language="en_US">
+			<Text>The Guinea Pig of the World</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_CONS_GLITCH_CITY_FOR_TEXT_01_DESCRIPTION" Language="en_US">
+			<Text>Cannot train Settler. 2 [ICON_TradeRoute] Trade Routes per era. 1 [ICON_Science] Science, [ICON_Culture] Culture, [ICON_Production] Production and [ICON_Gold] Gold from International Trade routes, each increasing by 1 at Medieval, Industrial, Atomic Era. 1 [ICON_Citizen] Free Citizen and [ICON_Housing] Housing per district (up to 15), but -1 [ICON_Amenities] Amenities per 3 districts (up to -5)</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_CONS_GLITCH_CITY_FOR_TEXT_02_NAME" Language="en_US">
+			<Text>Zaibatsu Corp.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_CONS_GLITCH_CITY_FOR_TEXT_02_DESCRIPTION" Language="en_US">
+			<Text>May build a second Holy Site, Campus, Harbor Commercial Hub, Theater or Industrial Zone that ignores Population restriction. However, these districts cannot build buildings and does not receive bonuses from beliefs, Social Policies, City-States, etc. All districts in the capital receive 5 times the regular adjacency bonus from adjacency to other districts.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_CONS_GLITCH_CITY_NAME" Language="en_US">
+			<Text>The guinea pig of the world</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_CONS_GLITCH_CITY_DESCRIPTION" Language="en_US">
+			<Text>Cannot train Settler. 2 [ICON_TradeRoute] Trade Routes per era. [NEWLINE]1 [ICON_Science] Science, [ICON_Culture] Culture, [ICON_Production] Production and [ICON_Gold] Gold from International Trade routes, each increasing by 1 at Medieval, Industrial, Atomic Era. [NEWLINE]1 [ICON_Citizen] Free Citizen and [ICON_Housing] Housing per district (up to 15), but -1 [ICON_Amenities] Amenities per 3 districts (up to -5). [NEWLINE]May build a second Holy Site, Campus, Harbor Commercial Hub, Theater or Industrial Zone that ignores Population restriction. However, these districts cannot build buildings and does not receive bonuses from beliefs, Social Policies, City-States, etc. [NEWLINE]All districts in the capital receive 5 times the regular adjacency bonus from adjacency to other districts.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_CONS_GLITCH_CITY_EXTRA_DISTRICTS_NAME" Language="en_US">
+			<Text>Zaibatsu Corp.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_CONS_GLITCH_CITY_EXTRA_DISTRICTS_DESCRIPTION" Language="en_US">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_CONS_GC_EXTRA_HOLY_SITE_NAME" Language="en_US">
+			<Text>Holy Site (Glitch City)</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_CONS_GC_EXTRA_CAMPUS_NAME" Language="en_US">
+			<Text>Campus (Glitch City)</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_CONS_GC_EXTRA_HARBOR_NAME" Language="en_US">
+			<Text>Harbor (Glitch City)</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_CONS_GC_EXTRA_COMMERCIAL_HUB_NAME" Language="en_US">
+			<Text>Commercial Hub (Glitch City)</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_CONS_GC_EXTRA_THEATER_NAME" Language="en_US">
+			<Text>Theater (Glitch City)</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_CONS_GC_EXTRA_INDUSTRIAL_ZONE_NAME" Language="en_US">
+			<Text>Industrial Zone (Glitch City)</Text>
+		</Row>
+
+		<Row Tag="LOC_TRAIT_LEADER_CONS_DANA_NAME" Language="en_US">
+			<Text>Owner and Bouncer of VA-11 Hall-A</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_CONS_DANA_DESCRIPTION" Language="en_US">
+			<Text>[ICON_TradeRoute] Trade Route cannot be plundered by enemy units. +10 [ICON_Strength] Combat Strength in your territory.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_CONS_DANA_UNIT_INCREASE_STRENGTH_IN_OWNER_TERRITORY_MOD_DESCRIPTION" Language="en_US">
+			<Text>+10 [ICON_Strength] Combat Strength in your territory.</Text>
+		</Row>
+
+		<Row Tag="LOC_TRAIT_LEADER_CONS_JILL_NAME" Language="en_US">
+			<Text>Bartender of VA-11 Hall-A</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_CONS_JILL_DESCRIPTION" Language="en_US">
+			<Text>City with the British Trademark Council unique district may initiate 5 unique projects that each provides a unique luxury resource.</Text>
+		</Row>
+
+		<Row Tag="LOC_AGENDA_CONS_DANA_NAME" Language="en_US">
+			<Text>BEST BOSS</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_CONS_DANA_DESCRIPTION" Language="en_US">
+			<Text>Likes peaceful civilizations that have a city on his home continent or send trade route at his city. Hates civilizations starting wars against a city-state or civilization based on his continent or anyone denouncing or attacking his friends and allies.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_CONS_DANA_REASON_AGENDA_MODIFIER_CONS_DANA_LIKE_CONTINENT_PEACEFUL" Language="en_US">
+			<Text>(You have kept the peace on his home continent.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_CONS_DANA_REASON_AGENDA_MODIFIER_CONS_DANA_HATE_CONTINENT_ATTACKED" Language="en_US">
+			<Text>(You have attacked someone on his home continent.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_CONS_DANA_REASON_AGENDA_MODIFIER_CONS_DANA_HATE_DENOUNCED_FRIEND" Language="en_US">
+			<Text>(You denounced their friend.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_CONS_DANA_LIKE_CONTINENT_PEACEFUL" Language="en_US">
+			<Text>Dana Zane likes peaceful civs on his continent</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_CONS_DANA_HATE_CONTINENT_ATTACKED" Language="en_US">
+			<Text>Dana Zane hates attacks on civs based on his continent</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_CONS_DANA_HATE_DENOUNCED_FRIEND" Language="en_US">
+			<Text>Dana Zane hates it when you denounce his friends</Text>
+		</Row>
+
+		<Row Tag="LOC_AGENDA_CONS_JILL_NAME" Language="en_US">
+			<Text>Money Grubber</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_CONS_JILL_DESCRIPTION" Language="en_US">
+			<Text>Tries to have the highest possible [ICON_Gold] Gold per turn income. Respects other high income civilizations.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_CONS_DANA_REASON_AGENDA_MODIFIER_CONS_JILL_LIKE_HIGH_INCOME" Language="en_US">
+			<Text>(Your income is high.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_CONS_DANA_REASON_AGENDA_MODIFIER_CONS_JILL_HATE_LOW_INCOME" Language="en_US">
+			<Text>(Your income is too low.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_CONS_JILL_LIKE_HIGH_INCOME" Language="en_US">
+			<Text>Julianne Stingray is pleased to see a high income civilization</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_CONS_JILL_HATE_LOW_INCOME" Language="en_US">
+			<Text>Julianne Stingray dislike civilizations with low income</Text>
+		</Row>
+
+		<Row Tag="LOC_UNIT_CONS_GC_WHITE_KNIGHT_NAME" Language="en_US">
+			<Text>White Knight</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_CONS_GC_WHITE_KNIGHT_DESCRIPTION" Language="en_US">
+			<Text>Glitch City unique unit that replace Mechanized Infantry. Weaker than normal Mechanized Infantry. +10 [ICON_Strength] Combat Strength when fighting in a district. +5 [ICON_Strength] Combat Strength in your territory. Unlocked by Urbanization.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_CONS_GC_WHITE_KNIGHT_NAME" Language="en_US">
+			<Text>White Knight</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_CONS_GC_WHITE_KNIGHT_DESCRIPTION" Language="en_US">
+			<Text>+10 [ICON_Strength] Combat Strength when fighting in a district. +5 [ICON_Strength] Combat Strength in your territory.</Text>
+		</Row>
+		<Row Tag="LOC_MOD_CONS_GC_WHITE_KNIGHT_INCREASE_STRENGTH_IN_DISTRICT_DESCRIPTION" Language="en_US">
+			<Text>+10 [ICON_Strength] Combat Strength when fighting in a district.</Text>
+		</Row>
+		<Row Tag="LOC_MOD_CONS_GC_WHITE_KNIGHT_INCREASE_STRENGTH_IN_OWNER_TERRITORY_DESCRIPTION" Language="en_US">
+			<Text>+5 [ICON_Strength] Combat Strength in your territory.</Text>
+		</Row>
+
+		<Row Tag="LOC_DISTRICT_CONS_GC_BTC_NAME" Language="en_US">
+			<Text>British Trademark Council</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_CONS_GC_BTC_DESCRIPTION" Language="en_US">
+			<Text>Glitch City unique district that replace Entertainment Complex. provide +2 [ICON_Amenities] Amenity. +2 [ICON_Gold] Gold per 1 [ICON_Citizen] citizen. This city receives +3 [ICON_Gold] Gold from foreign [ICON_TradeRoute] Trade Routes, while the owner of the Trade Route receives +3 [ICON_Culture] Culture.</Text>
+		</Row>
+		<!--<Row Tag="LOC_DISTRICT_CONS_GC_BTC_ADJACENCY" Language="en_US">
+			<Text>새 특수 지구 인접효과: </Text>
+		</Row>-->
+
+		<Row Tag="LOC_RESOURCE_CONS_GC_DUMMY_NAME" Language="en_US">
+			<Text>Glitch City Dummy Resource</Text>
+		</Row>
+		<Row Tag="LOC_RESOURCE_CONS_JILL_DUMMY_NAME" Language="en_US">
+			<Text>Julianne Stingray Dummy Resource</Text>
+		</Row>
+		<Row Tag="LOC_RESOURCE_CONS_JILL_BAD_TOUCH_NAME" Language="en_US">
+			<Text>Bad Touch</Text>
+		</Row>
+		<Row Tag="LOC_RESOURCE_CONS_JILL_PIANO_WOMAN_NAME" Language="en_US">
+			<Text>Piano Woman</Text>
+		</Row>
+		<Row Tag="LOC_RESOURCE_CONS_JILL_BRANDTINI_NAME" Language="en_US">
+			<Text>Brandtini</Text>
+		</Row>
+		<Row Tag="LOC_RESOURCE_CONS_JILL_GUT_PUNCH_NAME" Language="en_US">
+			<Text>Gut Punch</Text>
+		</Row>
+		<Row Tag="LOC_RESOURCE_CONS_JILL_ZEN_STAR_NAME" Language="en_US">
+			<Text>Zen Star</Text>
+		</Row>
+
+		<Row Tag="LOC_PROJECT_CONS_JILL_MAKE_BAD_TOUCH_NAME" Language="en_US">
+			<Text>Bad Touch</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_CONS_JILL_MAKE_BAD_TOUCH_SHORT_NAME" Language="en_US">
+			<Text>Bad Touch</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_CONS_JILL_MAKE_BAD_TOUCH_DESCRIPTION" Language="en_US">
+			<Text>Julianne Stingray's unique project. Receive the Bad Touch Luxury resources. These cannot be earned any other way in the game, and provide 4 [ICON_Amenities] Amenities each.</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_CONS_JILL_MAKE_PIANO_WOMAN_NAME" Language="en_US">
+			<Text>Piano Woman</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_CONS_JILL_MAKE_PIANO_WOMAN_SHORT_NAME" Language="en_US">
+			<Text>Piano Woman</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_CONS_JILL_MAKE_PIANO_WOMAN_DESCRIPTION" Language="en_US">
+			<Text>Julianne Stingray's unique project. Receive the Piano Woman Luxury resources. These cannot be earned any other way in the game, and provide 4 [ICON_Amenities] Amenities each.</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_CONS_JILL_MAKE_BRANDTINI_NAME" Language="en_US">
+			<Text>Brandtini</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_CONS_JILL_MAKE_BRANDTINI_SHORT_NAME" Language="en_US">
+			<Text>Brandtini</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_CONS_JILL_MAKE_BRANDTINI_DESCRIPTION" Language="en_US">
+			<Text>Julianne Stingray's unique project. Receive the Brandtini Luxury resources. These cannot be earned any other way in the game, and provide 4 [ICON_Amenities] Amenities each.</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_CONS_JILL_MAKE_GUT_PUNCH_NAME" Language="en_US">
+			<Text>Gut Punch</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_CONS_JILL_MAKE_GUT_PUNCH_SHORT_NAME" Language="en_US">
+			<Text>Gut Punch</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_CONS_JILL_MAKE_GUT_PUNCH_DESCRIPTION" Language="en_US">
+			<Text>Julianne Stingray's unique project. Receive the Gut Punch Luxury resources. These cannot be earned any other way in the game, and provide 4 [ICON_Amenities] Amenities each.</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_CONS_JILL_MAKE_ZEN_STAR_NAME" Language="en_US">
+			<Text>Zen Star</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_CONS_JILL_MAKE_ZEN_STAR_SHORT_NAME" Language="en_US">
+			<Text>Zen Star</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_CONS_JILL_MAKE_ZEN_STAR_DESCRIPTION" Language="en_US">
+			<Text>Julianne Stingray's unique project. Receive the Zen Star Luxury resources. These cannot be earned any other way in the game, and provide 4 [ICON_Amenities] Amenities each.</Text>
+		</Row>
+
+		<!-- 시민 이름 목록 -->
+		<Row Tag="LOC_CITIZEN_CONS_GLITCH_CITY_MALE_01" Language="en_US">
+			<Text>Deal</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CONS_GLITCH_CITY_MALE_02" Language="en_US">
+			<Text>Rad Shiba</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CONS_GLITCH_CITY_MALE_03" Language="en_US">
+			<Text>Jamie</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CONS_GLITCH_CITY_MALE_04" Language="en_US">
+			<Text>Donovan D. Dawson</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CONS_GLITCH_CITY_MALE_05" Language="en_US">
+			<Text>Virgilio</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CONS_GLITCH_CITY_MALE_06" Language="en_US">
+			<Text>Ingram</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CONS_GLITCH_CITY_MALE_07" Language="en_US">
+			<Text>Mario</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CONS_GLITCH_CITY_MALE_08" Language="en_US">
+			<Text>Art von Delay</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CONS_GLITCH_CITY_MALE_09" Language="en_US">
+			<Text>Taylor</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CONS_GLITCH_CITY_FEMALE_01" Language="en_US">
+			<Text>Dorothy</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CONS_GLITCH_CITY_FEMALE_02" Language="en_US">
+			<Text>Sei</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CONS_GLITCH_CITY_FEMALE_03" Language="en_US">
+			<Text>Stella</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CONS_GLITCH_CITY_FEMALE_04" Language="en_US">
+			<Text>Beatrice</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CONS_GLITCH_CITY_FEMALE_05" Language="en_US">
+			<Text>Alma</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CONS_GLITCH_CITY_FEMALE_06" Language="en_US">
+			<Text>Kim</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CONS_GLITCH_CITY_FEMALE_07" Language="en_US">
+			<Text>*Kira* Miki</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CONS_GLITCH_CITY_FEMALE_08" Language="en_US">
+			<Text>Streaming-chan</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CONS_GLITCH_CITY_FEMALE_09" Language="en_US">
+			<Text>Norma</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CONS_GLITCH_CITY_FEMALE_10" Language="en_US">
+			<Text>Anna</Text>
+		</Row>
+
+		<!-- 도시 이름 목록 -->
+		<Row Tag="LOC_CIVILIZATION_CONS_GLITCH_CITY_CITY_01" Language="en_US">
+			<Text>Glitch City</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CONS_GLITCH_CITY_CITY_02" Language="en_US">
+			<Text>VA-11 Hall-A</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CONS_GLITCH_CITY_CITY_03" Language="en_US">
+			<Text>VA-1 Hall-A</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CONS_GLITCH_CITY_CITY_04" Language="en_US">
+			<Text>N1-RV Ann-A</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CONS_GLITCH_CITY_CITY_05" Language="en_US">
+			<Text>N1-RV Ann-B</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CONS_GLITCH_CITY_CITY_06" Language="en_US">
+			<Text>MI-6 Hall-C</Text>
+		</Row>
+
+		<!-- 시빌로피디아 텍스트 -->
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_CONS_GLITCH_CITY_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Gltich City is the city where VA-11 Hall-A is located and all the characters live. It is a city run by mega corporations (namely Zaibatsu Corp.) and is rife with crime and corruption. However its also one of the forerunners in social advancements for non-humans, in particular Lilim. While the city is governed by mayor Quincy, he acts mostly as a puppet of Zaibatsu Corp.[NEWLINE][NEWLINE]Due to its advancements in technology and the disregard major companies have for experimentation on the general populace, Glitch City has earned the nickname "The guinea pig of the world."</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_CIVILIZATION_CONS_GLITCH_CITY_LOCATION" Language="en_US">
+			<Text>Unknown (Somewhere in near Earth)</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_CIVILIZATION_CONS_GLITCH_CITY_SIZE" Language="en_US">
+			<Text>Unknown (Similar to a giant city)</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_CIVILIZATION_CONS_GLITCH_CITY_POPULATION" Language="en_US">
+			<Text>Unknown (Coexist with Human, Lilim and talking dogs)</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_CIVILIZATION_CONS_GLITCH_CITY_CAPITAL" Language="en_US">
+			<Text>Glitch City</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CONS_DANA_CHAPTER_CAPSULE_BODY" Language="en_US">
+			<Text>While Glitch City cannot train settlers and lose 1 Amenity per 3 Districts, Glitch City has many trade routes and may build additional Districts, while its districts in the capital has powerful adjacency bonus. In addition, Dana's Trade Routes cannot be pillaged and her units fight better in friendly territory, allowing her to defend more effectively.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CONS_DANA_CHAPTER_DETAILED_BODY" Language="en_US">
+			<Text>While Glitch City cannot train settlers and lose 1 Amenity per 3 Districts, Glitch City has many trade routes and may build additional Districts, while its districts in the capital has powerful adjacency bonus. In addition, Dana's Trade Routes cannot be pillaged and her units fight better in friendly territory, allowing her to defend more effectively.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CONS_DANA_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Dana Zane, commonly called "Dana" or simply "Boss", is the proprietor of VA-11 Hall-A, and oversees Jill and Gil. Dana has replaced her left arm with a mechanical prosthesis, and refuses to answer questions on when or how she lost her original, as "It's more interesting if it's left a mystery."</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_CONS_DANA_QUOTE" Language="en_US">
+			<Text>Why AREN'T you carrying a bucket of spicy chicken wings?</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CONS_JILL_CHAPTER_CAPSULE_BODY" Language="en_US">
+			<Text>While Glitch City cannot train settlers and lose 1 Amenity per 3 Districts, Glitch City has many trade routes and may build additional Districts, while its districts in the capital has powerful adjacency bonus. In addition, Jill's unique luxury resources reduce the Amenity penalty, while the spares may be traded to other civilizations.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CONS_JILL_CHAPTER_DETAILED_BODY" Language="en_US">
+			<Text>While Glitch City cannot train settlers and lose 1 Amenity per 3 Districts, Glitch City has many trade routes and may build additional Districts, while its districts in the capital has powerful adjacency bonus. In addition, Jill's unique luxury resources reduce the Amenity penalty, while the spares may be traded to other civilizations.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CONS_JILL_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Julianne Natalie Stingray, or "Jill" as she is known, is the main protagonist and the bartender at VA-11 Hall-A. Half-French. Avid smoker. Bisexual. Went to college. Drinks a lot of beer. Has a cat named Fore, whom she talks to every time she's at home. She vaguely recalls having seen someone glitch out like how Anna Graem did in the past, but she doesn't remember when or where.</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_CONS_JILL_QUOTE" Language="en_US">
+			<Text>Time to mix drinks and change lives.</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_CONS_GC_WHITE_KNIGHT_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>The White Knights are an organization within Glitch City, and act as authorities. However, during the story of the game, they would be discredited and disbanded. When you first meet Sei, she explains that the White knights are separated into different divisions that are meant to deal with different situations. For example Sei herself is a Valkyrie, who were White Knights meant to act as first responders during emergencies and are trained as both medics and rescue operatives.</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_DISTRICTS_PAGE_DISTRICT_CONS_GC_BTC_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>The British Trademark Council entertains a chain of bars which VA-11 Hall-A is a part of. Due to financial troubles and allegations of criminal activities the BTC is currently in the process of closing around 40% of its bars in Glitch City, with VA-11 Hall-A being one of the bars under consideration.</Text>
+		</Row>
+
+		<!-- 지도자 대사 -->
+		<!--<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_CONS_DANA_ANY" Language="en_US">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_CONS_DANA_ANY" Language="en_US">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_CONS_DANA_ANY" Language="en_US">
+			<Text></Text>
+		</Row>-->
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_CONS_DANA_ANY" Language="en_US">
+			<Text>Thanks for keeping the peace on the continent. Bully for you!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_CONS_DANA_ANY" Language="en_US">
+			<Text>No man is above the law. It behooves you to remember that.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_CONS_JILL_ANY" Language="en_US">
+			<Text>Your treasury is filling up quite nicely. It's always nice to have such strong income, isn't it?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_CONS_JILL_ANY" Language="en_US">
+			<Text>Your empire is headed toward bankruptcy.  How can you survive with debt piling up?</Text>
+		</Row>
+	</LocalizedText>
+</GameData>

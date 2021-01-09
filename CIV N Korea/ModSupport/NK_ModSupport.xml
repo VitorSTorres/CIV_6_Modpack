@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<!--YnAMP Support-->
+	<StartPosition>
+		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_CONS_NORTH_KOREA"		X="89" Y="64"	Leader="LEADER_CONS_KIM_ILSUNG"/>
+		<Replace MapName="GreatestEarthMap" Civilization="CIVILIZATION_CONS_NORTH_KOREA"	X="90" Y="55"	Leader="LEADER_CONS_KIM_ILSUNG"/>
+		<Replace MapName="LargestEarth" Civilization="CIVILIZATION_CONS_NORTH_KOREA"		X="118" Y="81"	Leader="LEADER_CONS_KIM_ILSUNG"/>
+		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_CONS_NORTH_KOREA"		X="89" Y="64"	Leader="LEADER_CONS_KIM_JONGIL"/>
+		<Replace MapName="GreatestEarthMap" Civilization="CIVILIZATION_CONS_NORTH_KOREA"	X="90" Y="55"	Leader="LEADER_CONS_KIM_JONGIL"/>
+		<Replace MapName="LargestEarth" Civilization="CIVILIZATION_CONS_NORTH_KOREA"		X="118" Y="81"	Leader="LEADER_CONS_KIM_JONGIL"/>
+		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_CONS_NORTH_KOREA"		X="89" Y="64"	Leader="LEADER_CONS_KIM_JONGUN"/>
+		<Replace MapName="GreatestEarthMap" Civilization="CIVILIZATION_CONS_NORTH_KOREA"	X="90" Y="55"	Leader="LEADER_CONS_KIM_JONGUN"/>
+		<Replace MapName="LargestEarth" Civilization="CIVILIZATION_CONS_NORTH_KOREA"		X="118" Y="81"	Leader="LEADER_CONS_KIM_JONGUN"/>
+	</StartPosition>
+</GameData>

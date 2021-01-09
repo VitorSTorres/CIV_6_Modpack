@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- GameData2 -->
+<!-- Author: Zebrah -->
+<!-- DateCreated: 7/11/2017 11:01:04 PM -->
+<GameData>
+
+	<BaseGameText>
+		<Replace Tag="LOC_PROMOTION_GARRISON_DESCRIPTION">
+			<Text>+10 [ICON_Ranged] Ranged Strength when occupying a district, fort or great wall.</Text>
+		</Replace>
+	</BaseGameText>
+	
+</GameData>

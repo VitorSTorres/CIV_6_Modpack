@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<LocalizedText>
+		<Row Tag="LOC_LEADER_JFD_LOUIS_XIV_NAME" Language="fr_FR">
+			<Text>Louis XIV</Text>
+			<Gender>masculine:no_article</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<!--Enlightened Absolutism-->
+		<Row Tag="LOC_AGENDA_JFD_ABSOLUTISM_NAME" Language="fr_FR">
+			<Text>Despotisme éclairé</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_JFD_ABSOLUTISM_DESCRIPTION" Language="fr_FR">
+			<Text>Essaie de construire autant de merveilles que possible. Apprécie les civilisations qui ont le même gouvernement, produisent beaucoup de [ICON_CULTURE] culture. Méprise les civilisations qui manquent de [ICON_CULTURE] culture ou qui ont un gouvernement différent.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_JFD_LOUIS_XIV_REASON_SAME_GOVERNMENT" Language="fr_FR">
+			<Text>(Vous partagez le même type de gouvernement.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_AGENDA_JFD_ABSOLUTISM_SAME_GOVERNMENT" Language="fr_FR">
+			<Text>Louis XIV est ravi que vous ayez adopté le même type de gouvernement éclairé.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_JFD_LOUIS_XIV_REASON_SURPRISE_WAR" Language="fr_FR">
+			<Text>(Vous avez déclaré une guerre surprise.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_AGENDA_JFD_ABSOLUTISM_SURPRISE_WAR" Language="fr_FR">
+			<Text>Louis XIV est repoussé par votre tendance à déclarer des guerres surprises.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_JFD_LOUIS_XIV_REASON_LAGS_CULTURE" Language="fr_FR">
+			<Text>(Votre culture est faible.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_AGENDA_JFD_ABSOLUTISM_LAGS_CULTURE" Language="fr_FR">
+			<Text>Louis XIV est dégoûté par votre culture médiocre.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_JFD_LOUIS_XIV_REASON_LEADS_CULTURE" Language="fr_FR">
+			<Text>(Vous générez beaucoup de culture.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_AGENDA_JFD_ABSOLUTISM_LEADS_CULTURE" Language="fr_FR">
+			<Text>Louis XIV est impressionné par votre culture.</Text>
+		</Row>
+		<!--DOM-->
+		<Row Tag="LOC_LOADING_INFO_LEADER_JFD_LOUIS_XIV" Language="fr_FR">
+			<Text>Le temps est venu, Louis XIV, de diriger une France souveraine et plénière. Les aristocrates tremblent à l'ombre de vos merveilleux monuments. Utilisez leur soumission pour réunir votre peuple au sein d'un seul et même État centralisé. Et utilisez cet État pour lancer la France sur la scène mondiale, afin que chacun puisse témoigner de sa grandeur.</Text>
+		</Row>
+		<!--Traits-->
+		<Row Tag="LOC_TRAIT_LEADER_JFD_SUN_KING_NAME" Language="fr_FR">
+			<Text>Roi-Soleil</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_JFD_SUN_KING_DESCRIPTION" Language="fr_FR">
+			<Text>Gagne 1 [ICON_ENVOY] émissaire et + 2 [ICON_CULTURE] culture par tour pour chaque merveille construite dans la [ICON_CAPITAL] capitale. Apparition de l'unité exclusive du vieux corps une fois la poudre à canon découverte.</Text>
+		</Row>
+		<!--Civilopedia-->
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_LOUIS_XIV_TITLE" Language="fr_FR">
+			<Text>Louis XIV</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_LOUIS_XIV_SUBTITLE" Language="fr_FR">
+			<Text>Roi de France</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_LOUIS_XIV_QUOTE" Language="fr_FR">
+			<Text>L'État, c'est moi.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_LOUIS_XIV_CHAPTER_HISTORY_PARA_1" Language="fr_FR">
+			<Text>Fils du roi Louis XIII de France, Louis XIV fut été élevé dans la cour la plus opulente d'Europe. Tous ses besoins étaient pris en compte, et il recevait une excellente éducation, même s'il était trop paresseux et gâté pour l'apprécier. Louis XIII mourut quand son fils avait cinq ans, et la régence fut transmise à la reine mère, Anne d'Autriche. Pendant les 18 années suivantes, elle gouverna la France avec l'aide du cardinal Mazarin, qui fut peut-être été son amant, alors que Louis vivait dans une splendeur prodigieuse.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_LOUIS_XIV_CHAPTER_HISTORY_PARA_2" Language="fr_FR">
+			<Text>Ce fut lors de la mort de Mazarin en 1661 que Louis XIV, âgé de 22 ans, commença à s'intéresser activement à gouverner son pays. À la surprise de tous, il se révéla doué. D'abord, il rassembla le pouvoir dans ses propres mains, en contournant l'ancien système de mécénat bureaucratique que Mazarin et ses prédécesseurs avaient utilisé. Il attira les grands nobles au sein de sa cour, où il leur confia des titres, des postes d'honneur et des récompenses financières, tout en minant leur pouvoir réel. Dans la cour de Louis, les grands seigneurs, dont les parents avaient combattu pour la couronne de la France elle-même, se battaient pour avoir le privilège d'assister au rasage du roi.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_LOUIS_XIV_CHAPTER_HISTORY_PARA_3" Language="fr_FR">
+			<Text>En personne, Louis était considéré comme disposant d'une grande dignité naturelle. Il était immanquablement courtois et généralement honnête, mais il pouvait dissimuler ses sentiments lorsqu'il le fallait.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_LOUIS_XIV_CHAPTER_HISTORY_PARA_4" Language="fr_FR">
+			<Text>Au début de son règne, la cour de Louis XIV était connue pour sa débauche, et Louis lui-même avait plusieurs maîtresses. Toutefois, au fil du temps, Louis devint pieux, et il épousa même sa dernière maîtresse (bien qu'il l'ait fait en secret). Louis était également devenu un patron des arts, ce qui permit à la littérature et à la peinture de prospérer sous son règne. Il fit construire de nombreux grands bâtiments et palais, dont le plus connu est incontestablement le château de Versailles.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_LOUIS_XIV_CHAPTER_HISTORY_PARA_5" Language="fr_FR">
+			<Text>Malgré la richesse de la France, le pays resta pratiquement en faillite, non seulement parce qu'il fallait payer tous les cadeaux que Louis avait donnés à ses favoris, mais il fallait, plus important encore, payer toutes les guerres de conquêtes que Louis XIV avait engagées. Bien qu'il fût un souverain bon et attentionné chez lui, Louis avait une grande soif de "gloire" internationale, ce qui pour lui signifiait acccumuler des victoires sur le champ de bataille. Il combatit constamment ses voisins, souvent pour les raisons les plus banales, ne gagnant que peu de choses à l'issue des guerres. Bien qu'à sa mort l'armée et la marine étaient dans un état splendide, le trésor de son pays était à sec.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_LOUIS_XIV_CHAPTER_CAPSULE_BODY" Language="fr_FR">
+			<Text>Si la France est par défaut une civilisation orientée vers la culture, elle n'en reste pas moins un dangereux adversaire. Louis XIV utilisera ses nombreux talents de construction de merveilles pour rester en tête de ses rivaux au niveau des dogmes et de la diplomatie.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_LOUIS_XIV_CHAPTER_DETAILED_BODY" Language="fr_FR">
+			<Text>À l'image de Cléopâtre et de Qin Shi Huangdi, la France aspire à remporter la bataille des merveilles, et si elle y parvient, elle devient une prétendante sérieuse à la victoire culturelle. Menés par Louis XIV, les merveilles construites par les Français leur permettront de se démarquer au niveau des dogmes et de dominer la scène du théâtre diplomatique. Bâtir des castels est également une priorité pour les Français, et là aussi, cela les oriente vers une victoire culturelle. Cette abondance de [ICON_Culture] culture leur permet de progresser rapidement dans l'arbre des dogmes, et ainsi d'accéder aux régiments et aux armées avant la plupart de leurs rivaux. Et s'ils ont le bon goût de découvrir la Garde impériale et le vieux corps au même moment, méfiez-vous d'autant plus !</Text>
+		</Row>
+		<!--Diplomacy-->
+		<!--FIRST MEET-->
+		<!--First AI line-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_JFD_LOUIS_XIV_ANY" Language="fr_FR">
+			<Text>Vous rencontrer est fabuleux! Je suis Louis XIV. Venez, venez, je veux vous faire visiter les plus grands palais de la France.</Text>
+		</Row>
+		<!--AI invitation to visit nearby City-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_JFD_LOUIS_XIV_ANY" Language="fr_FR">
+			<Text>Je vous invite à un bal dans mon plus magnifique palais. Ce sera un moment merveilleux. Oh oh ! Vous vous en rendez compte très rapidement, vous verrez.</Text>
+		</Row>
+		<!--AI accepts Human invitation-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_JFD_LOUIS_XIV_ANY" Language="fr_FR">
+			<Text>Fabuleux. J'en tremble d'excitation !</Text>
+		</Row>
+		<!--AI invitation to exchange Capital Information-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_JFD_LOUIS_XIV_ANY" Language="fr_FR">
+			<Text>Je propose que nous échangions des informations sur nos capitales afin que vous puissiez voir à quel point la nôtre est glorieuse et la vôtre est... cocasse.</Text>
+		</Row>
+		<!--GREETINGS-->
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_JFD_LOUIS_XIV_ANY" Language="fr_FR">
+			<Text>Venez-vous admirer ma beauté, mon cher ?</Text>
+		</Row>
+		<!--DELEGATION-->
+		<!--AI Accepts-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_JFD_LOUIS_XIV_ANY" Language="fr_FR">
+			<Text>J'ai reçu votre délégation à bras ouverts. Je vous accueillerai à chaque fois que vous souhaitez vous promener dans mes somptueux jardins.</Text>
+		</Row>
+		<!--AI Rejects-->
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_JFD_LOUIS_XIV_ANY" Language="fr_FR">
+			<Text>Non, non, non. Je ne dois pas être vu en votre compagnioe. J'ai donc refusé votre vilaine délégation. Bonne journée et bonne continuation.</Text>
+		</Row>
+		<!--AI Requests-->
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_JFD_LOUIS_XIV_ANY" Language="fr_FR">
+			<Text>En signe de bonne amitié, j'ai envoyé à votre capitale une délégation avec les parfums les plus raffinés, qui viennent directement de ma collection personnelle.</Text>
+		</Row>
+		<!--OPEN BORDERS-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_JFD_LOUIS_XIV_ANY" Language="fr_FR">
+			<Text>Oui, c'est une bonne idée, je pense.</Text>
+		</Row>
+		<!--AI rejects from human-->
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_JFD_LOUIS_XIV_ANY" Language="fr_FR">
+			<Text>Et laisser vos gens hideux et malodorants errer dans mes rues ? Je ne pense pas, non.</Text>
+		</Row>
+		<!--AI requests from human-->
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_JFD_LOUIS_XIV_ANY" Language="fr_FR">
+			<Text>Nous devrions ouvrir nos frontières. Devoir systématiquement contourner vos frontières m'est d'un ennui mortel.</Text>
+		</Row>
+		<!--DECLARE FRIENDSHIP-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_JFD_LOUIS_XIV_ANY" Language="fr_FR">
+			<Text>Alors j'invite le monde à contempler notre nouvelle amitié. Merveilleux !</Text>
+		</Row>
+		<!--AI Rejects from human-->
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_JFD_LOUIS_XIV_ANY" Language="fr_FR">
+			<Text>Vous pensez que vous êtes apte à être mon ami ? Moi, le grand Louis XIV de France ? Si c'est le cas, votre tête est devenue aussi grosse que votre nez.</Text>
+		</Row>
+		<!--AI Requests friendship from human-->
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_JFD_LOUIS_XIV_ANY" Language="fr_FR">
+			<Text>Vous avez toujours été mon confident le plus proche. Pourquoi ne pas faire savoir au monde que nous sommes de bons amis ? Laissons nos rivaux croupir dans la jalousie !</Text>
+		</Row>
+		<!--Human accepts AI requests, AI responds-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_JFD_LOUIS_XIV_ANY" Language="fr_FR">
+			<Text>Je suis très content, oh que oui.</Text>
+		</Row>
+		<!--Human rejects AI requests, AI responds-->
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_JFD_LOUIS_XIV_ANY" Language="fr_FR">
+			<Text>Non. Êtes-vous aussi stupide que moche ? Allez-vous en.</Text>
+		</Row>
+		<!--ALLIANCE-->
+		<!--AI Requests an alliance from human-->
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_JFD_LOUIS_XIV_ANY" Language="fr_FR">
+			<Text>La France désire une grandeur qu'elle ne pourra atteindre qu'avec votre aide. Vous obtiendrez... une partie de la gloire par la même occasion... par procuration, bien entendu.</Text>
+		</Row>
+		<!--KUDOS & WARNINGS-->
+		<!--AI Kudos-->
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_JFD_LOUIS_XIV_ANY" Language="fr_FR">
+			<Text>Je suis toujours heureux de vous revoir, que ce soit votre visage ou votre postérieur.</Text>
+		</Row>
+		<!--AI Warnings-->
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_JFD_LOUIS_XIV_ANY" Language="fr_FR">
+			<Text>Je suis content que vous partez. Vous avez enlaidi mes couloirs bien trop longtemps.</Text>
+		</Row>
+		<!--AI warns player for border troops-->
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_JFD_LOUIS_XIV_ANY" Language="fr_FR">
+			<Text>Ne prenez pas ma somptueuse beauté pour de la faiblesse. Je repousserai des armées dix fois plus importantes que les miennes sans sourciller.</Text>
+		</Row>
+		<!--TRADE-->
+		<!--AI Accepts Deal-->
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_JFD_LOUIS_XIV_ANY" Language="fr_FR">
+			<Text>{LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_JFD_LOUIS_XIV_ANY}</Text>
+		</Row>
+		<!-- AI Rejects Deal -->
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_JFD_LOUIS_XIV_ANY" Language="fr_FR">
+			<Text>{LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_JFD_LOUIS_XIV_ANY}</Text>
+		</Row>
+		<!--DENOUNCE-->
+		<!--From Human-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_JFD_LOUIS_XIV_ANY" Language="fr_FR">
+			<Text>Comment vous osez-vous !? Jamais je n'ai été autant offensé.</Text>
+		</Row>
+		<!--From AI-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_JFD_LOUIS_XIV_ANY" Language="fr_FR">
+			<Text>Vous êtes le plus vil- je ne préfère pas terminer ma phrase. Allez-vous en. (Dénonciation)</Text>
+		</Row>
+		<!--Rationale-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_JFD_ABSOLUTISM_MODIFIER_DIFF_GOVERNMENT" Language="fr_FR">
+			<Text>(Vous avez un gouvernement différent.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_JFD_ABSOLUTISM_MODIFIER_LAGS_CULTURE" Language="fr_FR">
+			<Text>(Vous ne générez pas assez de culture.)</Text>
+		</Row>
+		<!--DECLARE WAR-->
+		<!--Human Declares War-->
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_JFD_LOUIS_XIV_ANY" Language="fr_FR">
+			<Text>Si vous croyez que je me suis affaibli par mon goût subtil, vous vous trompez lourdement.</Text>
+		</Row>
+		<!--AI Declares War-->
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_JFD_LOUIS_XIV_ANY" Language="fr_FR">
+			<Text>Vos palais auront une place de choix dans ma propre collection.</Text>
+		</Row>
+		<!--MAKE PEACE-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_JFD_LOUIS_XIV_ANY" Language="fr_FR">
+			<Text>Très bien. Je reconnais qu'il est temps de faire la paix.</Text>
+		</Row>
+		<!--AI refuses human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_JFD_LOUIS_XIV_ANY" Language="fr_FR">
+			<Text>Vous détruire m'apportera beaucoup de gloire. Ma réponse est donc: non.</Text>
+		</Row>
+		<!--AI requests from human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_JFD_LOUIS_XIV_ANY" Language="fr_FR">
+			<Text>Oui, il est temps de ranger nos épées et de ressortir les vins et les fromages. Êtes-vous d'accord ?</Text>
+		</Row>
+		<!--DEFEAT-->
+		<!--AI is Defeated-->
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_JFD_LOUIS_XIV_ANY" Language="fr_FR">
+			<Text>Ô malheur, la grande nation de France est tombée. Quelle autre nation pourra porter sur ses épaules le poids de l'illumination et de la culture ?</Text>
+		</Row>
+		<!--Human is Defeated (will see this in hotseat)-->
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_JFD_LOUIS_XIV_ANY" Language="fr_FR">
+			<Text>[LOC_DIPLO_DEFEAT_FROM_AI_LEADER_JFD_LOUIS_XIV_ANY]</Text>
+		</Row>
+		<!--VIEUX-->
+		<Row Tag="LOC_UNIT_JFD_VIEUX_NAME" Language="fr_FR">
+			<Text>Vieux corps</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_JFD_VIEUX_DESCRIPTION" Language="fr_FR">
+			<Text>Exclusive à la France de Louis XIV, cette unité de la Renaissance fournit une [ICON_STRENGTH] puissance défensive augmentée de 7 contre les attaques de villes, et peut se déplacer après l'attaque. Coût d'entretien + 2 par rapport au mousquetaire.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_JFD_VIEUX_CHAPTER_HISTORY_PARA_1" Language="fr_FR">
+			<Text>Les Six Grands Vieux, sous l’Ancien Régime, étaient les six grands régiments permanents les plus anciens de l’armée française. Les vieux corps étaient, à l'origine, des régiments formés à partir des vieilles bandes des provinces frontières. Prenant place, dans l'ordre de bataille, après les régiments de la maison militaire du roi, le régiment des Gardes françaises et celui des Gardes-Suisses, ces régiments de plus ancienne création possèdaient des prérogatives d'honneur et de commandement sur les autres régiments d'infanterie.</Text>
+		</Row>
+		<Row Tag="JFD_VIEUX_CITY_CENTER_COMBAT_DESC" Language="fr_FR">
+			<Text>[ICON_STRENGTH] Puissance défensive + 7 contre les attaques de villes.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_JFD_VIEUX_NAME" Language="fr_FR">
+			<Text>Vieux corps</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1|2</Plurality>
+		</Row>
+		<Row Tag="LOC_ABILITY_JFD_VIEUX_DESCRIPTION" Language="fr_FR">
+			<Text>+{1_Num} contre les attaques de villes.</Text>
+		</Row>
+		<!--MOD SUPPORT-->
+	</LocalizedText>
+</GameData>

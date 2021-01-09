@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<LocalizedText>
+		<!--DREADNOUGHT-->
+		<Row Tag="LOC_UNIT_JFD_DREADNOAUGHT_NAME" Language="ru_RU">
+			<Text>Дредноут</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_JFD_DREADNOAUGHT_DESCRIPTION" Language="ru_RU">
+			<Text>Уникальный английский морской юнит Нового времени, заменяющий эсминец. Значительно сильнее, чем эсминец, но требует больше затрат для создания. Игнорирует вражескую зону контроля. Доступен после открытия Двигателя ВС.</Text>
+		</Row>
+	</LocalizedText>
+</GameData>

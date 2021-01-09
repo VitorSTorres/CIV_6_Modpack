@@ -1,0 +1,391 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<Replace Tag="LOC_CIVILIZATION_CONS_GLITCH_CITY_NAME" Language="ko_KR">
+			<Text>글리치 시티</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_CONS_GLITCH_CITY_DESCRIPTION" Language="ko_KR">
+			<Text>글리치 시티</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_CONS_GLITCH_CITY_ADJECTIVE" Language="ko_KR">
+			<Text>글리치 시티</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_CONS_GLITCH_CITY_DESCRIPTION_JFD_CIVILIZATION" Language="ko_KR">
+			<Text>글리치 시티</Text>
+		</Replace>
+
+		<Replace Tag="LOC_LEADER_CONS_DANA_NAME" Language="ko_KR">
+			<Text>다나 제인</Text>
+		</Replace>
+		<Replace Tag="LOC_LOADING_INFO_LEADER_CONS_DANA" Language="ko_KR">
+			<Text></Text>
+		</Replace>
+		
+		<Replace Tag="LOC_LEADER_CONS_JILL_NAME" Language="ko_KR">
+			<Text>줄리앤 스팅레이</Text>
+		</Replace>
+		<Replace Tag="LOC_LOADING_INFO_LEADER_CONS_JILL" Language="ko_KR">
+			<Text></Text>
+		</Replace>
+
+		<!--<Replace Tag="LOC_TRAIT_CIVILIZATION_CONS_GLITCH_CITY_CONFIG_NAME" Language="ko_KR">
+			<Text>세계의 기니피그</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_CIVILIZATION_CONS_GLITCH_CITY_CONFIG_DESCRIPTION" Language="ko_KR">
+			<Text>개척자 생산 불가. 시대 마다 [ICON_TradeRoute] 교역로 최대치 +2을 제공합니다. 국제 [ICON_TradeRoute] 교역로에서 [ICON_Science] 과학, [ICON_Culture] 문화, [ICON_Production] 생산력, [ICON_Gold] 금을 각각 1만큼 제공하며 중세, 산업, 원자 시대마다 추가로 1씩 더 제공합니다. 수도의 모든 특수지구는 옆에 있는 다른 특수지구에서 기본 인접 보너스를 5배로 받습니다. 건물을 지을 수 없으며 정책 효과를 받지않는 성지, 캠퍼스, 항만, 상업 중심지, 극장가, 산업단지 특수지구를 하나 더 건설 할 수 있습니다. 특수지구를 건설 완료하면 [ICON_Citizen] 인구 +1 (최대 15). 특수지구 1개 당 [ICON_Housing] 주거공간 +1 (최대 15). 특수지구 3개 당 [ICON_Amenities] 쾌적도 -1 (최대 -5).</Text>
+		</Replace>-->
+		<Replace Tag="LOC_TRAIT_CIVILIZATION_CONS_GLITCH_CITY_FOR_TEXT_01_NAME" Language="ko_KR">
+			<Text>세계의 기니피그</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_CIVILIZATION_CONS_GLITCH_CITY_FOR_TEXT_01_DESCRIPTION" Language="ko_KR">
+			<Text>개척자 생산 불가. 시대 마다 [ICON_TradeRoute] 교역로 최대치 +2을 제공합니다. 국제 [ICON_TradeRoute] 교역로에서 [ICON_Science] 과학, [ICON_Culture] 문화, [ICON_Production] 생산력, [ICON_Gold] 금을 각각 1만큼 제공하며 중세, 산업, 원자 시대마다 추가로 1씩 더 제공합니다. 특수지구를 건설 완료하면 [ICON_Citizen] 인구 +1 (최대 15). 특수지구 1개 당 [ICON_Housing] 주거공간 +1 (최대 15). 특수지구 3개 당 [ICON_Amenities] 쾌적도 -1 (최대 -5).</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_CIVILIZATION_CONS_GLITCH_CITY_FOR_TEXT_02_NAME" Language="ko_KR">
+			<Text>자이바츠 사</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_CIVILIZATION_CONS_GLITCH_CITY_FOR_TEXT_02_DESCRIPTION" Language="ko_KR">
+			<Text>건물을 지을 수 없으며 필요 인구 조건을 무시하고 정책, 종교 교리, 도시 국가 보너스 효과를 받지않는 성지, 캠퍼스, 항만, 상업 중심지, 극장가, 산업단지 특수지구를 하나 더 건설 할 수 있습니다. 수도의 모든 특수지구는 옆에 있는 다른 특수지구에서 기본 인접 보너스를 5배로 받습니다.</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_CIVILIZATION_CONS_GLITCH_CITY_NAME" Language="ko_KR">
+			<Text>세계의 기니피그</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_CIVILIZATION_CONS_GLITCH_CITY_DESCRIPTION" Language="ko_KR">
+			<Text>개척자 생산 불가. 시대 마다 [ICON_TradeRoute] 교역로 최대치 +2을 제공합니다. [NEWLINE]국제 [ICON_TradeRoute] 교역로에서 [ICON_Science] 과학, [ICON_Culture] 문화, [ICON_Production] 생산력, [ICON_Gold] 금을 각각 1만큼 제공하며 중세, 산업, 원자 시대마다 추가로 1씩 더 제공합니다. [NEWLINE]특수지구를 건설 완료하면 [ICON_Citizen] 인구 +1 (최대 15). 특수지구 1개 당 [ICON_Housing] 주거공간 +1 (최대 15). 특수지구 3개 당 [ICON_Amenities] 쾌적도 -1 (최대 -5). [NEWLINE]건물을 지을 수 없으며 필요 인구 조건을 무시하고 정책, 종교 교리, 도시 국가 보너스 효과를 받지않는 성지, 캠퍼스, 항만, 상업 중심지, 극장가, 산업단지 특수지구를 하나 더 건설 할 수 있습니다. [NEWLINE]수도의 모든 특수지구는 옆에 있는 다른 특수지구에서 기본 인접 보너스를 5배로 받습니다.</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_CIVILIZATION_CONS_GLITCH_CITY_EXTRA_DISTRICTS_NAME" Language="ko_KR">
+			<Text>자이바츠 사</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_CIVILIZATION_CONS_GLITCH_CITY_EXTRA_DISTRICTS_DESCRIPTION" Language="ko_KR">
+			<Text></Text>
+		</Replace>
+		<Replace Tag="LOC_DISTRICT_CONS_GC_EXTRA_HOLY_SITE_NAME" Language="ko_KR">
+			<Text>성지 (글리치 시티)</Text>
+		</Replace>
+		<Replace Tag="LOC_DISTRICT_CONS_GC_EXTRA_CAMPUS_NAME" Language="ko_KR">
+			<Text>캠퍼스 (글리치 시티)</Text>
+		</Replace>
+		<Replace Tag="LOC_DISTRICT_CONS_GC_EXTRA_HARBOR_NAME" Language="ko_KR">
+			<Text>항만 (글리치 시티)</Text>
+		</Replace>
+		<Replace Tag="LOC_DISTRICT_CONS_GC_EXTRA_COMMERCIAL_HUB_NAME" Language="ko_KR">
+			<Text>상업 중심지 (글리치 시티)</Text>
+		</Replace>
+		<Replace Tag="LOC_DISTRICT_CONS_GC_EXTRA_THEATER_NAME" Language="ko_KR">
+			<Text>극장가 (글리치 시티)</Text>
+		</Replace>
+		<Replace Tag="LOC_DISTRICT_CONS_GC_EXTRA_INDUSTRIAL_ZONE_NAME" Language="ko_KR">
+			<Text>산업구역 (글리치 시티)</Text>
+		</Replace>
+		
+		<Replace Tag="LOC_TRAIT_LEADER_CONS_DANA_NAME" Language="ko_KR">
+			<Text>VA-11 Hall-A의 주인 겸 문지기</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_LEADER_CONS_DANA_DESCRIPTION" Language="ko_KR">
+			<Text>[ICON_TradeRoute] 교역로가 약탈 당하지 않습니다. 자국 영토에서 유닛의 [ICON_Strength] 전투력 +10.</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_LEADER_CONS_DANA_UNIT_INCREASE_STRENGTH_IN_OWNER_TERRITORY_MOD_DESCRIPTION" Language="ko_KR">
+			<Text>자국의 영토에서 [ICON_Strength] 전투력 +10.</Text>
+		</Replace>
+
+		<Replace Tag="LOC_TRAIT_LEADER_CONS_JILL_NAME" Language="ko_KR">
+			<Text>VA-11 Hall-A의 바텐더</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_LEADER_CONS_JILL_DESCRIPTION" Language="ko_KR">
+			<Text>브리티시 트레이드마크 카운실이 있는 도시에서 사치 자원을 제공하는 고유 프로젝트 5개를 수행 가능합니다.</Text>
+		</Replace>
+		
+		<Replace Tag="LOC_AGENDA_CONS_DANA_NAME" Language="ko_KR">
+			<Text>최고의 보스</Text>
+		</Replace>
+		<Replace Tag="LOC_AGENDA_CONS_DANA_DESCRIPTION" Language="ko_KR">
+			<Text>자신의 고향 대륙에 도시가 있는 평화로운 문명 또는 자신의 도시에 교역로를 보낸 문명을 좋아합니다. 자신의 대륙에 있는 도시 국가 또는 문명에 전쟁을 일으키는 문명 또는 자신의 친구나 동맹을 비난하거나 공격하는 자들을 증오합니다.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_CONS_DANA_REASON_AGENDA_MODIFIER_CONS_DANA_LIKE_CONTINENT_PEACEFUL" Language="ko_KR">
+			<Text>(당신은 그의 고향 대륙의 평화를 지켜냈습니다.)</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_LEADER_CONS_DANA_REASON_AGENDA_MODIFIER_CONS_DANA_HATE_CONTINENT_ATTACKED" Language="ko_KR">
+			<Text>(당신은 그의 고향 대륙에 있는 누군가를 공격했습니다.)</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_LEADER_CONS_DANA_REASON_AGENDA_MODIFIER_CONS_DANA_HATE_DENOUNCED_FRIEND" Language="ko_KR">
+			<Text>(당신은 상대방의 친구를 비난했습니다.)</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MODIFIER_CONS_DANA_LIKE_CONTINENT_PEACEFUL" Language="ko_KR">
+			<Text>다나 제인은 자신의 대륙에 평화로운 문명을 좋아함</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MODIFIER_CONS_DANA_HATE_CONTINENT_ATTACKED" Language="ko_KR">
+			<Text>다나 제인은 자신의 대륙에 기반을 둔 문명이 공격당하는 것을 증오함</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MODIFIER_CONS_DANA_HATE_DENOUNCED_FRIEND" Language="ko_KR">
+			<Text>다나 제인은 자신의 친구를 비난하는 것을 증오함</Text>
+		</Replace>
+
+		<Replace Tag="LOC_AGENDA_CONS_JILL_NAME" Language="ko_KR">
+			<Text>축재자</Text>
+		</Replace>
+		<Replace Tag="LOC_AGENDA_CONS_JILL_DESCRIPTION" Language="ko_KR">
+			<Text>턴당 가능한 가장 높은 [ICON_Gold] 금을 얻으려 합니다. 높은 수입을 가진 문명을 존중합니다.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_CONS_DANA_REASON_AGENDA_MODIFIER_CONS_JILL_LIKE_HIGH_INCOME" Language="ko_KR">
+			<Text>(당신의 수입이 높음.)</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_LEADER_CONS_DANA_REASON_AGENDA_MODIFIER_CONS_JILL_HATE_LOW_INCOME" Language="ko_KR">
+			<Text>(당신의 수입이 너무 낮습니다.)</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MODIFIER_CONS_JILL_LIKE_HIGH_INCOME" Language="ko_KR">
+			<Text>줄리앤 스팅레이는 소득이 높은 문명을 만나 기뻐함</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MODIFIER_CONS_JILL_HATE_LOW_INCOME" Language="ko_KR">
+			<Text>줄리앤 스팅레이는 소득이 낮은 문명을 싫어함</Text>
+		</Replace>
+		
+		<Replace Tag="LOC_UNIT_CONS_GC_WHITE_KNIGHT_NAME" Language="ko_KR">
+			<Text>화이트 나이트</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_CONS_GC_WHITE_KNIGHT_DESCRIPTION" Language="ko_KR">
+			<Text>기계화 보병을 대체하는 글리치 시티의 고유 유닛. 기존의 기계화 보병보다 약하나 특수지구에서 [ICON_Strength] 전투력 +10. 자국의 영토에서 [ICON_Strength] 전투력 +5. 도시화 사회 제도로 잠금 해제됩니다.</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_CONS_GC_WHITE_KNIGHT_NAME" Language="ko_KR">
+			<Text>화이트 나이트</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_CONS_GC_WHITE_KNIGHT_DESCRIPTION" Language="ko_KR">
+			<Text>특수지구에서 [ICON_Strength] 전투력 +10. 자국의 영토에서 [ICON_Strength] 전투력 +5.</Text>
+		</Replace>
+		<Replace Tag="LOC_MOD_CONS_GC_WHITE_KNIGHT_INCREASE_STRENGTH_IN_DISTRICT_DESCRIPTION" Language="ko_KR">
+			<Text>특수지구 내 전투 시 [ICON_Strength] 전투력 +10.</Text>
+		</Replace>
+		<Replace Tag="LOC_MOD_CONS_GC_WHITE_KNIGHT_INCREASE_STRENGTH_IN_OWNER_TERRITORY_DESCRIPTION" Language="ko_KR">
+			<Text>자국의 영토에서 [ICON_Strength] 전투력 +5.</Text>
+		</Replace>
+		
+		<Replace Tag="LOC_DISTRICT_CONS_GC_BTC_NAME" Language="ko_KR">
+			<Text>브리티시 트레이드마크 카운실</Text>
+		</Replace>
+		<Replace Tag="LOC_DISTRICT_CONS_GC_BTC_DESCRIPTION" Language="ko_KR">
+			<Text>유흥단지를 대체하는 글리치 시티의 고유 특수지구. 기존의 유흥단지에 비하여 [ICON_Amenities] 쾌적도 +2를 제공합니다. [ICON_Citizen] 인구 1명당 [ICON_Gold] 금 +2. 이 특수지구가 건설된 도시로 들어오는 다른 문명의 교역로 소유자는 [ICON_Culture] 문화 +3, 도시 소유자는 [ICON_Gold] 금 +3.</Text>
+		</Replace>
+		<!--<Replace Tag="LOC_DISTRICT_CONS_GC_BTC_ADJACENCY" Language="ko_KR">
+			<Text>새 특수 지구 인접효과: </Text>
+		</Replace>-->
+
+		<Replace Tag="LOC_RESOURCE_CONS_GC_DUMMY_NAME" Language="ko_KR">
+			<Text>글리치 시티의 더미 자원</Text>
+		</Replace>
+		<Replace Tag="LOC_RESOURCE_CONS_JILL_DUMMY_NAME" Language="ko_KR">
+			<Text>줄리앤 스팅레이의 더미 자원</Text>
+		</Replace>
+		<Replace Tag="LOC_RESOURCE_CONS_JILL_BAD_TOUCH_NAME" Language="ko_KR">
+			<Text>배드 터치</Text>
+		</Replace>
+		<Replace Tag="LOC_RESOURCE_CONS_JILL_PIANO_WOMAN_NAME" Language="ko_KR">
+			<Text>피아노 우먼</Text>
+		</Replace>
+		<Replace Tag="LOC_RESOURCE_CONS_JILL_BRANDTINI_NAME" Language="ko_KR">
+			<Text>브랜티니</Text>
+		</Replace>
+		<Replace Tag="LOC_RESOURCE_CONS_JILL_GUT_PUNCH_NAME" Language="ko_KR">
+			<Text>거트 펀치</Text>
+		</Replace>
+		<Replace Tag="LOC_RESOURCE_CONS_JILL_ZEN_STAR_NAME" Language="ko_KR">
+			<Text>젠 스타</Text>
+		</Replace>
+		
+		<Replace Tag="LOC_PROJECT_CONS_JILL_MAKE_BAD_TOUCH_NAME" Language="ko_KR">
+			<Text>배드 터치</Text>
+		</Replace>
+		<Replace Tag="LOC_PROJECT_CONS_JILL_MAKE_BAD_TOUCH_SHORT_NAME" Language="ko_KR">
+			<Text>배드 터치</Text>
+		</Replace>
+		<Replace Tag="LOC_PROJECT_CONS_JILL_MAKE_BAD_TOUCH_DESCRIPTION" Language="ko_KR">
+			<Text>줄리앤 스팅레이의 고유 프로젝트입니다. 다른 방식으로 획득할 수 없는 사치 자원인 배드 터치 1개를 받습니다. 각 사치 자원은 [ICON_Amenities] 쾌적도 4을 제공합니다.</Text>
+		</Replace>
+		<Replace Tag="LOC_PROJECT_CONS_JILL_MAKE_PIANO_WOMAN_NAME" Language="ko_KR">
+			<Text>피아노 우먼</Text>
+		</Replace>
+		<Replace Tag="LOC_PROJECT_CONS_JILL_MAKE_PIANO_WOMAN_SHORT_NAME" Language="ko_KR">
+			<Text>피아노 우먼</Text>
+		</Replace>
+		<Replace Tag="LOC_PROJECT_CONS_JILL_MAKE_PIANO_WOMAN_DESCRIPTION" Language="ko_KR">
+			<Text>줄리앤 스팅레이의 고유 프로젝트입니다. 다른 방식으로 획득할 수 없는 사치 자원인 피아노 우먼 1개를 받습니다. 각 사치 자원은 [ICON_Amenities] 쾌적도 4을 제공합니다.</Text>
+		</Replace>
+		<Replace Tag="LOC_PROJECT_CONS_JILL_MAKE_BRANDTINI_NAME" Language="ko_KR">
+			<Text>브랜티니</Text>
+		</Replace>
+		<Replace Tag="LOC_PROJECT_CONS_JILL_MAKE_BRANDTINI_SHORT_NAME" Language="ko_KR">
+			<Text>브랜티니</Text>
+		</Replace>
+		<Replace Tag="LOC_PROJECT_CONS_JILL_MAKE_BRANDTINI_DESCRIPTION" Language="ko_KR">
+			<Text>줄리앤 스팅레이의 고유 프로젝트입니다. 다른 방식으로 획득할 수 없는 사치 자원인 브랜티니 1개를 받습니다. 각 사치 자원은 [ICON_Amenities] 쾌적도 4을 제공합니다.</Text>
+		</Replace>
+		<Replace Tag="LOC_PROJECT_CONS_JILL_MAKE_GUT_PUNCH_NAME" Language="ko_KR">
+			<Text>거트 펀치</Text>
+		</Replace>
+		<Replace Tag="LOC_PROJECT_CONS_JILL_MAKE_GUT_PUNCH_SHORT_NAME" Language="ko_KR">
+			<Text>거트 펀치</Text>
+		</Replace>
+		<Replace Tag="LOC_PROJECT_CONS_JILL_MAKE_GUT_PUNCH_DESCRIPTION" Language="ko_KR">
+			<Text>줄리앤 스팅레이의 고유 프로젝트입니다. 다른 방식으로 획득할 수 없는 사치 자원인 거트 펀치 1개를 받습니다. 각 사치 자원은 [ICON_Amenities] 쾌적도 4을 제공합니다.</Text>
+		</Replace>
+		<Replace Tag="LOC_PROJECT_CONS_JILL_MAKE_ZEN_STAR_NAME" Language="ko_KR">
+			<Text>젠 스타</Text>
+		</Replace>
+		<Replace Tag="LOC_PROJECT_CONS_JILL_MAKE_ZEN_STAR_SHORT_NAME" Language="ko_KR">
+			<Text>젠 스타</Text>
+		</Replace>
+		<Replace Tag="LOC_PROJECT_CONS_JILL_MAKE_ZEN_STAR_DESCRIPTION" Language="ko_KR">
+			<Text>줄리앤 스팅레이의 고유 프로젝트입니다. 다른 방식으로 획득할 수 없는 사치 자원인 젠 스타 1개를 받습니다. 각 사치 자원은 [ICON_Amenities] 쾌적도 4을 제공합니다.</Text>
+		</Replace>
+		
+		<!-- 시민 이름 목록 -->
+		<Replace Tag="LOC_CITIZEN_CONS_GLITCH_CITY_MALE_01" Language="ko_KR">
+			<Text>딜</Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_CONS_GLITCH_CITY_MALE_02" Language="ko_KR">
+			<Text>래드 시바</Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_CONS_GLITCH_CITY_MALE_03" Language="ko_KR">
+			<Text>제이미</Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_CONS_GLITCH_CITY_MALE_04" Language="ko_KR">
+			<Text>도노반 D 도슨</Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_CONS_GLITCH_CITY_MALE_05" Language="ko_KR">
+			<Text>비르질리오</Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_CONS_GLITCH_CITY_MALE_06" Language="ko_KR">
+			<Text>잉그램</Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_CONS_GLITCH_CITY_MALE_07" Language="ko_KR">
+			<Text>마리오</Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_CONS_GLITCH_CITY_MALE_08" Language="ko_KR">
+			<Text>아트 폰 딜레이</Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_CONS_GLITCH_CITY_MALE_09" Language="ko_KR">
+			<Text>테일러</Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_CONS_GLITCH_CITY_FEMALE_01" Language="ko_KR">
+			<Text>도로시</Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_CONS_GLITCH_CITY_FEMALE_02" Language="ko_KR">
+			<Text>세이</Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_CONS_GLITCH_CITY_FEMALE_03" Language="ko_KR">
+			<Text>스텔라</Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_CONS_GLITCH_CITY_FEMALE_04" Language="ko_KR">
+			<Text>베아트리스</Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_CONS_GLITCH_CITY_FEMALE_05" Language="ko_KR">
+			<Text>알마</Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_CONS_GLITCH_CITY_FEMALE_06" Language="ko_KR">
+			<Text>킴</Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_CONS_GLITCH_CITY_FEMALE_07" Language="ko_KR">
+			<Text>*키라* 미키</Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_CONS_GLITCH_CITY_FEMALE_08" Language="ko_KR">
+			<Text>스트리밍 쨩</Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_CONS_GLITCH_CITY_FEMALE_09" Language="ko_KR">
+			<Text>노르마</Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_CONS_GLITCH_CITY_FEMALE_10" Language="ko_KR">
+			<Text>안나</Text>
+		</Replace>
+
+		<!-- 도시 이름 목록 -->
+		<Replace Tag="LOC_CIVILIZATION_CONS_GLITCH_CITY_CITY_01" Language="ko_KR">
+			<Text>글리치 시티</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_CONS_GLITCH_CITY_CITY_02" Language="ko_KR">
+			<Text>VA-11 Hall-A</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_CONS_GLITCH_CITY_CITY_03" Language="ko_KR">
+			<Text>VA-1 Hall-A</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_CONS_GLITCH_CITY_CITY_04" Language="ko_KR">
+			<Text>N1-RV Ann-A</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_CONS_GLITCH_CITY_CITY_05" Language="ko_KR">
+			<Text>N1-RV Ann-B</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_CONS_GLITCH_CITY_CITY_06" Language="ko_KR">
+			<Text>MI-6 Hall-C</Text>
+		</Replace>
+
+		<!-- 시빌로피디아 텍스트 -->
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_CONS_GLITCH_CITY_CHAPTER_HISTORY_PARA_1" Language="ko_KR">
+			<Text>글리치 시티는 VA-11 Hall-A가 있고 모든 캐릭터들이 살고 있는 도시입니다. 이 도시는 거대 회사(이름은 자이바츠 사)에서 운영되고 있으며 범죄와 타락이 만연해있습니다. 그러나 비인간, 일부 릴림을 위한 사회의 진보의 선구자중 하나입니다. 도시는 퀸시 시장이 통치하고 있으나 그는 거의 자이바츠 사의 곡두각시입니다.[NEWLINE][NEWLINE]기술의 진보와 주요 기업들의 경시 때문에, 주요 기업들은 일반 대중에 대한 실험을 하고 있어 글리치 시티는 "세계의 기니피그"라는 별명을 얻었습니다.</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVINFO_CIVILIZATION_CONS_GLITCH_CITY_LOCATION" Language="ko_KR">
+			<Text>불명 (근 미래의 지구 어딘가)</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVINFO_CIVILIZATION_CONS_GLITCH_CITY_SIZE" Language="ko_KR">
+			<Text>불명 (거대한 도시 하나의 크기)</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVINFO_CIVILIZATION_CONS_GLITCH_CITY_POPULATION" Language="ko_KR">
+			<Text>불명 (인간, 릴림과 말하는 동물이 공존)</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVINFO_CIVILIZATION_CONS_GLITCH_CITY_CAPITAL" Language="ko_KR">
+			<Text>글리치 시티</Text>
+		</Replace>
+
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CONS_DANA_CHAPTER_CAPSULE_BODY" Language="ko_KR">
+			<Text>개척자를 생산 할 수 없고 특수지구 3개 당 쾌적도가 1 감소하는 큰 패널티를 가지고 있으나 많은 교역로, 강력한 수도의 특수지구 보너스, 추가 특수지구들을 가지고 있습니다. 다나의 교역로는 약탈 당할 수 없고 자국 영토에서 전투력 보너스를 받아 안정적으로 방어를 할 수 있습니다.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CONS_DANA_CHAPTER_DETAILED_BODY" Language="ko_KR">
+			<Text>개척자를 생산 할 수 없고 특수지구 3개 당 쾌적도가 1 감소하는 큰 패널티를 가지고 있으나 많은 교역로, 강력한 수도의 특수지구 보너스, 추가 특수지구들을 가지고 있습니다. 다나의 교역로는 약탈 당할 수 없고 자국 영토에서 전투력 보너스를 받아 안정적으로 방어를 할 수 있습니다.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CONS_DANA_CHAPTER_HISTORY_PARA_1" Language="ko_KR">
+			<Text>VA-11 Hall-A에 있는 바의 주인. 풀 네임은 다나 제인(Dana Zane). 남자 같아 보이지만 여자이며, 한 팔을 잃어서 의수로 교체하였다. 개를 매우 좋아하는 듯 하며 질은 보통 보스라 부른다. 길리안 못지 않게 숨겨진 과거가 많은데 과거 이름을 떨쳤던 유명 레슬러라고 하며, 작중 기준 8년 전 네오-샌프란시스코라는 곳의 경찰이었다던가, 본인 말로는 어느 기업의 마스코트 캐릭터였다는 적도 있었다는 듯.</Text>
+		</Replace>
+		<Replace Tag="LOC_LEADER_CONS_DANA_QUOTE" Language="ko_KR">
+			<Text>왜 너는 양념 닭날개 바구니를 들고 있지 않은 건데?</Text>
+		</Replace>
+
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CONS_JILL_CHAPTER_CAPSULE_BODY" Language="ko_KR">
+			<Text>개척자를 생산 할 수 없고 특수지구 3개 당 쾌적도가 1 감소하는 큰 패널티를 가지고 있으나 많은 교역로, 강력한 수도의 특수지구 보너스를, 추가 특수지구들을 가지고 있습니다. 질의 고유 사치 자원으로 쾌적도 패널티를 줄여주며 남은 자원은 다른 문명과 거래하면 좋습니다.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CONS_JILL_CHAPTER_DETAILED_BODY" Language="ko_KR">
+			<Text>개척자를 생산 할 수 없고 특수지구 3개 당 쾌적도가 1 감소하는 큰 패널티를 가지고 있으나 많은 교역로, 강력한 수도의 특수지구 보너스를, 추가 특수지구들을 가지고 있습니다. 질의 고유 사치 자원으로 쾌적도 패널티를 줄여주며 남은 자원은 다른 문명과 거래하면 좋습니다.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CONS_JILL_CHAPTER_HISTORY_PARA_1" Language="ko_KR">
+			<Text>발할라에서 일하는 바텐더 중 한명. 27세. 양성애자이며 본명은 줄리앤 스팅레이(Julianne Stingray). 하지만 본인은 그렇게 불리는 것을 극도로 싫어하며, Jill이라고 부르길 원한다. 이 게임의 주인공이며 플레이어는 질의 시점에서 게임을 진행하게 된다. 대학을 졸업했으며 프랑스계 혼혈이고 애연가로 포어(Fore)라는 이름의 말하는 고양이를 키우고 있다.</Text>
+		</Replace>
+		<Replace Tag="LOC_LEADER_CONS_JILL_QUOTE" Language="ko_KR">
+			<Text>술을 섞고 삶을 바꿔줄 시간이군.</Text>
+		</Replace>
+
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_CONS_GC_WHITE_KNIGHT_CHAPTER_HISTORY_PARA_1" Language="ko_KR">
+			<Text>화이트 나이트는 글리치 시티의 관청 조직입니다. 그러나 게임의 이야기가 진행됨에 따라 그들은 해체됩니다. 세이를 처음 만날때 그녀는 화이트 나이트가 여러개로 분열되어 있고 다른 상황에 대처하고 있다고 설명합니다.</Text>
+		</Replace>
+
+		<Replace Tag="LOC_PEDIA_DISTRICTS_PAGE_DISTRICT_CONS_GC_BTC_CHAPTER_HISTORY_PARA_1" Language="ko_KR">
+			<Text>브리티시 트레이드마크 카운실은 VA-11 Hall-A가 소속되어있는 바 체인점입니다. 재정적 문제와 재정적인 어려움과 범죄 행위의 혐의로 인해 BTC는 현재 글리치 시티에 있는 바의 40%를 폐쇄하고 있으며 VA-11 Hall-A도 고려되고 있는 바 중 하나다.</Text>
+		</Replace>
+
+		<!-- 지도자 대사 -->
+		<!--<Replace Tag="LOC_DIPLO_FIRST_MEET_LEADER_CONS_DANA_ANY" Language="ko_KR">
+			<Text></Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_CONS_DANA_ANY" Language="ko_KR">
+			<Text></Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_CONS_DANA_ANY" Language="ko_KR">
+			<Text></Text>
+		</Replace>-->
+		<Replace Tag="LOC_DIPLO_KUDO_EXIT_LEADER_CONS_DANA_ANY" Language="ko_KR">
+			<Text>대륙의 평화를 지켜주어 감사합니다. 참 대단합니다!</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_EXIT_LEADER_CONS_DANA_ANY" Language="ko_KR">
+			<Text>모든 인간은 법 아래 평등합니다. 이를 잘 기억하십시오.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_EXIT_LEADER_CONS_JILL_ANY" Language="ko_KR">
+			<Text>그대의 국고가 가득 차고 있어 보이오. 그런 높은 소득을 올리는 것은 참으로 좋은 일 아니겠소?</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_EXIT_LEADER_CONS_JILL_ANY" Language="ko_KR">
+			<Text>그대의 제국은 파산을 향해 가고 있소. 늘어나는 빚을 어떻게 감당하려 하오?</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

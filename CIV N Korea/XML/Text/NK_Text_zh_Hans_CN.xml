@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<Replace Tag="LOC_CIVILIZATION_CONS_NORTH_KOREA_NAME" Language="zh_Hans_CN">
+			<Text>朝鲜</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_CONS_NORTH_KOREA_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>朝鲜帝国</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_CONS_NORTH_KOREA_ADJECTIVE" Language="zh_Hans_CN">
+			<Text>朝鲜</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_CONS_NORTH_KOREA_DESCRIPTION_JFD_CIVILIZATION" Language="zh_Hans_CN">
+			<Text>朝鲜文明</Text>
+		</Replace>
+
+		<Replace Tag="LOC_LEADER_CONS_KIM_ILSUNG_NAME" Language="zh_Hans_CN">
+			<Text>金日成</Text>
+		</Replace>
+		<Replace Tag="LOC_LOADING_INFO_LEADER_CONS_KIM_ILSUNG" Language="zh_Hans_CN">
+			<Text>劳动人民解放者，我们的恩人。你是民主的新朝鲜伟大的太阳。我们团结在“二十条政纲”下，全朝鲜到处降临着春光。啊！英明的将军，敬爱的金日成！啊！伟大的将军，我们的领袖金日成！</Text>
+		</Replace>
+
+		<Replace Tag="LOC_LEADER_CONS_KIM_JONGIL_NAME" Language="zh_Hans_CN">
+			<Text>金正日</Text>
+		</Replace>
+		<Replace Tag="LOC_LOADING_INFO_LEADER_CONS_KIM_JONGIL" Language="zh_Hans_CN">
+			<Text>您魄力天下无双，社会主义如铜墙，有将军英明领导，祖国强威名四扬。自主事业的掌旗人，正义的维护者，万岁，万岁，金正日将军。</Text>
+		</Replace>
+
+		<Replace Tag="LOC_LEADER_CONS_KIM_JONGUN_NAME" Language="zh_Hans_CN">
+			<Text>金正恩</Text>
+		</Replace>
+		<Replace Tag="LOC_LOADING_INFO_LEADER_CONS_KIM_JONGUN" Language="zh_Hans_CN">
+			<Text>太阳朝鲜先军政治，世界之中永流传。彰显哲学和主体的真理，思想的领袖。新世纪您来引导，脚步声震撼天地。永远的先军的伟人，金正恩将军！</Text>
+		</Replace>
+
+		<Replace Tag="LOC_TRAIT_CIVILIZATION_CONS_NORTH_KOREA_NAME" Language="zh_Hans_CN">
+			<Text>朝鲜劳动党</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_CIVILIZATION_CONS_NORTH_KOREA_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>朝鲜境内的敌方间谍-2等级，但所有城市-1 [ICON_Amenities] 宜居度。用一半时间建造市政区及其建筑。市政区20格以内的城市忠诚度永远为满。无法建造娱乐中心。</Text>
+		</Replace>
+
+		<Replace Tag="LOC_TRAIT_LEADER_CONS_KIM_ILSUNG_NAME" Language="zh_Hans_CN">
+			<Text>和战两面战术</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_LEADER_CONS_KIM_ILSUNG_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>每训练一个侦查单位，便会获得第二个侦查单位。和平时期生产军事单位时+15% [ICON_Production]生产力, 宣布突袭战争后的10回合内所有单位+1 [ICON_Movement]移动力。</Text>
+		</Replace>
+
+		<Replace Tag="LOC_TRAIT_LEADER_CONS_KIM_JONGIL_NAME" Language="zh_Hans_CN">
+			<Text>先军政治</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_LEADER_CONS_KIM_JONGIL_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>所有外交政策槽位变为军事政策槽位。研究钢铁科技后，获得谷山大炮特色单位。</Text>
+		</Replace>
+
+		<Replace Tag="LOC_TRAIT_LEADER_CONS_KIM_JONGUN_NAME" Language="zh_Hans_CN">
+			<Text>火箭人</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_LEADER_CONS_KIM_JONGUN_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>进行核计划和生产核武器时+100% [ICON_Production]生产力。奢侈资源能提供宜居度的城市数目-2。思想训练中心可提供3 [ICON_Amenities] 宜居度。</Text>
+		</Replace>
+
+		<Replace Tag="LOC_AGENDA_CONS_KIM_ILSUNG_NAME" Language="zh_Hans_CN">
+			<Text>共产主义熏陶</Text>
+		</Replace>
+		<Replace Tag="LOC_AGENDA_CONS_KIM_ILSUNG_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>喜欢宣布突袭战争。喜欢拥有相同政体的文明，讨厌拥有不同政体或军队弱小的文明；尤其讨厌那些和自己处于同一时代，但政体类型却和自己不同的文明。</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_CONS_KIM_ILSUNG_REASON_AGENDA_MODIFIER_CONS_KIM_ILSUNG_LIKE_SAME_GOVERNMENT" Language="zh_Hans_CN">
+			<Text>(您的政体与金日成相同。)</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_LEADER_CONS_KIM_ILSUNG_REASON_AGENDA_MODIFIER_CONS_KIM_ILSUNG_HATE_DIFFERENT_GOVERNMENT" Language="zh_Hans_CN">
+			<Text>(您的政体与金日成不同。)</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_LEADER_CONS_KIM_ILSUNG_REASON_AGENDA_MODIFIER_CONS_KIM_ILSUNG_HATE_LOW_STANDING_ARMY" Language="zh_Hans_CN">
+			<Text>(您的常备军规模太小了。)</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MODIFIER_CONS_KIM_ILSUNG_LIKE_SAME_GOVERNMENT" Language="zh_Hans_CN">
+			<Text>金日成很高兴看到你用同样的方式统治你的人民</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MODIFIER_CONS_KIM_ILSUNG_HATE_DIFFERENT_GOVERNMENT" Language="zh_Hans_CN">
+			<Text>金日成讨厌您的统治方式</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MODIFIER_CONS_KIM_ILSUNG_HATE_LOW_STANDING_ARMY" Language="zh_Hans_CN">
+			<Text>金日成讨厌拥有小规模常备军的文明</Text>
+		</Replace>
+
+		<Replace Tag="LOC_AGENDA_CONS_KIM_JONGIL_NAME" Language="zh_Hans_CN">
+			<Text>艰苦长征</Text>
+		</Replace>
+		<Replace Tag="LOC_AGENDA_CONS_KIM_JONGIL_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>一直设法维持强大的常备军和核武器。尊重没有威胁并且人口很多的文明。讨厌军事力量强大或相邻的文明。</Text>
+		</Replace>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_CONS_KIM_ILSUNG_REASON_AGENDA_MODIFIER_CONS_KIM_JONGIL_LIKE_HIGH_POPULATION" Language="zh_Hans_CN">
+			<Text>(您的生产力很高。)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_CONS_KIM_JONGIL_LIKE_HIGH_POPULATION" Language="zh_Hans_CN">
+			<Text>金正日很高兴见到拥有庞大人口的文明</Text>
+		</Row>
+
+		<Replace Tag="LOC_AGENDA_CONS_KIM_JONGUN_NAME" Language="zh_Hans_CN">
+			<Text>疯子理论</Text>
+		</Replace>
+		<Replace Tag="LOC_AGENDA_CONS_KIM_JONGUN_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>会毫不犹豫地使用核武器。厌恶一切文明。</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_LEADER_CONS_KIM_JONGUN_REASON_AGENDA_MODIFIER_CONS_KIM_JONGIL_HATE_ALL_CIVILIZATION" Language="zh_Hans_CN">
+			<Text>(他们只是不喜欢您。)</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MODIFIER_CONS_KIM_JONGUN_HATE_ALL_CIVILIZATION" Language="zh_Hans_CN">
+			<Text>金正恩讨厌一切文明</Text>
+		</Replace>
+
+
+		<Replace Tag="LOC_UNIT_CONS_NK_PARTISAN_NAME" Language="zh_Hans_CN">
+			<Text>游击队员</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_CONS_NK_PARTISAN_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>替代游骑兵的朝鲜特色单位。民族主义市政解锁。战斗力略弱，但可以随意穿越边境。初始获得伪装升级。攻击时+7 [ICON_Strength] 战斗力, 防御时-7 [ICON_Strength]战斗力。掠夺时只消耗1 [ICON_Movement]移动力。</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_CONS_NK_PARTISAN_NAME" Language="zh_Hans_CN">
+			<Text>游击队员</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_CONS_NK_PARTISAN_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>可以随意穿越边境。初始获得伪装升级。攻击时+7 [ICON_Strength] 战斗力, 防御时-7 [ICON_Strength]战斗力。掠夺时只消耗1 [ICON_Movement]移动力。</Text>
+		</Replace>
+
+		<Replace Tag="LOC_UNIT_CONS_NK_KOKSAN_NAME" Language="zh_Hans_CN">
+			<Text>谷山大炮</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_CONS_NK_KOKSAN_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>金正日作为领袖时的朝鲜特色现代单位。战斗力略弱, 但更便宜且+1[ICON_Range] 射程。.</Text>
+		</Replace>
+
+		<Replace Tag="LOC_DISTRICT_CONS_IDEOLOGICAL_TRAINING_CENTER_NAME" Language="zh_Hans_CN">
+			<Text>思想训练中心</Text>
+		</Replace>
+		<Replace Tag="LOC_DISTRICT_CONS_IDEOLOGICAL_TRAINING_CENTER_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>北朝鲜的特色区域。提供+1[ICON_Amenities]宜居度，并且每过一个时代再+1 [ICON_Amenities]宜居度。但[ICON_GreatPerson]伟人产出速度减少-50%。</Text>
+		</Replace>
+		<Replace Tag="LOC_DISTRICT_CONS_IDEOLOGICAL_TRAINING_CENTER_ADJACENCY" Language="zh_Hans_CN">
+			<Text>相邻加成：[ICON_Production] 生产力加成每临近一个城区</Text>
+		</Replace>
+		<Replace Tag="LOC_DISTRICT_CONS_IDEOLOGICAL_TRAINING_CENTER_DISTRICT_PRODUCTION" Language="zh_Hans_CN">
+			<Text>+{1_num} [ICON_Production] 生产力来自相邻{1_Num : plural 1?区域; other?区域;}。</Text>
+		</Replace>
+
+		<Replace Tag="LOC_RELIGION_CONS_JUCHEISM" Language="zh_Hans_CN">
+			<Text>主体思想</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_RELIGIONS_PAGE_RELIGION_CONS_JUCHEISM_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>主体思想, 是朝鲜劳动党的思想体系和理论基础，由金日成创立，并由黄长烨加以体系化。也称为金日成主义。主体思想是阐明人民群众是革命和建设的主人，也是推动革命和建设的力量。即人就是自己命运的主人，也是开拓自己命运的力量。自身命运的主人是自己，开拓自身命运的力量也在自己身上，故而革命与建设的主人翁是人民大众。更具体的内容包括政治的自主、经济的自立、国防的自卫。</Text>
+		</Replace>
+
+		<!-- 시민 이름 목록 -->
+		<Replace Tag="LOC_CITIZEN_CONS_NORTH_KOREA_MALE_01" Language="zh_Hans_CN">
+			<Text>张成泽</Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_CONS_NORTH_KOREA_MALE_02" Language="zh_Hans_CN">
+			<Text>姜健</Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_CONS_NORTH_KOREA_MALE_03" Language="zh_Hans_CN">
+			<Text>金策</Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_CONS_NORTH_KOREA_MALE_04" Language="zh_Hans_CN">
+			<Text>崔庸健</Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_CONS_NORTH_KOREA_MALE_05" Language="zh_Hans_CN">
+			<Text>崔贤</Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_CONS_NORTH_KOREA_MALE_06" Language="zh_Hans_CN">
+			<Text>李永浩</Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_CONS_NORTH_KOREA_MALE_07" Language="zh_Hans_CN">
+			<Text>崔龙海</Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_CONS_NORTH_KOREA_MALE_08" Language="zh_Hans_CN">
+			<Text>黃炳瑞</Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_CONS_NORTH_KOREA_MALE_09" Language="zh_Hans_CN">
+			<Text>沈影</Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_CONS_NORTH_KOREA_FEMALE_01" Language="zh_Hans_CN">
+			<Text>金敬姬</Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_CONS_NORTH_KOREA_FEMALE_02" Language="zh_Hans_CN">
+			<Text>李雪主</Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_CONS_NORTH_KOREA_FEMALE_03" Language="zh_Hans_CN">
+			<Text>李春姬</Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_CONS_NORTH_KOREA_FEMALE_04" Language="zh_Hans_CN">
+			<Text>李流亭</Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_CONS_NORTH_KOREA_FEMALE_05" Language="zh_Hans_CN">
+			<Text>全度妍</Text>
+		</Replace>
+
+		<!-- 도시 이름 목록 -->
+		<Replace Tag="LOC_CIVILIZATION_CONS_NORTH_KOREA_CITY_01" Language="zh_Hans_CN">
+			<Text>平壤</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_CONS_NORTH_KOREA_CITY_02" Language="zh_Hans_CN">
+			<Text>南浦</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_CONS_NORTH_KOREA_CITY_03" Language="zh_Hans_CN">
+			<Text>开城</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_CONS_NORTH_KOREA_CITY_04" Language="zh_Hans_CN">
+			<Text>元山</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_CONS_NORTH_KOREA_CITY_05" Language="zh_Hans_CN">
+			<Text>平城</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_CONS_NORTH_KOREA_CITY_06" Language="zh_Hans_CN">
+			<Text>沙里院</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_CONS_NORTH_KOREA_CITY_07" Language="zh_Hans_CN">
+			<Text>海州</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_CONS_NORTH_KOREA_CITY_08" Language="zh_Hans_CN">
+			<Text>咸兴</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_CONS_NORTH_KOREA_CITY_09" Language="zh_Hans_CN">
+			<Text>江界</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_CONS_NORTH_KOREA_CITY_10" Language="zh_Hans_CN">
+			<Text>新义州</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_CONS_NORTH_KOREA_CITY_11" Language="zh_Hans_CN">
+			<Text>惠山</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_CONS_NORTH_KOREA_CITY_12" Language="zh_Hans_CN">
+			<Text>清津</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_CONS_NORTH_KOREA_CITY_13" Language="zh_Hans_CN">
+			<Text>罗先</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_CONS_NORTH_KOREA_CITY_14" Language="zh_Hans_CN">
+			<Text>义州</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_CONS_NORTH_KOREA_CITY_15" Language="zh_Hans_CN">
+			<Text>松林</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_CONS_NORTH_KOREA_CITY_16" Language="zh_Hans_CN">
+			<Text>顺天</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_CONS_NORTH_KOREA_CITY_17" Language="zh_Hans_CN">
+			<Text>定州</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_CONS_NORTH_KOREA_CITY_18" Language="zh_Hans_CN">
+			<Text>龟城</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_CONS_NORTH_KOREA_CITY_19" Language="zh_Hans_CN">
+			<Text>熙川</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_CONS_NORTH_KOREA_CITY_20" Language="zh_Hans_CN">
+			<Text>满浦</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_CONS_NORTH_KOREA_CITY_21" Language="zh_Hans_CN">
+			<Text>兴南</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_CONS_NORTH_KOREA_CITY_22" Language="zh_Hans_CN">
+			<Text>中江</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_CONS_NORTH_KOREA_CITY_23" Language="zh_Hans_CN">
+			<Text>会宁</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_CONS_NORTH_KOREA_CITY_24" Language="zh_Hans_CN">
+			<Text>新浦</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_CONS_NORTH_KOREA_CITY_25" Language="zh_Hans_CN">
+			<Text>端川</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_CONS_NORTH_KOREA_CITY_26" Language="zh_Hans_CN">
+			<Text>文川</Text>
+		</Replace>
+
+		<!-- 시빌로피디아 텍스트 -->
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_CONS_NORTH_KOREA_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>朝鲜民主主义人民共和国是位于东亚朝鲜半岛北部的金日成金正日主义国家，于第二次世界大战后的1948年9月9日成立。其领土约占朝鲜半岛的九分之五，其首都平壤同时也是该国最大的都市。朝鲜南疆与大韩民国（韩国）以三八线（韩国朝鲜非军事区）分隔，北壤中华人民共和国和俄罗斯，西临黄海，东临日本海。</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVINFO_CIVILIZATION_CONS_NORTH_KOREA_LOCATION" Language="zh_Hans_CN">
+			<Text>亚洲</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVINFO_CIVILIZATION_CONS_NORTH_KOREA_SIZE" Language="zh_Hans_CN">
+			<Text>估计12万平方公里</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVINFO_CIVILIZATION_CONS_NORTH_KOREA_POPULATION" Language="zh_Hans_CN">
+			<Text>估计2500万</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVINFO_CIVILIZATION_CONS_NORTH_KOREA_CAPITAL" Language="zh_Hans_CN">
+			<Text>平壤</Text>
+		</Replace>
+
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CONS_KIM_ILSUNG_CHAPTER_CAPSULE_BODY" Language="zh_Hans_CN">
+			<Text>金日成可以快速探索领土，并且能在和平时期训练大量军队，暂时性的移动力加成让他特别擅长发动突袭战争。</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CONS_KIM_ILSUNG_CHAPTER_DETAILED_BODY" Language="zh_Hans_CN">
+			<Text>金日成可以快速探索领土，并且能在和平时期训练大量军队，暂时性的移动力加成让他特别擅长发动突袭战争。</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CONS_KIM_ILSUNG_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>金日成，原名金成柱，是朝鲜民主主义人民共和国的“国父”、先后任朝鲜劳动党委员长和总书记。由1948年开始，直至其去世一直担任朝鲜最高领导人[3]，掌权长达46年之久，也是金日成主义的核心。</Text>
+		</Replace>
+		<Replace Tag="LOC_LEADER_CONS_KIM_ILSUNG_QUOTE" Language="zh_Hans_CN">
+			<Text>被压迫人民只能通过斗争来解放自己。这是历史证实的一个简单明了的事实。</Text>
+		</Replace>
+
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CONS_KIM_JONGIL_CHAPTER_CAPSULE_BODY" Language="zh_Hans_CN">
+			<Text>金正日在战争时军队维护费更低，并且能很快训练军队。</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CONS_KIM_JONGIL_CHAPTER_DETAILED_BODY" Language="zh_Hans_CN">
+			<Text>金正日在战争时军队维护费更低，并且能很快训练军队。</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CONS_KIM_JONGIL_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>金正日，1941年2月16日出生，朝鲜民主主义人民共和国第二代最高领导人，曾任朝鲜劳动党中央委员会总书记、朝鲜国防委员会委员长、朝鲜人民军最高司令官及朝鲜劳动党中央军事委员会委员长等职务。</Text>
+		</Replace>
+		<Replace Tag="LOC_LEADER_CONS_KIM_JONGIL_QUOTE" Language="zh_Hans_CN">
+			<Text>爱国就是主体，主体就是爱国。</Text>
+		</Replace>
+
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CONS_KIM_JONGUN_CHAPTER_CAPSULE_BODY" Language="zh_Hans_CN">
+			<Text>金正恩特性摘要</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CONS_KIM_JONGUN_CHAPTER_DETAILED_BODY" Language="zh_Hans_CN">
+			<Text>金正恩详细特性</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CONS_KIM_JONGUN_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>金正恩是朝鲜民主主义人民共和国现任世袭第三代最高领导人，目前兼任朝鲜劳动党委员长、朝鲜劳动党中央军事委员会委员长、国务委员会委员长、朝鲜人民军最高司令官和朝鲜劳动党中央政治局委员、政治局常委，2012年至2016年间出任朝鲜劳动党第一书记。其军衔为元帅。</Text>
+		</Replace>
+		<Replace Tag="LOC_LEADER_CONS_KIM_JONGUN_QUOTE" Language="zh_Hans_CN">
+			<Text>想知道比核弹破坏力更大的武器吗？语言。</Text>
+		</Replace>
+
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_CONS_NK_PARTISAN_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>游击队是在敌统治区、敌占领区、接敌区，以分散、流动、袭击的作战方法打击敌人的一种非正规的武装组织。</Text>
+		</Replace>
+
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_CONS_NK_KOKSAN_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>“谷山”170毫米口径自行火炮，据美国“环球安全”网站猜测，“谷山”大炮与一些俄制（前苏联制造）的海岸大炮十分相像，其行走装置为坦克底盘，采用无炮塔设计，火炮后部还装备有2个大型助犁，用来抵消发射时的后坐力。 报道称，目前“谷山”大炮已经发展出M-1978和改进型M-1989两个型号。“由于口径大、身管长，最大打击射程无人可比。Very little information is available due to the secretive nature of the North Korean government. The designations M-1978 and Koksan were given to the type by American military analysts, as they first became aware of it in that year in Koksan, North Korea.</Text>
+		</Replace>
+
+		<Replace Tag="LOC_PEDIA_DISTRICTS_PAGE_DISTRICT_CONS_IDEOLOGICAL_TRAINING_CENTER_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>北朝鲜集中营或称北朝鲜强制收容所，是北朝鲜境内的一种刑事拘留和劳役惩罚场所，以收容大量政治犯为主。</Text>
+		</Replace>
+
+
+		<!-- 지도자 대사 -->
+		<!--<Replace Tag="LOC_DIPLO_FIRST_MEET_LEADER_CONS_KIM_ILSUNG_ANY" Language="zh_Hans_CN">
+			<Text></Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_CONS_KIM_ILSUNG_ANY" Language="zh_Hans_CN">
+			<Text></Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_CONS_KIM_ILSUNG_ANY" Language="zh_Hans_CN">
+			<Text></Text>
+		</Replace>-->
+		<Replace Tag="LOC_DIPLO_KUDO_EXIT_LEADER_CONS_KIM_ILSUNG_ANY" Language="zh_Hans_CN">
+			<Text>我发现你和我志趣相投，必须赞扬你对于新政体的实践。</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_EXIT_LEADER_CONS_KIM_ILSUNG_ANY" Language="zh_Hans_CN">
+			<Text>我们的意识形态已经开始不同了。我无法赞同您统治国民的方式…</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_EXIT_LEADER_CONS_KIM_JONGIL_ANY" Language="zh_Hans_CN">
+			<Text>我喜爱的这个领袖拥有令人印象深刻的军事力量。</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_EXIT_LEADER_CONS_KIM_JONGIL_ANY" Language="zh_Hans_CN">
+			<Text>你的部队数量太少。你难道不担心生存问题吗？</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_EXIT_LEADER_CONS_KIM_JONGUN_ANY" Language="zh_Hans_CN">
+			<Text>伟大的思想总是相似的。那项科技可是太有用了…</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_EXIT_LEADER_CONS_KIM_JONGUN_ANY" Language="zh_Hans_CN">
+			<Text>我们不需要援助。我们可以完全依靠自己的力量。</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

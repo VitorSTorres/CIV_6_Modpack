@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<LocalizedText>
+		<!--DREADNOUGHT-->
+		<Row Tag="LOC_UNIT_JFD_DREADNOAUGHT_NAME" Language="de_DE">
+			<Text>Dreadnought</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_JFD_DREADNOAUGHT_DESCRIPTION" Language="de_DE">
+			<Text>Englands Spezialeinheit der Moderne, welche das Kriegsschiff ersetzt. Es ist deutlich stärker und verdient [ICON_SCIENCE] Wissenschaft vom Besiegen feindlicher Einheiten, aber es kosten mehr sie zu produzieren.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_JFD_DREADNOAUGHT_CHAPTER_HISTORY_PARA_1" Language="de_DE">
+			<Text>Ein Dreadnought ist eine Art Schlachtschiff, das zu Beginn des 20. Jahrhunderts gebaut wurde. Erstmals 1906 von der britischen Royal Navy entwickelt, war das Dreadnought ein so revolutionäres Design in seiner Klasse, dass es zu einem Schlüsselsymbol im Wettlauf um die Überlegenheit der Marine wurde. Aus diesem Grund wurde die Dreadnought jedoch schnell von der "Super-Dreadnought" überholt und sah nur in einer einzigen Schlacht den Kampf: der Schlacht von Jütland zwischen Großbritannien und Deutschland, die in einer Pattsituation endete.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_JFD_DREADNOAUGHT_NAME" Language="de_DE">
+			<Text>Dreadnought</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_JFD_DREADNOAUGHT_DESCRIPTION" Language="de_DE">
+			<Text>Erhält [ICON_SCIENCE] Wissenschaft vom Besiegen feindlicher Einheiten, welche 20% deren Kampfstärke entspricht.</Text>
+		</Row>
+	</LocalizedText>
+</GameData>

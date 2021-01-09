@@ -1,0 +1,179 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="83710098-5cae-4c9f-a1e4-8dc652a537fe" version="1">
+  <Properties>
+    <Name>Unique District Icons</Name>
+    <Description>Changes the icons for Vanilla Unique Districts.</Description>
+    <Teaser>Changes the icons for Vanilla Unique Districts.</Teaser>
+    <Authors>Leugi, Sukritact</Authors>
+    <SpecialThanks>Sukritact, and all the lads</SpecialThanks>
+    <AffectsSavedGames>0</AffectsSavedGames>
+	<CompatibleVersions>2.0</CompatibleVersions>
+  </Properties>
+  <ActionCriteria>
+   <Criteria id="Expansion2">
+			<GameCoreInUse>Expansion2</GameCoreInUse>
+		</Criteria>
+  </ActionCriteria>
+  <FrontEndActions>
+    <UpdateIcons id="ConfigIcons">
+      <Properties>
+        <LoadOrder>100</LoadOrder>
+      </Properties>
+      <File>sql/IconUpdate.sql</File>
+    </UpdateIcons>
+    <UpdateArt id="ConfigArt">
+	<Properties>
+        <LoadOrder>100</LoadOrder>
+      </Properties>
+      <File>Better_District_Icons.dep</File>
+    </UpdateArt>
+    <UpdateIcons id="Icons_XP" criteria="Expansion2">
+	<Properties>
+        <LoadOrder>100</LoadOrder>
+      </Properties>
+      <File>sql/IconUpdate_XP.sql</File>
+    </UpdateIcons>
+    <UpdateIcons id="Icons_XP2">
+	<Properties>
+        <LoadOrder>100</LoadOrder>
+      </Properties>
+      <File>sql/IconUpdate_XP2.sql</File>
+    </UpdateIcons>
+  </FrontEndActions>
+  <InGameActions>
+    <UpdateIcons id="Icons">
+      <Properties>
+        <LoadOrder>100</LoadOrder>
+      </Properties>
+      <File>sql/IconUpdate.sql</File>
+    </UpdateIcons>
+    <UpdateArt id="Art">
+	<Properties>
+        <LoadOrder>100</LoadOrder>
+      </Properties>
+      <File>Better_District_Icons.dep</File>
+    </UpdateArt>
+    <UpdateIcons id="Icons_XP" criteria="Expansion2">
+	<Properties>
+        <LoadOrder>100</LoadOrder>
+      </Properties>
+      <File>sql/IconUpdate_XP.sql</File>
+    </UpdateIcons>
+    <UpdateIcons id="Icons_XP2">
+	<Properties>
+        <LoadOrder>100</LoadOrder>
+      </Properties>
+      <File>sql/IconUpdate_XP2.sql</File>
+    </UpdateIcons>
+  </InGameActions>
+  <Files>
+    <File>ArtDefs/Icons.artdef</File>
+    <File>ArtDefs/StrategicView.artdef</File>
+    <File>Better_District_Icons.dep</File>
+    <File>Platforms/MacOS/BLPs/strategicview/strategicview_districts.blp</File>
+    <File>Platforms/MacOS/BLPs/UILeaders.blp</File>
+    <File>Platforms/Windows/BLPs/strategicview/strategicview_districts.blp</File>
+    <File>Platforms/Windows/BLPs/UILeaders.blp</File>
+    <File>sql/IconUpdate.sql</File>
+    <File>sql/IconUpdate_XP.sql</File>
+    <File>sql/IconUpdate_XP2.sql</File>
+    <File>Textures/Acropolis_Pillaged_Revealed.dds</File>
+    <File>Textures/Acropolis_Pillaged_Revealed.tex</File>
+    <File>Textures/Acropolis_Pillaged_Visible.dds</File>
+    <File>Textures/Acropolis_Pillaged_Visible.tex</File>
+    <File>Textures/Acropolis_Revealed.dds</File>
+    <File>Textures/Acropolis_Revealed.tex</File>
+    <File>Textures/Acropolis_UnderConstruction_Revealed.dds</File>
+    <File>Textures/Acropolis_UnderConstruction_Revealed.tex</File>
+    <File>Textures/Acropolis_UnderConstruction_Visible.dds</File>
+    <File>Textures/Acropolis_UnderConstruction_Visible.tex</File>
+    <File>Textures/Acropolis_Visible.dds</File>
+    <File>Textures/Acropolis_Visible.tex</File>
+    <File>Textures/Bath_Pillaged_Revealed.dds</File>
+    <File>Textures/Bath_Pillaged_Revealed.tex</File>
+    <File>Textures/Bath_Pillaged_Visible.dds</File>
+    <File>Textures/Bath_Pillaged_Visible.tex</File>
+    <File>Textures/Bath_Revealed.dds</File>
+    <File>Textures/Bath_Revealed.tex</File>
+    <File>Textures/Bath_UnderConstruction_Revealed.dds</File>
+    <File>Textures/Bath_UnderConstruction_Revealed.tex</File>
+    <File>Textures/Bath_UnderConstruction_Visible.dds</File>
+    <File>Textures/Bath_UnderConstruction_Visible.tex</File>
+    <File>Textures/Bath_Visible.dds</File>
+    <File>Textures/Bath_Visible.tex</File>
+    <File>Textures/Hansa_Pillaged_Revealed.dds</File>
+    <File>Textures/Hansa_Pillaged_Revealed.tex</File>
+    <File>Textures/Hansa_Pillage_Visible.dds</File>
+    <File>Textures/Hansa_Pillage_Visible.tex</File>
+    <File>Textures/Hansa_Revealed.dds</File>
+    <File>Textures/Hansa_Revealed.tex</File>
+    <File>Textures/Hansa_UnderConstruction_Revealed.dds</File>
+    <File>Textures/Hansa_UnderConstruction_Revealed.tex</File>
+    <File>Textures/Hansa_UnderConstruction_Visible.dds</File>
+    <File>Textures/Hansa_UnderConstruction_Visible.tex</File>
+    <File>Textures/Hansa_Visible.dds</File>
+    <File>Textures/Hansa_Visible.tex</File>
+    <File>Textures/Lavra_Pillaged_Revealed.dds</File>
+    <File>Textures/Lavra_Pillaged_Revealed.tex</File>
+    <File>Textures/Lavra_Pillaged_Visible.dds</File>
+    <File>Textures/Lavra_Pillaged_Visible.tex</File>
+    <File>Textures/Lavra_Revealed.dds</File>
+    <File>Textures/Lavra_Revealed.tex</File>
+    <File>Textures/Lavra_UnderConstruction_Revealed.dds</File>
+    <File>Textures/Lavra_UnderConstruction_Revealed.tex</File>
+    <File>Textures/Lavra_UnderConstruction_Visible.dds</File>
+    <File>Textures/Lavra_UnderConstruction_Visible.tex</File>
+    <File>Textures/Lavra_Visible.dds</File>
+    <File>Textures/Lavra_Visible.tex</File>
+    <File>Textures/Mbanza_Pillaged_Revealed.dds</File>
+    <File>Textures/Mbanza_Pillaged_Revealed.tex</File>
+    <File>Textures/Mbanza_Pillaged_Visible.dds</File>
+    <File>Textures/Mbanza_Pillaged_Visible.tex</File>
+    <File>Textures/Mbanza_Revealed.dds</File>
+    <File>Textures/Mbanza_Revealed.tex</File>
+    <File>Textures/Mbanza_UnderConstruction_Revealed.dds</File>
+    <File>Textures/Mbanza_UnderConstruction_Revealed.tex</File>
+    <File>Textures/Mbanza_UnderConstruction_Visible.dds</File>
+    <File>Textures/Mbanza_UnderConstruction_Visible.tex</File>
+    <File>Textures/Mbanza_Visible.dds</File>
+    <File>Textures/Mbanza_Visible.tex</File>
+    <File>Textures/RoyalNavyDockyard_Pillaged_Revealed.dds</File>
+    <File>Textures/RoyalNavyDockyard_Pillaged_Revealed.tex</File>
+    <File>Textures/RoyalNavyDockyard_Pillaged_Visible.dds</File>
+    <File>Textures/RoyalNavyDockyard_Pillaged_Visible.tex</File>
+    <File>Textures/RoyalNavyDockyard_Revealed.dds</File>
+    <File>Textures/RoyalNavyDockyard_Revealed.tex</File>
+    <File>Textures/RoyalNavyDockyard_UnderConstruction_Revealed.dds</File>
+    <File>Textures/RoyalNavyDockyard_UnderConstruction_Revealed.tex</File>
+    <File>Textures/RoyalNavyDockyard_UnderConstruction_Visible.dds</File>
+    <File>Textures/RoyalNavyDockyard_UnderConstruction_Visible.tex</File>
+    <File>Textures/RoyalNavyDockyard_Visible.dds</File>
+    <File>Textures/RoyalNavyDockyard_Visible.tex</File>
+    <File>Textures/StreetCarnival_Pillaged_Revealed.dds</File>
+    <File>Textures/StreetCarnival_Pillaged_Revealed.tex</File>
+    <File>Textures/StreetCarnival_Pillaged_Visible.dds</File>
+    <File>Textures/StreetCarnival_Pillaged_Visible.tex</File>
+    <File>Textures/StreetCarnival_Revealed.dds</File>
+    <File>Textures/StreetCarnival_Revealed.tex</File>
+    <File>Textures/StreetCarnival_UnderConstruction_Revealed.dds</File>
+    <File>Textures/StreetCarnival_UnderConstruction_Revealed.tex</File>
+    <File>Textures/StreetCarnival_UnderConstruction_Visible.dds</File>
+    <File>Textures/StreetCarnival_UnderConstruction_Visible.tex</File>
+    <File>Textures/StreetCarnival_Visible.dds</File>
+    <File>Textures/StreetCarnival_Visible.tex</File>
+    <File>Textures/UniqueDistrictAtlas128.dds</File>
+    <File>Textures/UniqueDistrictAtlas128.tex</File>
+    <File>Textures/UniqueDistrictAtlas256.dds</File>
+    <File>Textures/UniqueDistrictAtlas256.tex</File>
+    <File>Textures/UniqueDistrictAtlas32.dds</File>
+    <File>Textures/UniqueDistrictAtlas32.tex</File>
+    <File>Textures/UniqueDistrictAtlas38.dds</File>
+    <File>Textures/UniqueDistrictAtlas38.tex</File>
+    <File>Textures/UniqueDistrictAtlas50.dds</File>
+    <File>Textures/UniqueDistrictAtlas50.tex</File>
+    <File>Textures/UniqueDistrictAtlas80.dds</File>
+    <File>Textures/UniqueDistrictAtlas80.tex</File>
+    <File>Textures/UniqueDistrictFOWAtlas256.dds</File>
+    <File>Textures/UniqueDistrictFOWAtlas256.tex</File>
+  </Files>
+</Mod>

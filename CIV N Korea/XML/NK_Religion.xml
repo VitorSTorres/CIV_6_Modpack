@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Types>
+		<Row Type="RELIGION_CONS_JUCHEISM" Kind="KIND_RELIGION"/>
+	</Types>
+	<Religions>
+		<Row>
+			<ReligionType>RELIGION_CONS_JUCHEISM</ReligionType>
+			<Name>LOC_RELIGION_CONS_JUCHEISM</Name>
+			<IconString>Jc</IconString>
+			<RequiresCustomName>false</RequiresCustomName>
+			<Color>COLOR_RELIGION_CONS_JUCHEISM</Color>
+		</Row>
+	</Religions>
+</GameData>

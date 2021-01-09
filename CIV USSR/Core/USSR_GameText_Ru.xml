@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<LocalizedText>
+		<!--CIVILIZATION-->
+		<Row Tag="LOC_CIVILIZATION_JFD_USSR_NAME" Language="ru_RU">
+			<Text>Советский Союз</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_JFD_USSR_DESCRIPTION" Language="ru_RU">
+			<Text>Советская империя</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_JFD_USSR_ADJECTIVE" Language="ru_RU">
+			<Text>Советский</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_JFD_USSR_DESCRIPTION_JFD_CIVILIZATION" Language="ru_RU">
+			<Text>Советская цивилизация</Text>
+		</Row>
+		<!--Trait-->
+		<Row Tag="LOC_TRAIT_CIVILIZATION_JFD_COMMUNIST_NATIONALISM_NAME" Language="ru_RU">
+			<Text>Великие стройки коммунизма</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_JFD_COMMUNIST_NATIONALISM_DESCRIPTION" Language="ru_RU">
+			<Text>Постройки кампусов и промышленных зон приносят [ICON_CULTURE] культуру и [ICON_TOURISM] туризм в размере, равном половине приносимой этими постройками [ICON_SCIENCE] науки (для кампусов) и [ICON_PRODUCTION] производства (для промышленных зон); округление производится к ближайшему меньшему целому. Кампусы и промышленные зоны строятся на 33% быстрее.</Text>
+		</Row>
+		<!--Cities-->
+		<Row Tag="LOC_CITY_NAME_JFD_USSR_2" Language="ru_RU">
+			<Text>Ленинград</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JFD_USSR_3" Language="ru_RU">
+			<Text>Киев</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JFD_USSR_4" Language="ru_RU">
+			<Text>Минск</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JFD_USSR_5" Language="ru_RU">
+			<Text>Харьков</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JFD_USSR_6" Language="ru_RU">
+			<Text>Сталинград</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JFD_USSR_7" Language="ru_RU">
+			<Text>Свердловск</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JFD_USSR_8" Language="ru_RU">
+			<Text>Горки</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JFD_USSR_9" Language="ru_RU">
+			<Text>Краснодар</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JFD_USSR_10" Language="ru_RU">
+			<Text>Владивосток</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JFD_USSR_11" Language="ru_RU">
+			<Text>Новосибирск</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JFD_USSR_12" Language="ru_RU">
+			<Text>Красноярск</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JFD_USSR_13" Language="ru_RU">
+			<Text>Куйбышев</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JFD_USSR_14" Language="ru_RU">
+			<Text>Баку</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JFD_USSR_15" Language="ru_RU">
+			<Text>Тбилиси</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JFD_USSR_16" Language="ru_RU">
+			<Text>Алма-Ата</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JFD_USSR_17" Language="ru_RU">
+			<Text>Ташкент</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JFD_USSR_18" Language="ru_RU">
+			<Text>Омск</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JFD_USSR_19" Language="ru_RU">
+			<Text>Уфа</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JFD_USSR_20" Language="ru_RU">
+			<Text>Челябинск</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JFD_USSR_21" Language="ru_RU">
+			<Text>Севастополь</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JFD_USSR_22" Language="ru_RU">
+			<Text>Молотов</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JFD_USSR_23" Language="ru_RU">
+			<Text>Калининград</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JFD_USSR_24" Language="ru_RU">
+			<Text>Рига</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JFD_USSR_25" Language="ru_RU">
+			<Text>Таллин</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JFD_USSR_26" Language="ru_RU">
+			<Text>Казань</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JFD_USSR_27" Language="ru_RU">
+			<Text>Одесса</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JFD_USSR_28" Language="ru_RU">
+			<Text>Киров</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JFD_USSR_29" Language="ru_RU">
+			<Text>Ульяновск</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JFD_USSR_30" Language="ru_RU">
+			<Text>Днепропетровск</Text>
+		</Row>
+		<!--Citizens-->
+		<Row Tag="LOC_CITIZEN_JFD_USSR_MALE_1" Language="ru_RU">
+			<Text>Игорь</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_USSR_MALE_2" Language="ru_RU">
+			<Text>Владлен</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_USSR_MALE_3" Language="ru_RU">
+			<Text>Арлен</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_USSR_MALE_4" Language="ru_RU">
+			<Text>Мэлс</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_USSR_MALE_5" Language="ru_RU">
+			<Text>Дамир</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_USSR_MALE_6" Language="ru_RU">
+			<Text>Ким</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_USSR_MALE_7" Language="ru_RU">
+			<Text>Больжедор</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_USSR_MALE_8" Language="ru_RU">
+			<Text>Вектор</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_USSR_MALE_9" Language="ru_RU">
+			<Text>Веор</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_USSR_MODERN_MALE_1" Language="ru_RU">
+			<Text>Гайдар</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_USSR_MODERN_MALE_2" Language="ru_RU">
+			<Text>Даздранагон</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_USSR_MODERN_MALE_3" Language="ru_RU">
+			<Text>Дрепанальд</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_USSR_MODERN_MALE_4" Language="ru_RU">
+			<Text>Индустрий</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_USSR_MODERN_MALE_5" Language="ru_RU">
+			<Text>Кир</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_USSR_MODERN_MALE_6" Language="ru_RU">
+			<Text>Лелюд</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_USSR_MODERN_MALE_7" Language="ru_RU">
+			<Text>Марксэн</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_USSR_MODERN_MALE_8" Language="ru_RU">
+			<Text>Оюшминальд</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_USSR_MODERN_MALE_9" Language="ru_RU">
+			<Text>Перкосрак</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_USSR_MODERN_MALE_10" Language="ru_RU">
+			<Text>Ренат</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_USSR_FEMALE_1" Language="ru_RU">
+			<Text>Рената</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_USSR_FEMALE_2" Language="ru_RU">
+			<Text>Социалина</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_USSR_FEMALE_3" Language="ru_RU">
+			<Text>Тракторина</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_USSR_FEMALE_4" Language="ru_RU">
+			<Text>Феликсана</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_USSR_FEMALE_5" Language="ru_RU">
+			<Text>Цвета</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_USSR_FEMALE_6" Language="ru_RU">
+			<Text>Электроленина</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_USSR_FEMALE_7" Language="ru_RU">
+			<Text>Элина</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_USSR_FEMALE_8" Language="ru_RU">
+			<Text>Юнна</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_USSR_FEMALE_9" Language="ru_RU">
+			<Text>Яатея</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_USSR_FEMALE_10" Language="ru_RU">
+			<Text>Аврора</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_USSR_MODERN_FEMALE_1" Language="ru_RU">
+			<Text>Бухарина</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_USSR_MODERN_FEMALE_2" Language="ru_RU">
+			<Text>Валтерперженка</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_USSR_MODERN_FEMALE_3" Language="ru_RU">
+			<Text>Гвоздика</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_USSR_MODERN_FEMALE_4" Language="ru_RU">
+			<Text>Даздраперма</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_USSR_MODERN_FEMALE_5" Language="ru_RU">
+			<Text>Евразия</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_USSR_MODERN_FEMALE_6" Language="ru_RU">
+			<Text>Жоресса</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_USSR_MODERN_FEMALE_7" Language="ru_RU">
+			<Text>Зарина</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_USSR_MODERN_FEMALE_8" Language="ru_RU">
+			<Text>Идея</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_USSR_MODERN_FEMALE_9" Language="ru_RU">
+			<Text>Красарма</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_USSR_MODERN_FEMALE_10" Language="ru_RU">
+			<Text>Люцерна</Text>
+		</Row>
+		<!--PEKHOTA-->
+		<Row Tag="LOC_UNIT_JFD_RED_ARMY_NAME" Language="ru_RU">
+			<Text>Пехота РККА</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_JFD_RED_ARMY_DESCRIPTION" Language="ru_RU">
+			<Text>Советский уникальный юнит современной эпохи, заменяет пехотинцев. Мародерство стоит на 1 [ICON_MOVEMENT] ОП меньше. Соедржание на 2 золота меньше.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_JFD_RED_ARMY_NAME" Language="ru_RU">
+			<Text>Выжженная земля</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_JFD_RED_ARMY_DESCRIPTION" Language="ru_RU">
+			<Text>Мародерство стоит на 1 [ICON_MOVEMENT] ОП меньше.</Text>
+		</Row>
+		<!--NAUKOGRAD-->
+		<Row Tag="LOC_DISTRICT_JFD_NAUKOGRAD_NAME" Language="ru_RU">
+			<Text>Наукоград</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_JFD_NAUKOGRAD_DESCRIPTION" Language="ru_RU">
+			<Text>Уникальный район Советского Союза, помогает в научном развитии. Заменяет пригород.[NEWLINE][NEWLINE]Держава получает 50 [ICON_SCIENCE] науки за каждое очко престижа клетки, когда ферма замещается наукоградом. +2 [ICON_GREATSCIENTIST] очка великого ученого за ход. +2 [ICON_SCIENCE] науки, если соседствует с кампусом. +15% [ICON_PRODUCTION] производства для проектов "Космической гонки".</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_JFD_NAUKOGRAD_SCIENCE" Language="ru_RU">
+			<Text>+{1_num} [ICON_SCIENCE] науки, если соседствует с кампусом.</Text>
+		</Row>
+		<Replace Tag="LOC_GOODYHUT_LARGE_SCIENCE_DESCRIPTION" Language="ru_RU">
+			<Text>[COLOR_FLOAT_SCIENCE]+{1_Num} [ICON_SCIENCE][ENDCOLOR]</Text>
+		</Replace>
+		<!--MOD SUPPORT-->
+		<!--JFD Rule with Faith-->
+		<Row Tag="LOC_GOVERNMENT_JFD_CHIEFDOM_LEADER_TITLE_JFD_STALIN" Language="ru_RU">
+			<Text>Воевода</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_AUTOCRACY_LEADER_TITLE_JFD_STALIN" Language="ru_RU">
+			<Text>Князь</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_CLASSICAL_DEMOCRACY_LEADER_TITLE_JFD_STALIN" Language="ru_RU">
+			<Text>Советник</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_OLIGARCHY_LEADER_TITLE_JFD_STALIN" Language="ru_RU">
+			<Text>Посадник</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_MERCHANT_REPUBLIC_LEADER_TITLE_JFD_STALIN" Language="ru_RU">
+			<Text>Посадник</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_MONARCHY_LEADER_TITLE_JFD_STALIN" Language="ru_RU">
+			<Text>Царь</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_NOBLE_REPUBLIC_LEADER_TITLE_JFD_STALIN" Language="ru_RU">
+			<Text>Председатель</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_PEOPLES_REPUBLIC_LEADER_TITLE_JFD_STALIN" Language="ru_RU">
+			<Text>Генеральный секретарь</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_LIBERAL_DEMOCRACY_LEADER_TITLE_JFD_STALIN" Language="ru_RU">
+			<Text>Президент</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_MILITARY_GUARDIANSHIP_LEADER_TITLE_JFD_STALIN" Language="ru_RU">
+			<Text>Генералиссимус</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_EMPIRE_LEADER_TITLE_JFD_STALIN" Language="ru_RU">
+			<Text>Император</Text>
+		</Row>
+	</LocalizedText>
+</GameData>

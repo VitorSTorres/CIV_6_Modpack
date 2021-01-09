@@ -1,0 +1,416 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<LocalizedText>
+		<!--MOD-->
+		<Row Tag="LOC_MOD_JFD_ITALY_DESCRIPTION" Language="en_US">
+			<Text>------------------------------------[NEWLINE]CIVILIZATION - ITALY[NEWLINE][NEWLINE]TRAIT - CENTRES OF RENAISSANCE[NEWLINE]Districts produce additional [ICON_GREATPERSON] Great People Points for being placed adjacent to another District.[NEWLINE][NEWLINE]BUILDING - DUOMO[NEWLINE]Italian unique building that provides bonus [ICON_FAITH] Faith equal to the adjacency [ICON_CULTURE] Culture bonus of its district. It has a slot for a Great Work of Art and yields [ICON_CULTURE] Culture.[NEWLINE][NEWLINE]UNIT - CONDOTIERRE[NEWLINE]Italian unique Medieval mounted unit that must be purchased with [ICON_GOLD] Gold but incurs no Maintenance. Additional +5 [ICON_STRENGTH] Combat Strength when fighting City-States.</Text>
+		</Row>
+		<!--CIVILIZATION-->
+		<Row Tag="LOC_CIVILIZATION_JFD_ITALY_NAME" Language="en_US">
+			<Text>Italy</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_JFD_ITALY_DESCRIPTION" Language="en_US">
+			<Text>Italian Empire</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_JFD_ITALY_ADJECTIVE" Language="en_US">
+			<Text>Italian</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_JFD_ITALY_DESCRIPTION_JFD_CIVILIZATION" Language="en_US">
+			<Text>Italian Civilization</Text>
+		</Row>
+		<!--Pedia-->
+		<Row Tag="LOC_CIVINFO_JFD_ITALY_LOCATION" Language="en_US">
+			<Text>Europe</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_JFD_ITALY_POPULATION" Language="en_US">
+			<Text>Est. 61 million</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_JFD_ITALY_SIZE" Language="en_US">
+			<Text>Est. 116 thousand square miles (301 thousand square km)</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_JFD_ITALY_CAPITAL" Language="en_US">
+			<Text>Rome</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_JFD_ITALY_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>The Italian patrimony, based on Roman antecedents—with a tradition that extends over 2,500 years—is the oldest in Europe, next to Greece's. The Ligurians, Sabines, and Umbrians were among the earliest-known inhabitants of Italy, but in the 9th century bc they were largely displaced in central Italy by the Etruscans, a seafaring people, probably from Asia Minor. Shortly thereafter there followed conquests in Sicily and southern Italy by the Phoenicians and the Greeks. By 650 bc, Italy was divided into ethnic areas: the Umbrians in the north, the Ligurians in the northwest, the Latins and Etruscans in the central regions, and the Greeks and Phoenicians in the south and Sicily. The Etruscan civilization, a great maritime, commercial, and artistic culture, reached its peak about the 7th century, but by 509 bc, when the Romans overthrew their Etruscan monarchs, its control in Italy was on the wane. By 350 bc, after a series of wars with both Greeks and Etruscans, the Latins, with Rome as their capital, gained the ascendancy, and by 272 bc, they managed to unite the entire Italian peninsula.[NEWLINE][NEWLINE]This period of unification was followed by one of conquest in the Mediterranean, beginning with the First Punic War against Carthage (264–241 bc). In the course of the century-long struggle against Carthage, the Romans conquered Sicily, Sardinia, and Corsica. Finally, in 146 bc, at the conclusion of the Third Punic War, with Carthage completely destroyed and its inhabitants enslaved, Rome became the dominant power in the Mediterranean. From its inception, Rome was a republican city-state, but four famous civil conflicts destroyed the republic: Sulla against Marius and his son (88–82 bc), Julius Caesar against Pompey (49–45 bc), Brutus and Cassius against Mark Antony and Octavian (43 bc), and Mark Antony against Octavian. Octavian, the final victor (31 bc), was accorded the title of Augustus ("exalted") by the Senate and thereby became the first Roman emperor. Under imperial rule, Rome undertook a series of conquests that brought Roman law, Roman administration, and Pax Romana ("Roman peace") to an area extending from the Atlantic to the Rhine, to the British Isles, to the Iberian Peninsula and large parts of North Africa, and to the Middle East as far as the Euphrates.[NEWLINE][NEWLINE]After two centuries of successful rule, in the 3rd century ad, Rome was threatened by internal discord and menaced by Germanic and Asian invaders, commonly called barbarians (from the Latin word barbari, "foreigners"). Emperor Diocletian's administrative division of the empire into two parts in 285 provided only temporary relief; it became permanent in 395. In 313, Emperor Constantine accepted Christianity, and churches thereafter rose throughout the empire. However, he also moved his capital from Rome to Constantinople, greatly reducing the importance of the former. From the 4th to the 5th century, the Western Roman Empire disintegrated under the blows of barbarian invasions, finally falling in 476, and the unity of Italy came to an end. For a time, Italy was protected by the Byzantine (Eastern Roman) Empire, but a continuing conflict between the bishop of Rome, or pope, and the Byzantine emperor culminated in a schism during the first half of the 8th century.[NEWLINE][NEWLINE]After the fall of the Roman Empire and the reorganization of the peninsula, from the 6th to the 13th century, Italy suffered a variety of invaders and rulers: the Lombards in the 6th century, the Franks in the 8th century, the Saracens in the 9th, and the Germans in the 10th. The German emperors (of the Holy Roman Empire), the popes, and the rising Italian city-states vied for power from the 10th to the 14th century, and Italy was divided into several, often hostile, territories: in the south, the Kingdom of Naples, under Norman and Angevin rule; in the central area, the Papal States; and in the north, a welter of large and small city-states, such as Venice, Milan, Florence, and Bologna.[NEWLINE][NEWLINE]By the 13th century, the city-states had emerged as centers of commerce and of the arts and sciences. Venice, in particular, had become a major maritime power, and the city-states as a group acted as a conduit for goods and learning from the Byzantine and Islamic empires. In this capacity, they provided great impetus to the developing Renaissance, which between the 13th and 16th centuries led to an unparalleled flourishing of the arts, literature, music, and science. However, the emergence of Portugal and Spain as great seagoing nations at the end of the 15th century undercut Italian prosperity. After the Italian Wars (1494–1559), in which France tried unsuccessfully to extend its influence in Italy, Spain emerged as the dominant force in the region. Venice, Milan, and other city-states retained at least some of their former greatness during this period, as did Savoy-Piedmont, protected by the Alps and well defended by its vigorous rulers.[NEWLINE][NEWLINE]Economic hardship, waves of the plague, and religious unrest tormented the region throughout the 17th century and into the 18th. The French Revolution was brought to the Italian peninsula by Napoleon, and the concepts of nationalism and liberalism infiltrated everywhere. Short-lived republics and even a Kingdom of Italy (under Napoleon's stepson Eugene) were formed. But reaction set in with the Congress of Vienna (1815), and many of the old rulers and systems were restored under Austrian domination. The concept of nationalism continued strong, however, and sporadic outbreaks led by such inveterate reformers as Giuseppe Mazzini occurred in several parts of the peninsula down to 1848–49. This Risorgimento ("resurgence") movement was brought to a successful conclusion under the able guidance of Count Camillo Cavour, prime minister of Piedmont. Cavour managed to unite most of Italy under the headship of Victor Emmanuel II of the house of Savoy, and on 17 March 1861, the Kingdom of Italy was proclaimed with Victor Emmanuel II as king. Giuseppe Garibaldi, the popular republican hero of Italy, contributed much to this achievement and to the subsequent incorporation of the Papal States under the Italian monarch. Italian troops occupied Rome in 1870, and in July 1871, it formally became the capital of the kingdom. Pope Pius IX, a longtime rival of Italian kings, considered himself a "prisoner" of the Vatican and refused to cooperate with the royal administration.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_JFD_ITALY_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>The new monarchy aspired to great-power status but was severely handicapped by domestic social and economic conditions, particularly in the south. Political and social reforms introduced by Premier Giovanni Giolitti in the first decade of the 20th century improved Italy's status among Western powers but failed to overcome such basic problems as poverty and illiteracy. Giolitti resigned in March 1914 and was succeeded by Antonia Salandra. During World War I, Italy, previously an ally of the Central Powers, declared itself neutral in 1914 and a year later, in April 1915, joined the British and French in exchange for advantages offered by the secret Treaty of London. At the Versailles Peace Conference, Italy, which had suffered heavy losses on the Alpine front and felt slighted by its Western allies, failed to obtain all of the territories that it claimed.[NEWLINE][NEWLINE]This disappointment, coupled with the severe economic depression of the postwar period, created great social unrest and led eventually to the rise of Benito Mussolini, who, after leading his Fascist followers in a mass march on Rome, became premier in 1922. He established a Fascist dictatorship, a corporate state, which scored early successes in social welfare, employment, and transportation; in 1929, he negotiated the Lateran Treaties, under which the Holy See became sovereign within the newly constituted Vatican City State and Roman Catholicism was reaffirmed as Italy's official religion (the latter provision was abolished in 1984). The military conquest of Ethiopia (1935–36) added to Italy's colonial strength and exposed the inability of the League of Nations to punish aggression or keep the peace.[NEWLINE][NEWLINE]Italy joined Germany in World War II, but defeats in Greece and North Africa and the Allied invasion of Sicily toppled Mussolini's regime on 25 July 1943. Soon Italy was divided into two warring zones, one controlled by the Allies in the south and the other (including Rome) held by the Germans, who had quickly moved in, rescued Mussolini, and established him as head of the puppet "Italian Social Republic." When German power collapsed, Mussolini was captured and executed by Italian partisans.[NEWLINE][NEWLINE]The conclusion of the war left Italy poverty-stricken and politically disunited. In 1946, Italy became a republic by plebiscite; in the following year, a new constitution was drafted, which went into effect in 1948. Under the peace treaty of 10 February 1947, Italy was required to pay $360 million in reparations to the USSR, Yugoslavia, Greece, Ethiopia, and Albania. By this time, the Italian economy, initially disorganized by Mussolini's dream of national self-sufficiency and later physically devastated by the war, was in a state of near collapse. By the early 1950s, however, with foreign assistance (including $1,516.7 million from the United States under the Marshall Plan), Italy managed to restore its economy to the prewar level. From this point, the Italian economy experienced unprecedented development through the 1960s and 1970s.[NEWLINE][NEWLINE]Politically, postwar Italy has been marked by a pattern of accelerating instability, with 48 different coalition governments through 15 March 1988. In May 1981, the coalition of Prime Minister Arnaldo Forlani was brought down after it was learned that many government officials, including three cabinet ministers, were members of a secret Masonic lodge, Propaganda Due (P-2), that had reportedly been involved in illegal right-wing activities. Left-wing terrorism, notably by the Red Brigades (Brigate Rosse), also plagued Italy in the 1970s and early 1980s. In January 1983, 23 Red Brigade members were sentenced to life imprisonment in connection with the kidnapping and murder of Prime Minister Aldo Moro in 1978; another 36 members received sentences of varying lengths for other crimes, including 11 murders and 11 attempted murders, committed between 1976 and 1980. By the mid-1980s, the Mafia actively engaged in extortion, government corruption, and violent crime, as well as a central role in global heroin trafficking.[NEWLINE][NEWLINE]By 1986, however, internal security had improved. A major effort against organized crime was under way in the mid-1980s; over 1,000 suspects were tried and the majority convicted in trials that took place in Naples beginning in February 1985 and in Sicily beginning in February 1986.[NEWLINE][NEWLINE]Revelations of corruption and scandals involving senior politicians, members of the government administration, and business leaders rocked Italy in the early 1990s. Hundreds of politicians, party leaders, and industrialists were either under arrest or under investigation. The scandals discredited the major parties that had governed Italy since 1948, and the instability gave impetus to new reformist groups.[NEWLINE][NEWLINE]In August 1993, Italy made significant changes in its electoral system. Three-fourths of the seats in both the Chamber and the Senate would be filled by simple majority voting. The remainder would be allocated by proportional representation to those parties securing at least 4% of the vote. The first elections under the new system in March 1994 resulted in a simplification of electoral alliances and brought a center-right government to power. Silvio Berlusconi, founder of the "Go Italy" (Forza Italia) movement, emerged as prime minister. Berlusconi, a successful Italian businessman, was a newcomer to Italian politics. He was supported by the Alliance for Freedom coalition, which had received over 42% of the vote and 366 seats.[NEWLINE][NEWLINE]Berlusconi's government, however, became victim to charges of government corruption and on 22 December 1994 he was forced to resign in the face of a revolt by the Northern League, one of the parties in his ruling coalition. Three weeks after Berlusconi's resignation, his treasury minister, Lamberto Dini was named prime minister. He formed a government of technocrats and set about to enact fiscal and electoral reforms. Pragmatism and a lack of viable alternatives kept him in power until supporters of his main political rival, Silvio Berlusconi, presented a motion that he step down. When Dini learned that two splinter groups in his center-left coalition (the Greens and the Communist Refounding party) would not vote in his favor, he resigned on 11 January 1996 rather than face a no-confidence vote.[NEWLINE][NEWLINE]The elections, held on 21 April 1996, saw a center-left coalition, dominated by the former communists (DS), take control of the country for the first time in 50 years. Romano Prodi, an economics professor with little political experience, was chosen to serve as prime minister on 16 May. His coalition government collapsed after it failed to win a vote of no-confidence over the budget. President Oscar Luigi Scalfaro asked Massimo D'Alema, the leader of the DS and of the largest party in the Olive Tree, to form a new administration. His cabinet retained the same members from the left and center as before. This government also continued to pursue fiscal consolidation to join European economic and monetary union in 1999. Prodi left for Brussels to take up the presidency of the European Commission in May 1999. D'Alema reshuffl ed his cabinet in 1999 but it finally fell in April 2000. The immediate cause was the dismal performance in regional elections. The center-left won 7 out of 15 regions while the right, under the leadership of Silvio Berlusconi, took 8 regions.[NEWLINE][NEWLINE]The coalition of 12 discordant political blocs backed the Treasury Minister, Giuliano Amato, to become the new prime minister (appointed by President Carlo Azeglio Ciampi, in office since May 1999). Prior to the fall of the D'Alema administration, the government had scheduled an important referendum to scrap the last remaining vestiges of direct proportional representation in the electoral system. Only one-third of the electorate bothered to vote on 21 May 2000, not enough to validate the referendum outcome.[NEWLINE][NEWLINE]Berlusconi's House of Liberties coalition, led by Go Italy, secured 368 seats in the Chamber of Deputies in the May 2001 parliamentary elections, to the Olive Tree coalition's 242 seats. (The House of Liberties coalition also won a majority in the Senate.) After becoming Italy's 59th postwar prime minister, Berlusconi faced long-standing charges of criminal wrongdoing, including bribery; he became the first sitting Italian prime minister to appear at his own trial. It was not until December 2004 that Berlusconi was cleared of all charges.[NEWLINE][NEWLINE]Italy offered the use of its airspace and military bases to the US-led coalition in its war with Iraq, which began on 19 March 2003, although Italy did not send troops to the region and did not allow coalition forces to launch a direct attack on Iraq from Italy. Some 75% of Italians opposed the use of military force against the Saddam Hussein regime, but Berlusconi adopted a position of solidarity with the US-led coalition.</Text>
+		</Row>
+		<!--Trait-->
+		<Row Tag="LOC_TRAIT_CIVILIZATION_JFD_CENTRES_OF_RENAISSANCE_NAME" Language="en_US">
+			<Text>Centres of Renaissance</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_JFD_CENTRES_OF_RENAISSANCE_DESCRIPTION" Language="en_US">
+			<Text>Districts produce additional [ICON_GREATPERSON] Great People Points for being placed adjacent to another District.</Text>
+		</Row>
+		<!--Cities-->
+		<Row Tag="LOC_CITY_NAME_JFD_ITALY_1" Language="en_US">
+			<Text>Rome</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JFD_ITALY_2" Language="en_US">
+			<Text>Naples</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JFD_ITALY_3" Language="en_US">
+			<Text>Milan</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JFD_ITALY_4" Language="en_US">
+			<Text>Turin</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JFD_ITALY_5" Language="en_US">
+			<Text>Palermo</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JFD_ITALY_6" Language="en_US">
+			<Text>Modena</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JFD_ITALY_7" Language="en_US">
+			<Text>Venice</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JFD_ITALY_8" Language="en_US">
+			<Text>Brescia</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JFD_ITALY_9" Language="en_US">
+			<Text>Genoa</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JFD_ITALY_10" Language="en_US">
+			<Text>Vicenza</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JFD_ITALY_11" Language="en_US">
+			<Text>Florence</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JFD_ITALY_12" Language="en_US">
+			<Text>Prato</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JFD_ITALY_13" Language="en_US">
+			<Text>Bologna</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JFD_ITALY_14" Language="en_US">
+			<Text>Bari</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JFD_ITALY_15" Language="en_US">
+			<Text>Catania</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JFD_ITALY_16" Language="en_US">
+			<Text>Verona</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JFD_ITALY_17" Language="en_US">
+			<Text>Parma</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JFD_ITALY_18" Language="en_US">
+			<Text>Livorno</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JFD_ITALY_19" Language="en_US">
+			<Text>Cagliari</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JFD_ITALY_20" Language="en_US">
+			<Text>Foggia</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JFD_ITALY_21" Language="en_US">
+			<Text>Salerno</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JFD_ITALY_22" Language="en_US">
+			<Text>Pisa</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JFD_ITALY_23" Language="en_US">
+			<Text>Asti</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JFD_ITALY_24" Language="en_US">
+			<Text>Messina</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JFD_ITALY_25" Language="en_US">
+			<Text>Trieste</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JFD_ITALY_26" Language="en_US">
+			<Text>Padua</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JFD_ITALY_27" Language="en_US">
+			<Text>Siracusa</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JFD_ITALY_28" Language="en_US">
+			<Text>Ferrara</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JFD_ITALY_29" Language="en_US">
+			<Text>Novara</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JFD_ITALY_30" Language="en_US">
+			<Text>Rimini</Text>
+		</Row>
+		<!--Citizens-->
+		<Row Tag="LOC_CITIZEN_JFD_ITALY_MALE_1" Language="en_US">
+			<Text>Gian</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_ITALY_MALE_2" Language="en_US">
+			<Text>Ennio</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_ITALY_MALE_3" Language="en_US">
+			<Text>Gaspare</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_ITALY_MALE_4" Language="en_US">
+			<Text>Michele</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_ITALY_MALE_5" Language="en_US">
+			<Text>Luciano</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_ITALY_MALE_6" Language="en_US">
+			<Text>Salvatore</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_ITALY_MALE_7" Language="en_US">
+			<Text>Giovanni</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_ITALY_MALE_8" Language="en_US">
+			<Text>Teobaldo</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_ITALY_MALE_9" Language="en_US">
+			<Text>Frederico</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_ITALY_MALE_10" Language="en_US">
+			<Text>Dominecco</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_ITALY_MODERN_MALE_1" Language="en_US">
+			<Text>Arnoldo</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_ITALY_MODERN_MALE_2" Language="en_US">
+			<Text>Bruno</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_ITALY_MODERN_MALE_3" Language="en_US">
+			<Text>Dominecco</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_ITALY_MODERN_MALE_4" Language="en_US">
+			<Text>Duccio</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_ITALY_MODERN_MALE_5" Language="en_US">
+			<Text>Segretissimo</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_ITALY_MODERN_MALE_6" Language="en_US">
+			<Text>Jimmy the Snitch</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_ITALY_MODERN_MALE_7" Language="en_US">
+			<Text>Cesare Beccaria</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_ITALY_MODERN_MALE_8" Language="en_US">
+			<Text>Vernay</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_ITALY_MODERN_MALE_9" Language="en_US">
+			<Text>Amleto</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_ITALY_MODERN_MALE_10" Language="en_US">
+			<Text>Vittorio</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_ITALY_FEMALE_1" Language="en_US">
+			<Text>Joanna</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_ITALY_FEMALE_2" Language="en_US">
+			<Text>Elena</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_ITALY_FEMALE_3" Language="en_US">
+			<Text>Maria</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_ITALY_FEMALE_4" Language="en_US">
+			<Text>Valentina</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_ITALY_FEMALE_5" Language="en_US">
+			<Text>Gianna</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_ITALY_FEMALE_6" Language="en_US">
+			<Text>Liliana</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_ITALY_FEMALE_7" Language="en_US">
+			<Text>Namandjé</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_ITALY_FEMALE_8" Language="en_US">
+			<Text>Lucrezia</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_ITALY_FEMALE_9" Language="en_US">
+			<Text>Catherine</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_ITALY_FEMALE_10" Language="en_US">
+			<Text>Donatella</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_ITALY_MODERN_FEMALE_1" Language="en_US">
+			<Text>Rosa</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_ITALY_MODERN_FEMALE_2" Language="en_US">
+			<Text>Luciana</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_ITALY_MODERN_FEMALE_3" Language="en_US">
+			<Text>Chiara</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_ITALY_MODERN_FEMALE_4" Language="en_US">
+			<Text>Adriana</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_ITALY_MODERN_FEMALE_5" Language="en_US">
+			<Text>Carina</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_ITALY_MODERN_FEMALE_6" Language="en_US">
+			<Text>Aria</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_ITALY_MODERN_FEMALE_7" Language="en_US">
+			<Text>Alessandra</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_ITALY_MODERN_FEMALE_8" Language="en_US">
+			<Text>Isabella</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_ITALY_MODERN_FEMALE_9" Language="en_US">
+			<Text>Caterina</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_ITALY_MODERN_FEMALE_10" Language="en_US">
+			<Text>Siena</Text>
+		</Row>
+		<!--Politicians-->
+		<Row Tag="LOC_POLITICIAN_JFD_JFD_ITALY_1" Language="en_US">
+			<Text>Bettino</Text>
+		</Row>
+		<Row Tag="LOC_POLITICIAN_JFD_JFD_ITALY_2" Language="en_US">
+			<Text>Urbano</Text>
+		</Row>
+		<Row Tag="LOC_POLITICIAN_JFD_JFD_ITALY_3" Language="en_US">
+			<Text>Luigi</Text>
+		</Row>
+		<Row Tag="LOC_POLITICIAN_JFD_JFD_ITALY_4" Language="en_US">
+			<Text>Marco</Text>
+		</Row>
+		<Row Tag="LOC_POLITICIAN_JFD_JFD_ITALY_5" Language="en_US">
+			<Text>Alfonso</Text>
+		</Row>
+		<Row Tag="LOC_POLITICIAN_JFD_JFD_ITALY_6" Language="en_US">
+			<Text>Giovanni </Text>
+		</Row>
+		<Row Tag="LOC_POLITICIAN_JFD_JFD_ITALY_7" Language="en_US">
+			<Text>Agostino</Text>
+		</Row>
+		<Row Tag="LOC_POLITICIAN_JFD_JFD_ITALY_8" Language="en_US">
+			<Text>Marco</Text>
+		</Row>
+		<Row Tag="LOC_POLITICIAN_JFD_JFD_ITALY_9" Language="en_US">
+			<Text>Benedetto</Text>
+		</Row>
+		<Row Tag="LOC_POLITICIAN_JFD_JFD_ITALY_10" Language="en_US">
+			<Text>Francesco</Text>
+		</Row>
+		<Row Tag="LOC_POLITICIAN_JFD_JFD_ITALY_11" Language="en_US">
+			<Text>Antonio</Text>
+		</Row>
+		<Row Tag="LOC_POLITICIAN_JFD_JFD_ITALY_12" Language="en_US">
+			<Text>Giuseppe</Text>
+		</Row>
+		<Row Tag="LOC_POLITICIAN_JFD_JFD_ITALY_13" Language="en_US">
+			<Text>Alessandro</Text>
+		</Row>
+		<Row Tag="LOC_POLITICIAN_JFD_JFD_ITALY_14" Language="en_US">
+			<Text>Sidney</Text>
+		</Row>
+		<Row Tag="LOC_POLITICIAN_JFD_JFD_ITALY_15" Language="en_US">
+			<Text>Paolo</Text>
+		</Row>
+		<!--CONDOTIERRE-->
+		<Row Tag="LOC_UNIT_JFD_CONDOTIERRE_NAME" Language="en_US">
+			<Text>Condottiere</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_JFD_CONDOTIERRE_DESCRIPTION" Language="en_US">
+			<Text>Italian unique Medieval mounted unit that must be purchased with [ICON_GOLD] Gold but incurs no Maintenance. Additional +5 [ICON_STRENGTH] Combat Strength when fighting City-States.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_JFD_CONDOTIERRE_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>In the late Middle Ages and throughout the Renaissance, the Italian city-states were prospering from their trade with the Levant, yet possessed woefully small national armies. In the event that foreign powers and envious neighbors attacked, the ruling nobles hired foreign mercenaries to fight for them. Condottieri were the leaders of the mercenary armies (which consisted mostly of heavily armored cavalry) contracted by the Italian city-states and the Papacy. The condottieri company commanders selected the soldiers to enlist; the condotta was a consolidated contract, and, when the ferma (service period) elapsed, the company entered an aspetto (wait) period, wherein, the contracting city-state considered its renewal. If the condotta expired definitively, the condottiere could not declare war against the contracting city-state for two years. This military–business custom was respected because professional reputation (business credibility) was everything to the condottieri; a deceived employer was a reputation ruined. The fifteenth-century Italian armies defeated most of the Turkish, Swiss, Hungarian, German, French, and Austrian incursions.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_JFD_CONDOTIERRE_NAME" Language="en_US">
+			<Text>White Company</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_JFD_CONDOTIERRE_DESCRIPTION" Language="en_US">
+			<Text>+5 [ICON_Strength] Combat Strength when fighting against City-States.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_JFD_CONDOTIERRE_COMBAT_BONUS_DESC" Language="en_US">
+			<Text>+{1_value} [ICON_Strength] Combat Strength when fighting against City-States.</Text>
+		</Row>
+		<!--DUOMO-->
+		<Row Tag="LOC_BUILDING_JFD_DUOMO_NAME" Language="en_US">
+			<Text>Duomo</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_JFD_DUOMO_DESCRIPTION" Language="en_US">
+			<Text>Italian unique building that provides bonus [ICON_FAITH] Faith equal to the adjacency [ICON_CULTURE] Culture bonus of its district. It has a slot for a Great Work of Art and yields [ICON_CULTURE] Culture.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_JFD_DUOMO_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Duomo is a term for a cathedral church. A Duomo may be either a present or a former cathedral (the latter always in a town that no longer has a bishop nor therefore a cathedral, as for example Trevi). Some, like the Duomo of Monza, have never been cathedrals, although old and important. Many people refer to particular churches simply as "Il Duomo" or "The Duomo", without regard to the full proper name of the church.[NEWLINE][NEWLINE]Italian cathedrals are often highly decorated and contain notable artworks; in many cases the buildings themselves are true artworks. Some of the most well-known Duomos include San Giovanni in Laterano in Rome, Il Duomo di Milano and Florence's Santa Maria del Fiore.</Text>
+		</Row>
+		<!--MOD SUPPORT-->
+		<!--Rule with Faith-->
+		<Row Tag="LOC_GOVERNMENT_JFD_CHIEFDOM_LEADER_TITLE_JFD_ITALY" Language="en_US">
+			<Text>Caput</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_CHIEFDOM_LEADER_TITLE_JFD_ITALY_FEMININE" Language="en_US">
+			<Text>Caput</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_HORDE_LEADER_TITLE_JFD_ITALY" Language="en_US">
+			<Text>Warlord</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_HORDE_LEADER_TITLE_JFD_ITALY_FEMININE" Language="en_US">
+			<Text>Warlord</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_POLIS_LEADER_TITLE_JFD_ITALY" Language="en_US">
+			<Text>Podesta</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_POLIS_LEADER_TITLE_JFD_ITALY_FEMININE" Language="en_US">
+			<Text>Podesta</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_AUTOCRACY_LEADER_TITLE_JFD_ITALY" Language="en_US">
+			<Text>Dictator</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_AUTOCRACY_LEADER_TITLE_JFD_ITALY_FEMININE" Language="en_US">
+			<Text>Dictator</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_CLASSICAL_DEMOCRACY_LEADER_TITLE_JFD_ITALY" Language="en_US">
+			<Text>Speaker</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_CLASSICAL_DEMOCRACY_LEADER_TITLE_JFD_ITALY_FEMININE" Language="en_US">
+			<Text>Speaker</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_OLIGARCHY_LEADER_TITLE_JFD_ITALY" Language="en_US">
+			<Text>Consul</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_OLIGARCHY_LEADER_TITLE_JFD_ITALY_FEMININE" Language="en_US">
+			<Text>Consule</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_MERCHANT_REPUBLIC_LEADER_TITLE_JFD_ITALY" Language="en_US">
+			<Text>Doge</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_MERCHANT_REPUBLIC_LEADER_TITLE_JFD_ITALY_FEMININE" Language="en_US">
+			<Text>Dogessa</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_MONARCHY_LEADER_TITLE_JFD_ITALY" Language="en_US">
+			<Text>King</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_MONARCHY_LEADER_TITLE_JFD_ITALY_FEMININE" Language="en_US">
+			<Text>Queen</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_NOBLE_REPUBLIC_LEADER_TITLE_JFD_ITALY" Language="en_US">
+			<Text>Captain</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_NOBLE_REPUBLIC_LEADER_TITLE_JFD_ITALY_FEMININE" Language="en_US">
+			<Text>Captainess</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_PEOPLES_REPUBLIC_LEADER_TITLE_JFD_ITALY" Language="en_US">
+			<Text>General-Secretary</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_PEOPLES_REPUBLIC_LEADER_TITLE_JFD_ITALY_FEMININE" Language="en_US">
+			<Text>General-Secretary</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_LIBERAL_DEMOCRACY_LEADER_TITLE_JFD_ITALY" Language="en_US">
+			<Text>King</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_LIBERAL_DEMOCRACY_LEADER_TITLE_JFD_ITALY_FEMININE" Language="en_US">
+			<Text>Queen</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_MILITARY_GUARDIANSHIP_LEADER_TITLE_JFD_ITALY" Language="en_US">
+			<Text>Duce</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_MILITARY_GUARDIANSHIP_LEADER_TITLE_JFD_ITALY_FEMININE" Language="en_US">
+			<Text>Duce</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_EMPIRE_LEADER_TITLE_JFD_ITALY" Language="en_US">
+			<Text>Emperor</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_EMPIRE_LEADER_TITLE_JFD_ITALY_FEMININE" Language="en_US">
+			<Text>Empress</Text>
+		</Row>
+	</LocalizedText>
+</GameData>

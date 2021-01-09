@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<LocalizedText>
+		<!--DREADNOUGHT-->
+		<Row Tag="LOC_UNIT_JFD_DREADNOAUGHT_NAME" Language="fr_FR">
+			<Text>Dreadnought</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1|2</Plurality>
+		</Row>
+		<Row Tag="LOC_UNIT_JFD_DREADNOAUGHT_DESCRIPTION" Language="fr_FR">
+			<Text>>Exclusive à l'Angleterre, cette unité de l'ère moderne remplace le cuirassé. Sensiblement plus puissant, il génère de la [ICON_SCIENCE] science lorsqu'une unité est vaincue, mais coûte plus cher.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_JFD_DREADNOAUGHT_CHAPTER_HISTORY_PARA_1" Language="fr_FR">
+			<Text>Le dreadnought est un type de cuirassé construit au début du 20ème siècle. D'abord conçu par la Royal Navy britannique en 1906, le dreadnought avait un design si révolutionnaire qu'il devint un symbole clé dans la course à la supériorité navale. Pour cette raison, le dreadnought fut rapidement surpassé par le "superdreadnought" et ne fit ses preuves que lors d'un seule combat : la bataille du Jutland entre la Grande-Bretagne et l'Allemagne, qui se termina par une impasse.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_JFD_DREADNOAUGHT_NAME" Language="fr_FR">
+			<Text>Dreadnought</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_JFD_DREADNOAUGHT_DESCRIPTION" Language="fr_FR">
+			<Text>Génère de la [ICON_SCIENCE] science d'un montant égal à 20 % de la puissance de combat d'une unité vaincue.</Text>
+		</Row>
+	</LocalizedText>
+</GameData>

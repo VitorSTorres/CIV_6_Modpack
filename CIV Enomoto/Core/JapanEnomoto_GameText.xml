@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<LocalizedText>
+		<!--LEADER-->
+		<Row Tag="LOC_LEADER_MER_ENOMOTO_NAME" Language="en_US">
+			<Text>Enomoto Takeaki</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MER_HAKODATE" Language="en_US">
+			<Text>Hakodate</Text>
+		</Row>
+		<!--Agenda-->
+		<Row Tag="LOC_AGENDA_MER_KOTETSU_NAME" Language="en_US">
+			<Text>Kōtetsu</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_MER_KOTETSU_DESCRIPTION" Language="en_US">
+			<Text>Likes Civilizations of the same Government type with high Science and Industry. Dislikes Civilizations of a different Government type with high Science and Industry.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDOS_LEADER_MER_ENOMOTO_REASON_NAVAL_GOVERNMENT" Language="en_US">
+			<Text>(You share a government and have a large navy)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_AGENDA_MER_KOTETSU_NAVAL_GOVERNMENT" Language="en_US">
+			<Text>Enomoto Takeaki is happy to see a naval power of the same Government type.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_MER_ENOMOTO_REASON_NAVAL_OTHER_GOVERNMENT" Language="en_US">
+			<Text>(You have a different government type and a large navy)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_AGENDA_MER_KOTETSU_NAVAL_OTHER_GOVERNMENT" Language="en_US">
+			<Text>Enomoto Takeaki is worried by a naval power of a different Government type.</Text>
+		</Row>
+		<!--DOM-->
+		<Row Tag="LOC_LOADING_INFO_LEADER_MER_ENOMOTO" Language="en_US">
+			<Text>Greetings, President Enomoto Takeaki. A respected admiral and leader, you were the first to bring democracy to Japan and fought for the shogunate during it's downfall. Once again Japan calls for you to defend it's samurai tradition, but yet still bring great change.</Text>
+		</Row>
+		<!--Traits-->
+		<Row Tag="LOC_TRAIT_LEADER_MER_KYOWAKOKU_NAME" Language="en_US">
+			<Text>Kyōwakoku</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_MER_KYOWAKOKU_DESCRIPTION" Language="en_US">
+			<Text>While in an active [ICON_Alliance] Alliance, your Harbors yield [ICON_Science] Science equal to their adjacency bonus. Receive a random [ICON_CivicBoosted] Civic boost when you recruit a [ICON_GreatAdmiral] Great Admiral and a random [ICON_TechBoosted] Tech Boost when another Civilization recruits one.</Text>
+		</Row>
+		<!--Civilopedia-->
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MER_ENOMOTO_TITLE" Language="en_US">
+			<Text>Enomoto Takeaki</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MER_ENOMOTO_SUBTITLE" Language="en_US">
+			<Text>President of the Ezo Republic</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MER_ENOMOTO_QUOTE" Language="en_US">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MER_ENOMOTO_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Samurai, admiral and President of the Republic, Enomoto Takeaki was admired and respected on both sides during the Boshin War. Born into loyalty to the Tokugawa Shogunate, Enomoto spent his early life procuring Western technologies for use by his feudal lord. He became fluent in English and Dutch, and secured several advancements such as the telegraph on his visit to the Netherlands.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MER_ENOMOTO_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>Enomoto was a commander in the Tokugawa Navy when war broke out against the Satchō Alliance, the forces attempting to restore power to the Emperor. Upon the surrender of Edo (Tokyo) in 1868, he escaped with his fleet to Ezo to declare an independent republic. The remaining Tokugawa loyalists elected Enomoto as President, in the first election in Japan's history.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MER_ENOMOTO_CHAPTER_HISTORY_PARA_3" Language="en_US">
+			<Text>After the collapse of the Republic, Enomoto continued to be held in high esteem by the Meiji Government and later became a founder of the Imperial Japanese Navy.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MER_ENOMOTO_CHAPTER_CAPSULE_BODY" Language="en_US">
+			<Text>Enomoto Takeaki's Japan seeks to form alliances to further their scientific advancements and build up a strong fleet.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MER_ENOMOTO_CHAPTER_DETAILED_BODY" Language="en_US">
+			<Text>Japan's flexibility allows Enomoto to fit in as potentially powerful science or military leader. Being able to construct units with limited strategic resources means less encampments need to be constructed in his cities, should he want to focus on other victory types.</Text>
+		</Row>
+		<!--Diplomacy-->
+		<!--FIRST MEET-->
+		<!--First AI line-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_MER_ENOMOTO_ANY" Language="en_US">
+			<Text>Welcome to Ezo, i am Enomoto Takeaki, the elected representative of this land. I hope we can work together in the future.</Text>
+		</Row>
+		<!--AI invitation to visit nearby City-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_MER_ENOMOTO_ANY" Language="en_US">
+			<Text>We are holding a meeting later today, perhaps you would like to sit in as an honoured guest and see how we do politics here?</Text>
+		</Row>
+		<!--AI accepts Human invitation-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_MER_ENOMOTO_ANY" Language="en_US">
+			<Text>Thank you.</Text>
+		</Row>
+		<!--AI invitation to exchange Capital Information-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_MER_ENOMOTO_ANY" Language="en_US">
+			<Text>We should exchange information about our cities.</Text>
+		</Row>
+		<!--GREETINGS-->
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_MER_ENOMOTO_ANY" Language="en_US">
+			<Text>Greetings.</Text>
+		</Row>
+		<!--DELEGATION-->
+		<!--AI Accepts-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_MER_ENOMOTO_ANY" Language="en_US">
+			<Text>Your delegation has shown us great respect, and we will ensure their stay is comfortable.</Text>
+		</Row>
+		<!--AI Rejects-->
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_MER_ENOMOTO_ANY" Language="en_US">
+			<Text>I can't agree to having visitors right now, we're very busy with internal politics.</Text>
+		</Row>
+		<!--AI Requests -->
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_MER_ENOMOTO_ANY" Language="en_US">
+			<Text>I have sent a delegation to your capital, they bring writings and diagrams for you to study, perhaps you can learn a thing or two from them.</Text>
+		</Row>
+		<!--OPEN BORDERS-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_MER_ENOMOTO_ANY" Language="en_US">
+			<Text>This sounds good.</Text>
+		</Row>
+		<!--AI rejects from human-->
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_MER_ENOMOTO_ANY" Language="en_US">
+			<Text>We can't allow anything of the sort.</Text>
+		</Row>
+		<!--AI requests from human-->
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_MER_ENOMOTO_ANY" Language="en_US">
+			<Text>I hope you can agree to these terms.</Text>
+		</Row>
+		<!--DECLARE FRIENDSHIP-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_MER_ENOMOTO_ANY" Language="en_US">
+			<Text>After some discussion with my government, I think it would be best to give you this offer.</Text>
+		</Row>
+		<!--AI Rejects from human -->
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_MER_ENOMOTO_ANY" Language="en_US">
+			<Text>This isn't ideal for us right now.</Text>
+		</Row>
+		<!--AI Requests friendship from human-->
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_MER_ENOMOTO_ANY" Language="en_US">
+			<Text>I offer you my respect as an equal, and ask you return the courtesy.</Text>
+		</Row>
+		<!--Human accepts AI requests, AI responds-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_MER_ENOMOTO_ANY" Language="en_US">
+			<Text>Thank you on behalf of the republic.</Text>
+		</Row>
+		<!--Human rejects AI requests, AI responds-->
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_MER_ENOMOTO_ANY" Language="en_US">
+			<Text>I am disappointed, to say the least.</Text>
+		</Row>
+		<!--ALLIANCE-->
+		<!--AI Requests an alliance from human-->
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_MER_ENOMOTO_ANY" Language="en_US">
+			<Text>After lengthy discussions, I have decided to offer you a formalised version of our friendship.</Text>
+		</Row>
+		<!--KUDOS & WARNINGS-->
+		<!--AI Kudos-->
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_MER_ENOMOTO_ANY" Language="en_US">
+			<Text>You show great wisdom. Politics doesn't just take place in offices, but also on the battlefield.</Text>
+		</Row>
+		<!--AI Warnings-->
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_MER_ENOMOTO_ANY" Language="en_US">
+			<Text>As long as your empire exists, the republic is at risk. </Text>
+		</Row>
+		<!--AI warns player for border troops-->
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_MER_ENOMOTO_ANY" Language="en_US">
+			<Text>The ministers are all in an uproar over your troops gathering outside the borders. I am doing my best to calm them, but could you please move away?</Text>
+		</Row>
+		<!--TRADE-->
+		<!--AI Accepts Deal-->
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_MER_ENOMOTO_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_MER_ENOMOTO_ANY}</Text>
+		</Row>
+		<!--AI Rejects Deal-->
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_MER_ENOMOTO_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_MER_ENOMOTO_ANY}</Text>
+		</Row>
+		<!--DENOUNCE-->
+		<!--From Human-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_MER_ENOMOTO_ANY" Language="en_US">
+			<Text>You dishonor me.</Text>
+		</Row>
+		<!--From AI-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_MER_ENOMOTO_ANY" Language="en_US">
+			<Text>Your style of leadership is a risk to all those around you. (Denounces You)</Text>
+		</Row>
+		<!--Rationale-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_MER_KOTETSU_NAVAL_OTHER_GOVERNMENT" Language="en_US">
+			<Text>(You have a different government and a large navy.)</Text>
+		</Row>
+
+		<!--DECLARE WAR-->
+		<!--Human Declares War-->
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_MER_ENOMOTO_ANY" Language="en_US">
+			<Text>I am more then willing to take up the sword to fight those who oppose me.</Text>
+		</Row>
+		<!--AI Declares War-->
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_MER_ENOMOTO_ANY" Language="en_US">
+			<Text>You are a danger to my republic that i have sworn to serve. Prepare for war.</Text>
+		</Row>
+		<!--MAKE PEACE-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_MER_ENOMOTO_ANY" Language="en_US">
+			<Text>It is for the better.</Text>
+		</Row>
+		<!--AI refuses human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_MER_ENOMOTO_ANY" Language="en_US">
+			<Text>It would dishonor me to end now.</Text>
+		</Row>
+		<!--AI requests from human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_MER_ENOMOTO_ANY" Language="en_US">
+			<Text>We have brought nothing but bloodshed.</Text>
+		</Row>
+		<!--DEFEAT-->
+		<!--AI is Defeated-->
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_MER_ENOMOTO_ANY" Language="en_US">
+			<Text>The republic falls as i fall, and the samurai fall with me.</Text>
+		</Row>
+		<!--Human is Defeated (will see this in hotseat)-->
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_MER_ENOMOTO_ANY" Language="en_US">
+			<Text>[LOC_DIPLO_DEFEAT_FROM_AI_LEADER_MER_ENOMOTO_ANY]</Text>
+		</Row>
+	</LocalizedText>
+</GameData>

@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<AssetObjects..XLP>
+	<m_Version>
+		<major>4</major>
+		<minor>0</minor>
+		<build>315</build>
+		<revision>805</revision>
+	</m_Version>
+	<m_ClassName text="UILensAsset"/>
+	<m_PackageName text="UILensAssets"/>
+	<m_Entries>
+		<Element>
+			<m_EntryID text="Loyalty_Overlay_Arabia_Box"/>
+			<m_ObjectName text="Loyalty_Overlay_Arabia_Box"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Loyalty_Overlay_Australia_Box"/>
+			<m_ObjectName text="Loyalty_Overlay_Australia_Box"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Loyalty_Overlay_Brazil_Box"/>
+			<m_ObjectName text="Loyalty_Overlay_Brazil_Box"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Loyalty_Overlay_Cree_Box"/>
+			<m_ObjectName text="Loyalty_Overlay_Cree_Box"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Loyalty_Overlay_Georgia_Box"/>
+			<m_ObjectName text="Loyalty_Overlay_Georgia_Box"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Loyalty_Overlay_Germany_Box"/>
+			<m_ObjectName text="Loyalty_Overlay_Germany_Box"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Loyalty_Overlay_Greece_Box"/>
+			<m_ObjectName text="Loyalty_Overlay_Greece_Box"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Loyalty_Overlay_Japan_Box"/>
+			<m_ObjectName text="Loyalty_Overlay_Japan_Box"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Loyalty_Overlay_Khmer_Box"/>
+			<m_ObjectName text="Loyalty_Overlay_Khmer_Box"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Loyalty_Overlay_Netherlands_Box"/>
+			<m_ObjectName text="Loyalty_Overlay_Netherlands_Box"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Loyalty_Overlay_Norway_Box"/>
+			<m_ObjectName text="Loyalty_Overlay_Norway_Box"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Loyalty_Overlay_Nubia_Box"/>
+			<m_ObjectName text="Loyalty_Overlay_Nubia_Box"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Loyalty_Overlay_Persia_Box"/>
+			<m_ObjectName text="Loyalty_Overlay_Persia_Box"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Loyalty_Overlay_Poland_Box"/>
+			<m_ObjectName text="Loyalty_Overlay_Poland_Box"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Loyalty_Overlay_Rome_Box"/>
+			<m_ObjectName text="Loyalty_Overlay_Rome_Box"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Loyalty_Overlay_Russia_Box"/>
+			<m_ObjectName text="Loyalty_Overlay_Russia_Box"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Loyalty_Overlay_Spain_Box"/>
+			<m_ObjectName text="Loyalty_Overlay_Spain_Box"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Loyalty_Overlay_Sumeria_Box"/>
+			<m_ObjectName text="Loyalty_Overlay_Sumeria_Box"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Loyalty_Pressure_Arabia_Box"/>
+			<m_ObjectName text="Loyalty_Pressure_Arabia_Box"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Loyalty_Pressure_Australia_Box"/>
+			<m_ObjectName text="Loyalty_Pressure_Australia_Box"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Loyalty_Pressure_Brazil_Box"/>
+			<m_ObjectName text="Loyalty_Pressure_Brazil_Box"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Loyalty_Pressure_Cree_Box"/>
+			<m_ObjectName text="Loyalty_Pressure_Cree_Box"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Loyalty_Pressure_Georgia_Box"/>
+			<m_ObjectName text="Loyalty_Pressure_Georgia_Box"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Loyalty_Pressure_Germany_Box"/>
+			<m_ObjectName text="Loyalty_Pressure_Germany_Box"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Loyalty_Pressure_Greece_Box"/>
+			<m_ObjectName text="Loyalty_Pressure_Greece_Box"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Loyalty_Pressure_Japan_Box"/>
+			<m_ObjectName text="Loyalty_Pressure_Japan_Box"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Loyalty_Pressure_Khmer_Box"/>
+			<m_ObjectName text="Loyalty_Pressure_Khmer_Box"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Loyalty_Pressure_Netherlands_Box"/>
+			<m_ObjectName text="Loyalty_Pressure_Netherlands_Box"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Loyalty_Pressure_Norway_Box"/>
+			<m_ObjectName text="Loyalty_Pressure_Norway_Box"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Loyalty_Pressure_Nubia_Box"/>
+			<m_ObjectName text="Loyalty_Pressure_Nubia_Box"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Loyalty_Pressure_Persia_Box"/>
+			<m_ObjectName text="Loyalty_Pressure_Persia_Box"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Loyalty_Pressure_Poland_Box"/>
+			<m_ObjectName text="Loyalty_Pressure_Poland_Box"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Loyalty_Pressure_Rome_Box"/>
+			<m_ObjectName text="Loyalty_Pressure_Rome_Box"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Loyalty_Pressure_Russia_Box"/>
+			<m_ObjectName text="Loyalty_Pressure_Russia_Box"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Loyalty_Pressure_Spain_Box"/>
+			<m_ObjectName text="Loyalty_Pressure_Spain_Box"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Loyalty_Pressure_Sumeria_Box"/>
+			<m_ObjectName text="Loyalty_Pressure_Sumeria_Box"/>
+		</Element>
+	</m_Entries>
+	<m_AllowedPlatforms>
+		<Element>WINDOWS</Element>
+		<Element>LINUX</Element>
+		<Element>MACOS</Element>
+		<Element>IOS</Element>
+	</m_AllowedPlatforms>
+</AssetObjects..XLP>
+

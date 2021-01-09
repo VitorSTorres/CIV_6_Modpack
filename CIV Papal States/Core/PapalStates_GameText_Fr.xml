@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<LocalizedText>
+		<!--MOD-->
+		<Row Tag="LOC_MOD_JFD_PAPAL_STATES_DESCRIPTION" Language="fr_FR">
+			<Text>------------------------------------[NEWLINE]CIVILIZATION - PAPAL STATES[NEWLINE][NEWLINE]TRAIT - APOSTOLIC SEE[NEWLINE]Begins with +1 [ICON_GREATPROPHET] Great Prophet point per turn. All Religious Units have an additional charge and are unaffected by Zone of Control.[NEWLINE][NEWLINE]DISTRICT - DIOCESE[NEWLINE][NEWLINE]A district unique to the Papal States for [ICON_FAITH] Faith. Replaces the Holy Site.[NEWLINE]Allows the purchase of Shrines and Temples with [ICON_FAITH] Faith in this city. Provides a major [ICON_FAITH] Faith bonus when placed adjacent to City Centre, Government Plaza, or Consulate Districts.[NEWLINE][NEWLINE]UNIT - SWISS GUARD[NEWLINE]Papal unique Renaissance melee unit that unlocks at Diplomatic Service. Must be purchased with [ICON_GOLD] Gold. Has +10 [ICON_STRENGTH] Combat Strength when defending against city attacks.[NEWLINE][NEWLINE]------------------------------------[NEWLINE]LEADER -- PIUS IX[NEWLINE][NEWLINE]TRAIT -- VATICAN COUNCILS[NEWLINE]Receives an extra Diplomatic slot when they research the Divine Right and Reformed Church civics. Receives an [ICON_ENVOY] Envoy when any Religion is founded; two if their own.[NEWLINE][NEWLINE]AGENDA - PAPAL INFALLABILITY[NEWLINE]Friendly to those civilizations that are behind in [ICON_FAITH] Faith and that share the same Religion. Dislikes heretic civilizations that follow a different Religion.</Text>
+		</Row>
+		<!--CIVILIZATION-->
+		<Row Tag="LOC_CIVILIZATION_JFD_PAPAL_STATES_NAME" Language="fr_FR">
+			<Text>États pontificaux</Text>
+			<Gender>masculine</Gender>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_JFD_PAPAL_STATES_DESCRIPTION" Language="fr_FR">
+			<Text>Empire pontifical</Text>
+			<Gender>masculine:vowel</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_JFD_PAPAL_STATES_ADJECTIVE" Language="fr_FR">
+			<Text>pontifical|pontificale|pontificaux|pontificales</Text>
+			<Gender>masculine|feminine|masculine|feminine</Gender>
+			<Plurality>1|1|2|2</Plurality>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_JFD_PAPAL_STATES_DESCRIPTION_JFD_CIVILIZATION" Language="fr_FR">
+			<Text>Civilization pontificale</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<!--Pedia-->
+		<Row Tag="LOC_CIVINFO_JFD_PAPAL_STATES_LOCATION" Language="fr_FR">
+			<Text>Europe</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_JFD_PAPAL_STATES_POPULATION" Language="fr_FR">
+			<Text>Environ 1000 (Cité du Vatican)</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_JFD_PAPAL_STATES_SIZE" Language="fr_FR">
+			<Text>Environ 0.44 kilomètre carré (Cité du Vatican)</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_JFD_PAPAL_STATES_CAPITAL" Language="fr_FR">
+			<Text>Rome</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_JFD_PAPAL_STATES_CHAPTER_HISTORY_PARA_1" Language="fr_FR">
+			<Text>Les États pontificaux étaient des territoires situés dans la péninsule italienne sous la domination souveraine directe du pape, de 752 à 1870. Ils faisaient partie des les principaux États de l'Italie à partir du 8ème siècle jusqu'à ce que la péninsule italienne soit unifiée en 1861 par le Royaume de Piémont-Sardaigne. À leur apogée, ils couvraient la plupart des régions italiennes modernes du Latium (qui comprend Rome), des Marches, de l'Ombrie et de la Romagne, et des portions de l'Émilie. Ces possessions étaient considérées comme une manifestation du pouvoir temporel du pape, par opposition à sa primauté ecclésiastique.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_JFD_PAPAL_STATES_CHAPTER_HISTORY_PARA_2" Language="fr_FR">
+			<Text>En 1861, une grande partie du territoire des États pontificaux avait été conquis par le Royaume d'Italie. Seul le Latium, y compris Rome, resta sous le contrôle temporel du Pape. En 1870, le pape perdit le Latium et Rome et n'avait plus aucun territoire physique, pas même le Vatican. Le dirigeant fasciste italien Benito Mussolini mit fin à la crise entre l'Italie unifiée et le Vatican en signant les accords du Latran, garantissant au pape la souveraineté de la Cité du Vatican.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_JFD_PAPAL_STATES_CHAPTER_HISTORY_PARA_3" Language="fr_FR">
+			<Text>Historiquement, les États pontificaux ont maintenu des forces militaires composées de bénévoles et de mercenaires. Entre 1860 et 1870, l'Armée pontificale (Esercito Pontificio en italien) comprenait deux régiments d'infanterie italienne recrutés localement, deux régiments suisses et un bataillon de volontaires irlandais, plus des artilleries et des dragons. En 1861, un corps international de volontaires catholiques, appelé zouaves pontificaux d'après le modèle des troupes d'infanterie de la colonie française d'Algérie, fut créé. Composé principalement de bénévoles néerlandais, français et belges, ce corps a servi contre les chemises rouges de Garibaldi, les brigands locaux et finalement contre les forces de l'Italie nouvellement unie.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_JFD_PAPAL_STATES_CHAPTER_HISTORY_PARA_4" Language="fr_FR">
+			<Text>L'Armée pontificale fut dissoute en 1870, ne conservant que la Garde palatine, qui fut elle-même dissoute le 14 septembre 1970 par le pape Paul VI, et la Garde suisse, qui continue à servir de nos jours en guise d'unité de cérémonie au Vatican et de force de protection du pape.</Text>
+		</Row>
+		<!--Trait-->
+		<Row Tag="LOC_TRAIT_CIVILIZATION_JFD_APOSTOLIC_SEE_NAME" Language="fr_FR">
+			<Text>Sièges apostoliques</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_JFD_APOSTOLIC_SEE_DESCRIPTION" Language="fr_FR">
+			<Text>Débute la partie avec un point de [ICON_GreatProphet] prophète illustre par tour. Toutes les unités religieuses disposent d'une charge supplémentaire et ne sont pas affectées par les zones de contrôle.</Text>
+		</Row>
+		<!--Cities-->
+		<Row Tag="LOC_CITY_NAME_JFD_PAPAL_STATES_1" Language="fr_FR">
+			<Text>Rome</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JFD_PAPAL_STATES_2" Language="fr_FR">
+			<Text>Bénévent</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JFD_PAPAL_STATES_3" Language="fr_FR">
+			<Text>Pontecorvo</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JFD_PAPAL_STATES_4" Language="fr_FR">
+			<Text>Ascoli</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JFD_PAPAL_STATES_5" Language="fr_FR">
+			<Text>Castel Gandolfo</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JFD_PAPAL_STATES_6" Language="fr_FR">
+			<Text>Avignon</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JFD_PAPAL_STATES_7" Language="fr_FR">
+			<Text>Ravenne</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JFD_PAPAL_STATES_8" Language="fr_FR">
+			<Text>Bologne</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JFD_PAPAL_STATES_9" Language="fr_FR">
+			<Text>Ferrare</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JFD_PAPAL_STATES_10" Language="fr_FR">
+			<Text>Civitavecchia</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JFD_PAPAL_STATES_11" Language="fr_FR">
+			<Text>Pérouse</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JFD_PAPAL_STATES_12" Language="fr_FR">
+			<Text>Assise</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JFD_PAPAL_STATES_13" Language="fr_FR">
+			<Text>Orvieto</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JFD_PAPAL_STATES_14" Language="fr_FR">
+			<Text>Senigallia</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JFD_PAPAL_STATES_15" Language="fr_FR">
+			<Text>Ancône</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JFD_PAPAL_STATES_16" Language="fr_FR">
+			<Text>Gubbio</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JFD_PAPAL_STATES_17" Language="fr_FR">
+			<Text>Camerino</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JFD_PAPAL_STATES_18" Language="fr_FR">
+			<Text>Fermo</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JFD_PAPAL_STATES_19" Language="fr_FR">
+			<Text>Rimini</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JFD_PAPAL_STATES_20" Language="fr_FR">
+			<Text>Urbino</Text>
+		</Row>
+		<!--Citizens-->
+		<Row Tag="LOC_CITIZEN_JFD_PAPAL_STATES_MALE_1" Language="fr_FR">
+			<Text>Giovanni</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_PAPAL_STATES_MALE_2" Language="fr_FR">
+			<Text>Fabio</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_PAPAL_STATES_MALE_3" Language="fr_FR">
+			<Text>Giulio</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_PAPAL_STATES_MALE_4" Language="fr_FR">
+			<Text>Decio</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_PAPAL_STATES_MALE_5" Language="fr_FR">
+			<Text>Federico</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_PAPAL_STATES_MALE_6" Language="fr_FR">
+			<Text>Francesco</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_PAPAL_STATES_MALE_7" Language="fr_FR">
+			<Text>Alderano</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_PAPAL_STATES_MALE_8" Language="fr_FR">
+			<Text>Giambattista</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_PAPAL_STATES_MALE_9" Language="fr_FR">
+			<Text>Fabrizio</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_PAPAL_STATES_MODERN_MALE_1" Language="fr_FR">
+			<Text>Giorgio</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_PAPAL_STATES_MODERN_MALE_2" Language="fr_FR">
+			<Text>Niccolo</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_PAPAL_STATES_MODERN_MALE_3" Language="fr_FR">
+			<Text>Antonio</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_PAPAL_STATES_MODERN_MALE_4" Language="fr_FR">
+			<Text>Giueseppe</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_PAPAL_STATES_MODERN_MALE_5" Language="fr_FR">
+			<Text>Silvio</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_PAPAL_STATES_MODERN_MALE_6" Language="fr_FR">
+			<Text>Alberico</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_PAPAL_STATES_MODERN_MALE_7" Language="fr_FR">
+			<Text>Ludovico</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_PAPAL_STATES_MODERN_MALE_8" Language="fr_FR">
+			<Text>Ignazio</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_PAPAL_STATES_MODERN_MALE_9" Language="fr_FR">
+			<Text>Lazzaro</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_PAPAL_STATES_MODERN_MALE_10" Language="fr_FR">
+			<Text>Francesco</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_PAPAL_STATES_FEMALE_1" Language="fr_FR">
+			<Text>Giulia</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_PAPAL_STATES_FEMALE_2" Language="fr_FR">
+			<Text>Chiara</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_PAPAL_STATES_FEMALE_3" Language="fr_FR">
+			<Text>Martina</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_PAPAL_STATES_FEMALE_4" Language="fr_FR">
+			<Text>Silvia</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_PAPAL_STATES_FEMALE_5" Language="fr_FR">
+			<Text>Francesca</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_PAPAL_STATES_FEMALE_6" Language="fr_FR">
+			<Text>Elisa</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_PAPAL_STATES_FEMALE_7" Language="fr_FR">
+			<Text>Federica</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_PAPAL_STATES_FEMALE_8" Language="fr_FR">
+			<Text>Alessia</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_PAPAL_STATES_FEMALE_9" Language="fr_FR">
+			<Text>Laura</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_PAPAL_STATES_FEMALE_10" Language="fr_FR">
+			<Text>Elena</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_PAPAL_STATES_MODERN_FEMALE_1" Language="fr_FR">
+			<Text>Giorgia</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_PAPAL_STATES_MODERN_FEMALE_2" Language="fr_FR">
+			<Text>Anna</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_PAPAL_STATES_MODERN_FEMALE_3" Language="fr_FR">
+			<Text>Marta</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_PAPAL_STATES_MODERN_FEMALE_4" Language="fr_FR">
+			<Text>Roberta</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_PAPAL_STATES_MODERN_FEMALE_5" Language="fr_FR">
+			<Text>Beatrice</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_PAPAL_STATES_MODERN_FEMALE_6" Language="fr_FR">
+			<Text>Giada</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_PAPAL_STATES_MODERN_FEMALE_7" Language="fr_FR">
+			<Text>Valeria</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_PAPAL_STATES_MODERN_FEMALE_8" Language="fr_FR">
+			<Text>Simona</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_PAPAL_STATES_MODERN_FEMALE_9" Language="fr_FR">
+			<Text>Benedetta</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_PAPAL_STATES_MODERN_FEMALE_10" Language="fr_FR">
+			<Text>Ludovica</Text>
+		</Row>
+		<!--DIOCESE-->
+		<Row Tag="LOC_DISTRICT_JFD_DIOCESE_NAME" Language="fr_FR">
+			<Text>Diocèse|Diocèses</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1|2</Plurality>
+		</Row>
+		<Row Tag="LOC_DISTRICT_JFD_DIOCESE_DESCRIPTION" Language="fr_FR">
+			<Text>Quartier exclusif aux États pontificaux, remplaçant le lieu saint et favorisant la foi.[NEWLINE][NEWLINE]Permet l'achat d'autels et de temples avec de la [ICON_FAITH] foi dans la ville où il est construit. Fournit un important bonus de proximité de foi [ICON_FAITH] lorsqu'il est adjacent à un centre-ville, une place de la gouvernance ou d'un quartier consulaire.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_DISTRICTS_PAGE_DISTRICT_JFD_DIOCESE_CHAPTER_HISTORY_PARA_1" Language="fr_FR">
+			<Text>Le mot diocèse est dérivé du terme grec dioíkêsis, signifiant "administration". Conçus initialement sous Dioclétien, à la fin du 3ème siècle, le terme a été adopté par l'Église catholique pour désigner le territoire sur lequel s'exerce l'autorité d'un siège épiscopal, qui était initialement appelé paroisse. Il s'agit donc du territoire placé sous la responsabilité d'un évêque. Dans les Églises orthodoxes et les Églises catholiques orientales, on utilise plutôt le mot éparchie : dans les pays slaves orthodoxes, sa signification est la même, mais ailleurs, en Grèce notamment, il a acquis une connotation plutôt civile et politique.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_JFD_DIOCESE_FAITH" Language="fr_FR">
+			<Text>[ICON_Faith] Foi +{1_num} du diocèse adjacent.</Text>
+		</Row>
+		<!--SWISS GUARD-->
+		<Row Tag="LOC_UNIT_JFD_SWISS_GUARD_NAME" Language="fr_FR">
+			<Text>Garde suisse|Gardes suisses</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1|2</Plurality>
+		</Row>
+		<Row Tag="LOC_UNIT_JFD_SWISS_GUARD_DESCRIPTION" Language="fr_FR">
+			<Text>Exclusive aux États pontificaux, cette unité de l'ère médiévale remplace le piquier. Doit être achetée avec de [ICON_GOLD] l'or, mais coûte moins cher. [ICON_Strength] Puissance défensive augmentée de 10 points contre les attaques de villes.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_JFD_SWISS_GUARD_CHAPTER_HISTORY_PARA_1" Language="fr_FR">
+			<Text>Les gardes suisses décrivent historiquement les mercenaires originaires de Suisse qui cherchaient à servir comme gardes du corps dans les cours d'Europe au Moyen Âge et à la Renaissance. Salués pour leur loyauté et leur bravoure, ils jouissaient d'une large gamme de fonctions, des gardiens de cérémonie aux troupes de première ligne, et étaient utilisés par les armées de certaines des plus grandes puissances d'Europe: la France, l'Espagne et Naples. Bien qu'en 1874, le recrutement des gardes suisses par des puissances étrangères fut interdit par la Constitution suisse, la Garde pontificale suisse qui servait le Saint-Siège devint une exception, et demeure encore aujourd'hui la principale force du Vatican, responsable de la sécurité du pape et du palais apostolique.</Text>
+		</Row>
+		<Row Tag="JFD_SWISS_GUARD_CITY_CENTER_COMBAT_DESC" Language="fr_FR">
+			<Text>[ICON_Strength] Puissance défensive + 10 contre les attaques de villes.</Text>
+		</Row>
+		<!--MOD SUPPORT-->
+		<!--JFD Rule with Faith-->
+		<Row Tag="LOC_GOVERNMENT_JFD_CHIEFDOM_LEADER_TITLE_JFD_PIUS_IX" Language="fr_FR">
+			<Text>Évêque</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_AUTOCRACY_LEADER_TITLE_JFD_PIUS_IX" Language="fr_FR">
+			<Text>Primat</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_CLASSICAL_DEMOCRACY_LEADER_TITLE_JFD_PIUS_IX" Language="fr_FR">
+			<Text>Prédicateur</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_OLIGARCHY_LEADER_TITLE_JFD_PIUS_IX" Language="fr_FR">
+			<Text>Vicaire</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_MERCHANT_REPUBLIC_LEADER_TITLE_JFD_PIUS_IX" Language="fr_FR">
+			<Text>Prince</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_MONARCHY_LEADER_TITLE_JFD_PIUS_IX" Language="fr_FR">
+			<Text>Souverain</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_NOBLE_REPUBLIC_LEADER_TITLE_JFD_PIUS_IX" Language="fr_FR">
+			<Text>Prince Pontifical</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_PEOPLES_REPUBLIC_LEADER_TITLE_JFD_PIUS_IX" Language="fr_FR">
+			<Text>Secrétaire Général</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_LIBERAL_DEMOCRACY_LEADER_TITLE_JFD_PIUS_IX" Language="fr_FR">
+			<Text>Pape</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_MILITARY_GUARDIANSHIP_LEADER_TITLE_JFD_PIUS_IX" Language="fr_FR">
+			<Text>Souverain Pontife</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_EMPIRE_LEADER_TITLE_JFD_PIUS_IX" Language="fr_FR">
+			<Text>Pape-Empereur</Text>
+		</Row>
+	</LocalizedText>
+</GameData>

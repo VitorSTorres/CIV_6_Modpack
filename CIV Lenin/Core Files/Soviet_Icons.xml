@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<IconTextureAtlases>
+		<!--Leader Icons-->
+
+		<Row Name="ICON_ATLAS_SC_LENIN" IconSize="32"  IconsPerRow="1" IconsPerColumn="1" Filename="SC_Lenin_Icon32.dds"/>
+		<Row Name="ICON_ATLAS_SC_LENIN" IconSize="45"  IconsPerRow="1" IconsPerColumn="1" Filename="SC_Lenin_Icon45.dds"/>
+		<Row Name="ICON_ATLAS_SC_LENIN" IconSize="50"  IconsPerRow="1" IconsPerColumn="1" Filename="SC_Lenin_Icon50.dds"/>
+		<Row Name="ICON_ATLAS_SC_LENIN" IconSize="55"  IconsPerRow="1" IconsPerColumn="1" Filename="SC_Lenin_Icon55.dds"/>
+		<Row Name="ICON_ATLAS_SC_LENIN" IconSize="64"  IconsPerRow="1" IconsPerColumn="1" Filename="SC_Lenin_Icon64.dds"/>
+		<Row Name="ICON_ATLAS_SC_LENIN" IconSize="80"  IconsPerRow="1" IconsPerColumn="1" Filename="SC_Lenin_Icon80.dds"/>
+		<Row Name="ICON_ATLAS_SC_LENIN" IconSize="256" IconsPerRow="1" IconsPerColumn="1" Filename="SC_Lenin_Icon256.dds"/>
+
+		<!--Civilization Icons-->
+
+		<Row Name="ICON_ATLAS_SC_SOVIETUNION" IconSize="22"  IconsPerRow="1" IconsPerColumn="1" Filename="Soviet_Civ_Icon22.dds"/>
+		<Row Name="ICON_ATLAS_SC_SOVIETUNION" IconSize="30"  IconsPerRow="1" IconsPerColumn="1" Filename="Soviet_Civ_Icon30.dds"/>
+		<Row Name="ICON_ATLAS_SC_SOVIETUNION" IconSize="32"  IconsPerRow="1" IconsPerColumn="1" Filename="Soviet_Civ_Icon32.dds"/>
+		<Row Name="ICON_ATLAS_SC_SOVIETUNION" IconSize="36"  IconsPerRow="1" IconsPerColumn="1" Filename="Soviet_Civ_Icon36.dds"/>
+		<Row Name="ICON_ATLAS_SC_SOVIETUNION" IconSize="44"  IconsPerRow="1" IconsPerColumn="1" Filename="Soviet_Civ_Icon44.dds"/>
+		<Row Name="ICON_ATLAS_SC_SOVIETUNION" IconSize="45"  IconsPerRow="1" IconsPerColumn="1" Filename="SC_Soviet_Lenin_Icon45.dds"/>
+		<Row Name="ICON_ATLAS_SC_SOVIETUNION" IconSize="48"  IconsPerRow="1" IconsPerColumn="1" Filename="Soviet_Civ_Icon48.dds"/>
+		<Row Name="ICON_ATLAS_SC_SOVIETUNION" IconSize="50"  IconsPerRow="1" IconsPerColumn="1" Filename="Soviet_Civ_Icon50.dds"/>
+		<Row Name="ICON_ATLAS_SC_SOVIETUNION" IconSize="55"  IconsPerRow="1" IconsPerColumn="1" Filename="Soviet_Civ_Icon55.dds"/>
+		<Row Name="ICON_ATLAS_SC_SOVIETUNION" IconSize="64"  IconsPerRow="1" IconsPerColumn="1" Filename="Soviet_Civ_Icon64.dds"/>
+		<Row Name="ICON_ATLAS_SC_SOVIETUNION" IconSize="80"  IconsPerRow="1" IconsPerColumn="1" Filename="Soviet_Civ_Icon80.dds"/>
+		<Row Name="ICON_ATLAS_SC_SOVIETUNION" IconSize="128" IconsPerRow="1" IconsPerColumn="1" Filename="Soviet_Civ_Icon128.dds"/>
+		<Row Name="ICON_ATLAS_SC_SOVIETUNION" IconSize="200" IconsPerRow="1" IconsPerColumn="1" Filename="Soviet_Civ_Icon200.dds"/>
+		<Row Name="ICON_ATLAS_SC_SOVIETUNION" IconSize="256" IconsPerRow="1" IconsPerColumn="1" Filename="Soviet_Civ_Icon256.dds"/>
+
+		<!--Unit Icons-->
+
+		<Row Name="ICON_ATLAS_SC_SOVIETGUARD" IconSize="22"  IconsPerRow="1" IconsPerColumn="1" Filename="SovietGuard_Icon22.dds"/>
+		<Row Name="ICON_ATLAS_SC_SOVIETGUARD" IconSize="32"  IconsPerRow="1" IconsPerColumn="1" Filename="SovietGuard_Icon32.dds"/>
+		<Row Name="ICON_ATLAS_SC_SOVIETGUARD" IconSize="38"  IconsPerRow="1" IconsPerColumn="1" Filename="SovietGuard_Icon38.dds"/>
+		<Row Name="ICON_ATLAS_SC_SOVIETGUARD" IconSize="45"  IconsPerRow="1" IconsPerColumn="1" Filename="SovietGuard_Icon45.dds"/>
+		<Row Name="ICON_ATLAS_SC_SOVIETGUARD" IconSize="50"  IconsPerRow="1" IconsPerColumn="1" Filename="SovietGuard_Icon50.dds"/>
+		<Row Name="ICON_ATLAS_SC_SOVIETGUARD" IconSize="80"  IconsPerRow="1" IconsPerColumn="1" Filename="SovietGuard_Icon80.dds"/>
+		<Row Name="ICON_ATLAS_SC_SOVIETGUARD" IconSize="256" IconsPerRow="1" IconsPerColumn="1" Filename="SovietGuard_Icon256.dds"/>
+		<Row Name="ICON_ATLAS_SC_T34" IconSize="22"  IconsPerRow="1" IconsPerColumn="1" Filename="T34_Icon22.dds"/>
+		<Row Name="ICON_ATLAS_SC_T34" IconSize="32"  IconsPerRow="1" IconsPerColumn="1" Filename="T34_Icon32.dds"/>
+		<Row Name="ICON_ATLAS_SC_T34" IconSize="38"  IconsPerRow="1" IconsPerColumn="1" Filename="T34_Icon38.dds"/>
+		<Row Name="ICON_ATLAS_SC_T34" IconSize="45"  IconsPerRow="1" IconsPerColumn="1" Filename="T34_Icon45.dds"/>
+		<Row Name="ICON_ATLAS_SC_T34" IconSize="50"  IconsPerRow="1" IconsPerColumn="1" Filename="T34_Icon50.dds"/>
+		<Row Name="ICON_ATLAS_SC_T34" IconSize="80"  IconsPerRow="1" IconsPerColumn="1" Filename="T34_Icon80.dds"/>
+		<Row Name="ICON_ATLAS_SC_T34" IconSize="256" IconsPerRow="1" IconsPerColumn="1" Filename="T34_Icon256.dds"/>
+
+		<!--Impovement Icons-->
+
+		<Row Name="ICON_ATLAS_SC_NAUKOGRAD" IconSize="38"  IconsPerRow="1" IconsPerColumn="1" Filename="SC_Naukograd_Icon38.dds"/>
+		<Row Name="ICON_ATLAS_SC_NAUKOGRAD" IconSize="45"  IconsPerRow="1" IconsPerColumn="1" Filename="SC_Naukograd_Icon45.dds"/>
+		<Row Name="ICON_ATLAS_SC_NAUKOGRAD" IconSize="50"  IconsPerRow="1" IconsPerColumn="1" Filename="SC_Naukograd_Icon50.dds"/>
+		<Row Name="ICON_ATLAS_SC_NAUKOGRAD" IconSize="80"  IconsPerRow="1" IconsPerColumn="1" Filename="SC_Naukograd_Icon80.dds"/>
+		<Row Name="ICON_ATLAS_SC_NAUKOGRAD" IconSize="256" IconsPerRow="1" IconsPerColumn="1" Filename="SC_Naukograd_Icon256.dds"/>
+
+	</IconTextureAtlases>
+
+	<IconDefinitions>
+		<!--Leader Icons-->
+		<Row Name="ICON_LEADER_SC_LENIN" Atlas="ICON_ATLAS_SC_LENIN" Index="0"/>
+
+		<!--Civilization Icons-->
+		<Row Name="ICON_CIVILIZATION_SC_SOVIETUNION" Atlas="ICON_ATLAS_SC_SOVIETUNION" Index="0"/>
+
+		<!--Unit Icons-->
+		<Row Name="ICON_UNIT_SC_SOVIETGUARD" Atlas="ICON_ATLAS_SC_SOVIETGUARD" Index="0"/>
+		<Row Name="ICON_UNIT_SC_T34" Atlas="ICON_ATLAS_SC_T34" Index="0"/>
+
+		<!--Improvement Icons-->
+		<Row Name="ICON_IMPROVEMENT_SC_NAUKOGRAD" Atlas="ICON_ATLAS_SC_NAUKOGRAD" Index="0"/>
+	</IconDefinitions>
+</GameData>

@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<LocalizedText>
+		<!--CIVILIZATION-->
+		<Row Tag="LOC_CIVILIZATION_JFD_ITALY_NAME" Language="fr_FR">
+			<Text>Italie</Text>
+			<Gender>feminine:vowel</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_JFD_ITALY_DESCRIPTION" Language="fr_FR">
+			<Text>Empire italien</Text>
+			<Gender>masculine:vowel</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_JFD_ITALY_ADJECTIVE" Language="fr_FR">
+			<Text>italien|italienne|italiens|italiennes</Text>
+			<Gender>masculine|feminine|masculine|feminine</Gender>
+			<Plurality>1|1|2|2</Plurality>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_JFD_ITALY_DESCRIPTION_JFD_CIVILIZATION" Language="fr_FR">
+			<Text>Civilisation italienne</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<!--Pedia-->
+		<Row Tag="LOC_CIVINFO_JFD_ITALY_LOCATION" Language="fr_FR">
+			<Text>Europe</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_JFD_ITALY_POPULATION" Language="fr_FR">
+			<Text>Environ 61 millions</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_JFD_ITALY_SIZE" Language="fr_FR">
+			<Text>Environ 301 000 kilomètres carrés</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_JFD_ITALY_CAPITAL" Language="fr_FR">
+			<Text>Rome</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_JFD_ITALY_CHAPTER_HISTORY_PARA_1" Language="fr_FR">
+			<Text>L'Italie est une république parlementaire unicamérale. Située au cœur de la Méditerranée, elle partage des frontières ouvertes avec la France, la Suisse, l'Autriche, la Slovénie, Saint-Marin et la Cité du Vatican. L'Italie couvre une superficie de 301 338 kilomètres carrés, et dispose d'un climat principalement tempéré et méditerranéen. En raison de sa forme, elle est surnommée en italien lo Stivale ("la Botte"). Avec 61 millions d'habitants, il s'agit du quatrième État membre le plus peuplé de l'Union européenne.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_JFD_ITALY_CHAPTER_HISTORY_PARA_2" Language="fr_FR">
+			<Text>Durant l'époque classique, les Phéniciens, les Carthaginois et les Grecs établirent des colonies dans le sud de l'Italie, les Étrusques et les Celtes peuplant respectivement le centre et le nord de l'Italie, et diverses tribus italiennes et italiques étant dispersées à travers la péninsule italienne et l'Italie insulaire. La tribu italique des Latins forma la monarchie romaine, qui devint une république et assimila petit à petit les civilisations voisines. Rome finalement émergea comme le pouvoir dominant dans le bassin méditerranéen, conquérant une grande partie du monde antique et devenant le principal centre culturel, politique et religieux de la civilisation occidentale. L'héritage de l'Empire romain est étendu, et peut être observé aussi bien dans l'établissement de la justice civile que dans les gouvernements républicains, le christianisme et les caractères latins.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_JFD_ITALY_CHAPTER_HISTORY_PARA_3" Language="fr_FR">
+			<Text>Au Moyen Âge, l'Italie souffrit d'un effondrement sociopolitique suite aux dévastatrices invasions barbares. Toutefois, au 11ème siècle, de nombreuses cités-états et républiques maritimes rivales prospérèrent grâce aux expéditions maritimes, au commerce et au secteur bancaire, jetant les bases du capitalisme moderne. Ces états indépendants, agissant en tant que principaux centres commerciaux de l'Europe avec l'Asie et le Proche-Orient, bénéficiaient souvent d'un plus grand degré de démocratie et de richesse que les grandes monarchies féodales qui se consolidaient dans toute l'Europe à cette époque. Néanmoins, une grande partie de l'Italie centrale resta sous le contrôle des États pontificaux, tandis que le sud de l'Italie resta largement féodal jusqu'au 19ème siècle, en partie à cause d'une succession de conquêtes par les Byzantins, les Arabes, les Normands, les Espagnols et les Bourbons.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_JFD_ITALY_CHAPTER_HISTORY_PARA_4" Language="fr_FR">
+			<Text>La Renaissance débuta en Italie et se répandit dans le reste de l'Europe, suscitant un intérêt renouvelé pour l'humanisme, la science, l'exploration et l'art. La culture italienne prospéra rapidement, fournissant à l'Occident des savants, des artistes et des esprits célèbres tels que Léonard de Vinci, Galilée, Michel-Ange et Machiavel. Des explorateurs italiens tels que Marco Polo, Christophe Colomb, Amerigo Vespucci et Giovanni da Verrazzano découvrirent de nouvelles routes vers l'Extrême-Orient et le Nouveau Monde, inaugurant ainsi l'Âge des découvertes. Néanmoins, le pouvoir commercial et politique de l'Italie diminua considérablement avec l'ouverture de la route commerciale de l'Atlantique et la route de l'océan Indien via le cap de Bonne-Espérance, qui permit de contourner la Méditerranée. En outre, les cités-états italiennes s'engagaient constamment dans des guerres sanglantes, dont le point culminant fut les guerres d’Italie des 15ème et 16ème siècles qui les épuisèrent, sans qu'aucun État ne puisse émerger comme une puissance dominante. Les souverains affaiblis furent rapidement conquis par des puissances européennes telles que la France, l'Espagne et l'Autriche.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_JFD_ITALY_CHAPTER_HISTORY_PARA_5" Language="fr_FR">
+			<Text>Au milieu du 19ème siècle, un mouvement populaire en faveur du nationalisme italien et de l'indépendance vis-à-vis du contrôle étranger conduisit à une période de bouleversement politique révolutionnaire connu sous le nom de Risorgimento ("Résurrection"), dont le but était la formation d'un État-nation unifié. Après diverses tentatives infructueuses, les guerres d'indépendance italiennes et l'expédition des Mille aboutirent finalement à l'unification du pays en 1861, donnant naissance à une grande puissance après des siècles de dominations étrangères et de divisions politiques. De la fin du 19ème siècle au début du 20ème siècle, le nouveau royaume d'Italie acquit un empire colonial et s'industrialisa rapidement, en particulier dans le nord du pays, alors que le sud resta largement appauvri et exclus de l'industrialisation, alimentant une importante diaspora. Bien qu'elle fût l'un des principaux vainqueurs de la Première Guerre mondiale, l'Italie entra dans une période de crise économique et de troubles sociaux, ouvrant la voie à la montée d'une dictature fasciste en 1922. La participation subséquente à la Seconde Guerre mondiale aux côtés de l'Axe se termina en une défaite militaire, provoquant en outre la destruction économique et le déclenchement d'une guerre civile italienne. Après la libération de l'Italie et la montée de la résistance, le pays abolit la monarchie, rétablit la démocratie, connut un essor économique prolongé et, en dépit de périodes de troubles sociopolitiques (les années de plomb, l'Opération Mains propres, la deuxième guerre de la mafia, le Maxi-Procès et les assassinats subséquents de fonctionnaires anti-mafieux), devint l'un des principaux pays développés de la planète.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_JFD_ITALY_CHAPTER_HISTORY_PARA_6" Language="fr_FR">
+			<Text>Aujourd'hui, l'Italie est la troisième plus grande économie de la zone euro, et la huitième puissance économique mondiale. Elle dispose d'un haut degré de développement humain, et se hisse au sixième rang mondial pour l'espérance de vie. Le pays joue un rôle de premier plan dans les affaires économiques, militaires, culturelles et diplomatiques, assurant un rôle de puissance régionale et mondiale. L'Italie est un membre fondateur de l'Union européenne, et participe à de nombreuses institutions internationales, dont les Nations Unies, l'OTAN, l'Organisation de coopération et de développement économiques, l'Organisation pour la sécurité et la coopération en Europe, l'Organisation mondiale du commerce, le G7/G8, le G20, l'Union pour la Méditerranée, le Conseil de l'Europe, le Groupe du consensus, et beaucoup d'autres. Reflet de sa richesse culturelle, l'Italie abrite 51 sites du patrimoine mondial, un record pour une seule nation, et est le cinquième pays le plus visité.[NEWLINE][NEWLINE]...N'oublions pas que l'Italie a également donné naissance à la pizza et à la panna cotta.</Text>
+		</Row>
+		<!--Trait-->
+		<Row Tag="LOC_TRAIT_CIVILIZATION_JFD_CENTRES_OF_RENAISSANCE_NAME" Language="fr_FR">
+			<Text>Centres de la Renaissance</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_JFD_CENTRES_OF_RENAISSANCE_DESCRIPTION" Language="fr_FR">
+			<Text>Les quartiers produisent des points de [ICON_GreatPerson] personnages illustres supplémentaires s'ils sont situés à côté d'un autre quartier.</Text>
+		</Row>
+		<!--Cities-->
+		<Row Tag="LOC_CITY_NAME_JFD_ITALY_1" Language="fr_FR">
+			<Text>Rome</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JFD_ITALY_2" Language="fr_FR">
+			<Text>Naples</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JFD_ITALY_3" Language="fr_FR">
+			<Text>Milan</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JFD_ITALY_4" Language="fr_FR">
+			<Text>Turin</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JFD_ITALY_5" Language="fr_FR">
+			<Text>Palerme</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JFD_ITALY_6" Language="fr_FR">
+			<Text>Modène</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JFD_ITALY_7" Language="fr_FR">
+			<Text>Venise</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JFD_ITALY_8" Language="fr_FR">
+			<Text>Brescia</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JFD_ITALY_9" Language="fr_FR">
+			<Text>Gênes</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JFD_ITALY_10" Language="fr_FR">
+			<Text>Vicence</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JFD_ITALY_11" Language="fr_FR">
+			<Text>Florence</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JFD_ITALY_12" Language="fr_FR">
+			<Text>Prato</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JFD_ITALY_13" Language="fr_FR">
+			<Text>Bologne</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JFD_ITALY_14" Language="fr_FR">
+			<Text>Bari</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JFD_ITALY_15" Language="fr_FR">
+			<Text>Catane</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JFD_ITALY_16" Language="fr_FR">
+			<Text>Vérone</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JFD_ITALY_17" Language="fr_FR">
+			<Text>Parme</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JFD_ITALY_18" Language="fr_FR">
+			<Text>Livourne</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JFD_ITALY_19" Language="fr_FR">
+			<Text>Cagliari</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JFD_ITALY_20" Language="fr_FR">
+			<Text>Foggia</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JFD_ITALY_21" Language="fr_FR">
+			<Text>Salerne</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JFD_ITALY_22" Language="fr_FR">
+			<Text>Pise</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JFD_ITALY_23" Language="fr_FR">
+			<Text>Asti</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JFD_ITALY_24" Language="fr_FR">
+			<Text>Messine</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JFD_ITALY_25" Language="fr_FR">
+			<Text>Trieste</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JFD_ITALY_26" Language="fr_FR">
+			<Text>Padoue</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JFD_ITALY_27" Language="fr_FR">
+			<Text>Syracuse</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JFD_ITALY_28" Language="fr_FR">
+			<Text>Ferrare</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JFD_ITALY_29" Language="fr_FR">
+			<Text>Novare</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JFD_ITALY_30" Language="fr_FR">
+			<Text>Rimini</Text>
+		</Row>
+		<!--Citizens-->
+		<Row Tag="LOC_CITIZEN_JFD_ITALY_MALE_1" Language="fr_FR">
+			<Text>Gian</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_ITALY_MALE_2" Language="fr_FR">
+			<Text>Ennio</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_ITALY_MALE_3" Language="fr_FR">
+			<Text>Gaspare</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_ITALY_MALE_4" Language="fr_FR">
+			<Text>Michele</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_ITALY_MALE_5" Language="fr_FR">
+			<Text>Luciano</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_ITALY_MALE_6" Language="fr_FR">
+			<Text>Salvatore</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_ITALY_MALE_7" Language="fr_FR">
+			<Text>Giovanni</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_ITALY_MALE_8" Language="fr_FR">
+			<Text>Teobaldo</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_ITALY_MALE_9" Language="fr_FR">
+			<Text>Frederico</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_ITALY_MODERN_MALE_1" Language="fr_FR">
+			<Text>Arnoldo</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_ITALY_MODERN_MALE_2" Language="fr_FR">
+			<Text>Bruno</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_ITALY_MODERN_MALE_3" Language="fr_FR">
+			<Text>Dominecco</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_ITALY_MODERN_MALE_4" Language="fr_FR">
+			<Text>Duccio</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_ITALY_MODERN_MALE_5" Language="fr_FR">
+			<Text>Segretissimo</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_ITALY_MODERN_MALE_6" Language="fr_FR">
+			<Text>Jimmy le Mouchard</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_ITALY_MODERN_MALE_7" Language="fr_FR">
+			<Text>Cesare Beccaria</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_ITALY_MODERN_MALE_8" Language="fr_FR">
+			<Text>Don Ciccio</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_ITALY_MODERN_MALE_9" Language="fr_FR">
+			<Text>Amleto</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_ITALY_MODERN_MALE_10" Language="fr_FR">
+			<Text>Vittorio</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_ITALY_FEMALE_1" Language="fr_FR">
+			<Text>Joanna</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_ITALY_FEMALE_2" Language="fr_FR">
+			<Text>Elena</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_ITALY_FEMALE_3" Language="fr_FR">
+			<Text>Maria</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_ITALY_FEMALE_4" Language="fr_FR">
+			<Text>Valentina</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_ITALY_FEMALE_5" Language="fr_FR">
+			<Text>Gianna</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_ITALY_FEMALE_6" Language="fr_FR">
+			<Text>Liliana</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_ITALY_FEMALE_7" Language="fr_FR">
+			<Text>Gloria</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_ITALY_FEMALE_8" Language="fr_FR">
+			<Text>Lucrezia</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_ITALY_FEMALE_9" Language="fr_FR">
+			<Text>Catherine</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_ITALY_FEMALE_10" Language="fr_FR">
+			<Text>Donatella</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_ITALY_MODERN_FEMALE_1" Language="fr_FR">
+			<Text>Rosa</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_ITALY_MODERN_FEMALE_2" Language="fr_FR">
+			<Text>Luciana</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_ITALY_MODERN_FEMALE_3" Language="fr_FR">
+			<Text>Chiara</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_ITALY_MODERN_FEMALE_4" Language="fr_FR">
+			<Text>Adriana</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_ITALY_MODERN_FEMALE_5" Language="fr_FR">
+			<Text>Carina</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_ITALY_MODERN_FEMALE_6" Language="fr_FR">
+			<Text>Aria</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_ITALY_MODERN_FEMALE_7" Language="fr_FR">
+			<Text>Alessandra</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_ITALY_MODERN_FEMALE_8" Language="fr_FR">
+			<Text>Isabella</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_ITALY_MODERN_FEMALE_9" Language="fr_FR">
+			<Text>Caterina</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JFD_ITALY_MODERN_FEMALE_10" Language="fr_FR">
+			<Text>Siena</Text>
+		</Row>
+		<!--CONDOTIERRE-->
+		<Row Tag="LOC_UNIT_JFD_CONDOTIERRE_NAME" Language="fr_FR">
+			<Text>Condottiere|Condottieri</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1|2</Plurality>
+		</Row>
+		<Row Tag="LOC_UNIT_JFD_CONDOTIERRE_DESCRIPTION" Language="fr_FR">
+			<Text>Exclusive à l'Italie, cette unité médiévale doit être acquise avec de l'[ICON_Gold] or, mais a un coût d'entretien nul. [ICON_Strength] Puissance de combat + 5 à l'intérieur ou à proximité de vos frontières.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_JFD_CONDOTIERRE_CHAPTER_HISTORY_PARA_1" Language="fr_FR">
+			<Text>À la fin du Moyen Âge et à travers la Renaissance, les cités-états italiennes prospéraient grâce aux échanges commerciaux avec le Levant, mais possédaient des armées nationales déplorables. Dans le cas où les puissances étrangères et les voisins envieux attaquaient, les nobles au pouvoir engagent des mercenaires étrangers pour se battre en leur nom. Les condottieri étaient les chefs des armées mercenaires, recrutées par les cités-états italiennes et la papauté et constituées principalement de cavaleries blindées. Les commandants des compagnies de condottieri choisissaient eux-mêmes les soldats. Le condotta était un contrat consolidé, et lorsque la ferma (période de service) s'était écoulée, la compagnie entait dans une période d'aspetto (attente), durant laquelle la cité-état considérait son renouvellement. Si le condotta était expiré définitivement, le condottiere ne pouvait déclarer la guerre contre la cité-état contractante pendant deux ans. Cette coutume militaire était respectée parce que la réputation professionnelle était primordiale pour les condottieri : un employeur trompé signifiait une réputation ruinée. Les armées italiennes du 15ème siècle vainquirent ainsi la plupart des incursions turques, suisses, hongroises, allemandes, françaises et autrichiennes.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_JFD_CONDOTIERRE_NAME" Language="fr_FR">
+			<Text>Compagnie blanche</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_JFD_CONDOTIERRE_DESCRIPTION" Language="fr_FR">
+			<Text>[ICON_Strength] Puissance de combat + 5 à l'intérieur et sur les cases adjacentes à vos frontières.</Text>
+		</Row>
+		<!--DUOMO-->
+		<Row Tag="LOC_BUILDING_JFD_DUOMO_NAME" Language="fr_FR">
+			<Text>Dôme|Dômes</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1|2</Plurality>
+		</Row>
+		<Row Tag="LOC_BUILDING_JFD_DUOMO_DESCRIPTION" Language="fr_FR">
+			<Text>Bâtiment exclusif à l'Italie. Fournit un bonus de [ICON_FAITH] foi équivalent aux bonus de proximité de [ICON_CULTURE] culture du quartier sur lequel il est construit. Dispose d'un emplacement pour chef-d'œuvre artistique, et génère de la [ICON_CULTURE] culture.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_JFD_DUOMO_CHAPTER_HISTORY_PARA_1" Language="fr_FR">
+			<Text>Duomo est un terme italien pour désigner une cathédrale. Un dôme peut être soit une cathédrale actuellement en activité, soit une ancienne cathédrale dans une ville qui n'a plus d'évêque, comme par exemple Trevi. Certains édifices, comme le dôme de Monza, n'ont jamais été des cathédrales, bien qu'ils soient anciens et importants. Beaucoup d'Italiens désignent des églises particulières sous l'appellation de "Il Duomo" (ou "Le dôme"), sans tenir compte du nom propre de l'église.[NEWLINE][NEWLINE]Les cathédrales italiennes sont souvent très décorées et contiennent des œuvres d'art remarquables ; dans de nombreux cas, les bâtiments eux-mêmes sont de véritables œuvres d'art. Certains des Dômes les plus célèbres incluent la basilique Saint-Jean-de-Latran à Rome, le dôme de Milan,  et la cathédrale Santa Maria del Fiore de Florence.</Text>
+		</Row>
+	</LocalizedText>
+</GameData>

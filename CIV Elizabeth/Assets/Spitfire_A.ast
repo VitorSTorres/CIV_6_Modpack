@@ -1,0 +1,1440 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<AssetObjects::AssetInstance>
+	<m_BehaviorData>
+		<m_behaviorDataSets>
+			<m_animationBindings>
+				<m_Bindings>
+					<Element>
+						<m_SlotName text="ATTACK_A"/>
+						<m_AnimationName text="Fighter_AttackA"/>
+					</Element>
+					<Element>
+						<m_SlotName text="BREATHING_A"/>
+						<m_AnimationName text="Fighter_IdleGround"/>
+					</Element>
+					<Element>
+						<m_SlotName text="BREATHING_COMBAT_A"/>
+						<m_AnimationName text="Fighter_IdleA"/>
+					</Element>
+					<Element>
+						<m_SlotName text="RUN_A"/>
+						<m_AnimationName text="Fighter_IdleA"/>
+					</Element>
+					<Element>
+						<m_SlotName text="RUN_COMBAT"/>
+						<m_AnimationName text="Fighter_IdleA"/>
+					</Element>
+					<Element>
+						<m_SlotName text="RUN_STOP"/>
+						<m_AnimationName text="Fighter_Landing"/>
+					</Element>
+					<Element>
+						<m_SlotName text="DEATH_A"/>
+						<m_AnimationName text="Fighter_Death"/>
+					</Element>
+					<Element>
+						<m_SlotName text="HERO_A"/>
+						<m_AnimationName text="Fighter_AttackA"/>
+					</Element>
+					<Element>
+						<m_SlotName text="RUN_START"/>
+						<m_AnimationName text="Fighter_Takeoff"/>
+					</Element>
+					<Element>
+						<m_SlotName text="RUN_STOP_B"/>
+						<m_AnimationName text="Fighter_Landing"/>
+					</Element>
+					<Element>
+						<m_SlotName text="RUN_STOP_C"/>
+						<m_AnimationName text="Fighter_Landing"/>
+					</Element>
+					<Element>
+						<m_SlotName text="RUN_STOP_D"/>
+						<m_AnimationName text="Fighter_Landing"/>
+					</Element>
+					<Element>
+						<m_SlotName text="RUN_COMBAT_STOP"/>
+						<m_AnimationName text="Fighter_Landing"/>
+					</Element>
+					<Element>
+						<m_SlotName text="RUN_COMBAT_START"/>
+						<m_AnimationName text="Fighter_IdleA"/>
+					</Element>
+				</m_Bindings>
+			</m_animationBindings>
+			<m_timelineBindings>
+				<m_Bindings>
+					<Element>
+						<m_SlotName text="RUN_A"/>
+						<m_TimelineName text="RUN_A"/>
+					</Element>
+					<Element>
+						<m_SlotName text="PERSISTENT"/>
+						<m_TimelineName text="PERSISTENT"/>
+					</Element>
+					<Element>
+						<m_SlotName text="ATTACK_A"/>
+						<m_TimelineName text="ATTACK_A"/>
+					</Element>
+					<Element>
+						<m_SlotName text="DEATH_A"/>
+						<m_TimelineName text="DEATH_A"/>
+					</Element>
+					<Element>
+						<m_SlotName text="HERO_A"/>
+						<m_TimelineName text="HERO_A"/>
+					</Element>
+					<Element>
+						<m_SlotName text="RUN_COMBAT"/>
+						<m_TimelineName text="RUN_COMBAT"/>
+					</Element>
+					<Element>
+						<m_SlotName text="RUN_STOP"/>
+						<m_TimelineName text="RUN_STOP"/>
+					</Element>
+					<Element>
+						<m_SlotName text="RUN_START"/>
+						<m_TimelineName text="RUN_START"/>
+					</Element>
+					<Element>
+						<m_SlotName text="SPAWN"/>
+						<m_TimelineName text="SPAWN"/>
+					</Element>
+					<Element>
+						<m_SlotName text="RUN_COMBAT_STOP"/>
+						<m_TimelineName text="RUN_COMBAT_STOP"/>
+					</Element>
+					<Element>
+						<m_SlotName text="RUN_COMBAT_START"/>
+						<m_TimelineName text="RUN_COMBAT_START"/>
+					</Element>
+				</m_Bindings>
+			</m_timelineBindings>
+			<m_timelines>
+				<m_Timelines>
+					<Element>
+						<m_Name text="RUN_A"/>
+						<m_Description text=""/>
+						<m_AnimationName text="Fighter_IdleA"/>
+						<m_fDuration>0.000000</m_fDuration>
+						<m_Triggers>
+							<Element>
+								<m_eType>ASSET_FX</m_eType>
+								<m_Name text="1"/>
+								<m_Description text=""/>
+								<m_FXName text="FX_Fighter_Wing_Trail_01"/>
+								<m_CollectionName text=""/>
+								<m_AttachmentPointName text="FX_Wing_Trail_R_01"/>
+								<m_fStartTime>0.000000</m_fStartTime>
+								<m_fDuration>9.966667</m_fDuration>
+								<m_nTrackIndex>0</m_nTrackIndex>
+							</Element>
+							<Element>
+								<m_eType>ASSET_FX</m_eType>
+								<m_Name text="2"/>
+								<m_Description text=""/>
+								<m_FXName text="FX_Fighter_Wing_Trail_01"/>
+								<m_CollectionName text=""/>
+								<m_AttachmentPointName text="FX_Wing_Trail_L_01"/>
+								<m_fStartTime>0.000000</m_fStartTime>
+								<m_fDuration>9.966667</m_fDuration>
+								<m_nTrackIndex>1</m_nTrackIndex>
+							</Element>
+						</m_Triggers>
+					</Element>
+					<Element>
+						<m_Name text="PERSISTENT"/>
+						<m_Description text=""/>
+						<m_AnimationName text=""/>
+						<m_fDuration>0.966667</m_fDuration>
+						<m_Triggers>
+							<Element>
+								<m_eType>ASSET_FX</m_eType>
+								<m_Name text="92"/>
+								<m_Description text=""/>
+								<m_FXName text="FX_Mustang_Rotor_01"/>
+								<m_CollectionName text=""/>
+								<m_AttachmentPointName text="FX_Propeller"/>
+								<m_fStartTime>0.000000</m_fStartTime>
+								<m_fDuration>9.966667</m_fDuration>
+								<m_nTrackIndex>0</m_nTrackIndex>
+							</Element>
+						</m_Triggers>
+					</Element>
+					<Element>
+						<m_Name text="ATTACK_A"/>
+						<m_Description text=""/>
+						<m_AnimationName text="Fighter_AttackA"/>
+						<m_fDuration>0.000000</m_fDuration>
+						<m_Triggers>
+							<Element>
+								<m_eType>ASSET_FX</m_eType>
+								<m_Name text="11"/>
+								<m_Description text=""/>
+								<m_FXName text="FX_Fighter_MuzzFlash_01"/>
+								<m_CollectionName text=""/>
+								<m_AttachmentPointName text="FX_Gun_Wing_L_01"/>
+								<m_fStartTime>0.287678</m_fStartTime>
+								<m_fDuration>1.500000</m_fDuration>
+								<m_nTrackIndex>0</m_nTrackIndex>
+							</Element>
+							<Element>
+								<m_eType>ASSET_FX</m_eType>
+								<m_Name text="12"/>
+								<m_Description text=""/>
+								<m_FXName text="FX_Fighter_MuzzFlash_01"/>
+								<m_CollectionName text=""/>
+								<m_AttachmentPointName text="FX_Gun_Wing_R_01"/>
+								<m_fStartTime>0.291057</m_fStartTime>
+								<m_fDuration>1.500000</m_fDuration>
+								<m_nTrackIndex>1</m_nTrackIndex>
+							</Element>
+							<Element>
+								<m_eType>ACTION</m_eType>
+								<m_Name text="13"/>
+								<m_Description text=""/>
+								<m_FXName text="HIT"/>
+								<m_CollectionName text=""/>
+								<m_AttachmentPointName text="FX_Hit_Alignment_01"/>
+								<m_fStartTime>0.867835</m_fStartTime>
+								<m_fDuration>0.000000</m_fDuration>
+								<m_nTrackIndex>0</m_nTrackIndex>
+							</Element>
+							<Element>
+								<m_eType>ACTION</m_eType>
+								<m_Name text="14"/>
+								<m_Description text=""/>
+								<m_FXName text="HIT"/>
+								<m_CollectionName text=""/>
+								<m_AttachmentPointName text="FX_Hit_Alignment_01"/>
+								<m_fStartTime>1.286716</m_fStartTime>
+								<m_fDuration>0.000000</m_fDuration>
+								<m_nTrackIndex>0</m_nTrackIndex>
+							</Element>
+							<Element>
+								<m_eType>ACTION</m_eType>
+								<m_Name text="15"/>
+								<m_Description text=""/>
+								<m_FXName text="HIT"/>
+								<m_CollectionName text=""/>
+								<m_AttachmentPointName text="FX_Hit_Alignment_01"/>
+								<m_fStartTime>0.497343</m_fStartTime>
+								<m_fDuration>0.000000</m_fDuration>
+								<m_nTrackIndex>0</m_nTrackIndex>
+							</Element>
+							<Element>
+								<m_eType>ACTION</m_eType>
+								<m_Name text="16"/>
+								<m_Description text=""/>
+								<m_FXName text="HIT"/>
+								<m_CollectionName text=""/>
+								<m_AttachmentPointName text="FX_Hit_Alignment_01"/>
+								<m_fStartTime>1.728280</m_fStartTime>
+								<m_fDuration>0.000000</m_fDuration>
+								<m_nTrackIndex>0</m_nTrackIndex>
+							</Element>
+							<Element>
+								<m_eType>ARTDEF_VFX</m_eType>
+								<m_Name text="17"/>
+								<m_Description text=""/>
+								<m_FXName text="Bullet_Hit"/>
+								<m_CollectionName text="MaterialVFX"/>
+								<m_AttachmentPointName text="FX_Hit_Alignment_01"/>
+								<m_fStartTime>0.428552</m_fStartTime>
+								<m_fDuration>0.000000</m_fDuration>
+								<m_nTrackIndex>0</m_nTrackIndex>
+							</Element>
+							<Element>
+								<m_eType>ARTDEF_VFX</m_eType>
+								<m_Name text="19"/>
+								<m_Description text=""/>
+								<m_FXName text="Bullet_Hit"/>
+								<m_CollectionName text="MaterialVFX"/>
+								<m_AttachmentPointName text="FX_Hit_Alignment_01"/>
+								<m_fStartTime>0.563759</m_fStartTime>
+								<m_fDuration>0.000000</m_fDuration>
+								<m_nTrackIndex>0</m_nTrackIndex>
+							</Element>
+							<Element>
+								<m_eType>ARTDEF_VFX</m_eType>
+								<m_Name text="21"/>
+								<m_Description text=""/>
+								<m_FXName text="Bullet_Hit"/>
+								<m_CollectionName text="MaterialVFX"/>
+								<m_AttachmentPointName text="FX_Hit_Alignment_01"/>
+								<m_fStartTime>0.722031</m_fStartTime>
+								<m_fDuration>0.000000</m_fDuration>
+								<m_nTrackIndex>0</m_nTrackIndex>
+							</Element>
+							<Element>
+								<m_eType>ARTDEF_VFX</m_eType>
+								<m_Name text="23"/>
+								<m_Description text=""/>
+								<m_FXName text="Bullet_Hit"/>
+								<m_CollectionName text="MaterialVFX"/>
+								<m_AttachmentPointName text="FX_Hit_Alignment_01"/>
+								<m_fStartTime>0.880966</m_fStartTime>
+								<m_fDuration>0.000000</m_fDuration>
+								<m_nTrackIndex>0</m_nTrackIndex>
+							</Element>
+							<Element>
+								<m_eType>ARTDEF_VFX</m_eType>
+								<m_Name text="25"/>
+								<m_Description text=""/>
+								<m_FXName text="Bullet_Hit"/>
+								<m_CollectionName text="MaterialVFX"/>
+								<m_AttachmentPointName text="FX_Hit_Alignment_01"/>
+								<m_fStartTime>0.368506</m_fStartTime>
+								<m_fDuration>0.000000</m_fDuration>
+								<m_nTrackIndex>0</m_nTrackIndex>
+							</Element>
+							<Element>
+								<m_eType>ARTDEF_VFX</m_eType>
+								<m_Name text="27"/>
+								<m_Description text=""/>
+								<m_FXName text="Bullet_Hit"/>
+								<m_CollectionName text="MaterialVFX"/>
+								<m_AttachmentPointName text="FX_Hit_Alignment_01"/>
+								<m_fStartTime>1.184650</m_fStartTime>
+								<m_fDuration>0.000000</m_fDuration>
+								<m_nTrackIndex>0</m_nTrackIndex>
+							</Element>
+							<Element>
+								<m_eType>ARTDEF_VFX</m_eType>
+								<m_Name text="29"/>
+								<m_Description text=""/>
+								<m_FXName text="Bullet_Hit"/>
+								<m_CollectionName text="MaterialVFX"/>
+								<m_AttachmentPointName text="FX_Hit_Alignment_01"/>
+								<m_fStartTime>1.330726</m_fStartTime>
+								<m_fDuration>0.000000</m_fDuration>
+								<m_nTrackIndex>0</m_nTrackIndex>
+							</Element>
+							<Element>
+								<m_eType>ARTDEF_VFX</m_eType>
+								<m_Name text="31"/>
+								<m_Description text=""/>
+								<m_FXName text="Bullet_Hit"/>
+								<m_CollectionName text="MaterialVFX"/>
+								<m_AttachmentPointName text="FX_Hit_Alignment_01"/>
+								<m_fStartTime>1.464608</m_fStartTime>
+								<m_fDuration>0.000000</m_fDuration>
+								<m_nTrackIndex>0</m_nTrackIndex>
+							</Element>
+							<Element>
+								<m_eType>ARTDEF_VFX</m_eType>
+								<m_Name text="33"/>
+								<m_Description text=""/>
+								<m_FXName text="Bullet_Hit"/>
+								<m_CollectionName text="MaterialVFX"/>
+								<m_AttachmentPointName text="FX_Hit_Alignment_01"/>
+								<m_fStartTime>1.622217</m_fStartTime>
+								<m_fDuration>0.000000</m_fDuration>
+								<m_nTrackIndex>0</m_nTrackIndex>
+							</Element>
+							<Element>
+								<m_eType>ARTDEF_VFX</m_eType>
+								<m_Name text="35"/>
+								<m_Description text=""/>
+								<m_FXName text="Bullet_Hit"/>
+								<m_CollectionName text="MaterialVFX"/>
+								<m_AttachmentPointName text="FX_Hit_Alignment_01"/>
+								<m_fStartTime>1.767630</m_fStartTime>
+								<m_fDuration>0.000000</m_fDuration>
+								<m_nTrackIndex>0</m_nTrackIndex>
+							</Element>
+							<Element>
+								<m_eType>ARTDEF_VFX</m_eType>
+								<m_Name text="36"/>
+								<m_Description text=""/>
+								<m_FXName text="Bullet_Hit"/>
+								<m_CollectionName text="MaterialVFX"/>
+								<m_AttachmentPointName text="FX_Hit_Alignment_01"/>
+								<m_fStartTime>0.294939</m_fStartTime>
+								<m_fDuration>0.000000</m_fDuration>
+								<m_nTrackIndex>0</m_nTrackIndex>
+							</Element>
+							<Element>
+								<m_eType>ASSET_FX</m_eType>
+								<m_Name text="37"/>
+								<m_Description text=""/>
+								<m_FXName text="FX_Fighter_Wing_Trail_01"/>
+								<m_CollectionName text=""/>
+								<m_AttachmentPointName text="FX_Wing_Trail_R_01"/>
+								<m_fStartTime>0.000000</m_fStartTime>
+								<m_fDuration>2.966667</m_fDuration>
+								<m_nTrackIndex>2</m_nTrackIndex>
+							</Element>
+							<Element>
+								<m_eType>ASSET_FX</m_eType>
+								<m_Name text="38"/>
+								<m_Description text=""/>
+								<m_FXName text="FX_Fighter_Wing_Trail_01"/>
+								<m_CollectionName text=""/>
+								<m_AttachmentPointName text="FX_Wing_Trail_L_01"/>
+								<m_fStartTime>0.001852</m_fStartTime>
+								<m_fDuration>2.966667</m_fDuration>
+								<m_nTrackIndex>3</m_nTrackIndex>
+							</Element>
+							<Element>
+								<m_eType>ARTDEF_VFX</m_eType>
+								<m_Name text="56"/>
+								<m_Description text=""/>
+								<m_FXName text="Bullet_Hit"/>
+								<m_CollectionName text="MaterialVFX"/>
+								<m_AttachmentPointName text="FX_Hit_Alignment_01"/>
+								<m_fStartTime>1.014847</m_fStartTime>
+								<m_fDuration>0.000000</m_fDuration>
+								<m_nTrackIndex>0</m_nTrackIndex>
+							</Element>
+							<Element>
+								<m_eType>ARTDEF_VFX</m_eType>
+								<m_Name text="57"/>
+								<m_Description text=""/>
+								<m_FXName text="Bullet_Hit"/>
+								<m_CollectionName text="MaterialVFX"/>
+								<m_AttachmentPointName text="FX_Hit_Alignment_01"/>
+								<m_fStartTime>0.502652</m_fStartTime>
+								<m_fDuration>0.000000</m_fDuration>
+								<m_nTrackIndex>0</m_nTrackIndex>
+							</Element>
+							<Element>
+								<m_eType>ARTDEF_VFX</m_eType>
+								<m_Name text="58"/>
+								<m_Description text=""/>
+								<m_FXName text="Bullet_Hit"/>
+								<m_CollectionName text="MaterialVFX"/>
+								<m_AttachmentPointName text="FX_Hit_Alignment_01"/>
+								<m_fStartTime>0.636799</m_fStartTime>
+								<m_fDuration>0.000000</m_fDuration>
+								<m_nTrackIndex>0</m_nTrackIndex>
+							</Element>
+							<Element>
+								<m_eType>ARTDEF_VFX</m_eType>
+								<m_Name text="59"/>
+								<m_Description text=""/>
+								<m_FXName text="Bullet_Hit"/>
+								<m_CollectionName text="MaterialVFX"/>
+								<m_AttachmentPointName text="FX_Hit_Alignment_01"/>
+								<m_fStartTime>0.807530</m_fStartTime>
+								<m_fDuration>0.000000</m_fDuration>
+								<m_nTrackIndex>0</m_nTrackIndex>
+							</Element>
+							<Element>
+								<m_eType>ARTDEF_VFX</m_eType>
+								<m_Name text="60"/>
+								<m_Description text=""/>
+								<m_FXName text="Bullet_Hit"/>
+								<m_CollectionName text="MaterialVFX"/>
+								<m_AttachmentPointName text="FX_Hit_Alignment_01"/>
+								<m_fStartTime>0.953871</m_fStartTime>
+								<m_fDuration>0.000000</m_fDuration>
+								<m_nTrackIndex>0</m_nTrackIndex>
+							</Element>
+							<Element>
+								<m_eType>ARTDEF_VFX</m_eType>
+								<m_Name text="61"/>
+								<m_Description text=""/>
+								<m_FXName text="Bullet_Hit"/>
+								<m_CollectionName text="MaterialVFX"/>
+								<m_AttachmentPointName text="FX_Hit_Alignment_01"/>
+								<m_fStartTime>1.106310</m_fStartTime>
+								<m_fDuration>0.000000</m_fDuration>
+								<m_nTrackIndex>0</m_nTrackIndex>
+							</Element>
+							<Element>
+								<m_eType>ARTDEF_VFX</m_eType>
+								<m_Name text="62"/>
+								<m_Description text=""/>
+								<m_FXName text="Bullet_Hit"/>
+								<m_CollectionName text="MaterialVFX"/>
+								<m_AttachmentPointName text="FX_Hit_Alignment_01"/>
+								<m_fStartTime>1.264847</m_fStartTime>
+								<m_fDuration>0.000000</m_fDuration>
+								<m_nTrackIndex>0</m_nTrackIndex>
+							</Element>
+							<Element>
+								<m_eType>ARTDEF_VFX</m_eType>
+								<m_Name text="63"/>
+								<m_Description text=""/>
+								<m_FXName text="Bullet_Hit"/>
+								<m_CollectionName text="MaterialVFX"/>
+								<m_AttachmentPointName text="FX_Hit_Alignment_01"/>
+								<m_fStartTime>1.392895</m_fStartTime>
+								<m_fDuration>0.000000</m_fDuration>
+								<m_nTrackIndex>0</m_nTrackIndex>
+							</Element>
+							<Element>
+								<m_eType>ARTDEF_VFX</m_eType>
+								<m_Name text="64"/>
+								<m_Description text=""/>
+								<m_FXName text="Bullet_Hit"/>
+								<m_CollectionName text="MaterialVFX"/>
+								<m_AttachmentPointName text="FX_Hit_Alignment_01"/>
+								<m_fStartTime>1.551432</m_fStartTime>
+								<m_fDuration>0.000000</m_fDuration>
+								<m_nTrackIndex>0</m_nTrackIndex>
+							</Element>
+							<Element>
+								<m_eType>ARTDEF_VFX</m_eType>
+								<m_Name text="65"/>
+								<m_Description text=""/>
+								<m_FXName text="Bullet_Hit"/>
+								<m_CollectionName text="MaterialVFX"/>
+								<m_AttachmentPointName text="FX_Hit_Alignment_01"/>
+								<m_fStartTime>1.697773</m_fStartTime>
+								<m_fDuration>0.000000</m_fDuration>
+								<m_nTrackIndex>0</m_nTrackIndex>
+							</Element>
+							<Element>
+								<m_eType>SOUND</m_eType>
+								<m_Name text="7"/>
+								<m_Description text=""/>
+								<m_FXName text="PropFighterAttackFlyby"/>
+								<m_CollectionName text=""/>
+								<m_AttachmentPointName text=""/>
+								<m_fStartTime>0.003421</m_fStartTime>
+								<m_fDuration>0.000000</m_fDuration>
+								<m_nTrackIndex>0</m_nTrackIndex>
+							</Element>
+							<Element>
+								<m_eType>SOUND</m_eType>
+								<m_Name text="8"/>
+								<m_Description text=""/>
+								<m_FXName text="PropFighterAttack"/>
+								<m_CollectionName text=""/>
+								<m_AttachmentPointName text=""/>
+								<m_fStartTime>0.283284</m_fStartTime>
+								<m_fDuration>0.000000</m_fDuration>
+								<m_nTrackIndex>0</m_nTrackIndex>
+							</Element>
+						</m_Triggers>
+					</Element>
+					<Element>
+						<m_Name text="DEATH_A"/>
+						<m_Description text=""/>
+						<m_AnimationName text="Fighter_Death"/>
+						<m_fDuration>0.000000</m_fDuration>
+						<m_Triggers>
+							<Element>
+								<m_eType>ASSET_FX</m_eType>
+								<m_Name text="18"/>
+								<m_Description text=""/>
+								<m_FXName text="FX_Explo_Powder_Metal_L"/>
+								<m_CollectionName text=""/>
+								<m_AttachmentPointName text="FX_Hitloc_01"/>
+								<m_fStartTime>0.054878</m_fStartTime>
+								<m_fDuration>0.100000</m_fDuration>
+								<m_nTrackIndex>0</m_nTrackIndex>
+							</Element>
+							<Element>
+								<m_eType>ASSET_FX</m_eType>
+								<m_Name text="20"/>
+								<m_Description text=""/>
+								<m_FXName text="FX_Explo_Powder_Metal_L"/>
+								<m_CollectionName text=""/>
+								<m_AttachmentPointName text="FX_Hitloc_01"/>
+								<m_fStartTime>0.951219</m_fStartTime>
+								<m_fDuration>0.100000</m_fDuration>
+								<m_nTrackIndex>0</m_nTrackIndex>
+							</Element>
+							<Element>
+								<m_eType>ASSET_FX</m_eType>
+								<m_Name text="22"/>
+								<m_Description text=""/>
+								<m_FXName text="FX_Fighter_Wing_Trail_01"/>
+								<m_CollectionName text=""/>
+								<m_AttachmentPointName text="FX_Wing_Trail_R_01"/>
+								<m_fStartTime>0.000000</m_fStartTime>
+								<m_fDuration>1.000000</m_fDuration>
+								<m_nTrackIndex>1</m_nTrackIndex>
+							</Element>
+							<Element>
+								<m_eType>ASSET_FX</m_eType>
+								<m_Name text="24"/>
+								<m_Description text=""/>
+								<m_FXName text="FX_Fighter_Wing_Trail_01"/>
+								<m_CollectionName text=""/>
+								<m_AttachmentPointName text="FX_Wing_Trail_L_01"/>
+								<m_fStartTime>0.000000</m_fStartTime>
+								<m_fDuration>1.000000</m_fDuration>
+								<m_nTrackIndex>2</m_nTrackIndex>
+							</Element>
+							<Element>
+								<m_eType>SOUND</m_eType>
+								<m_Name text="79"/>
+								<m_Description text=""/>
+								<m_FXName text="Explosion_Large_NoDebris"/>
+								<m_CollectionName text=""/>
+								<m_AttachmentPointName text=""/>
+								<m_fStartTime>0.948148</m_fStartTime>
+								<m_fDuration>0.000000</m_fDuration>
+								<m_nTrackIndex>0</m_nTrackIndex>
+							</Element>
+							<Element>
+								<m_eType>SOUND</m_eType>
+								<m_Name text="86"/>
+								<m_Description text=""/>
+								<m_FXName text="PropFighterDeathShootDown"/>
+								<m_CollectionName text=""/>
+								<m_AttachmentPointName text=""/>
+								<m_fStartTime>0.020370</m_fStartTime>
+								<m_fDuration>0.000000</m_fDuration>
+								<m_nTrackIndex>1</m_nTrackIndex>
+							</Element>
+							<Element>
+								<m_eType>SOUND</m_eType>
+								<m_Name text="87"/>
+								<m_Description text=""/>
+								<m_FXName text="PropFighterDeath"/>
+								<m_CollectionName text=""/>
+								<m_AttachmentPointName text=""/>
+								<m_fStartTime>0.025926</m_fStartTime>
+								<m_fDuration>0.000000</m_fDuration>
+								<m_nTrackIndex>2</m_nTrackIndex>
+							</Element>
+							<Element>
+								<m_eType>SOUND</m_eType>
+								<m_Name text="88"/>
+								<m_Description text=""/>
+								<m_FXName text="Explosion_Large_NoDebris"/>
+								<m_CollectionName text=""/>
+								<m_AttachmentPointName text=""/>
+								<m_fStartTime>0.022222</m_fStartTime>
+								<m_fDuration>0.000000</m_fDuration>
+								<m_nTrackIndex>0</m_nTrackIndex>
+							</Element>
+							<Element>
+								<m_eType>SOUND</m_eType>
+								<m_Name text="89"/>
+								<m_Description text=""/>
+								<m_FXName text="PropFighterDeathCrash"/>
+								<m_CollectionName text=""/>
+								<m_AttachmentPointName text=""/>
+								<m_fStartTime>0.946296</m_fStartTime>
+								<m_fDuration>0.000000</m_fDuration>
+								<m_nTrackIndex>1</m_nTrackIndex>
+							</Element>
+						</m_Triggers>
+					</Element>
+					<Element>
+						<m_Name text="HERO_A"/>
+						<m_Description text=""/>
+						<m_AnimationName text="Fighter_AttackA"/>
+						<m_fDuration>0.000000</m_fDuration>
+						<m_Triggers>
+							<Element>
+								<m_eType>ACTION</m_eType>
+								<m_Name text="26"/>
+								<m_Description text=""/>
+								<m_FXName text="HIT"/>
+								<m_CollectionName text=""/>
+								<m_AttachmentPointName text="FX_Hit_Alignment_01"/>
+								<m_fStartTime>1.728280</m_fStartTime>
+								<m_fDuration>0.000000</m_fDuration>
+								<m_nTrackIndex>0</m_nTrackIndex>
+							</Element>
+							<Element>
+								<m_eType>ACTION</m_eType>
+								<m_Name text="28"/>
+								<m_Description text=""/>
+								<m_FXName text="HIT"/>
+								<m_CollectionName text=""/>
+								<m_AttachmentPointName text="FX_Hit_Alignment_01"/>
+								<m_fStartTime>1.286716</m_fStartTime>
+								<m_fDuration>0.000000</m_fDuration>
+								<m_nTrackIndex>0</m_nTrackIndex>
+							</Element>
+							<Element>
+								<m_eType>ACTION</m_eType>
+								<m_Name text="30"/>
+								<m_Description text=""/>
+								<m_FXName text="HIT"/>
+								<m_CollectionName text=""/>
+								<m_AttachmentPointName text="FX_Hit_Alignment_01"/>
+								<m_fStartTime>0.867835</m_fStartTime>
+								<m_fDuration>0.000000</m_fDuration>
+								<m_nTrackIndex>0</m_nTrackIndex>
+							</Element>
+							<Element>
+								<m_eType>ACTION</m_eType>
+								<m_Name text="32"/>
+								<m_Description text=""/>
+								<m_FXName text="HIT"/>
+								<m_CollectionName text=""/>
+								<m_AttachmentPointName text="FX_Hit_Alignment_01"/>
+								<m_fStartTime>0.497343</m_fStartTime>
+								<m_fDuration>0.000000</m_fDuration>
+								<m_nTrackIndex>0</m_nTrackIndex>
+							</Element>
+							<Element>
+								<m_eType>ARTDEF_VFX</m_eType>
+								<m_Name text="34"/>
+								<m_Description text=""/>
+								<m_FXName text="Bullet_Hit"/>
+								<m_CollectionName text="MaterialVFX"/>
+								<m_AttachmentPointName text="FX_Hit_Alignment_01"/>
+								<m_fStartTime>1.767630</m_fStartTime>
+								<m_fDuration>0.000000</m_fDuration>
+								<m_nTrackIndex>0</m_nTrackIndex>
+							</Element>
+							<Element>
+								<m_eType>ARTDEF_VFX</m_eType>
+								<m_Name text="39"/>
+								<m_Description text=""/>
+								<m_FXName text="Bullet_Hit"/>
+								<m_CollectionName text="MaterialVFX"/>
+								<m_AttachmentPointName text="FX_Hit_Alignment_01"/>
+								<m_fStartTime>1.622217</m_fStartTime>
+								<m_fDuration>0.000000</m_fDuration>
+								<m_nTrackIndex>0</m_nTrackIndex>
+							</Element>
+							<Element>
+								<m_eType>ARTDEF_VFX</m_eType>
+								<m_Name text="40"/>
+								<m_Description text=""/>
+								<m_FXName text="Bullet_Hit"/>
+								<m_CollectionName text="MaterialVFX"/>
+								<m_AttachmentPointName text="FX_Hit_Alignment_01"/>
+								<m_fStartTime>1.476803</m_fStartTime>
+								<m_fDuration>0.000000</m_fDuration>
+								<m_nTrackIndex>0</m_nTrackIndex>
+							</Element>
+							<Element>
+								<m_eType>ARTDEF_VFX</m_eType>
+								<m_Name text="41"/>
+								<m_Description text=""/>
+								<m_FXName text="Bullet_Hit"/>
+								<m_CollectionName text="MaterialVFX"/>
+								<m_AttachmentPointName text="FX_Hit_Alignment_01"/>
+								<m_fStartTime>1.330726</m_fStartTime>
+								<m_fDuration>0.000000</m_fDuration>
+								<m_nTrackIndex>0</m_nTrackIndex>
+							</Element>
+							<Element>
+								<m_eType>ARTDEF_VFX</m_eType>
+								<m_Name text="42"/>
+								<m_Description text=""/>
+								<m_FXName text="Bullet_Hit"/>
+								<m_CollectionName text="MaterialVFX"/>
+								<m_AttachmentPointName text="FX_Hit_Alignment_01"/>
+								<m_fStartTime>1.184650</m_fStartTime>
+								<m_fDuration>0.000000</m_fDuration>
+								<m_nTrackIndex>0</m_nTrackIndex>
+							</Element>
+							<Element>
+								<m_eType>ARTDEF_VFX</m_eType>
+								<m_Name text="43"/>
+								<m_Description text=""/>
+								<m_FXName text="Bullet_Hit"/>
+								<m_CollectionName text="MaterialVFX"/>
+								<m_AttachmentPointName text="FX_Hit_Alignment_01"/>
+								<m_fStartTime>1.033140</m_fStartTime>
+								<m_fDuration>0.000000</m_fDuration>
+								<m_nTrackIndex>0</m_nTrackIndex>
+							</Element>
+							<Element>
+								<m_eType>ARTDEF_VFX</m_eType>
+								<m_Name text="44"/>
+								<m_Description text=""/>
+								<m_FXName text="Bullet_Hit"/>
+								<m_CollectionName text="MaterialVFX"/>
+								<m_AttachmentPointName text="FX_Hit_Alignment_01"/>
+								<m_fStartTime>0.880966</m_fStartTime>
+								<m_fDuration>0.000000</m_fDuration>
+								<m_nTrackIndex>0</m_nTrackIndex>
+							</Element>
+							<Element>
+								<m_eType>ARTDEF_VFX</m_eType>
+								<m_Name text="45"/>
+								<m_Description text=""/>
+								<m_FXName text="Bullet_Hit"/>
+								<m_CollectionName text="MaterialVFX"/>
+								<m_AttachmentPointName text="FX_Hit_Alignment_01"/>
+								<m_fStartTime>0.722031</m_fStartTime>
+								<m_fDuration>0.000000</m_fDuration>
+								<m_nTrackIndex>0</m_nTrackIndex>
+							</Element>
+							<Element>
+								<m_eType>ARTDEF_VFX</m_eType>
+								<m_Name text="46"/>
+								<m_Description text=""/>
+								<m_FXName text="Bullet_Hit"/>
+								<m_CollectionName text="MaterialVFX"/>
+								<m_AttachmentPointName text="FX_Hit_Alignment_01"/>
+								<m_fStartTime>0.569857</m_fStartTime>
+								<m_fDuration>0.000000</m_fDuration>
+								<m_nTrackIndex>0</m_nTrackIndex>
+							</Element>
+							<Element>
+								<m_eType>ARTDEF_VFX</m_eType>
+								<m_Name text="47"/>
+								<m_Description text=""/>
+								<m_FXName text="Bullet_Hit"/>
+								<m_CollectionName text="MaterialVFX"/>
+								<m_AttachmentPointName text="FX_Hit_Alignment_01"/>
+								<m_fStartTime>0.428552</m_fStartTime>
+								<m_fDuration>0.000000</m_fDuration>
+								<m_nTrackIndex>0</m_nTrackIndex>
+							</Element>
+							<Element>
+								<m_eType>ARTDEF_VFX</m_eType>
+								<m_Name text="48"/>
+								<m_Description text=""/>
+								<m_FXName text="Bullet_Hit"/>
+								<m_CollectionName text="MaterialVFX"/>
+								<m_AttachmentPointName text="FX_Hit_Alignment_01"/>
+								<m_fStartTime>0.294939</m_fStartTime>
+								<m_fDuration>0.000000</m_fDuration>
+								<m_nTrackIndex>0</m_nTrackIndex>
+							</Element>
+							<Element>
+								<m_eType>ASSET_FX</m_eType>
+								<m_Name text="49"/>
+								<m_Description text=""/>
+								<m_FXName text="FX_Fighter_MuzzFlash_01"/>
+								<m_CollectionName text=""/>
+								<m_AttachmentPointName text="FX_Gun_Wing_R_01"/>
+								<m_fStartTime>0.287678</m_fStartTime>
+								<m_fDuration>1.500000</m_fDuration>
+								<m_nTrackIndex>0</m_nTrackIndex>
+							</Element>
+							<Element>
+								<m_eType>ASSET_FX</m_eType>
+								<m_Name text="50"/>
+								<m_Description text=""/>
+								<m_FXName text="FX_Fighter_MuzzFlash_01"/>
+								<m_CollectionName text=""/>
+								<m_AttachmentPointName text="FX_Gun_Wing_L_01"/>
+								<m_fStartTime>0.287678</m_fStartTime>
+								<m_fDuration>1.500000</m_fDuration>
+								<m_nTrackIndex>1</m_nTrackIndex>
+							</Element>
+							<Element>
+								<m_eType>ASSET_FX</m_eType>
+								<m_Name text="52"/>
+								<m_Description text=""/>
+								<m_FXName text="FX_Fighter_Wing_Trail_01"/>
+								<m_CollectionName text=""/>
+								<m_AttachmentPointName text="FX_Wing_Trail_R_01"/>
+								<m_fStartTime>0.000000</m_fStartTime>
+								<m_fDuration>2.966667</m_fDuration>
+								<m_nTrackIndex>2</m_nTrackIndex>
+							</Element>
+							<Element>
+								<m_eType>ASSET_FX</m_eType>
+								<m_Name text="53"/>
+								<m_Description text=""/>
+								<m_FXName text="FX_Fighter_Wing_Trail_01"/>
+								<m_CollectionName text=""/>
+								<m_AttachmentPointName text="FX_Wing_Trail_L_01"/>
+								<m_fStartTime>0.000000</m_fStartTime>
+								<m_fDuration>2.966667</m_fDuration>
+								<m_nTrackIndex>3</m_nTrackIndex>
+							</Element>
+							<Element>
+								<m_eType>ARTDEF_VFX</m_eType>
+								<m_Name text="66"/>
+								<m_Description text=""/>
+								<m_FXName text="Bullet_Hit"/>
+								<m_CollectionName text="MaterialVFX"/>
+								<m_AttachmentPointName text="FX_Hit_Alignment_01"/>
+								<m_fStartTime>0.362408</m_fStartTime>
+								<m_fDuration>0.000000</m_fDuration>
+								<m_nTrackIndex>0</m_nTrackIndex>
+							</Element>
+							<Element>
+								<m_eType>ARTDEF_VFX</m_eType>
+								<m_Name text="67"/>
+								<m_Description text=""/>
+								<m_FXName text="Bullet_Hit"/>
+								<m_CollectionName text="MaterialVFX"/>
+								<m_AttachmentPointName text="FX_Hit_Alignment_01"/>
+								<m_fStartTime>0.508750</m_fStartTime>
+								<m_fDuration>0.000000</m_fDuration>
+								<m_nTrackIndex>0</m_nTrackIndex>
+							</Element>
+							<Element>
+								<m_eType>ARTDEF_VFX</m_eType>
+								<m_Name text="68"/>
+								<m_Description text=""/>
+								<m_FXName text="Bullet_Hit"/>
+								<m_CollectionName text="MaterialVFX"/>
+								<m_AttachmentPointName text="FX_Hit_Alignment_01"/>
+								<m_fStartTime>0.648993</m_fStartTime>
+								<m_fDuration>0.000000</m_fDuration>
+								<m_nTrackIndex>0</m_nTrackIndex>
+							</Element>
+							<Element>
+								<m_eType>ARTDEF_VFX</m_eType>
+								<m_Name text="69"/>
+								<m_Description text=""/>
+								<m_FXName text="Bullet_Hit"/>
+								<m_CollectionName text="MaterialVFX"/>
+								<m_AttachmentPointName text="FX_Hit_Alignment_01"/>
+								<m_fStartTime>0.801432</m_fStartTime>
+								<m_fDuration>0.000000</m_fDuration>
+								<m_nTrackIndex>0</m_nTrackIndex>
+							</Element>
+							<Element>
+								<m_eType>ARTDEF_VFX</m_eType>
+								<m_Name text="70"/>
+								<m_Description text=""/>
+								<m_FXName text="Bullet_Hit"/>
+								<m_CollectionName text="MaterialVFX"/>
+								<m_AttachmentPointName text="FX_Hit_Alignment_01"/>
+								<m_fStartTime>0.953871</m_fStartTime>
+								<m_fDuration>0.000000</m_fDuration>
+								<m_nTrackIndex>0</m_nTrackIndex>
+							</Element>
+							<Element>
+								<m_eType>ARTDEF_VFX</m_eType>
+								<m_Name text="71"/>
+								<m_Description text=""/>
+								<m_FXName text="Bullet_Hit"/>
+								<m_CollectionName text="MaterialVFX"/>
+								<m_AttachmentPointName text="FX_Hit_Alignment_01"/>
+								<m_fStartTime>1.106310</m_fStartTime>
+								<m_fDuration>0.000000</m_fDuration>
+								<m_nTrackIndex>0</m_nTrackIndex>
+							</Element>
+							<Element>
+								<m_eType>ARTDEF_VFX</m_eType>
+								<m_Name text="72"/>
+								<m_Description text=""/>
+								<m_FXName text="Bullet_Hit"/>
+								<m_CollectionName text="MaterialVFX"/>
+								<m_AttachmentPointName text="FX_Hit_Alignment_01"/>
+								<m_fStartTime>1.264847</m_fStartTime>
+								<m_fDuration>0.000000</m_fDuration>
+								<m_nTrackIndex>0</m_nTrackIndex>
+							</Element>
+							<Element>
+								<m_eType>ARTDEF_VFX</m_eType>
+								<m_Name text="73"/>
+								<m_Description text=""/>
+								<m_FXName text="Bullet_Hit"/>
+								<m_CollectionName text="MaterialVFX"/>
+								<m_AttachmentPointName text="FX_Hit_Alignment_01"/>
+								<m_fStartTime>1.411188</m_fStartTime>
+								<m_fDuration>0.000000</m_fDuration>
+								<m_nTrackIndex>0</m_nTrackIndex>
+							</Element>
+							<Element>
+								<m_eType>ARTDEF_VFX</m_eType>
+								<m_Name text="74"/>
+								<m_Description text=""/>
+								<m_FXName text="Bullet_Hit"/>
+								<m_CollectionName text="MaterialVFX"/>
+								<m_AttachmentPointName text="FX_Hit_Alignment_01"/>
+								<m_fStartTime>1.557529</m_fStartTime>
+								<m_fDuration>0.000000</m_fDuration>
+								<m_nTrackIndex>0</m_nTrackIndex>
+							</Element>
+							<Element>
+								<m_eType>ARTDEF_VFX</m_eType>
+								<m_Name text="75"/>
+								<m_Description text=""/>
+								<m_FXName text="Bullet_Hit"/>
+								<m_CollectionName text="MaterialVFX"/>
+								<m_AttachmentPointName text="FX_Hit_Alignment_01"/>
+								<m_fStartTime>1.697773</m_fStartTime>
+								<m_fDuration>0.000000</m_fDuration>
+								<m_nTrackIndex>0</m_nTrackIndex>
+							</Element>
+							<Element>
+								<m_eType>SOUND</m_eType>
+								<m_Name text="51"/>
+								<m_Description text=""/>
+								<m_FXName text="PropFighterAttackFlyby"/>
+								<m_CollectionName text=""/>
+								<m_AttachmentPointName text=""/>
+								<m_fStartTime>0.003421</m_fStartTime>
+								<m_fDuration>0.000000</m_fDuration>
+								<m_nTrackIndex>0</m_nTrackIndex>
+							</Element>
+							<Element>
+								<m_eType>SOUND</m_eType>
+								<m_Name text="54"/>
+								<m_Description text=""/>
+								<m_FXName text="PropFighterAttack"/>
+								<m_CollectionName text=""/>
+								<m_AttachmentPointName text=""/>
+								<m_fStartTime>0.283284</m_fStartTime>
+								<m_fDuration>0.000000</m_fDuration>
+								<m_nTrackIndex>0</m_nTrackIndex>
+							</Element>
+						</m_Triggers>
+					</Element>
+					<Element>
+						<m_Name text="RUN_COMBAT"/>
+						<m_Description text=""/>
+						<m_AnimationName text="Fighter_IdleA"/>
+						<m_fDuration>0.000000</m_fDuration>
+						<m_Triggers>
+							<Element>
+								<m_eType>ASSET_FX</m_eType>
+								<m_Name text="3"/>
+								<m_Description text=""/>
+								<m_FXName text="FX_Fighter_Wing_Trail_01"/>
+								<m_CollectionName text=""/>
+								<m_AttachmentPointName text="FX_Wing_Trail_R_01"/>
+								<m_fStartTime>0.000000</m_fStartTime>
+								<m_fDuration>9.966667</m_fDuration>
+								<m_nTrackIndex>0</m_nTrackIndex>
+							</Element>
+							<Element>
+								<m_eType>ASSET_FX</m_eType>
+								<m_Name text="4"/>
+								<m_Description text=""/>
+								<m_FXName text="FX_Fighter_Wing_Trail_01"/>
+								<m_CollectionName text=""/>
+								<m_AttachmentPointName text="FX_Wing_Trail_L_01"/>
+								<m_fStartTime>0.000000</m_fStartTime>
+								<m_fDuration>9.966667</m_fDuration>
+								<m_nTrackIndex>1</m_nTrackIndex>
+							</Element>
+						</m_Triggers>
+					</Element>
+					<Element>
+						<m_Name text="RUN_STOP"/>
+						<m_Description text=""/>
+						<m_AnimationName text="Fighter_Landing"/>
+						<m_fDuration>0.000000</m_fDuration>
+						<m_Triggers>
+							<Element>
+								<m_eType>ASSET_FX</m_eType>
+								<m_Name text="9"/>
+								<m_Description text=""/>
+								<m_FXName text="FX_Fighter_Wing_Trail_01"/>
+								<m_CollectionName text=""/>
+								<m_AttachmentPointName text="FX_Wing_Trail_R_01"/>
+								<m_fStartTime>0.000000</m_fStartTime>
+								<m_fDuration>7.966667</m_fDuration>
+								<m_nTrackIndex>0</m_nTrackIndex>
+							</Element>
+							<Element>
+								<m_eType>ASSET_FX</m_eType>
+								<m_Name text="10"/>
+								<m_Description text=""/>
+								<m_FXName text="FX_Fighter_Wing_Trail_01"/>
+								<m_CollectionName text=""/>
+								<m_AttachmentPointName text="FX_Wing_Trail_L_01"/>
+								<m_fStartTime>0.000000</m_fStartTime>
+								<m_fDuration>7.966667</m_fDuration>
+								<m_nTrackIndex>1</m_nTrackIndex>
+							</Element>
+							<Element>
+								<m_eType>SOUND</m_eType>
+								<m_Name text="78"/>
+								<m_Description text=""/>
+								<m_FXName text="PropFighterLand"/>
+								<m_CollectionName text=""/>
+								<m_AttachmentPointName text=""/>
+								<m_fStartTime>0.035962</m_fStartTime>
+								<m_fDuration>0.000000</m_fDuration>
+								<m_nTrackIndex>0</m_nTrackIndex>
+							</Element>
+						</m_Triggers>
+					</Element>
+					<Element>
+						<m_Name text="RUN_START"/>
+						<m_Description text=""/>
+						<m_AnimationName text="Fighter_Takeoff"/>
+						<m_fDuration>0.000000</m_fDuration>
+						<m_Triggers>
+							<Element>
+								<m_eType>SOUND</m_eType>
+								<m_Name text="93"/>
+								<m_Description text=""/>
+								<m_FXName text="PropFighterTakeOffRun"/>
+								<m_CollectionName text=""/>
+								<m_AttachmentPointName text=""/>
+								<m_fStartTime>0.020370</m_fStartTime>
+								<m_fDuration>0.000000</m_fDuration>
+								<m_nTrackIndex>0</m_nTrackIndex>
+							</Element>
+						</m_Triggers>
+					</Element>
+					<Element>
+						<m_Name text="SPAWN"/>
+						<m_Description text=""/>
+						<m_AnimationName text=""/>
+						<m_fDuration>7.633334</m_fDuration>
+						<m_Triggers>
+							<Element>
+								<m_eType>SOUND</m_eType>
+								<m_Name text="6"/>
+								<m_Description text=""/>
+								<m_FXName text="PropFighterTakeOffRun"/>
+								<m_CollectionName text=""/>
+								<m_AttachmentPointName text=""/>
+								<m_fStartTime>0.020370</m_fStartTime>
+								<m_fDuration>0.000000</m_fDuration>
+								<m_nTrackIndex>0</m_nTrackIndex>
+							</Element>
+						</m_Triggers>
+					</Element>
+					<Element>
+						<m_Name text="RUN_COMBAT_STOP"/>
+						<m_Description text=""/>
+						<m_AnimationName text="Fighter_Landing"/>
+						<m_fDuration>0.000000</m_fDuration>
+						<m_Triggers>
+							<Element>
+								<m_eType>SOUND</m_eType>
+								<m_Name text="5"/>
+								<m_Description text=""/>
+								<m_FXName text="PropFighterLand"/>
+								<m_CollectionName text=""/>
+								<m_AttachmentPointName text=""/>
+								<m_fStartTime>0.035962</m_fStartTime>
+								<m_fDuration>0.000000</m_fDuration>
+								<m_nTrackIndex>0</m_nTrackIndex>
+							</Element>
+						</m_Triggers>
+					</Element>
+					<Element>
+						<m_Name text="RUN_COMBAT_START"/>
+						<m_Description text=""/>
+						<m_AnimationName text="Fighter_IdleA"/>
+						<m_fDuration>0.000000</m_fDuration>
+						<m_Triggers>
+							<Element>
+								<m_eType>SOUND</m_eType>
+								<m_Name text="55"/>
+								<m_Description text=""/>
+								<m_FXName text="PropFighterTakeOffRun"/>
+								<m_CollectionName text=""/>
+								<m_AttachmentPointName text=""/>
+								<m_fStartTime>0.020370</m_fStartTime>
+								<m_fDuration>0.000000</m_fDuration>
+								<m_nTrackIndex>0</m_nTrackIndex>
+							</Element>
+						</m_Triggers>
+					</Element>
+				</m_Timelines>
+			</m_timelines>
+			<m_attachmentPoints>
+				<m_Points>
+					<Element>
+						<m_CookParams>
+							<m_Values/>
+						</m_CookParams>
+						<m_position>
+							<x>-4.000000</x>
+							<y>-28.000000</y>
+							<z>0.000000</z>
+						</m_position>
+						<m_orientation>
+							<x>0.000000</x>
+							<y>0.000000</y>
+							<z>0.000000</z>
+						</m_orientation>
+						<m_Name text="FX_Wing_Trail_R_01"/>
+						<m_BoneName text="Body"/>
+						<m_ModelInstanceName text="Root"/>
+						<m_scale>1.000000</m_scale>
+					</Element>
+					<Element>
+						<m_CookParams>
+							<m_Values/>
+						</m_CookParams>
+						<m_position>
+							<x>-4.000000</x>
+							<y>28.000000</y>
+							<z>0.000000</z>
+						</m_position>
+						<m_orientation>
+							<x>0.000000</x>
+							<y>0.000000</y>
+							<z>0.000000</z>
+						</m_orientation>
+						<m_Name text="FX_Wing_Trail_L_01"/>
+						<m_BoneName text="Body"/>
+						<m_ModelInstanceName text="Root"/>
+						<m_scale>1.000000</m_scale>
+					</Element>
+					<Element>
+						<m_CookParams>
+							<m_Values/>
+						</m_CookParams>
+						<m_position>
+							<x>0.000000</x>
+							<y>0.000000</y>
+							<z>0.000000</z>
+						</m_position>
+						<m_orientation>
+							<x>0.000000</x>
+							<y>0.000000</y>
+							<z>0.000000</z>
+						</m_orientation>
+						<m_Name text="FX_Gun_R_01"/>
+						<m_BoneName text="GunRight"/>
+						<m_ModelInstanceName text="Root"/>
+						<m_scale>1.000000</m_scale>
+					</Element>
+					<Element>
+						<m_CookParams>
+							<m_Values/>
+						</m_CookParams>
+						<m_position>
+							<x>0.000000</x>
+							<y>0.000000</y>
+							<z>0.000000</z>
+						</m_position>
+						<m_orientation>
+							<x>0.000000</x>
+							<y>0.000000</y>
+							<z>0.000000</z>
+						</m_orientation>
+						<m_Name text="FX_Gun_L_01"/>
+						<m_BoneName text="GunLeft"/>
+						<m_ModelInstanceName text="Root"/>
+						<m_scale>1.000000</m_scale>
+					</Element>
+					<Element>
+						<m_CookParams>
+							<m_Values/>
+						</m_CookParams>
+						<m_position>
+							<x>0.000000</x>
+							<y>0.000000</y>
+							<z>0.000000</z>
+						</m_position>
+						<m_orientation>
+							<x>0.000000</x>
+							<y>0.000000</y>
+							<z>0.000000</z>
+						</m_orientation>
+						<m_Name text="FX_Gun_Wing_R_01"/>
+						<m_BoneName text="WingGunRight"/>
+						<m_ModelInstanceName text="Root"/>
+						<m_scale>2.000000</m_scale>
+					</Element>
+					<Element>
+						<m_CookParams>
+							<m_Values/>
+						</m_CookParams>
+						<m_position>
+							<x>0.000000</x>
+							<y>0.000000</y>
+							<z>0.000000</z>
+						</m_position>
+						<m_orientation>
+							<x>0.000000</x>
+							<y>0.000000</y>
+							<z>0.000000</z>
+						</m_orientation>
+						<m_Name text="FX_Gun_Wing_L_01"/>
+						<m_BoneName text="WingGunLeft"/>
+						<m_ModelInstanceName text="Root"/>
+						<m_scale>2.000000</m_scale>
+					</Element>
+					<Element>
+						<m_CookParams>
+							<m_Values/>
+						</m_CookParams>
+						<m_position>
+							<x>0.000000</x>
+							<y>0.000000</y>
+							<z>0.000000</z>
+						</m_position>
+						<m_orientation>
+							<x>0.000000</x>
+							<y>0.000000</y>
+							<z>0.000000</z>
+						</m_orientation>
+						<m_Name text="FX_Hit_Alignment_01"/>
+						<m_BoneName text="Root"/>
+						<m_ModelInstanceName text="Root"/>
+						<m_scale>1.000000</m_scale>
+					</Element>
+					<Element>
+						<m_CookParams>
+							<m_Values/>
+						</m_CookParams>
+						<m_position>
+							<x>-3.000000</x>
+							<y>2.000000</y>
+							<z>6.000000</z>
+						</m_position>
+						<m_orientation>
+							<x>-0.785398</x>
+							<y>0.000000</y>
+							<z>0.000000</z>
+						</m_orientation>
+						<m_Name text="FX_Hitloc_01"/>
+						<m_BoneName text="Body"/>
+						<m_ModelInstanceName text="Root"/>
+						<m_scale>1.000000</m_scale>
+					</Element>
+					<Element>
+						<m_CookParams>
+							<m_Values/>
+						</m_CookParams>
+						<m_position>
+							<x>0.000000</x>
+							<y>12.000000</y>
+							<z>0.000000</z>
+						</m_position>
+						<m_orientation>
+							<x>0.000000</x>
+							<y>0.000000</y>
+							<z>0.000000</z>
+						</m_orientation>
+						<m_Name text="FX_Hitloc_02"/>
+						<m_BoneName text="Body"/>
+						<m_ModelInstanceName text="Root"/>
+						<m_scale>1.000000</m_scale>
+					</Element>
+					<Element>
+						<m_CookParams>
+							<m_Values/>
+						</m_CookParams>
+						<m_position>
+							<x>-4.000000</x>
+							<y>-11.000000</y>
+							<z>0.000000</z>
+						</m_position>
+						<m_orientation>
+							<x>0.000000</x>
+							<y>0.000000</y>
+							<z>0.000000</z>
+						</m_orientation>
+						<m_Name text="FX_Hitloc_03"/>
+						<m_BoneName text="Body"/>
+						<m_ModelInstanceName text="Root"/>
+						<m_scale>1.000000</m_scale>
+					</Element>
+					<Element>
+						<m_CookParams>
+							<m_Values/>
+						</m_CookParams>
+						<m_position>
+							<x>8.000000</x>
+							<y>-2.500000</y>
+							<z>3.000000</z>
+						</m_position>
+						<m_orientation>
+							<x>0.785398</x>
+							<y>0.000000</y>
+							<z>0.000000</z>
+						</m_orientation>
+						<m_Name text="FX_Hitloc_04"/>
+						<m_BoneName text="Body"/>
+						<m_ModelInstanceName text="Root"/>
+						<m_scale>1.000000</m_scale>
+					</Element>
+					<Element>
+						<m_CookParams>
+							<m_Values/>
+						</m_CookParams>
+						<m_position>
+							<x>-12.000000</x>
+							<y>2.500000</y>
+							<z>2.000000</z>
+						</m_position>
+						<m_orientation>
+							<x>-0.785398</x>
+							<y>0.000000</y>
+							<z>0.000000</z>
+						</m_orientation>
+						<m_Name text="FX_Hitloc_05"/>
+						<m_BoneName text="Body"/>
+						<m_ModelInstanceName text="Root"/>
+						<m_scale>1.000000</m_scale>
+					</Element>
+					<Element>
+						<m_CookParams>
+							<m_Values/>
+						</m_CookParams>
+						<m_position>
+							<x>-22.000000</x>
+							<y>-2.000000</y>
+							<z>4.000000</z>
+						</m_position>
+						<m_orientation>
+							<x>0.785398</x>
+							<y>0.000000</y>
+							<z>0.000000</z>
+						</m_orientation>
+						<m_Name text="FX_Hitloc_06"/>
+						<m_BoneName text="Body"/>
+						<m_ModelInstanceName text="Root"/>
+						<m_scale>1.000000</m_scale>
+					</Element>
+					<Element>
+						<m_CookParams>
+							<m_Values/>
+						</m_CookParams>
+						<m_position>
+							<x>-2.000000</x>
+							<y>0.000000</y>
+							<z>0.000000</z>
+						</m_position>
+						<m_orientation>
+							<x>0.000000</x>
+							<y>0.000000</y>
+							<z>0.000000</z>
+						</m_orientation>
+						<m_Name text="FX_Propeller"/>
+						<m_BoneName text="FX_Propeller"/>
+						<m_ModelInstanceName text="Root"/>
+						<m_scale>1.000000</m_scale>
+					</Element>
+				</m_Points>
+			</m_attachmentPoints>
+		</m_behaviorDataSets>
+		<m_behaviorInstances/>
+		<m_dsgName text="potential_any_graph"/>
+		<m_referenceGeometryNames/>
+	</m_BehaviorData>
+	<m_GeometrySet>
+		<m_ModelInstances>
+			<Element>
+				<m_Name text="Root"/>
+				<m_GeoName text="FighterA"/>
+				<m_GroupStates>
+					<Element>
+						<m_Values>
+							<m_Values>
+								<Element class="AssetObjects::ObjectValue">
+									<m_ObjectName text="Spitfire_Material"/>
+									<m_eObjectType>MATERIAL</m_eObjectType>
+									<m_ParamName text="Material"/>
+								</Element>
+							</m_Values>
+						</m_Values>
+						<m_GroupName text="Fighter_Material"/>
+						<m_MeshName text="Fighter1Shape"/>
+						<m_StateName text="Default"/>
+					</Element>
+				</m_GroupStates>
+			</Element>
+		</m_ModelInstances>
+	</m_GeometrySet>
+	<m_CookParams>
+		<m_Values/>
+	</m_CookParams>
+	<m_Version>
+		<major>3</major>
+		<minor>0</minor>
+		<build>200</build>
+		<revision>880</revision>
+	</m_Version>
+	<m_ParticleEffects/>
+	<m_Geometries/>
+	<m_Animations/>
+	<m_Materials/>
+	<m_ClassName text="Unit"/>
+	<m_DataFiles/>
+	<m_Name text="Spitfire_A"/>
+	<m_Description text=""/>
+	<m_Tags>
+		<Element text="Unit"/>
+	</m_Tags>
+	<m_Groups/>
+</AssetObjects::AssetInstance>
+
+ 

@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<LocalizedText>
+		<!--MOD-->
+		<Row Tag="LOC_MOD_JFD_ENGLAND_ELIZABETH_DESCRIPTION" Language="en_US">
+			<Text>------------------------------------[NEWLINE]LEADER -- ELIZABETH[NEWLINE][NEWLINE]TRAIT - DRAKE-NORRIS EXPEDITION[NEWLINE][ICON_GREATADMIRAL] Great Admirals have an additional charge. Receives a Settler upon retiring Great Admirals for the last time once Shipbuilding has been researched. Gains the Sea Dog unique unit when they research the Mercantilism civic.[NEWLINE][NEWLINE]UNIT - SEA DOG[NEWLINE]English unique Renaissance era naval unit that replaces the Privateer when Elizabeth I is their leader. Can capture enemy ships. Cannot be seen unless adjacent to it.[NEWLINE][NEWLINE]AGENDA - VIDEO ET TACEO[NEWLINE]Builds up her navy and respects Civilizations that do the same. Also tries to gather as much diplomatic access as possible.</Text>
+		</Row>
+		<!--LEADER-->
+		<Row Tag="LOC_LEADER_JFD_ELIZABETH_NAME" Language="en_US">
+			<Text>Elizabeth I</Text>
+		</Row>
+		<!--Agenda-->
+		<Row Tag="LOC_AGENDA_JFD_VIDEO_ET_TACEO_NAME" Language="en_US">
+			<Text>Video et Taceo</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_JFD_VIDEO_ET_TACEO_DESCRIPTION" Language="en_US">
+			<Text>Builds up her navy and respects Civilizations that do the same. Also tries to gather as much diplomatic access as possible.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_JFD_ELIZABETH_REASON_LEADS_NAVY" Language="en_US">
+			<Text>(You have a large navy)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_JFD_VIDEO_ET_TACEO_LAGS_AIRFORCE" Language="en_US">
+			<Text>Elizabeth I respects your naval might</Text>
+		</Row>
+		<!--DOM-->
+		<Row Tag="LOC_LOADING_INFO_LEADER_JFD_ELIZABETH" Language="en_US">
+			<Text>A new world has been revealed, Your Majesty Queen Elizabeth, and England longs to make it her own. The seas are vast but not indomitable, so long as her sailors hold you in their hearts. Go forth into the unknown, and return with glory.</Text>
+		</Row>
+		<!--Traits-->
+		<Row Tag="LOC_TRAIT_LEADER_JFD_DRAKE_NORRIS_NAME" Language="en_US">
+			<Text>Drake-Norris Expedition</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_JFD_DRAKE_NORRIS_DESCRIPTION" Language="en_US">
+			<Text>[ICON_GREATADMIRAL] Great Admirals have an additional charge. Receives a Settler upon retiring Great Admirals for the last time once Shipbuilding has been researched. Gains the Sea Dog unique unit when they research the Mercantilism civic.</Text>
+		</Row>
+		<!--Civilopedia-->
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_ELIZABETH_TITLE" Language="en_US">
+			<Text>Elizabeth I</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_ELIZABETH_SUBTITLE" Language="en_US">
+			<Text>Queen of England</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_ELIZABETH_QUOTE" Language="en_US">
+			<Text>I see but say nothing.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_ELIZABETH_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Elizabeth I was a remarkable woman living in a remarkable age. Beautiful, brilliant, and as tough as nails, she survived and indeed thrived, ruling in an era when most women were little more than chattel.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_ELIZABETH_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>Born to King Henry VIII and Anne Boleyn, who her father had executed for failing to give him a male heir, Elizabeth's early life was filled with danger. Growing up an unwanted daughter of an insane father who was destroying England's ties to the Catholic Church and engaging in civil war so that he could legally marry another woman (several other women, as it turned out), Elizabeth had to use all of her wits to survive. Elizabeth received an excellent education at the hands of various tutors, including the great scholars of the day. She was an outstanding student, and could speak five languages fluently.[NEWLINE][NEWLINE]When King Henry VIII died, the throne passed to his young son, Edward. At fifteen Elizabeth was implicated in a plot to overthrow him. She came close to being executed, surviving only because she was able to convince her skeptical interrogators that she knew nothing of the plot.[NEWLINE][NEWLINE]When King Edward died in 1553, Elizabeth's older sister Mary assumed the throne. An ardent Catholic, Mary was quite unpopular with a number of Protestant noblemen, who attempted unsuccessfully to overthrow her in 1554. Once again Elizabeth was implicated, but once again she talked her way out of execution. Queen Mary died in 1558, and at last Elizabeth became Queen.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_ELIZABETH_CHAPTER_HISTORY_PARA_3" Language="en_US">
+			<Text>Elizabeth was an extraordinary ruler. She established the Protestant Church as the official Church of England. However, she attempted to stem the persecution of Catholics in the country - at least as much as was possible when the Catholic nobility were actively plotting her demise. She also restored the debased currency of England, a step crucially necessary to restore the nation's flagging finances.[NEWLINE][NEWLINE]Elizabeth used all of the tools available to her to achieve her goals. She carefully crafted an image for herself as the "Virgin Queen," greatly increasing her popular support. She received countless offers of marriage from nobility and indeed from kings across Europe. But she accepted none of them, instead using her unmarried state to control her friends and foes alike; if one faction got too strong, she could drive them back into line by suggesting that she was considering marrying someone from an opposing faction.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_ELIZABETH_CHAPTER_HISTORY_PARA_4" Language="en_US">
+			<Text>Elizabeth was a great patron of the arts, particularly music and literature. She made England a center of culture, where great artists like William Shakespeare flourished. During her reign the first English playhouse was built, followed shortly by others including Shakespeare's Globe. And in 1574 weekday performances were made legal. An admirer of poetry, Elizabeth wrote a number of noteworthy poems herself.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_ELIZABETH_CHAPTER_HISTORY_PARA_5" Language="en_US">
+			<Text>Militarily, Catholic Spain was England's greatest threat. Spain was the great continental power of the day, and its leader, King Philip, had upon more than one occasion expressed the intent of invading England. In 1588 he tried, building a huge armada to conquer the upstart nation. Elizabeth quickly organized the country's navy to fend off the fleet, and by a combination of superior tactics, ship design, and some foul weather at just the right moment, they defeated the Spanish foe. England was not to be seriously threatened with invasion for about 400 years.[NEWLINE][NEWLINE]During Elizabeth's reign England, France, Spain and the Dutch all set up colonies in the New World. Elizabeth employed a large number of privateers to attack foreign ships and colonies, as did most other nations. Spain and its New World wealth remained the privateers' favorite targets.[NEWLINE][NEWLINE]Overall, with the exception of her lucky triumph over the Spanish Armada, Elizabeth was not a successful war leader. She oversaw various half-baked military incursions into Ireland, France and the Netherlands, none of which redounded to her credit.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_ELIZABETH_CHAPTER_HISTORY_PARA_6" Language="en_US">
+			<Text>Elizabeth died in 1603, having ruled 45 years. Although in her later years military and economic reversals had dimmed her luster to the point that many in England were relieved that she finally passed on, history acknowledges that she left her country in a much better state than when she came to power. Her great skills were an unerring survival instinct and flair for self-promotion, personal charisma, and toughness matching that of the strongest rulers in history. No better words can serve to describe her than her own: "I know I have the body of a weak and feeble woman, but I have the heart and stomach of a king."</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_ELIZABETH_CHAPTER_CAPSULE_BODY" Language="en_US">
+			<Text>Elizabeth is a fierce and indomitable Queen that will protect England's empire by building a large and powerful navy.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_ELIZABETH_CHAPTER_DETAILED_BODY" Language="en_US">
+			<Text>England (and Elizabeth) are masters of extending English power across the globe to every continent. Initially, she will use the Royal Naval Dockyard and her Sea Dogs to gain control of the seas, and then she will move on with her experienced crew of Great Admirals to colonise foreign lands. Coupled with her unfailing navy, Elizabeth will be able to defend English territory before anyone can set foot in them.</Text>
+		</Row>
+		<!--Diplomacy-->
+		<!--FIRST MEET-->
+		<!--First AI line-->		
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_JFD_ELIZABETH_ANY" Language="en_US">
+			<Text>Greetings. I am Queen Elizabeth of England. Make no mistake, for just that I am a woman, I am not someone to be trifled with.</Text>
+		</Row>
+		<!--AI invitation to visit nearby City-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_JFD_ELIZABETH_ANY" Language="en_US">
+			<Text>Please. I beckon you to visit me at my nearby city. You look weary.</Text>
+		</Row>
+		<!--AI accepts Human invitation-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_JFD_ELIZABETH_ANY" Language="en_US">
+			<Text>I most graciously accept.</Text>
+		</Row>
+		<!--AI invitation to exchange Capital Information-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_JFD_ELIZABETH_ANY" Language="en_US">
+			<Text>I believe we would benefit by being a little more transparent. Would you care to exchange information on our Capitals?</Text>
+		</Row>
+		<!--GREETINGS-->
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_JFD_ELIZABETH_ANY" Language="en_US">
+			<Text>Greetings.</Text>
+		</Row>
+		<!--DELEGATION-->
+		<!--AI Accepts-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_JFD_ELIZABETH_ANY" Language="en_US">
+			<Text>I have received your delegation and indeed to speak with them in due course.</Text>
+		</Row>
+		<!--AI Rejects-->
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_JFD_ELIZABETH_ANY" Language="en_US">
+			<Text>I received your delegation, yes. An unkempt chap. I turned them away, of course. I won't have those that dress like beggars in my court.</Text>
+		</Row>
+		<!--AI Requests-->
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_JFD_ELIZABETH_ANY" Language="en_US">
+			<Text>I have arranged a little gift for you, from our exotic colonies across the waves. I hope you do accept.</Text>
+		</Row>
+		<!--OPEN BORDERS-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_JFD_ELIZABETH_ANY" Language="en_US">
+			<Text>I am pleased.</Text>
+		</Row>
+		<!--AI rejects from human-->
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_JFD_ELIZABETH_ANY" Language="en_US">
+			<Text>Very well. I will not forget this.</Text>
+		</Row>
+		<!--AI requests from human-->
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_JFD_ELIZABETH_ANY" Language="en_US">
+			<Text>I believe there is some arrangement we can come to regarding our borders, yes?</Text>
+		</Row>
+		<!--DECLARE FRIENDSHIP-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_JFD_ELIZABETH_ANY" Language="en_US">
+			<Text>Thank you.</Text>
+		</Row>
+		<!--AI Rejects from human-->
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_JFD_ELIZABETH_ANY" Language="en_US">
+			<Text>This would be unwise of me. I must decline.</Text>
+		</Row>
+		<!--AI Requests friendship from human-->
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_JFD_ELIZABETH_ANY" Language="en_US">
+			<Text>You have been a close friend to me personally, and I would like to consider you a close friend to England, too. What do you say?</Text>
+		</Row>
+		<!--Human accepts AI requests, AI responds-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_JFD_ELIZABETH_ANY" Language="en_US">
+			<Text>Thank you kindly.</Text>
+		</Row>
+		<!--Human rejects AI requests, AI responds-->
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_JFD_ELIZABETH_ANY" Language="en_US">
+			<Text>You are unkind.</Text>
+		</Row>
+		<!--ALLIANCE-->
+		<!--AI Requests an alliance from human-->
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_JFD_ELIZABETH_ANY" Language="en_US">
+			<Text>Would you be interested in an alliance with England?</Text>
+		</Row>
+		<!--KUDOS & WARNINGS-->	
+		<!--AI Kudos-->
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_JFD_ELIZABETH_ANY" Language="en_US">
+			<Text>A sensible ruler knows the value of a strong navy. You are a sensible leader.</Text>
+		</Row>
+		<!--AI Warnings-->
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_JFD_ELIZABETH_ANY" Language="en_US">
+			<Text>I suppose you're relying on your land forces to protect you then.</Text>
+		</Row>
+		<!--AI warns player for border troops-->
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_JFD_ELIZABETH_ANY" Language="en_US">
+			<Text>Please, we do not wish for a war. Why do you bring your troops so near?</Text>
+		</Row>
+		<!--TRADE-->
+		<!--AI Accepts Deal-->
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_JFD_ELIZABETH_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_JFD_ELIZABETH_ANY}</Text>
+		</Row>
+		<!-- AI Rejects Deal -->
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_JFD_ELIZABETH_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_JFD_ELIZABETH_ANY}</Text>
+		</Row>
+		<!--DENOUNCE-->
+		<!--From Human-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_JFD_ELIZABETH_ANY" Language="en_US">
+			<Text>Very well.</Text>
+		</Row>
+		<!--From AI-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_JFD_ELIZABETH_ANY" Language="en_US">
+			<Text>I will not stand idly by as you humiliate and threaten my people (Denounces You).</Text>
+		</Row>
+		<!--Rationale
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_JFD_VIDEO_ET_TACEO_" Language="en_US">
+			<Text>()</Text>
+		</Row>	-->
+		<!--DECLARE WAR-->
+		<!--Human Declares War-->
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_JFD_ELIZABETH_ANY" Language="en_US">
+			<Text>There will be no surrender so long as I live and breath.</Text>
+		</Row>
+		<!--AI Declares War-->
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_JFD_ELIZABETH_ANY" Language="en_US">
+			<Text>You are the greatest threat to my people. I will stop you with all of my strength.</Text>
+		</Row>
+		<!--MAKE PEACE-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_JFD_ELIZABETH_ANY" Language="en_US">
+			<Text>Very well. I accept.</Text>
+		</Row>
+		<!--AI refuses human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_JFD_ELIZABETH_ANY" Language="en_US">
+			<Text>I cannot trust in this so-called peace.</Text>
+		</Row>
+		<!--AI requests from human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_JFD_ELIZABETH_ANY" Language="en_US">
+			<Text>I believe it is time that we end this war.</Text>
+		</Row>
+		<!--DEFEAT-->
+		<!--AI is Defeated-->
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_JFD_ELIZABETH_ANY" Language="en_US">
+			<Text>Defeated, perhaps, but not gone. England will prevail.</Text>
+		</Row>
+		<!--Human is Defeated (will see this in hotseat)-->
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_JFD_ELIZABETH_ANY" Language="en_US">
+			<Text>[LOC_DIPLO_DEFEAT_FROM_AI_LEADER_JFD_ELIZABETH_ANY]</Text>
+		</Row>
+		<!--SEA DOG-->
+		<Replace Tag="LOC_UNIT_ENGLISH_SEADOG_DESCRIPTION" Language="en_US">
+			<Text>English unique Renaissance era naval unit that replaces the Privateer when Elizabeth I is their leader. Can capture enemy ships. Cannot be seen unless adjacent to it.</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

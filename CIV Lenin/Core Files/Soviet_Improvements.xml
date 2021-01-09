@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameInfo>
+	<Types>
+		<Row Type="IMPROVEMENT_SC_NAUKOGRAD" Kind="KIND_IMPROVEMENT"/>
+		<Row Type="TRAIT_CIVILIZATION_IMPROVEMENT_SC_NAUKOGRAD" Kind="KIND_TRAIT"/>
+	</Types>
+	
+	<Traits>
+		<Row TraitType="TRAIT_CIVILIZATION_IMPROVEMENT_SC_NAUKOGRAD" Name="LOC_IMPROVEMENT_SC_NAUKOGRAD_NAME" Description="LOC_IMPROVEMENT_SC_NAUKOGRAD_DESCRIPTION"/>
+	</Traits>
+
+	<Improvements>
+		<Row ImprovementType="IMPROVEMENT_SC_NAUKOGRAD" Name="LOC_IMPROVEMENT_SC_NAUKOGRAD_NAME" Description="LOC_IMPROVEMENT_SC_NAUKOGRAD_DESCRIPTION" Icon="ICON_IMPROVEMENT_SC_NAUKOGRAD" PlunderType="PLUNDER_SCIENCE" PlunderAmount="25" Buildable="true" PrereqCivic="CIVIC_URBANIZATION" Housing="1" TraitType="TRAIT_CIVILIZATION_IMPROVEMENT_SC_NAUKOGRAD" SameAdjacentValid="false"/>
+	</Improvements>
+
+	<Improvement_Adjacencies>
+		<Row ImprovementType="IMPROVEMENT_SC_NAUKOGRAD" YieldChangeId="SC_Naukograd_Woods_Production"/>
+		<Row ImprovementType="IMPROVEMENT_SC_NAUKOGRAD" YieldChangeId="SC_Naukograd_Woods_Science"/>
+	</Improvement_Adjacencies>
+
+	<Improvement_ValidTerrains>
+		<Row ImprovementType="IMPROVEMENT_SC_NAUKOGRAD" TerrainType="TERRAIN_TUNDRA"/>
+		<Row ImprovementType="IMPROVEMENT_SC_NAUKOGRAD" TerrainType="TERRAIN_SNOW"/>
+	</Improvement_ValidTerrains>
+
+	<Improvement_ValidBuildUnits>
+		<Row ImprovementType="IMPROVEMENT_SC_NAUKOGRAD" UnitType="UNIT_BUILDER"/>
+	</Improvement_ValidBuildUnits>
+
+	<Improvement_YieldChanges>
+		<Row ImprovementType="IMPROVEMENT_SC_NAUKOGRAD" YieldType="YIELD_FOOD" YieldChange="1"/>
+		<Row ImprovementType="IMPROVEMENT_SC_NAUKOGRAD" YieldType="YIELD_PRODUCTION" YieldChange="0"/>
+		<Row ImprovementType="IMPROVEMENT_SC_NAUKOGRAD" YieldType="YIELD_SCIENCE" YieldChange="0"/>
+		<Row ImprovementType="IMPROVEMENT_SC_NAUKOGRAD" YieldType="YIELD_CULTURE" YieldChange="0"/>
+	</Improvement_YieldChanges>
+
+	<Improvement_BonusYieldChanges>
+		<Row Id="1" ImprovementType="IMPROVEMENT_SC_NAUKOGRAD" YieldType="YIELD_CULTURE" BonusYieldChange="1" PrereqCivic="CIVIC_IDEOLOGY"/>
+	</Improvement_BonusYieldChanges>
+
+	<Improvement_Tourism>
+		<Row ImprovementType="IMPROVEMENT_SC_NAUKOGRAD" TourismSource="TOURISMSOURCE_CULTURE" PrereqTech="TECH_FLIGHT" ScalingFactor="100"/>
+	</Improvement_Tourism>
+
+	<District_Adjacencies>
+		<Row DistrictType="DISTRICT_INDUSTRIAL_ZONE" YieldChangeId="SC_Naukograd_Production"/>
+		<Row DistrictType="DISTRICT_INDUSTRIAL_ZONE" YieldChangeId="SC_Naukograd_Science"/>
+		<Row DistrictType="DISTRICT_CAMPUS" YieldChangeId="SC_Naukograd_Production"/>
+		<Row DistrictType="DISTRICT_CAMPUS" YieldChangeId="SC_Naukograd_Science"/>
+		<Row DistrictType="DISTRICT_SPACEPORT" YieldChangeId="SC_Naukograd_Production"/>
+		<Row DistrictType="DISTRICT_SPACEPORT" YieldChangeId="SC_Naukograd_Science"/>
+	</District_Adjacencies>
+	
+	<Adjacency_YieldChanges>
+		<Row ID="SC_Naukograd_Woods_Production" Description="LOC_SC_NAUKOGRAD_WOODS_PRODUCTION" YieldType="YIELD_PRODUCTION" YieldChange="1" TilesRequired="2" AdjacentFeature="FEATURE_FOREST"/>
+		<Row ID="SC_Naukograd_Woods_Science" Description="LOC_SC_NAUKOGRAD_WOODS_SCIENCE" YieldType="YIELD_SCIENCE" YieldChange="1" TilesRequired="2" AdjacentFeature="FEATURE_FOREST"/>
+		<Row ID="SC_Naukograd_Production" Description="LOC_SC_NAUKOGRAD_PRODUCTION" YieldType="YIELD_PRODUCTION" YieldChange="1" TilesRequired="1" AdjacentImprovement="IMPROVEMENT_SC_NAUKOGRAD"/>
+		<Row ID="SC_Naukograd_Science" Description="LOC_SC_NAUKOGRAD_SCIENCE" YieldType="YIELD_SCIENCE" YieldChange="1" TilesRequired="1" AdjacentImprovement="IMPROVEMENT_SC_NAUKOGRAD"/>
+	</Adjacency_YieldChanges>
+</GameInfo>

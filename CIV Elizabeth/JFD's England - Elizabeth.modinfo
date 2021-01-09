@@ -1,0 +1,203 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="7a76f28d-6dd6-4ff8-9577-e85d0fcbbd51" version="1">
+  <Properties>
+    <Name>JFD's [COLOR_FLOAT_GOLD]England[ENDCOLOR]: Elizabeth</Name>
+    <Description>------------------------------------[NEWLINE]LEADER -- ELIZABETH[NEWLINE][NEWLINE]TRAIT - DRAKE-NORRIS EXPEDITION[NEWLINE][ICON_GREATADMIRAL] Great Admirals have an additional charge. Receives a Settler upon retiring Great Admirals for the last time once Shipbuilding has been researched. Gains the Sea Dog unique unit when they research the Mercantilism civic.[NEWLINE][NEWLINE]UNIT - SEA DOG[NEWLINE]English unique Renaissance era naval unit that replaces the Privateer when Elizabeth I is their leader. Can capture enemy ships. Cannot be seen unless adjacent to it.[NEWLINE][NEWLINE]AGENDA - VIDEO ET TACEO[NEWLINE]Builds up her navy and respects Civilizations that do the same. Also tries to gather as much diplomatic access as possible.</Description>
+    <Teaser>Adds Elizabeth to England.  Click for details.</Teaser>
+    <Authors>JFD, Janboruta</Authors>
+    <SpecialThanks>Brackenspore, zebenji</SpecialThanks>
+  </Properties>
+  <Dependencies>
+    <Mod id="1B28771A-C749-434B-9053-D1380C553DE9" title="LOC_EXPANSION1_MOD_TITLE" />
+  </Dependencies>
+  <References>
+    <Mod id="8342b98d-80c7-4002-87bb-419646bd9b54" title="DELIVERATOR STEEL AND THUNDER" />
+    <Mod id="8342b98d-80c7-4002-87bb-419646bd9b54" title="DELIVERATOR MOAR UNITS" />
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" title="GEDEMON YNAEMP" />
+    <Mod id="514aaa88-ffd2-475f-ace6-ea49b34a100a" title="GEDEMON CORDIFORM EARTH FOR YNAEMP" />
+    <Mod id="650ff782-47b4-4b46-93fb-00bef8da8b8e" title="JFD RULE WITH FAITH" />
+    <Mod id="6010e6f6-918e-48b8-9332-d60783bd8fb5" title="TOMATEKH HISTORICAL RELIGIONS" />
+  </References>
+  <FrontEndActions>
+    <UpdateDatabase id="UpdateDatabase">
+      <Properties>
+        <LoadOrder>10</LoadOrder>
+      </Properties>
+      <File>Core/England_Config.sql</File>
+      <File>Core/EnglandElizabeth_Config.sql</File>
+    </UpdateDatabase>
+    <UpdateIcons id="UpdateIcons">
+      <File>Core/England_IconDefinitions.sql</File>
+      <File>Core/EnglandElizabeth_IconDefinitions.sql</File>
+    </UpdateIcons>
+    <UpdateText id="UpdateText">
+      <File>Core/England_GameText.xml</File>
+      <File>Core/England_GameText_Fr.xml</File>
+      <File>Core/England_GameText_Ru.xml</File>
+      <File>Core/EnglandElizabeth_GameText.xml</File>
+      <File>Core/EnglandElizabeth_GameText_Fr.xml</File>
+      <File>Core/EnglandElizabeth_GameText_Ru.xml</File>
+      <File>Core/England_GameText_De.xml</File>
+      <File>Core/EnglandElizabeth_GameText_De.xml</File>
+    </UpdateText>
+    <UpdateArt id="JFD_England_ConfigArt">
+      <File>JFD's England - Elizabeth.dep</File>
+    </UpdateArt>
+  </FrontEndActions>
+  <InGameActions>
+    <UpdateDatabase id="UpdateDatabase">
+      <Properties>
+        <LoadOrder>10</LoadOrder>
+      </Properties>
+      <File>Core/England_GameDefines.sql</File>
+      <File>Core/EnglandElizabeth_GameDefines.sql</File>
+    </UpdateDatabase>
+    <UpdateIcons id="UpdateIcons">
+      <File>Core/England_IconDefinitions.sql</File>
+      <File>Core/EnglandElizabeth_IconDefinitions.sql</File>
+    </UpdateIcons>
+    <UpdateText id="UpdateText">
+      <File>Core/England_GameText.xml</File>
+      <File>Core/England_GameText_Fr.xml</File>
+      <File>Core/England_GameText_Ru.xml</File>
+      <File>Core/EnglandElizabeth_GameText.xml</File>
+      <File>Core/EnglandElizabeth_GameText_Fr.xml</File>
+      <File>Core/EnglandElizabeth_GameText_Ru.xml</File>
+      <File>Core/England_GameText_De.xml</File>
+      <File>Core/EnglandElizabeth_GameText_De.xml</File>
+    </UpdateText>
+    <UpdateArt id="UpdateArt">
+      <File>JFD's England - Elizabeth.dep</File>
+    </UpdateArt>
+    <AddGameplayScripts id="AddGameplayScripts">
+      <File>Lua/JFD_EnglandElizabeth_Functions.lua</File>
+    </AddGameplayScripts>
+    <AddUserInterfaces id="JFD_England_UserInterfaces">
+      <Properties>
+        <Context>InGame</Context>
+      </Properties>
+      <File>Lua/JFD_EnglandElizabeth_UIFunctions.xml</File>
+    </AddUserInterfaces>
+  </InGameActions>
+  <Files>
+    <File>ArtDefs/FallbackLeaders.artdef</File>
+    <File>ArtDefs/Leaders.artdef</File>
+    <File>ArtDefs/Units.artdef</File>
+    <File>ArtDefs/Unit_Bins.artdef</File>
+    <File>ArtDefs/UserInterface.artdef</File>
+    <File>Assets/Dreadnaught_A.ast</File>
+    <File>Assets/Spitfire_A.ast</File>
+    <File>Core/EnglandElizabeth_Config.sql</File>
+    <File>Core/EnglandElizabeth_GameDefines.sql</File>
+    <File>Core/EnglandElizabeth_GameText.xml</File>
+    <File>Core/EnglandElizabeth_GameText_De.xml</File>
+    <File>Core/EnglandElizabeth_GameText_Fr.xml</File>
+    <File>Core/EnglandElizabeth_GameText_Ru.xml</File>
+    <File>Core/EnglandElizabeth_IconDefinitions.sql</File>
+    <File>Core/England_Config.sql</File>
+    <File>Core/England_GameDefines.sql</File>
+    <File>Core/England_GameText.xml</File>
+    <File>Core/England_GameText_De.xml</File>
+    <File>Core/England_GameText_Fr.xml</File>
+    <File>Core/England_GameText_Ru.xml</File>
+    <File>Core/England_IconDefinitions.sql</File>
+    <File>Credits.txt</File>
+    <File>JFD's England - Elizabeth.dep</File>
+    <File>Lua/JFD_EnglandElizabeth_Functions.lua</File>
+    <File>Lua/JFD_EnglandElizabeth_UIFunctions.lua</File>
+    <File>Lua/JFD_EnglandElizabeth_UIFunctions.xml</File>
+    <File>Materials/Dreadnaught_Material.mtl</File>
+    <File>Materials/Spitfire_Material.mtl</File>
+    <File>Platforms/MacOS/BLPs/LeaderFallbacks.blp</File>
+    <File>Platforms/MacOS/BLPs/SHARED_DATA/ANIMATION_MinasGaraes_Attack_Left</File>
+    <File>Platforms/MacOS/BLPs/SHARED_DATA/ANIMATION_MinasGaraes_Attack_Right</File>
+    <File>Platforms/MacOS/BLPs/SHARED_DATA/ANIMATION_MinasGaraes_Death_A</File>
+    <File>Platforms/MacOS/BLPs/SHARED_DATA/ANIMATION_MinasGaraes_Idle_A</File>
+    <File>Platforms/MacOS/BLPs/SHARED_DATA/ANIMATION_MinasGaraes_Idle_Combat_A</File>
+    <File>Platforms/MacOS/BLPs/SHARED_DATA/ANIMATION_MinasGaraes_Run</File>
+    <File>Platforms/MacOS/BLPs/SHARED_DATA/ANIMATION_MinasGaraes_Run_Combat</File>
+    <File>Platforms/MacOS/BLPs/SHARED_DATA/TEXTURE_DiffuseTint_Dreadnaught_A_null</File>
+    <File>Platforms/MacOS/BLPs/SHARED_DATA/TEXTURE_MinasGaraes_AO</File>
+    <File>Platforms/MacOS/BLPs/SHARED_DATA/TEXTURE_MinasGaraes_G</File>
+    <File>Platforms/MacOS/BLPs/SHARED_DATA/TEXTURE_MinasGaraes_M</File>
+    <File>Platforms/MacOS/BLPs/SHARED_DATA/TEXTURE_MinasGaraes_N0</File>
+    <File>Platforms/MacOS/BLPs/SHARED_DATA/TEXTURE_MinasGaraes_N1</File>
+    <File>Platforms/MacOS/BLPs/UI/Icons.blp</File>
+    <File>Platforms/MacOS/BLPs/units/units.blp</File>
+    <File>Platforms/Windows/BLPs/LeaderFallbacks.blp</File>
+    <File>Platforms/Windows/BLPs/SHARED_DATA/ANIMATION_MinasGaraes_Attack_Left</File>
+    <File>Platforms/Windows/BLPs/SHARED_DATA/ANIMATION_MinasGaraes_Attack_Right</File>
+    <File>Platforms/Windows/BLPs/SHARED_DATA/ANIMATION_MinasGaraes_Death_A</File>
+    <File>Platforms/Windows/BLPs/SHARED_DATA/ANIMATION_MinasGaraes_Idle_A</File>
+    <File>Platforms/Windows/BLPs/SHARED_DATA/ANIMATION_MinasGaraes_Idle_Combat_A</File>
+    <File>Platforms/Windows/BLPs/SHARED_DATA/ANIMATION_MinasGaraes_Run</File>
+    <File>Platforms/Windows/BLPs/SHARED_DATA/ANIMATION_MinasGaraes_Run_Combat</File>
+    <File>Platforms/Windows/BLPs/SHARED_DATA/TEXTURE_DiffuseTint_Dreadnaught_A_null</File>
+    <File>Platforms/Windows/BLPs/SHARED_DATA/TEXTURE_MinasGaraes_AO</File>
+    <File>Platforms/Windows/BLPs/SHARED_DATA/TEXTURE_MinasGaraes_G</File>
+    <File>Platforms/Windows/BLPs/SHARED_DATA/TEXTURE_MinasGaraes_M</File>
+    <File>Platforms/Windows/BLPs/SHARED_DATA/TEXTURE_MinasGaraes_N0</File>
+    <File>Platforms/Windows/BLPs/SHARED_DATA/TEXTURE_MinasGaraes_N1</File>
+    <File>Platforms/Windows/BLPs/UI/Icons.blp</File>
+    <File>Platforms/Windows/BLPs/units/units.blp</File>
+    <File>Textures/DreadnaughtUnitFlags22.dds</File>
+    <File>Textures/DreadnaughtUnitFlags22.tex</File>
+    <File>Textures/DreadnaughtUnitFlags256.dds</File>
+    <File>Textures/DreadnaughtUnitFlags256.tex</File>
+    <File>Textures/DreadnaughtUnitFlags32.dds</File>
+    <File>Textures/DreadnaughtUnitFlags32.tex</File>
+    <File>Textures/DreadnaughtUnitFlags38.dds</File>
+    <File>Textures/DreadnaughtUnitFlags38.tex</File>
+    <File>Textures/DreadnaughtUnitFlags50.dds</File>
+    <File>Textures/DreadnaughtUnitFlags50.tex</File>
+    <File>Textures/DreadnaughtUnitFlags80.dds</File>
+    <File>Textures/DreadnaughtUnitFlags80.tex</File>
+    <File>Textures/DreadnaughtUnitPortraits200.dds</File>
+    <File>Textures/DreadnaughtUnitPortraits200.tex</File>
+    <File>Textures/DreadnaughtUnitPortraits256.dds</File>
+    <File>Textures/DreadnaughtUnitPortraits256.tex</File>
+    <File>Textures/DreadnaughtUnitPortraits38.dds</File>
+    <File>Textures/DreadnaughtUnitPortraits38.tex</File>
+    <File>Textures/DreadnaughtUnitPortraits50.dds</File>
+    <File>Textures/DreadnaughtUnitPortraits50.tex</File>
+    <File>Textures/DreadnaughtUnitPortraits70.dds</File>
+    <File>Textures/DreadnaughtUnitPortraits70.tex</File>
+    <File>Textures/DreadnaughtUnitPortraits95.dds</File>
+    <File>Textures/DreadnaughtUnitPortraits95.tex</File>
+    <File>Textures/Dreadnaught_A.dds</File>
+    <File>Textures/Dreadnaught_A.tex</File>
+    <File>Textures/Elizabeth256.dds</File>
+    <File>Textures/Elizabeth256.tex</File>
+    <File>Textures/Elizabeth32.dds</File>
+    <File>Textures/Elizabeth32.tex</File>
+    <File>Textures/Elizabeth45.dds</File>
+    <File>Textures/Elizabeth45.tex</File>
+    <File>Textures/Elizabeth48.dds</File>
+    <File>Textures/Elizabeth48.tex</File>
+    <File>Textures/Elizabeth50.dds</File>
+    <File>Textures/Elizabeth50.tex</File>
+    <File>Textures/Elizabeth55.dds</File>
+    <File>Textures/Elizabeth55.tex</File>
+    <File>Textures/Elizabeth64.dds</File>
+    <File>Textures/Elizabeth64.tex</File>
+    <File>Textures/Elizabeth80.dds</File>
+    <File>Textures/Elizabeth80.tex</File>
+    <File>Textures/EnglandElizabeth45.dds</File>
+    <File>Textures/EnglandElizabeth45.tex</File>
+    <File>Textures/FALLBACK_NEUTRAL_JFD_ELIZABETH.dds</File>
+    <File>Textures/FALLBACK_NEUTRAL_JFD_ELIZABETH.tex</File>
+    <File>Textures/JFD_ELIZABETH_1.dds</File>
+    <File>Textures/JFD_ELIZABETH_1.tex</File>
+    <File>Textures/JFD_ELIZABETH_2.dds</File>
+    <File>Textures/JFD_ELIZABETH_2.tex</File>
+    <File>Textures/JFD_ELIZABETH_4.dds</File>
+    <File>Textures/JFD_ELIZABETH_4.tex</File>
+    <File>Textures/LEADER_JFD_ELIZABETH_NEUTRAL.dds</File>
+    <File>Textures/LEADER_JFD_ELIZABETH_NEUTRAL.tex</File>
+    <File>Textures/Moment_UniqueUnit_JFD_England.dds</File>
+    <File>Textures/Moment_UniqueUnit_JFD_England.tex</File>
+    <File>XLPs/Icons.xlp</File>
+    <File>XLPs/LeaderFallbacks.xlp</File>
+    <File>XLPs/Units.xlp</File>
+  </Files>
+</Mod>

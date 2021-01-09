@@ -1,0 +1,161 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="2488cd3f-68dd-4413-8339-51e4ffa11c6b" version="1">
+  <Properties>
+    <Name>JFD's [COLOR_FLOAT_GOLD]America[ENDCOLOR]: Donald Trump</Name>
+    <Description>------------------------------------[NEWLINE]LEADER -- DONALD TRUMP[NEWLINE][NEWLINE]TRAIT - AMERICAN CONTRACT[NEWLINE]Internal [ICON_TRADEROUTE] Trade Routes provide +1 Loyalty per turn for the starting city. Cities at full Loyalty can [ICON_GOLD] purchase Civilian Units for 20% cheaper. Receives the Supercarrier unique unit after researching the Combined Arms technology.[NEWLINE][NEWLINE]UNIT - SUPERCARRIER[NEWLINE]American unique Atomic era naval unit that replaces the Aircraft Carrier when Donald Trump is their leader. Can enter foreign territory without an Open Borders agreement and generates Influence toward an [ICON_ENVOY] Envoy whilst stationed outside American borders so long as America is at peace. Costs additional Maintenance.[NEWLINE][NEWLINE]AGENDA - AMERICA FIRST[NEWLINE]Strongly opposes Open Borders agreements, and tends to the loyalty and happiness of his own people. Respects civilizations that also keep their own people loyal and content. Dislikes civilizations that send their [ICON_TRADEROUTE] Trade Routes to America.</Description>
+    <Teaser>Adds Donald Trump to America. Click for details.</Teaser>
+    <Authors>JFD</Authors>
+    <SpecialThanks>Enigma, Leugi</SpecialThanks>
+  </Properties>
+  <Dependencies>
+    <Mod id="1B28771A-C749-434B-9053-D1380C553DE9" title="LOC_EXPANSION1_MOD_TITLE" />
+  </Dependencies>
+  <References>
+    <Mod id="01159f41-7ca0-4181-84cf-2f2c912edfdd" title="DELIVERATOR STEEL AND THUNDER" />
+    <Mod id="8342b98d-80c7-4002-87bb-419646bd9b54" title="DELIVERATOR MOAR UNITS" />
+    <Mod id="514aaa88-ffd2-475f-ace6-ea49b34a100a" title="GEDEMON CORDIFORM EARTH FOR YNAEMP" />
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" title="GEDEMON YNAEMP" />
+    <Mod id="650ff782-47b4-4b46-93fb-00bef8da8b8e" title="JFD RULE WITH FAITH" />
+  </References>
+  <ActionCriteria>
+    <Criteria id="Expansion1">
+      <GameCoreInUse>Expansion1</GameCoreInUse>
+    </Criteria>
+  </ActionCriteria>
+  <FrontEndActions>
+    <UpdateDatabase id="UpdateDatabase">
+      <Properties>
+        <LoadOrder>10</LoadOrder>
+      </Properties>
+      <File>Core/AmericaTrump_Config.sql</File>
+    </UpdateDatabase>
+    <UpdateIcons id="UpdateIcons">
+      <File>Core/AmericaTrump_IconDefinitions.sql</File>
+    </UpdateIcons>
+    <UpdateText id="UpdateText">
+      <File>Core/AmericaTrump_GameText.xml</File>
+    </UpdateText>
+    <UpdateArt id="UpdateArt">
+      <File>JFD's America - Donald Trump.dep</File>
+    </UpdateArt>
+  </FrontEndActions>
+  <InGameActions>
+    <UpdateDatabase id="UpdateDatabase">
+      <Properties>
+        <LoadOrder>10</LoadOrder>
+      </Properties>
+      <File>Core/AmericaTrump_GameDefines.sql</File>
+    </UpdateDatabase>
+    <UpdateIcons id="UpdateIcons">
+      <File>Core/AmericaTrump_IconDefinitions.sql</File>
+    </UpdateIcons>
+    <UpdateText id="UpdateText">
+      <File>Core/AmericaTrump_GameText.xml</File>
+    </UpdateText>
+    <UpdateArt id="UpdateArt">
+      <File>JFD's America - Donald Trump.dep</File>
+    </UpdateArt>
+  </InGameActions>
+  <Files>
+    <File>ArtDefs/FallbackLeaders.artdef</File>
+    <File>ArtDefs/Leaders.artdef</File>
+    <File>ArtDefs/Units.artdef</File>
+    <File>ArtDefs/Unit_Bins.artdef</File>
+    <File>ArtDefs/UserInterface.artdef</File>
+    <File>Core/AmericaTrump_Config.sql</File>
+    <File>Core/AmericaTrump_GameDefines.sql</File>
+    <File>Core/AmericaTrump_GameText.xml</File>
+    <File>Core/AmericaTrump_IconDefinitions.sql</File>
+    <File>Credits.txt</File>
+    <File>JFD's America - Donald Trump.dep</File>
+    <File>Platforms/MacOS/BLPs/LeaderFallbacks.blp</File>
+    <File>Platforms/MacOS/BLPs/SHARED_DATA/ANIMATION_AircraftCarrier_AttackAirRight</File>
+    <File>Platforms/MacOS/BLPs/SHARED_DATA/ANIMATION_AircraftCarrier_AttackLeft</File>
+    <File>Platforms/MacOS/BLPs/SHARED_DATA/ANIMATION_AircraftCarrier_AttackRight</File>
+    <File>Platforms/MacOS/BLPs/SHARED_DATA/ANIMATION_AircraftCarrier_DeathA</File>
+    <File>Platforms/MacOS/BLPs/SHARED_DATA/ANIMATION_AircraftCarrier_IdleA</File>
+    <File>Platforms/MacOS/BLPs/SHARED_DATA/ANIMATION_AircraftCarrier_RunA</File>
+    <File>Platforms/MacOS/BLPs/SHARED_DATA/ANIMATION_AircraftCarrier_RunStopA</File>
+    <File>Platforms/MacOS/BLPs/SHARED_DATA/TEXTURE_AircraftCarrier_ao</File>
+    <File>Platforms/MacOS/BLPs/SHARED_DATA/TEXTURE_AircraftCarrier_g</File>
+    <File>Platforms/MacOS/BLPs/SHARED_DATA/TEXTURE_AircraftCarrier_m</File>
+    <File>Platforms/MacOS/BLPs/SHARED_DATA/TEXTURE_AircraftCarrier_n0</File>
+    <File>Platforms/MacOS/BLPs/SHARED_DATA/TEXTURE_AircraftCarrier_n1</File>
+    <File>Platforms/MacOS/BLPs/SHARED_DATA/TEXTURE_DiffuseTint_Supercarrier_a_AircraftCarrier_t</File>
+    <File>Platforms/MacOS/BLPs/UI/Icons.blp</File>
+    <File>Platforms/MacOS/BLPs/units/units.blp</File>
+    <File>Platforms/Windows/BLPs/LeaderFallbacks.blp</File>
+    <File>Platforms/Windows/BLPs/SHARED_DATA/ANIMATION_AircraftCarrier_AttackAirRight</File>
+    <File>Platforms/Windows/BLPs/SHARED_DATA/ANIMATION_AircraftCarrier_AttackLeft</File>
+    <File>Platforms/Windows/BLPs/SHARED_DATA/ANIMATION_AircraftCarrier_AttackRight</File>
+    <File>Platforms/Windows/BLPs/SHARED_DATA/ANIMATION_AircraftCarrier_DeathA</File>
+    <File>Platforms/Windows/BLPs/SHARED_DATA/ANIMATION_AircraftCarrier_IdleA</File>
+    <File>Platforms/Windows/BLPs/SHARED_DATA/ANIMATION_AircraftCarrier_RunA</File>
+    <File>Platforms/Windows/BLPs/SHARED_DATA/ANIMATION_AircraftCarrier_RunStopA</File>
+    <File>Platforms/Windows/BLPs/SHARED_DATA/TEXTURE_AircraftCarrier_ao</File>
+    <File>Platforms/Windows/BLPs/SHARED_DATA/TEXTURE_AircraftCarrier_g</File>
+    <File>Platforms/Windows/BLPs/SHARED_DATA/TEXTURE_AircraftCarrier_m</File>
+    <File>Platforms/Windows/BLPs/SHARED_DATA/TEXTURE_AircraftCarrier_n0</File>
+    <File>Platforms/Windows/BLPs/SHARED_DATA/TEXTURE_AircraftCarrier_n1</File>
+    <File>Platforms/Windows/BLPs/SHARED_DATA/TEXTURE_DiffuseTint_Supercarrier_a_AircraftCarrier_t</File>
+    <File>Platforms/Windows/BLPs/UI/Icons.blp</File>
+    <File>Platforms/Windows/BLPs/units/units.blp</File>
+    <File>Textures/AmericaTrump45.dds</File>
+    <File>Textures/AmericaTrump45.tex</File>
+    <File>Textures/FALLBACK_NEUTRAL_JFD_TRUMP.dds</File>
+    <File>Textures/FALLBACK_NEUTRAL_JFD_TRUMP.tex</File>
+    <File>Textures/JFD_TRUMP_1.dds</File>
+    <File>Textures/JFD_TRUMP_1.tex</File>
+    <File>Textures/JFD_TRUMP_4.dds</File>
+    <File>Textures/JFD_TRUMP_4.tex</File>
+    <File>Textures/LEADER_JFD_TRUMP_NEUTRAL.dds</File>
+    <File>Textures/LEADER_JFD_TRUMP_NEUTRAL.tex</File>
+    <File>Textures/Moment_UniqueUnit_JFD_AmericaTrump.dds</File>
+    <File>Textures/Moment_UniqueUnit_JFD_AmericaTrump.tex</File>
+    <File>Textures/SupercarrierUnitFlags22.dds</File>
+    <File>Textures/SupercarrierUnitFlags22.tex</File>
+    <File>Textures/SupercarrierUnitFlags256.dds</File>
+    <File>Textures/SupercarrierUnitFlags256.tex</File>
+    <File>Textures/SupercarrierUnitFlags32.dds</File>
+    <File>Textures/SupercarrierUnitFlags32.tex</File>
+    <File>Textures/SupercarrierUnitFlags38.dds</File>
+    <File>Textures/SupercarrierUnitFlags38.tex</File>
+    <File>Textures/SupercarrierUnitFlags50.dds</File>
+    <File>Textures/SupercarrierUnitFlags50.tex</File>
+    <File>Textures/SupercarrierUnitFlags80.dds</File>
+    <File>Textures/SupercarrierUnitFlags80.tex</File>
+    <File>Textures/SupercarrierUnitPortraits200.dds</File>
+    <File>Textures/SupercarrierUnitPortraits200.tex</File>
+    <File>Textures/SupercarrierUnitPortraits256.dds</File>
+    <File>Textures/SupercarrierUnitPortraits256.tex</File>
+    <File>Textures/SupercarrierUnitPortraits38.dds</File>
+    <File>Textures/SupercarrierUnitPortraits38.tex</File>
+    <File>Textures/SupercarrierUnitPortraits50.dds</File>
+    <File>Textures/SupercarrierUnitPortraits50.tex</File>
+    <File>Textures/SupercarrierUnitPortraits70.dds</File>
+    <File>Textures/SupercarrierUnitPortraits70.tex</File>
+    <File>Textures/SupercarrierUnitPortraits95.dds</File>
+    <File>Textures/SupercarrierUnitPortraits95.tex</File>
+    <File>Textures/Supercarrier_a.dds</File>
+    <File>Textures/Supercarrier_a.tex</File>
+    <File>Textures/Trump256.dds</File>
+    <File>Textures/Trump256.tex</File>
+    <File>Textures/Trump32.dds</File>
+    <File>Textures/Trump32.tex</File>
+    <File>Textures/Trump45.dds</File>
+    <File>Textures/Trump45.tex</File>
+    <File>Textures/Trump48.dds</File>
+    <File>Textures/Trump48.tex</File>
+    <File>Textures/Trump50.dds</File>
+    <File>Textures/Trump50.tex</File>
+    <File>Textures/Trump55.dds</File>
+    <File>Textures/Trump55.tex</File>
+    <File>Textures/Trump64.dds</File>
+    <File>Textures/Trump64.tex</File>
+    <File>Textures/Trump80.dds</File>
+    <File>Textures/Trump80.tex</File>
+    <File>XLPs/Icons.xlp</File>
+    <File>XLPs/LeaderFallbacks.xlp</File>
+    <File>XLPs/Units.xlp</File>
+  </Files>
+</Mod>

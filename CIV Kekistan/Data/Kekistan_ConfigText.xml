@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<!-- Civ / leader -->
+		<Row Tag="LOC_CIVILIZATION_KEKISTAN_NAME" Language="en_US">
+			<Text>Kekistan</Text>
+		</Row>
+		
+		<Row Tag="LOC_CIVILIZATION_KEKISTAN_DESCRIPTION" Language="en_US">
+			<Text>Kekistani Empire</Text>
+		</Row>
+
+		<Row Tag="LOC_CIVILIZATION_KEKISTAN_ADJECTIVE" Language="en_US">
+			<Text>Kekistani</Text>
+		</Row>
+		
+		<Row Tag="LOC_LEADER_TDA_TRUMP_NAME" Language="en_US">
+			<Text>God-Emperor Trump</Text>
+		</Row>
+
+		<!-- Traits -->
+		<Row Tag="LOC_TRAIT_CIVILIZATION_MEMETIC_ENGINEERING_NAME" Language="en_US">
+			<Text>Memetic Engineering</Text>
+		</Row>
+		
+		<Row Tag="LOC_TRAIT_CIVILIZATION_MEMETIC_ENGINEERING_DESCRIPTION" Language="en_US">
+			<Text>All religious units receive the Cult of Kek ability, which provides +10 Religious Strength. [ICON_FAITH] Faith output of cities increased by 25%, with an additional 100% bonus upon researching Computers. [ICON_TOURISM] Tourism output of Great Works of Art, Music, and Writing increased by 15%, with an additional 25% bonus upon researching Writing.</Text>
+		</Row>
+		
+		<Row Tag="LOC_TRAIT_LEADER_GREAT_AGAIN_NAME" Language="en_US">
+			<Text>Great Again</Text>
+		</Row>
+		
+		<Row Tag="LOC_TRAIT_LEADER_GREAT_AGAIN_DESCRIPTION" Language="en_US">
+			<Text>Gold buildings and trade routes provide +2 [ICON_GOLD] Gold. Unlocks the Border Patrol unique unit upon completing the Nationalism civic.</Text>
+		</Row>
+		
+		<!-- Agenda -->
+		<Row Tag="LOC_AGENDA_DEAL_MASTER_NAME" Language="en_US">
+			<Text>Deal Master</Text>
+		</Row>
+
+		<Row Tag="LOC_AGENDA_DEAL_MASTER_DESCRIPTION" Language="en_US">
+			<Text>Focuses on gold and production, and likes civilizations who do the same. Dislikes civilizations with low gold or production.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_MODIFIER_DEAL_MASTER_HIGH_GOLD_AND_PRODUCTION" Language="en_US">
+			<Text>Trump is pleased with your Gold and Production</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_MODIFIER_DEAL_MASTER_LOW_GOLD_AND_PRODUCTION" Language="en_US">
+			<Text>Trump is disappointed that you have little Gold and Production</Text>
+		</Row>
+
+		<!-- Unit Abilities -->
+		<Row Tag="LOC_ABILITY_KEKISTAN_RELIGIOUS_BUFF_NAME" Language="en_US">
+			<Text>Cult of Kek</Text>
+		</Row>
+
+		<Row Tag="LOC_ABILITY_KEKISTAN_RELIGIOUS_BUFF_DESCRIPTION" Language="en_US">
+			<Text>+10 [ICON_RELIGION] Religious Strength from the Cult of Kek ability.</Text>
+		</Row>
+
+		<Row Tag="LOC_ABILITY_BORDER_PATROL_HOME_COMBAT_BUFF_NAME" Language="en_US">
+			<Text>Get 'em Out</Text>
+		</Row>
+
+		<Row Tag="LOC_ABILITY_BORDER_PATROL_HOME_COMBAT_BUFF_DESCRIPTION" Language="en_US">
+			<Text>+10 [ICON_STRENGTH] Combat Strength from fighting in home territory.</Text>
+		</Row>
+
+		<!-- Buildings -->
+		<Row Tag="LOC_BUILDING_IMAGEBOARD_NAME" Language="en_US">
+			<Text>Imageboard Server</Text>
+		</Row>
+		
+		<Row Tag="LOC_BUILDING_IMAGEBOARD_DESCRIPTION" Language="en_US">
+			<Text>A building unique to Kekistan. Provides +1 [ICON_AMENITIES] Amenity, +2 [ICON_FAITH] Faith, and +4 [ICON_CULTURE] Culture.</Text>
+		</Row>
+
+		<!-- Units -->
+		<Row Tag="LOC_UNIT_MEME_MAGICIAN_NAME" Language="en_US">
+			<Text>Meme Magician</Text>
+		</Row>
+
+		<Row Tag="LOC_UNIT_MEME_MAGICIAN_DESCRIPTION" Language="en_US">
+			<Text>Kekistani unique unit that replaces the Missionary. Cheaper to purchase than the Missionary and can spread religion 1 extra time.</Text>
+		</Row>
+
+		<Row Tag="LOC_UNIT_BORDER_PATROL_NAME" Language="en_US">
+			<Text>Border Patrol</Text>
+		</Row>
+
+		<Row Tag="LOC_UNIT_BORDER_PATROL_DESCRIPTION" Language="en_US">
+			<Text>Kekistani unique Industrial era unit when God-Emperor Trump is their leader that replaces the Ranger. +5 [ICON_STRENGTH] melee / ranged combat strength. Gains an additional +10 [ICON_STRENGTH] combat strength when fighting in home territory. Cheaper to build and maintain than the Ranger.</Text>
+		</Row>
+		
+	</LocalizedText>
+</GameData>

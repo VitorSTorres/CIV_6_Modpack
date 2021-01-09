@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<LocalizedText>
+		<!--MOD-->
+		<Row Tag="LOC_MOD_JFD_AMERICA_TRUMP_DESCRIPTION" Language="en_US">
+			<Text>------------------------------------[NEWLINE]LEADER -- DONALD TRUMP[NEWLINE][NEWLINE]TRAIT - AMERICAN CONTRACT[NEWLINE]Internal [ICON_TRADEROUTE] Trade Routes provide +1 Loyalty per turn for the starting city. Cities at full Loyalty can [ICON_GOLD] purchase Civilian Units for 20% cheaper. Receives the Supercarrier unique unit after researching the Combined Arms technology.[NEWLINE][NEWLINE]UNIT - SUPERCARRIER[NEWLINE]American unique Atomic era naval unit that replaces the Aircraft Carrier when Donald Trump is their leader. Can enter foreign territory without an Open Borders agreement and generates Influence toward an [ICON_ENVOY] Envoy whilst stationed outside American borders so long as America is at peace. Costs additional Maintenance.[NEWLINE][NEWLINE]AGENDA - AMERICA FIRST[NEWLINE]Strongly opposes Open Borders agreements, and tends to the loyalty and happiness of his own people. Respects civilizations that also keep their own people loyal and content. Dislikes civilizations that send their [ICON_TRADEROUTE] Trade Routes to America.</Text>
+		</Row>
+		<!--LEADER-->
+		<Row Tag="LOC_LEADER_JFD_TRUMP_NAME" Language="en_US">
+			<Text>Donald Trump</Text>
+		</Row>
+		<!--Agenda-->
+		<Row Tag="LOC_AGENDA_JFD_AMERICA_FIRST_NAME" Language="en_US">
+			<Text>America First</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_JFD_AMERICA_FIRST_DESCRIPTION" Language="en_US">
+			<Text>Strongly opposes Open Borders agreements, and tends to the loyalty and happiness of his own people. Respects civilizations that also keep their own people loyal and content. Dislikes civilizations that send their [ICON_TRADEROUTE] Trade Routes to America.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_JFD_TRUMP_REASON_GAINING_CITIES_AND_LEADS_HAPPINESS" Language="en_US">
+			<Text>(Your cities are loyal and content.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_AGENDA_JFD_AMERICA_FIRST_GAINING_CITIES_GAINING_CITIES_AND_LEADS_HAPPINESS" Language="en_US">
+			<Text>Donald Trump praises your people's sense of national pride</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_JFD_TRUMP_REASON_TRADE_PENALTY" Language="en_US">
+			<Text>(You are trading with them.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_AGENDA_JFD_AMERICA_FIRST_TRADE_PENALTY" Language="en_US">
+			<Text>Donald Trump believes that your trade is bad for America</Text>
+		</Row>
+		<!--DOM-->
+		<Row Tag="LOC_LOADING_INFO_LEADER_JFD_TRUMP" Language="en_US">
+			<Text>The American nation and its people long for their birthright, President Donald Trump. You have promised them one thing: to put America first; to put in your heart the interests of her industries and her workers, and to restore her national pride. We pledge allegiance to one flag and that flag is the American Flag!</Text>
+		</Row>
+		<!--Traits-->
+		<Row Tag="LOC_TRAIT_LEADER_JFD_AMERICAN_CONTRACT_NAME" Language="en_US">
+			<Text>American Contract</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_JFD_AMERICAN_CONTRACT_DESCRIPTION" Language="en_US">
+			<Text>Internal [ICON_TRADEROUTE] Trade Routes provide +1 Loyalty per turn for the starting city. Cities at full Loyalty can [ICON_GOLD] purchase Civilian Units for 20% cheaper. Receives the Supercarrier unique unit after researching the Combined Arms technology.</Text>
+		</Row>
+		<!--Civilopedia-->
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_TRUMP_TITLE" Language="en_US">
+			<Text>Donald Trump</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_TRUMP_SUBTITLE" Language="en_US">
+			<Text>President of the United States</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_TRUMP_QUOTE" Language="en_US">
+			<Text>We will no longer surrender this country or its people to the false song of globalism.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_TRUMP_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Donald John Trump (born June 14, 1946) is the 45th and current President of the United States. Before entering politics, he was a businessman and television personality.[NEWLINE][NEWLINE]Trump was born and raised in the New York City borough of Queens. He received an economics degree from the Wharton School of the University of Pennsylvania and was appointed president of his family's real estate business in 1971, renamed it The Trump Organization, and expanded it from Queens and Brooklyn into Manhattan. The company built or renovated skyscrapers, hotels, casinos, and golf courses. Trump later started various side ventures, including licensing his name for real estate and consumer products. He managed the company until his 2017 inauguration. He co-authored several books, including The Art of the Deal. He owned the Miss Universe and Miss USA beauty pageants from 1996 to 2015, and he produced and hosted the reality television show The Apprentice from 2003 to 2015. Forbes estimates his net worth to be $3.1 billion.[NEWLINE][NEWLINE]Trump entered the 2016 presidential race as a Republican and defeated sixteen opponents in the primaries. Commentators described his political positions as populist, protectionist, and nationalist. His campaign received extensive free media coverage; many of his public statements were controversial or false. Trump was elected president in a surprise victory over Democratic nominee Hillary Clinton. He became the oldest and wealthiest person ever to assume the presidency, the first without prior military or government service, and the fifth to have won the election while losing the popular vote. His election and policies have sparked numerous protests. Many of his comments and actions have been perceived as racially charged or racist.[NEWLINE][NEWLINE]During his presidency, Trump ordered a travel ban on citizens from several Muslim-majority countries, citing security concerns; after legal challenges, the Supreme Court upheld the policy's third revision. He signed tax cut legislation which cut tax rates for individuals and businesses and also rescinded the individual insurance mandate provision of the Affordable Care Act and opened the Arctic Refuge for oil drilling. He enacted a partial repeal of the Dodd-Frank Act that had imposed stricter constraints on banks in the aftermath of the 2008 financial crisis. He pursued his America First agenda in foreign policy, withdrawing the U.S. from the Trans-Pacific Partnership trade negotiations, the Paris Agreement on climate change, and the Iran nuclear deal. He recognized Jerusalem as the capital of Israel, imposed import tariffs on various goods, triggering a trade war with China, and negotiated with North Korea with the aim of denuclearization. He nominated two justices to the Supreme Court, Neil Gorsuch and Brett Kavanaugh.[NEWLINE][NEWLINE]After Trump dismissed FBI Director James Comey, the Justice Department appointed Robert Mueller as Special Counsel to investigate "any links and/or coordination" between the Trump campaign and the Russian government in its election interference. Trump has repeatedly denied accusations of collusion and obstruction of justice, calling the investigation a politically motivated "witch hunt".</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_TRUMP_CHAPTER_CAPSULE_BODY" Language="en_US">
+			<Text>Trump prides the American nation and its people. His people are hard working so long as their jobs are free and American.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_TRUMP_CHAPTER_DETAILED_BODY" Language="en_US">
+			<Text>Early in the game, the American advantage is a +5 [ICON_Strength] Combat Strength on their home continent and, thanks to Trump's American Contract ability, bonuses to purchasing Civilian Units in fully loyal cities. They will want to keep their cities loyal if they want to maintain their prosperity. With diplomatic policy slots turning into wildcard ones, their choice of government is important, though Classical Republic and Merchant Republic are the most helpful with America's preference: a Culture Victory. They should also consider building toward the National History Museum in their Government Plaza. With their Film Studio, National Park bonus, and two post-Industrial unique units, they shine from the 20th Century onwards.</Text>
+		</Row>
+		<!--Diplomacy-->
+		<!--FIRST MEET-->
+		<!--First AI line-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_JFD_TRUMP_ANY" Language="en_US">
+			<Text>Welcome! I am President Trump. Welcome to America. We don't want any bad people here. We want good people and we're happy to have them. Hope you're one of them!</Text>
+		</Row>
+		<!--AI invitation to visit nearby City-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_JFD_TRUMP_ANY" Language="en_US">
+			<Text>I assume you want to meet with me then? I have a city nearby. I'm always too busy but never too busy for a meet and greet!</Text>
+		</Row>
+		<!--AI accepts Human invitation-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_JFD_TRUMP_ANY" Language="en_US">
+			<Text>Looking forward to it!</Text>
+		</Row>
+		<!--AI invitation to exchange Capital Information-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_JFD_TRUMP_ANY" Language="en_US">
+			<Text>The capital of America, America's capital, is a fine capital. Yours is probably nice too. Let's talk about it.</Text>
+		</Row>
+		<!--GREETINGS-->
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_JFD_TRUMP_ANY" Language="en_US">
+			<Text>Well?</Text>
+		</Row>
+		<!--DELEGATION-->
+		<!--AI Accepts-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_JFD_TRUMP_ANY" Language="en_US">
+			<Text>Going to meet with your delegation then. Here's hoping it goes well!</Text>
+		</Row>
+		<!--AI Rejects-->
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_JFD_TRUMP_ANY" Language="en_US">
+			<Text>It would be agony, honestly!</Text>
+		</Row>
+		<!--AI Requests -->
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_JFD_TRUMP_ANY" Language="en_US">
+			<Text>Plan to meet with you if I can! Care to join me at Mar-a-Lago resort? I don't care to see your legs on the golf course though!</Text>
+		</Row>
+		<!--OPEN BORDERS-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_JFD_TRUMP_ANY" Language="en_US">
+			<Text>It can be done!</Text>
+		</Row>
+		<!--AI rejects from human-->
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_JFD_TRUMP_ANY" Language="en_US">
+			<Text>I love your country. Great country. But it can't be done! We have no country if we have no border.</Text>
+		</Row>
+		<!--AI requests from human-->
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_JFD_TRUMP_ANY" Language="en_US">
+			<Text>I want good people to come here from all over the world, but I want them to do so legally. Let's open a dialogue about that.</Text>
+		</Row>
+		<!--DECLARE FRIENDSHIP-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_JFD_TRUMP_ANY" Language="en_US">
+			<Text>Yup! Sounds good.</Text>
+		</Row>
+		<!--AI Rejects from human -->
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_JFD_TRUMP_ANY" Language="en_US">
+			<Text>That would be pretty sad!</Text>
+		</Row>
+		<!--AI Requests friendship from human-->
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_JFD_TRUMP_ANY" Language="en_US">
+			<Text>Despite the constant negative covfefe about you I think you're a good friend. Agreed?</Text>
+		</Row>
+		<!--Human accepts AI requests, AI responds-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_JFD_TRUMP_ANY" Language="en_US">
+			<Text>Great stuff!</Text>
+		</Row>
+		<!--Human rejects AI requests, AI responds-->
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_JFD_TRUMP_ANY" Language="en_US">
+			<Text>SAD!</Text>
+		</Row>
+		<!--ALLIANCE-->
+		<!--AI Requests an alliance from human-->
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_JFD_TRUMP_ANY" Language="en_US">
+			<Text>The fact that I am asking for your alliance is a major loss for America, say the haters and losers. Remember, they're the losers.</Text>
+		</Row>
+		<!--KUDOS & WARNINGS-->
+		<!--AI Kudos-->
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_JFD_TRUMP_ANY" Language="en_US">
+			<Text>You and I understand there is no global anthem, no global currency, no certificate of global citizenship, we pledge allegiance to our own flags!</Text>
+		</Row>
+		<!--AI Warnings-->
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_JFD_TRUMP_ANY" Language="en_US">
+			<Text>I am against any path to citizenship for anyone who is in this country illegaly. I think you're part of the problem.</Text>
+		</Row>
+		<!--AI warns player for border troops-->
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_JFD_TRUMP_ANY" Language="en_US">
+			<Text>The US has great strength and patience. But it will have no choice but to totally destroy you if you don't remove your troops from its borders.</Text>
+		</Row>
+		<!--TRADE-->
+		<!--AI Accepts Deal-->
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_JFD_TRUMP_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_JFD_TRUMP_ANY}</Text>
+		</Row>
+		<!--AI Rejects Deal-->
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_JFD_TRUMP_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_JFD_TRUMP_ANY}</Text>
+		</Row>
+		<!--DENOUNCE-->
+		<!--From Human-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_JFD_TRUMP_ANY" Language="en_US">
+			<Text>This is ridiculous. A total embarrassment. SO SAD!</Text>
+		</Row>
+		<!--From AI-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_JFD_TRUMP_ANY" Language="en_US">
+			<Text>Once great, now a total joke. Sad! (Denounces You)</Text>
+		</Row>
+		<!--Rationale-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_JFD_AMERICA_FIRST_REASON_TRADE_PENALTY" Language="en_US">
+			<Text>(You are trading with them.)</Text>
+		</Row>
+		<!--DECLARE WAR-->
+		<!--Human Declares War-->
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_JFD_TRUMP_ANY" Language="en_US">
+			<Text>Will someone from your depleted and food starved regime please inform you that I too have an army, but it is a much bigger and more powerful one than yours, and my army works!</Text>
+		</Row>
+		<!--AI Declares War-->
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_JFD_TRUMP_ANY" Language="en_US">
+			<Text>I've been holding back on the war games until now because it is VERY EXPENSIVE. But talks have broken down and America is ready to step up.</Text>
+		</Row>
+		<!--MAKE PEACE-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_JFD_TRUMP_ANY" Language="en_US">
+			<Text>A good deal!</Text>
+		</Row>
+		<!--AI refuses human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_JFD_TRUMP_ANY" Language="en_US">
+			<Text>You are a weak and ineffective ruler. So sad! No peace!</Text>
+		</Row>
+		<!--AI requests from human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_JFD_TRUMP_ANY" Language="en_US">
+			<Text>So many young, beautiful, innocent people living and enjoying their lives murdered by evil losers like you. I think its time for peace.</Text>
+		</Row>
+		<!--DEFEAT-->
+		<!--AI is Defeated-->
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_JFD_TRUMP_ANY" Language="en_US">
+			<Text>I thought it would be easier.</Text>
+		</Row>
+		<!--Human is Defeated (will see this in hotseat)-->
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_JFD_TRUMP_ANY" Language="en_US">
+			<Text>[LOC_DIPLO_DEFEAT_FROM_AI_LEADER_JFD_TRUMP_ANY]</Text>
+		</Row>
+		<!--SUPERCARRIER-->
+		<Row Tag="LOC_UNIT_JFD_SUPERCARRIER_NAME" Language="en_US">
+			<Text>Supercarrier</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_JFD_SUPERCARRIER_DESCRIPTION" Language="en_US">
+			<Text>American unique Atomic era naval unit that replaces the Aircraft Carrier when Donald Trump is their leader. Can enter foreign territory without an Open Borders agreement and generates Influence toward an [ICON_ENVOY] Envoy whilst stationed outside American borders so long as America is at peace. Costs additional Maintenance.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_JFD_SUPERCARRIER_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>The appellation "supercarrier" is not an official designation with any national navy, but a term used predominantly by the media and typically when reporting on new and upcoming aircraft carrier types. It is also used when comparing carriers of various sizes and capabilities, both current and past. It was first used by The New York Times in 1938, in an article about the Royal Navy's HMS Ark Royal, that had a length of 209 metres (686 ft), a displacement of 22,000 tonnes and was designed to carry 72 aircraft. Since then, aircraft carriers have consistently grown in size, both in length and displacement, as well as improved capabilities; in defense, sensors, electronic warfare, propulsion, range, launch and recovery systems, number and types of aircraft carried and number of sorties flown per day. </Text>
+		</Row>
+		<!--Gunboat Diplomacy-->
+		<Row Tag="LOC_ABILITY_JFD_SUPERCARRIER_NAME" Language="en_US">
+			<Text>Gunboat Diplomacy</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_JFD_SUPERCARRIER_DESCRIPTION" Language="en_US">
+			<Text>Even without Open Borders, this unit can enter foreign territory. Generates 1 Influence toward an [ICON_ENVOY] Envoy whilst stationed outside American borders so long as America is at peace.</Text>
+		</Row>
+	</LocalizedText>
+</GameData>

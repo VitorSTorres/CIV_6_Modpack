@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="8eba9c76-e524-4579-8b80-51e7d6e017ba" version="1">
+  <Properties>
+    <Name>Better Great Wall tile improvement</Name>
+    <Description>Allows the Great Wall tile improvement to be built on tiles with woods and rainforest.
+
+Ranged units with the Garrison-promotion will be boosted when standing on a tile with a Great Wall (the promotion originally gives +10 ranged strength when standing in a district or a fort, now also when standing in a great wall tile).</Description>
+    <Teaser>Allows the Great Wall tile improvement to be built on tiles with woods, rainforest, marsh, and flood plains. Ranged units with</Teaser>
+    <Authors>Zebrah</Authors>
+    <AffectsSavedGames>0</AffectsSavedGames>
+  </Properties>
+  <InGameActions>
+    <UpdateDatabase id="NewAction">
+      <File>GameData1.xml</File>
+    </UpdateDatabase>
+    <UpdateText id="NewAction">
+      <File>GameData2.xml</File>
+    </UpdateText>
+  </InGameActions>
+  <Files>
+    <File>GameData1.xml</File>
+    <File>GameData2.xml</File>
+  </Files>
+</Mod>
