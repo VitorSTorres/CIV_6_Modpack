@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+	<!-- en_US -->
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_SKIPPER_ANY" Language="en_US">
+			<Text>You have proven that you are trustworthy, so i suggest that we declare a friendship between our nations.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_SKIPPER_ANY" Language="en_US">
+			<Text>That is very good to hear!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_SKIPPER_ANY" Language="en_US">
+			<Text>You haven't ever heard of the army of penguins? You have just made a foolish mistake.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_SKIPPER_ANY" Language="en_US">
+			<Text>You keep threatening our nation. You are causing global warming. We can't stand this!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_SKIPPER_ANY" Language="en_US">
+			<Text>One of my envoys has sent you some fresh fishes, i hope you like it.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_SKIPPER_ANY" Language="en_US">
+			<Text>Hahaha, so funny! You are going to regret this.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_SKIPPER_ANY" Language="en_US">
+			<Text>I'm going to throw your nation to the mouth of whales! (Denounces You)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_SKIPPER_ANY" Language="en_US">
+			<Text>I'm Captain Skipper. It is nice to meet you, friend. If your interests suit us, then you will be just fine.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_SKIPPER_ANY" Language="en_US">
+			<Text>I don't want to let you find our cities, but i think it'd be worth it if we share our cities.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_SKIPPER_ANY" Language="en_US">
+			<Text>This world is full of hippies. I'm glad you're not. Shall we form an alliance?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_SKIPPER_ANY" Language="en_US">
+			<Text>Well, that was fun!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_SKIPPER_ANY" Language="en_US">
+			<Text>We are not going to give up.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_SKIPPER_ANY" Language="en_US">
+			<Text>This war looks pointless even to my eyes. Let's just end this hopeless war.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_SKIPPER_ANY" Language="en_US">
+			<Text>I see your troops near my borders. You better keep your troops away from us or else.</Text>
+		</Row>
+		
+		<!--Update-->
+		<!-- Dialogue -->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_SKIPPER_ANY" Language="en_US">
+			<Text>Why don't you visit one of our cities? We, penguins have very good culture and an amazing landscape that will amaze you.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_SKIPPER_ANY" Language="en_US">
+			<Text>Sure thing!</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_SKIPPER_ANY" Language="en_US">
+			<Text>Hi.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_SKIPPER_ANY" Language="en_US">
+			<Text>We're going to achieve great things together. Let's go, gentlemen!</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_SKIPPER_ANY" Language="en_US">
+			<Text>I only befriend those whe are trustworthy. I'm afraid you're not.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_SKIPPER_ANY" Language="en_US">
+			<Text>Well, let's move on then.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_SKIPPER_ANY" Language="en_US">
+			<Text>Rico, prepare the plane! We're going to leave this place immediately! Kowalski, set the course and Private, keep watching that destructive idiot from following us.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_SKIPPER_ANY" Language="en_US">
+			<Text>Rico, prepare the plane! We're going to leave this place immediately! Kowalski, set the course and Private, keep watching that destructive idiot from following us.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_SKIPPER_ANY" Language="en_US">
+			<Text>Your delegation got here fine.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_SKIPPER_ANY" Language="en_US">
+			<Text>No. It could be dangerous.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_AI_LEADER_SKIPPER_ANY" Language="en_US">
+			<Text>Very well.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_AI_LEADER_SKIPPER_ANY" Language="en_US">
+			<Text>You should reconsider.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_EMBASSY_FROM_AI_LEADER_SKIPPER_ANY" Language="en_US">
+			<Text>We'll surely improve our relationships more if you allow us to set up an embassy in your capital.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_ACCEPT_EMBASSY_FROM_AI_LEADER_SKIPPER_ANY" Language="en_US">
+			<Text>Good.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_REJECT_EMBASSY_FROM_AI_LEADER_SKIPPER_ANY" Language="en_US">
+			<Text>That's too bad.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_ACCEPT_EMBASSY_FROM_HUMAN_LEADER_SKIPPER_ANY" Language="en_US">
+			<Text>Sure thing!</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_REJECT_EMBASSY_FROM_HUMAN_LEADER_SKIPPER_ANY" Language="en_US">
+			<Text>We are not ready to accept your embassy yet.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_ALLIANCE_FROM_HUMAN_LEADER_SKIPPER_ANY" Language="en_US">
+			<Text>Great! Now, there's no one who can stop us!</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_ALLIANCE_FROM_HUMAN_LEADER_SKIPPER_ANY" Language="en_US">
+			<Text>I fear that it is too early to make this kind of decisions.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_ALLIANCE_FROM_AI_LEADER_SKIPPER_ANY" Language="en_US">
+			<Text>Seriously?</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_ALLIANCE_FROM_AI_LEADER_SKIPPER_ANY" Language="en_US">
+			<Text>Great! Now, there's nothing that can stop us!</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_MAKE_DEAL_AI_ACCEPT_DEAL_LEADER_SKIPPER_ANY" Language="en_US">
+			<Text>That deal was acceptable.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_MAKE_DEAL_AI_REFUSE_DEAL_LEADER_SKIPPER_ANY" Language="en_US">
+			<Text>You've just lost a great deal.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_SKIPPER_ANY" Language="en_US">
+			<Text>Good.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_SKIPPER_ANY" Language="en_US">
+			<Text>Really?</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_MAKE_DEAL_AI_ADJUST_DEAL_LEADER_SKIPPER_ANY" Language="en_US">
+			<Text>This is a better and fair deal for both of us.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_AI_REFUSE_DEMAND_LEADER_SKIPPER_ANY" Language="en_US">
+			<Text>How dare you?</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_AI_ACCEPT_DEMAND_LEADER_SKIPPER_ANY" Language="en_US">
+			<Text>I comply.. However, i recommend you to watch your back..</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_HUMAN_ACCEPT_DEMAND_FROM_AI_LEADER_SKIPPER_ANY" Language="en_US">
+			<Text>Thanks, your goodies will be used for good.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_HUMAN_REJECT_DEMAND_FROM_AI_LEADER_SKIPPER_ANY" Language="en_US">
+			<Text>How dare you to refuse my demand? You people already have enough money and goods!</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_PEACE_FROM_AI_LEADER_SKIPPER_ANY" Language="en_US">
+			<Text>A wise choice.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_PEACE_FROM_AI_LEADER_SKIPPER_ANY" Language="en_US">
+			<Text>Let's have some fun then!</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_SKIPPER_ANY" Language="en_US">
+			<Text>We really appreciate it.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_SKIPPER_ANY" Language="en_US">
+			<Text>No. You're not trusted here yet.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_SKIPPER_ANY" Language="en_US">
+			<Text>You think it'd be good to open our borders and roam freely?</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_AI_LEADER_SKIPPER_ANY" Language="en_US">
+			<Text>Great!</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_REJECT_BORDERS_FROM_AI_LEADER_SKIPPER_ANY" Language="en_US">
+			<Text>Well, next time then.</Text>
+		</Row>
+
+		<!-- Warnings / responses -->
+		<Row Tag="LOC_DIPLO_WARNING_DONT_SETTLE_NEAR_ME_AI_RESPONSE_POSITIVE_LEADER_SKIPPER_ANY" Language="en_US">
+			<Text>We respect your people and we will stop settling near your cities.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_WARNING_DONT_SETTLE_NEAR_ME_AI_RESPONSE_NEGATIVE_LEADER_SKIPPER_ANY" Language="en_US">
+			<Text>There isn't a law that says penguins can't settle wherever they want!</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_WARNING_DONT_SETTLE_NEAR_ME_AI_LEADER_SKIPPER_ANY" Language="en_US">
+			<Text>Stop settling close to our cities; Unless you're provoking the war.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_WARNING_DONT_SETTLE_NEAR_ME_HUMAN_RESPONSE_POSITIVE_LEADER_SKIPPER_ANY" Language="en_US">
+			<Text>Thank you.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_WARNING_DONT_SETTLE_NEAR_ME_HUMAN_RESPONSE_NEGATIVE_LEADER_SKIPPER_ANY" Language="en_US">
+			<Text>Then i won't respect your people too!</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_AI_RESPONSE_POSITIVE_LEADER_SKIPPER_ANY" Language="en_US">
+			<Text>Don't worry. They're just patroling and securing the safe areas.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_AI_RESPONSE_NEGATIVE_LEADER_SKIPPER_ANY" Language="en_US">
+			<Text>Just see the might of my troops!</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_WARNING_STOP_SPYING_ON_ME_AI_RESPONSE_POSITIVE_LEADER_SKIPPER_ANY" Language="en_US">
+			<Text>We'll stop. Probably.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_WARNING_STOP_SPYING_ON_ME_AI_RESPONSE_NEGATIVE_LEADER_SKIPPER_ANY" Language="en_US">
+			<Text>You can't be serious, can you?</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_WARNING_STOP_DIGGING_UP_ARTIFACTS_AI_RESPONSE_POSITIVE_LEADER_SKIPPER_ANY" Language="en_US">
+			<Text>We'll stop digging your artifacts as you requested. For now.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_WARNING_STOP_DIGGING_UP_ARTIFACTS_AI_RESPONSE_NEGATIVE_LEADER_SKIPPER_ANY" Language="en_US">
+			<Text>Rico, bring more dynamites!</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_WARNING_STOP_CONVERTING_MY_CITIES_AI_RESPONSE_POSITIVE_LEADER_SKIPPER_ANY" Language="en_US">
+			<Text>We'll let them step away from your cities. It won't happen again.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_WARNING_STOP_CONVERTING_MY_CITIES_AI_RESPONSE_NEGATIVE_LEADER_SKIPPER_ANY" Language="en_US">
+			<Text>I don't believe in this supersitution, but ours is at least better than yours.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_HUMAN_RESPONSE_POSITIVE_LEADER_SKIPPER_ANY" Language="en_US">
+			<Text>Great.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_WARNING_STOP_SPYING_ON_ME_LEADER_SKIPPER_ANY" Language="en_US">
+			<Text>How dare you to spy on us? You think our security system is not good enough?</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_WARNING_STOP_SPYING_ON_ME_HUMAN_RESPONSE_POSITIVE_LEADER_SKIPPER_ANY" Language="en_US">
+			<Text>Finally something we can agree on!</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_WARNING_STOP_SPYING_ON_ME_HUMAN_RESPONSE_NEGATIVE_LEADER_SKIPPER_ANY" Language="en_US">
+			<Text>Oh, i see.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_WARNING_STOP_DIGGING_UP_ARTIFACTS_LEADER_SKIPPER_ANY" Language="en_US">
+			<Text>Stop stealing our precious goods you filth!</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_WARNING_STOP_DIGGING_UP_ARTIFACTS_HUMAN_RESPONSE_POSITIVE_LEADER_SKIPPER_ANY" Language="en_US">
+			<Text>Yes, you must stop this right now!</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_WARNING_STOP_DIGGING_UP_ARTIFACTS_HUMAN_RESPONSE_NEGATIVE_LEADER_SKIPPER_ANY" Language="en_US">
+			<Text>Pathetic.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_WARNING_STOP_CONVERTING_MY_CITIES_LEADER_SKIPPER_ANY" Language="en_US">
+			<Text>Take your missionarries away! We don't believe in such supersitutions!</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_WARNING_STOP_CONVERTING_MY_CITIES_HUMAN_RESPONSE_POSITIVE_LEADER_SKIPPER_ANY" Language="en_US">
+			<Text>I hope you people stop believing in it and rather take an action for things.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_WARNING_STOP_CONVERTING_MY_CITIES_HUMAN_RESPONSE_NEGATIVE_LEADER_SKIPPER_ANY" Language="en_US">
+			<Text>Then you're my enemy!</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SKIPPER_CHAPTER_CAPSULE_BODY" Language="en_US">
+			<Text>Skipper's ability allows to fight more comfortably against other civilizations in their home.</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SKIPPER_CHAPTER_DETAILED_BODY" Language="en_US">
+			<Text>Both Skipper and the civilization's ability isn't that significant. However, with their unique improvement, Tundra and Snow tiles become very suitable locations to settle on and with it, you will produce good amount of [ICON_CULTURE] Culture as well.</Text>
+		</Row>
+	</LocalizedText>
+</GameData>

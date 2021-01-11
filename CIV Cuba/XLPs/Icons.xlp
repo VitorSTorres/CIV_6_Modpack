@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<AssetObjects..XLP>
+	<m_Version>
+		<major>4</major>
+		<minor>0</minor>
+		<build>315</build>
+		<revision>805</revision>
+	</m_Version>
+	<m_ClassName text="UITexture"/>
+	<m_PackageName text="UI/Icons"/>
+	<m_Entries>
+		<Element>
+			<m_EntryID text="Cuba_Castro_Icon45"/>
+			<m_ObjectName text="Cuba_Castro_Icon45"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Cuba_Civ_Icon128"/>
+			<m_ObjectName text="Cuba_Civ_Icon128"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Cuba_Civ_Icon200"/>
+			<m_ObjectName text="Cuba_Civ_Icon200"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Cuba_Civ_Icon22"/>
+			<m_ObjectName text="Cuba_Civ_Icon22"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Cuba_Civ_Icon256"/>
+			<m_ObjectName text="Cuba_Civ_Icon256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Cuba_Civ_Icon30"/>
+			<m_ObjectName text="Cuba_Civ_Icon30"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Cuba_Civ_Icon32"/>
+			<m_ObjectName text="Cuba_Civ_Icon32"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Cuba_Civ_Icon36"/>
+			<m_ObjectName text="Cuba_Civ_Icon36"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Cuba_Civ_Icon44"/>
+			<m_ObjectName text="Cuba_Civ_Icon44"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Cuba_Civ_Icon48"/>
+			<m_ObjectName text="Cuba_Civ_Icon48"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Cuba_Civ_Icon50"/>
+			<m_ObjectName text="Cuba_Civ_Icon50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Cuba_Civ_Icon55"/>
+			<m_ObjectName text="Cuba_Civ_Icon55"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Cuba_Civ_Icon64"/>
+			<m_ObjectName text="Cuba_Civ_Icon64"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Cuba_Civ_Icon80"/>
+			<m_ObjectName text="Cuba_Civ_Icon80"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Guerrillero_Icon22"/>
+			<m_ObjectName text="Guerrillero_Icon22"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Guerrillero_Icon256"/>
+			<m_ObjectName text="Guerrillero_Icon256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Guerrillero_Icon32"/>
+			<m_ObjectName text="Guerrillero_Icon32"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Guerrillero_Icon38"/>
+			<m_ObjectName text="Guerrillero_Icon38"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Guerrillero_Icon50"/>
+			<m_ObjectName text="Guerrillero_Icon50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Guerrillero_Icon80"/>
+			<m_ObjectName text="Guerrillero_Icon80"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Castro_Leader_Icon256"/>
+			<m_ObjectName text="Castro_Leader_Icon256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Castro_Leader_Icon32"/>
+			<m_ObjectName text="Castro_Leader_Icon32"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Castro_Leader_Icon45"/>
+			<m_ObjectName text="Castro_Leader_Icon45"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Castro_Leader_Icon50"/>
+			<m_ObjectName text="Castro_Leader_Icon50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Castro_Leader_Icon55"/>
+			<m_ObjectName text="Castro_Leader_Icon55"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Castro_Leader_Icon64"/>
+			<m_ObjectName text="Castro_Leader_Icon64"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Castro_Leader_Icon80"/>
+			<m_ObjectName text="Castro_Leader_Icon80"/>
+		</Element>
+		<Element>
+			<m_EntryID text="SC_CASTRO_1"/>
+			<m_ObjectName text="SC_CASTRO_1"/>
+		</Element>
+		<Element>
+			<m_EntryID text="SC_CASTRO_4"/>
+			<m_ObjectName text="SC_CASTRO_4"/>
+		</Element>
+		<Element>
+			<m_EntryID text="SC_Malecon_Icon256"/>
+			<m_ObjectName text="SC_Malecon_Icon256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="SC_Malecon_Icon38"/>
+			<m_ObjectName text="SC_Malecon_Icon38"/>
+		</Element>
+		<Element>
+			<m_EntryID text="SC_Malecon_Icon45"/>
+			<m_ObjectName text="SC_Malecon_Icon45"/>
+		</Element>
+		<Element>
+			<m_EntryID text="SC_Malecon_Icon50"/>
+			<m_ObjectName text="SC_Malecon_Icon50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="SC_Malecon_Icon80"/>
+			<m_ObjectName text="SC_Malecon_Icon80"/>
+		</Element>
+	</m_Entries>
+	<m_AllowedPlatforms>
+		<Element>WINDOWS</Element>
+		<Element>LINUX</Element>
+		<Element>MACOS</Element>
+		<Element>IOS</Element>
+	</m_AllowedPlatforms>
+</AssetObjects..XLP>
+

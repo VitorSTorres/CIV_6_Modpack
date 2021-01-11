@@ -1,0 +1,212 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="d0cff8de-cdd6-4696-9ef7-e66ab858b197" version="1">
+  <Properties>
+    <Name>Sukritact's Bayinnaung (Burma)</Name>
+    <Description>Adds Burma as a Civ, with Bayinnaung as its leader.</Description>
+    <Teaser>Adds Burma as a Civ, with Bayinnaung as its leader.</Teaser>
+    <Authors>Sukritact, EmeraldRange, SeelingCat, DarthKyofu</Authors>
+  </Properties>
+  <ActionCriteria>
+    <Criteria id="Expansion1">
+      <GameCoreInUse>Expansion1</GameCoreInUse>
+    </Criteria>
+  </ActionCriteria>
+  <FrontEndActions>
+    <UpdateDatabase id="UpdateDatabase">
+      <Properties>
+        <LoadOrder>100</LoadOrder>
+      </Properties>
+      <File>Core/Suk_Bayinnaung_Config.sql</File>
+    </UpdateDatabase>
+    <UpdateIcons id="UpdateIcons">
+      <Properties>
+        <LoadOrder>100</LoadOrder>
+      </Properties>
+      <File>Core/Suk_Bayinnaung_IconDefinitions.sql</File>
+    </UpdateIcons>
+    <UpdateArt id="UpdateArt">
+      <Properties>
+        <LoadOrder>100</LoadOrder>
+      </Properties>
+      <File>Sukritact's Bayinnaung (Burma).dep</File>
+    </UpdateArt>
+    <UpdateText id="UpdateText">
+      <Properties>
+        <LoadOrder>100</LoadOrder>
+      </Properties>
+      <File>Core/Suk_Bayinnaung_Localisation.sql</File>
+    </UpdateText>
+  </FrontEndActions>
+  <InGameActions>
+    <UpdateDatabase id="UpdateDatabase">
+      <Properties>
+        <LoadOrder>100</LoadOrder>
+      </Properties>
+      <File>Core/Suk_Bayinnaung_Units.sql</File>
+      <File>Core/Suk_Bayinnaung_Improvements.sql</File>
+      <File>Core/Suk_Bayinnaung_Leaders.sql</File>
+      <File>Core/Suk_Bayinnaung_Civilizations.sql</File>
+      <File>Core/Suk_Bayinnaung_ModSupport.sql</File>
+    </UpdateDatabase>
+    <UpdateArt id="UpdateArt">
+      <Properties>
+        <LoadOrder>100</LoadOrder>
+      </Properties>
+      <File>Sukritact's Bayinnaung (Burma).dep</File>
+    </UpdateArt>
+    <UpdateIcons id="UpdateIcons">
+      <Properties>
+        <LoadOrder>100</LoadOrder>
+      </Properties>
+      <File>Core/Suk_Bayinnaung_IconDefinitions.sql</File>
+    </UpdateIcons>
+    <UpdateText id="UpdateText">
+      <Properties>
+        <LoadOrder>100</LoadOrder>
+      </Properties>
+      <File>Core/Suk_Bayinnaung_Localisation.sql</File>
+    </UpdateText>
+    <UpdateAudio id="UpdateAudio">
+      <Properties>
+        <LoadOrder>100</LoadOrder>
+      </Properties>
+      <File>Audio/Suk_Bayinnaung_Banks.ini</File>
+      <File>Audio/Suk_Bayinnaung_Speech_Bank.bnk</File>
+      <File>Audio/Suk_Bayinnaung_Speech_Bank.txt</File>
+      <File>Audio/Suk_Bayinnaung_Speech_Bank.xml</File>
+    </UpdateAudio>
+    <AddGameplayScripts id="AddGameplayScripts">
+      <Properties>
+        <LoadOrder>100</LoadOrder>
+      </Properties>
+      <File>Lua/Suk_Bayinnaung_CoreFunctions.lua</File>
+    </AddGameplayScripts>
+    <UpdateDatabase id="UpdateDatabase_XP1">
+      <Properties>
+        <LoadOrder>100</LoadOrder>
+      </Properties>
+      <Criteria>Expansion1</Criteria>
+      <File>Core/Suk_Bayinnaung_Expansion1.sql</File>
+    </UpdateDatabase>
+  </InGameActions>
+  <Files>
+    <File>ArtDefs/Civilizations.artdef</File>
+    <File>ArtDefs/Cultures.artdef</File>
+    <File>ArtDefs/FallbackLeaders.artdef</File>
+    <File>ArtDefs/Improvements.artdef</File>
+    <File>ArtDefs/Landmarks.artdef</File>
+    <File>ArtDefs/Leaders.artdef</File>
+    <File>ArtDefs/StrategicView.artdef</File>
+    <File>ArtDefs/UnitBins.artdef</File>
+    <File>ArtDefs/Units.artdef</File>
+    <File>ArtDefs/Unit_Bins.artdef</File>
+    <File>Audio/Suk_Bayinnaung_Banks.ini</File>
+    <File>Audio/Suk_Bayinnaung_Speech_Bank.bnk</File>
+    <File>Audio/Suk_Bayinnaung_Speech_Bank.txt</File>
+    <File>Audio/Suk_Bayinnaung_Speech_Bank.xml</File>
+    <File>Core/Suk_Bayinnaung_Civilizations.sql</File>
+    <File>Core/Suk_Bayinnaung_Config.sql</File>
+    <File>Core/Suk_Bayinnaung_Expansion1.sql</File>
+    <File>Core/Suk_Bayinnaung_IconDefinitions.sql</File>
+    <File>Core/Suk_Bayinnaung_Improvements.sql</File>
+    <File>Core/Suk_Bayinnaung_Leaders.sql</File>
+    <File>Core/Suk_Bayinnaung_Localisation.sql</File>
+    <File>Core/Suk_Bayinnaung_ModSupport.sql</File>
+    <File>Core/Suk_Bayinnaung_Units.sql</File>
+    <File>Lua/Suk_Bayinnaung_CoreFunctions.lua</File>
+    <File>Platforms/MacOS/BLPs/landmarks/tilebases.blp</File>
+    <File>Platforms/MacOS/BLPs/LeaderFallbacks.blp</File>
+    <File>Platforms/MacOS/BLPs/leaders/Leader_Suk_Bayinnaung.blp</File>
+    <File>Platforms/MacOS/BLPs/leaders/light_rigs.blp</File>
+    <File>Platforms/MacOS/BLPs/SHARED_DATA/ANIMATION_Cavalry_ReactA</File>
+    <File>Platforms/MacOS/BLPs/SHARED_DATA/ANIMATION_Cavalry_SpawnA</File>
+    <File>Platforms/MacOS/BLPs/SHARED_DATA/ANIMATION_Cavalry_Victory</File>
+    <File>Platforms/MacOS/BLPs/SHARED_DATA/ANIMATION_Knight_CombatIdleA</File>
+    <File>Platforms/MacOS/BLPs/SHARED_DATA/ANIMATION_Knight_IdleA</File>
+    <File>Platforms/MacOS/BLPs/SHARED_DATA/ANIMATION_Knight_IdleC</File>
+    <File>Platforms/MacOS/BLPs/SHARED_DATA/ANIMATION_Knight_IdleD</File>
+    <File>Platforms/MacOS/BLPs/SHARED_DATA/ANIMATION_Knight_JoustDefendA</File>
+    <File>Platforms/MacOS/BLPs/SHARED_DATA/ANIMATION_Knight_ReactRangedA</File>
+    <File>Platforms/MacOS/BLPs/SHARED_DATA/ANIMATION_Knight_ReactRangedB</File>
+    <File>Platforms/MacOS/BLPs/SHARED_DATA/ANIMATION_Knight_RunStopC</File>
+    <File>Platforms/MacOS/BLPs/SHARED_DATA/ANIMATION_Knight_RunStopD</File>
+    <File>Platforms/MacOS/BLPs/SHARED_DATA/ANIMATION_UnitHeavy_BreathingA</File>
+    <File>Platforms/MacOS/BLPs/SHARED_DATA/ANIMATION_UnitHeavy_MountedTurnLeftA</File>
+    <File>Platforms/MacOS/BLPs/SHARED_DATA/ANIMATION_UnitMedium_MountedDeathA</File>
+    <File>Platforms/MacOS/BLPs/SHARED_DATA/ANIMATION_UnitMedium_MountedDeathB</File>
+    <File>Platforms/MacOS/BLPs/SHARED_DATA/ANIMATION_UnitMedium_MountedDeathC</File>
+    <File>Platforms/MacOS/BLPs/SHARED_DATA/ANIMATION_UniyHeavy_MountedTurnRightA</File>
+    <File>Platforms/MacOS/BLPs/SHARED_DATA/TEXTURE_Burn_BaseColor</File>
+    <File>Platforms/MacOS/BLPs/SHARED_DATA/TEXTURE_Burn_G</File>
+    <File>Platforms/MacOS/BLPs/SHARED_DATA/TEXTURE_Burn_M</File>
+    <File>Platforms/MacOS/BLPs/SHARED_DATA/TEXTURE_Decals_Parts_Ancient_01_B</File>
+    <File>Platforms/MacOS/BLPs/SHARED_DATA/TEXTURE_Decals_Parts_Ancient_01_FOW</File>
+    <File>Platforms/MacOS/BLPs/SHARED_DATA/TEXTURE_Decals_Parts_Ancient_01_H</File>
+    <File>Platforms/MacOS/BLPs/SHARED_DATA/TEXTURE_DiffuseTint_Decals_Parts_Ancient_01_B_null</File>
+    <File>Platforms/MacOS/BLPs/SHARED_DATA/TEXTURE_DiffuseTint_IMP_Suk_Paya_Base_Color_null</File>
+    <File>Platforms/MacOS/BLPs/SHARED_DATA/TEXTURE_DiffuseTint_Myinsi_Suk_Myinsi_BaseColor_null</File>
+    <File>Platforms/MacOS/BLPs/SHARED_DATA/TEXTURE_IMP_Suk_Paya_Emissive</File>
+    <File>Platforms/MacOS/BLPs/SHARED_DATA/TEXTURE_IMP_Suk_Paya_Metallic</File>
+    <File>Platforms/MacOS/BLPs/SHARED_DATA/TEXTURE_IMP_Suk_Paya_Mixed_AO</File>
+    <File>Platforms/MacOS/BLPs/SHARED_DATA/TEXTURE_IMP_Suk_Paya_Normal_OpenGL0</File>
+    <File>Platforms/MacOS/BLPs/SHARED_DATA/TEXTURE_IMP_Suk_Paya_Normal_OpenGL1</File>
+    <File>Platforms/MacOS/BLPs/SHARED_DATA/TEXTURE_IMP_Suk_Paya_Roughness</File>
+    <File>Platforms/MacOS/BLPs/SHARED_DATA/TEXTURE_Myinsi_Suk_Myinsi_AO</File>
+    <File>Platforms/MacOS/BLPs/SHARED_DATA/TEXTURE_Myinsi_Suk_Myinsi_Glossiness</File>
+    <File>Platforms/MacOS/BLPs/SHARED_DATA/TEXTURE_Myinsi_Suk_Myinsi_Metallic</File>
+    <File>Platforms/MacOS/BLPs/SHARED_DATA/TEXTURE_Myinsi_Suk_Myinsi_Normal0</File>
+    <File>Platforms/MacOS/BLPs/SHARED_DATA/TEXTURE_Myinsi_Suk_Myinsi_Normal1</File>
+    <File>Platforms/MacOS/BLPs/strategicview/strategicview_improvements.blp</File>
+    <File>Platforms/MacOS/BLPs/UITextures.blp</File>
+    <File>Platforms/MacOS/BLPs/units/units.blp</File>
+    <File>Platforms/Windows/BLPs/landmarks/tilebases.blp</File>
+    <File>Platforms/Windows/BLPs/LeaderFallbacks.blp</File>
+    <File>Platforms/Windows/BLPs/leaders/Leader_Suk_Bayinnaung.blp</File>
+    <File>Platforms/Windows/BLPs/leaders/light_rigs.blp</File>
+    <File>Platforms/Windows/BLPs/SHARED_DATA/ANIMATION_Cavalry_ReactA</File>
+    <File>Platforms/Windows/BLPs/SHARED_DATA/ANIMATION_Cavalry_SpawnA</File>
+    <File>Platforms/Windows/BLPs/SHARED_DATA/ANIMATION_Cavalry_Victory</File>
+    <File>Platforms/Windows/BLPs/SHARED_DATA/ANIMATION_Knight_CombatIdleA</File>
+    <File>Platforms/Windows/BLPs/SHARED_DATA/ANIMATION_Knight_IdleA</File>
+    <File>Platforms/Windows/BLPs/SHARED_DATA/ANIMATION_Knight_IdleC</File>
+    <File>Platforms/Windows/BLPs/SHARED_DATA/ANIMATION_Knight_IdleD</File>
+    <File>Platforms/Windows/BLPs/SHARED_DATA/ANIMATION_Knight_JoustDefendA</File>
+    <File>Platforms/Windows/BLPs/SHARED_DATA/ANIMATION_Knight_ReactRangedA</File>
+    <File>Platforms/Windows/BLPs/SHARED_DATA/ANIMATION_Knight_ReactRangedB</File>
+    <File>Platforms/Windows/BLPs/SHARED_DATA/ANIMATION_Knight_RunStopC</File>
+    <File>Platforms/Windows/BLPs/SHARED_DATA/ANIMATION_Knight_RunStopD</File>
+    <File>Platforms/Windows/BLPs/SHARED_DATA/ANIMATION_UnitHeavy_BreathingA</File>
+    <File>Platforms/Windows/BLPs/SHARED_DATA/ANIMATION_UnitHeavy_MountedTurnLeftA</File>
+    <File>Platforms/Windows/BLPs/SHARED_DATA/ANIMATION_UnitMedium_MountedDeathA</File>
+    <File>Platforms/Windows/BLPs/SHARED_DATA/ANIMATION_UnitMedium_MountedDeathB</File>
+    <File>Platforms/Windows/BLPs/SHARED_DATA/ANIMATION_UnitMedium_MountedDeathC</File>
+    <File>Platforms/Windows/BLPs/SHARED_DATA/ANIMATION_UniyHeavy_MountedTurnRightA</File>
+    <File>Platforms/Windows/BLPs/SHARED_DATA/TEXTURE_Burn_BaseColor</File>
+    <File>Platforms/Windows/BLPs/SHARED_DATA/TEXTURE_Burn_G</File>
+    <File>Platforms/Windows/BLPs/SHARED_DATA/TEXTURE_Burn_M</File>
+    <File>Platforms/Windows/BLPs/SHARED_DATA/TEXTURE_Decals_Parts_Ancient_01_B</File>
+    <File>Platforms/Windows/BLPs/SHARED_DATA/TEXTURE_Decals_Parts_Ancient_01_FOW</File>
+    <File>Platforms/Windows/BLPs/SHARED_DATA/TEXTURE_Decals_Parts_Ancient_01_H</File>
+    <File>Platforms/Windows/BLPs/SHARED_DATA/TEXTURE_DiffuseTint_Decals_Parts_Ancient_01_B_null</File>
+    <File>Platforms/Windows/BLPs/SHARED_DATA/TEXTURE_DiffuseTint_IMP_Suk_Paya_Base_Color_null</File>
+    <File>Platforms/Windows/BLPs/SHARED_DATA/TEXTURE_DiffuseTint_Myinsi_Suk_Myinsi_BaseColor_null</File>
+    <File>Platforms/Windows/BLPs/SHARED_DATA/TEXTURE_IMP_Suk_Paya_Emissive</File>
+    <File>Platforms/Windows/BLPs/SHARED_DATA/TEXTURE_IMP_Suk_Paya_Metallic</File>
+    <File>Platforms/Windows/BLPs/SHARED_DATA/TEXTURE_IMP_Suk_Paya_Mixed_AO</File>
+    <File>Platforms/Windows/BLPs/SHARED_DATA/TEXTURE_IMP_Suk_Paya_Normal_OpenGL0</File>
+    <File>Platforms/Windows/BLPs/SHARED_DATA/TEXTURE_IMP_Suk_Paya_Normal_OpenGL1</File>
+    <File>Platforms/Windows/BLPs/SHARED_DATA/TEXTURE_IMP_Suk_Paya_Roughness</File>
+    <File>Platforms/Windows/BLPs/SHARED_DATA/TEXTURE_Myinsi_Suk_Myinsi_AO</File>
+    <File>Platforms/Windows/BLPs/SHARED_DATA/TEXTURE_Myinsi_Suk_Myinsi_Glossiness</File>
+    <File>Platforms/Windows/BLPs/SHARED_DATA/TEXTURE_Myinsi_Suk_Myinsi_Metallic</File>
+    <File>Platforms/Windows/BLPs/SHARED_DATA/TEXTURE_Myinsi_Suk_Myinsi_Normal0</File>
+    <File>Platforms/Windows/BLPs/SHARED_DATA/TEXTURE_Myinsi_Suk_Myinsi_Normal1</File>
+    <File>Platforms/Windows/BLPs/strategicview/strategicview_improvements.blp</File>
+    <File>Platforms/Windows/BLPs/UITextures.blp</File>
+    <File>Platforms/Windows/BLPs/units/units.blp</File>
+    <File>Sukritact's Bayinnaung (Burma).dep</File>
+    <File>Textures/FALLBACK_NEUTRAL_SUK_BAYINNAUNG.dds</File>
+    <File>Textures/Suk_Burma_Atlas_256.dds</File>
+    <File>Textures/Suk_Burma_Atlas_45.dds</File>
+  </Files>
+</Mod>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Formicidia_1 -->
+<!-- Author: use -->
+<!-- DateCreated: 10/20/2017 10:01:57 PM -->
+<GameData>
+	<LoadingInfo>
+		<Row LeaderType="LEADER_SKIPPER" BackgroundImage="Loadingskipp.dds"/>
+	</LoadingInfo>
+	<DiplomacyInfo>
+		<Row Type="LEADER_SKIPPER" 	BackgroundImage="Antarcticabackground.dds"/>
+	</DiplomacyInfo>
+</GameData>

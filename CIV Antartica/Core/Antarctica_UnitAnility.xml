@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Formicidia_UnitAnility -->
+<!-- Author: use -->
+<!-- DateCreated: 10/21/2017 8:22:17 PM -->
+<GameData>
+	<Types>
+		<Row Type="ABILITY_COMMANDOS" Kind="KIND_ABILITY" />
+		<Row Type="ABILITY_COMMANDOSI" Kind="KIND_ABILITY"/>
+	</Types>
+
+	<TypeTags>
+		<Row Type="ABILITY_COMMANDOS" Tag="CLASS_COMMANDOS"/>
+		<Row Type="ABILITY_COMMANDOSI" Tag="CLASS_COMMANDOS"/>
+	</TypeTags>
+
+	<UnitAbilities>
+		<Row UnitAbilityType="ABILITY_COMMANDOS" Name="LOC_ABILITY_COMMANDOS_NAME" Inactive="0" Description="LOC_ABILITY_COMMANDOS_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_COMMANDOSI" Name="LOC_ABILITY_COMMANDOSI_NAME" Inactive="0" Description="LOC_ABILITY_COMMANDOSI_DESCRIPTION"/>
+	</UnitAbilities>
+
+	<UnitAbilityModifiers>
+		<Row UnitAbilityType="ABILITY_COMMANDOS" ModifierId="COMMANDOS_IGNORE"/>
+		<Row UnitAbilityType="ABILITY_COMMANDOSI" ModifierId="COMMANDOS_IGNORES"/>
+	</UnitAbilityModifiers>
+
+	<Modifiers>
+		<Row>
+			<ModifierId>COMMANDOS_IGNORE</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_UNIT_ADJUST_IGNORE_TERRAIN_COST</ModifierType>
+		</Row>
+		<Row>
+			<ModifierId>COMMANDOS_IGNORES</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_UNIT_ADJUST_IGNORE_RIVERS</ModifierType>
+		</Row>
+	</Modifiers>
+	<ModifierArguments>
+		<Row>
+			<ModifierId>COMMANDOS_IGNORE</ModifierId>
+			<Name>Ignore</Name>
+			<Value>true</Value>
+		</Row>
+		<Row>
+			<ModifierId>COMMANDOS_IGNORE</ModifierId>
+			<Name>Type</Name>
+			<Value>ALL</Value>
+		</Row>
+		<Row>
+			<ModifierId>COMMANDOS_IGNORES</ModifierId>
+			<Name>Ignore</Name>
+			<Value>true</Value>
+		</Row>
+	</ModifierArguments>
+	<ModifierStrings>
+		<Row ModifierId="COMMANDOS_IGNORE" Context="Preview" Text="LOC_ABILITY_COMMANDOS_DESCRIPTION"/>
+		<Row ModifierId="COMMANDOS_IGNORES" Context="Preview" Text="LOC_ABILITY_COMMANDOSI_DESCRIPTION"/>
+	</ModifierStrings>
+</GameData>

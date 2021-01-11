@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<Row Tag="LOC_CITY_SPHENISCIDIA" Language="en_US">
+			<Text>Spheniscidia</Text>
+		</Row>
+		<Row Tag="LOC_CITY_FORSTERI" Language="en_US">
+			<Text>Forsteri</Text>
+		</Row>
+		<Row Tag="LOC_CITY_PATAGONICUS" Language="en_US">
+			<Text>Patagonicus</Text>
+		</Row>
+		<Row Tag="LOC_CITY_ADELIAE" Language="en_US">
+			<Text>Adeliae</Text>
+		</Row>
+		<Row Tag="LOC_CITY_PAPUA" Language="en_US">
+			<Text>Papua</Text>
+		</Row>
+		<Row Tag="LOC_CITY_ANTARCTICUS" Language="en_US">
+			<Text>Antarcticus</Text>
+		</Row>
+		<Row Tag="LOC_CITY_MOSELEYI" Language="en_US">
+			<Text>Moseleyi</Text>
+		</Row>
+		<Row Tag="LOC_CITY_CHRYSOCOME" Language="en_US">
+			<Text>Chrysocome</Text>
+		</Row>
+		<Row Tag="LOC_CITY_CHYRSOLOPHUS" Language="en_US">
+			<Text>Chyrsolophus</Text>
+		</Row>
+		<Row Tag="LOC_CITY_SCHLEGELI" Language="en_US">
+			<Text>Schlegeli</Text>
+		</Row>
+		<Row Tag="LOC_CITY_PACHYRHYNCHUS" Language="en_US">
+			<Text>Pachyrhynchus</Text>
+		</Row>
+		<Row Tag="LOC_CITY_SCLATERI" Language="en_US">
+			<Text>Sclateri</Text>
+		</Row>
+		<Row Tag="LOC_CITY_ROBUSTUS" Language="en_US">
+			<Text>Robustus</Text>
+		</Row>
+		<Row Tag="LOC_CITY_ANTIPODES" Language="en_US">
+			<Text>Antipodes</Text>
+		</Row>
+		<Row Tag="LOC_CITY_MINOR" Language="en_US">
+			<Text>Minor</Text>
+		</Row>
+		<Row Tag="LOC_CITY_MAGELLANICUS" Language="en_US">
+			<Text>Magellanicus</Text>
+		</Row>
+		<Row Tag="LOC_CITY_HUMBOLDTI" Language="en_US">
+			<Text>Humboldti</Text>
+		</Row>
+		<Row Tag="LOC_CITY_DEMERSUS" Language="en_US">
+			<Text>Demersus</Text>
+		</Row>
+		<Row Tag="LOC_CITY_EENDICULUS" Language="en_US">
+			<Text>Eendiculus</Text>
+		</Row>
+	</LocalizedText>
+</GameData>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+	<!-- en_US -->
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SKIPPER_TITLE" Language="en_US">
+			<Text>Skipper</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SKIPPER_SUBTITLE" Language="en_US">
+			<Text>Captain</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_SKIPPER_QUOTE" Language="en_US">
+			<Text>Just, uh, smile and wave boys. Smile and wave.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SKIPPER_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Skipper Skip-king is the leader of a band of penguins bent on a secret agenda of escaping the confines of the zoo and being free in Antarctica. He is the second shortest and chubbiest of the group (Only Private is shorter and chubbier) and he has ice blue eyes. It is probable that Skipper and the rest of his squad are warm climate penguins, for they do not live in an air-conditioned habitat. He is one of the four main antagonists of Madagascar, a major character in Madagascar: Escape 2 Africa, a supporting character in Madagascar 3: Europe's Most Wanted and the deuteragonist of Penguins of Madagascar: The Movie. This is supported in one episode, where the city was having one of the coldest days ever, and the penguins used heat lamps to warm up their habitat, and also in the movie where the penguins aren't bothered by the warmth of Africa and Madagascar, but intensely dislike Antarctica. He is the only penguin that remembers the penguins credo Never swim alone (A Christmas Caper). His men remembered that when Skipper went alone. (Crown Fools) The only penguin who can get him to do anything is Private. (Night and Dazed)</Text>
+		</Row>
+		<!--Civilization Factoids -->
+		<Row Tag="LOC_CIVINFO_ANTARCTICA_LOCATION" Language="en_US">
+			<Text>South Pole</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_ANTARCTICA_SIZE" Language="en_US">
+			<Text>Est. 14 million km</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_ANTARCTICA_POPULATION" Language="en_US">
+			<Text>Est. 6 million</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_ANTARCTICA_CAPITAL" Language="en_US">
+			<Text>Spheniscidia</Text>
+		</Row>
+	</LocalizedText>
+</GameData>

@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Types>
+		<Row Type="CIVILIZATION_ANTARCTICA" Kind="KIND_CIVILIZATION" />
+		<Row Type="TRAIT_CIVILIZATION_ANTARCTICA" Kind="KIND_TRAIT" />
+		<Row Kind="KIND_TRAIT" Type="TRAIT_UNIT_COMMANDOS"/>
+		<Row Type="TRAIT_IMPROVEMENT_PNEST" Kind="KIND_TRAIT" />
+	</Types>
+
+	<Civilizations>
+		<Row CivilizationType="CIVILIZATION_ANTARCTICA" Name="LOC_CIVILIZATION_ANTARCTICA_NAME" Description="LOC_CIVILIZATION_ANTARCTICA_DESCRIPTION" Adjective="LOC_CIVILIZATION_ANTARCTICA_ADJECTIVE" StartingCivilizationLevelType="CIVILIZATION_LEVEL_FULL_CIV" Ethnicity="ETHNICITY_MEDITERRANEAN" RandomCityNameDepth="15"/>
+	</Civilizations>
+
+	<CivilizationInfo>
+		<Row CivilizationType="CIVILIZATION_ANTARCTICA" Header="LOC_CIVINFO_LOCATION" Caption="LOC_CIVINFO_ANTARCTICA_LOCATION" SortIndex="10" />
+		<Row CivilizationType="CIVILIZATION_ANTARCTICA" Header="LOC_CIVINFO_SIZE" Caption="LOC_CIVINFO_ANTARCTICA_SIZE" SortIndex="20" />
+		<Row CivilizationType="CIVILIZATION_ANTARCTICA" Header="LOC_CIVINFO_POPULATION" Caption="LOC_CIVINFO_ANTARCTICA_POPULATION" SortIndex="30" />
+		<Row CivilizationType="CIVILIZATION_ANTARCTICA" Header="LOC_CIVINFO_CAPITAL" Caption="LOC_CIVINFO_ANTARCTICA_CAPITAL" SortIndex="40" />
+	</CivilizationInfo>
+
+	<CivilizationLeaders>
+		<Row CivilizationType="CIVILIZATION_ANTARCTICA" LeaderType="LEADER_SKIPPER" CapitalName="LOC_CITY_SPHENISCIDIA" />
+	</CivilizationLeaders>
+
+	<CivilizationTraits>
+		<Row CivilizationType="CIVILIZATION_ANTARCTICA" TraitType="TRAIT_CIVILIZATION_ANTARCTICA" />
+		<Row CivilizationType="CIVILIZATION_ANTARCTICA" TraitType="TRAIT_UNIT_COMMANDOS" />
+		<Row CivilizationType="CIVILIZATION_ANTARCTICA" TraitType="TRAIT_IMPROVEMENT_PNEST" />
+	</CivilizationTraits>
+
+	<CivilizationCitizenNames>
+		<Row CivilizationType="CIVILIZATION_ANTARCTICA" CitizenName="LOC_CITIZEN_KOWALSKI" Female="0"/>
+		<Row CivilizationType="CIVILIZATION_ANTARCTICA" CitizenName="LOC_CITIZEN_RICO" Female="0"/>
+		<Row CivilizationType="CIVILIZATION_ANTARCTICA" CitizenName="LOC_CITIZEN_PRIVATE" Female="0"/>
+	</CivilizationCitizenNames>
+
+	<Traits>
+		<Row TraitType="TRAIT_CIVILIZATION_ANTARCTICA" Name="LOC_TRAIT_CIVILIZATION_ANTARCTICA_NAME" Description="LOC_TRAIT_CIVILIZATION_ANTARCTICA_DESCRIPTION" />
+		<Row Name="LOC_UNIT_COMMANDOS_NAME" TraitType="TRAIT_UNIT_COMMANDOS"/>
+		<Row TraitType="TRAIT_IMPROVEMENT_PNEST" Name="LOC_IMPROVEMENT_PNEST_NAME" />
+	</Traits>
+
+	<TraitModifiers>
+		<Row>
+			<TraitType>TRAIT_CIVILIZATION_ANTARCTICA</TraitType>
+			<ModifierId>TRAIT_AS_INCREASED_SNOW_PRODUCTION</ModifierId>
+		</Row>
+		<Row>
+			<TraitType>TRAIT_CIVILIZATION_ANTARCTICA</TraitType>
+			<ModifierId>TRAIT_AS_INCREASED_SNOW_HILLS_PRODUCTION</ModifierId>
+		</Row>
+		<Row>
+			<TraitType>TRAIT_CIVILIZATION_ANTARCTICA</TraitType>
+			<ModifierId>TRAIT_AS_INCREASED_SNOW_FOOD</ModifierId>
+		</Row>
+		<Row>
+			<TraitType>TRAIT_CIVILIZATION_ANTARCTICA</TraitType>
+			<ModifierId>TRAIT_AS_INCREASED_SNOW_HILLS_FOOD</ModifierId>
+		</Row>
+
+		<Row>
+			<TraitType>TRAIT_CIVILIZATION_ANTARCTICA</TraitType>
+			<ModifierId>TRAIT_EMBARK_CCSP</ModifierId>
+		</Row>
+	</TraitModifiers>
+
+	<Modifiers>
+		<Row>
+			<ModifierId>TRAIT_AS_INCREASED_SNOW_PRODUCTION</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_ADJUST_PLOT_YIELD</ModifierType>
+			<SubjectRequirementSetId>PLOT_HAS_SNOW_REQUIREMENTS</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_AS_INCREASED_SNOW_HILLS_PRODUCTION</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_ADJUST_PLOT_YIELD</ModifierType>
+			<SubjectRequirementSetId>PLOT_HAS_SNOW_HILLS_REQUIREMENTS</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_AS_INCREASED_SNOW_FOOD</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_ADJUST_PLOT_YIELD</ModifierType>
+			<SubjectRequirementSetId>PLOT_HAS_SNOW_REQUIREMENTS</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_AS_INCREASED_SNOW_HILLS_FOOD</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_ADJUST_PLOT_YIELD</ModifierType>
+			<SubjectRequirementSetId>PLOT_HAS_SNOW_HILLS_REQUIREMENTS</SubjectRequirementSetId>
+		</Row>
+
+		<Row>
+			<ModifierId>TRAIT_EMBARK_CCSP</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_UNITS_ADJUST_IGNORE_SHORES</ModifierType>
+			<SubjectRequirementSetId>UNIT_IS_DOMAIN_LAND</SubjectRequirementSetId>
+		</Row>
+	</Modifiers>
+
+	<ModifierArguments>
+		<Row>
+			<ModifierId>TRAIT_AS_INCREASED_SNOW_PRODUCTION</ModifierId>
+			<Name>YieldType</Name>
+			<Value>YIELD_PRODUCTION</Value>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_AS_INCREASED_SNOW_PRODUCTION</ModifierId>
+			<Name>Amount</Name>
+			<Value>1</Value>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_AS_INCREASED_SNOW_HILLS_PRODUCTION</ModifierId>
+			<Name>YieldType</Name>
+			<Value>YIELD_PRODUCTION</Value>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_AS_INCREASED_SNOW_HILLS_PRODUCTION</ModifierId>
+			<Name>Amount</Name>
+			<Value>1</Value>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_AS_INCREASED_SNOW_FOOD</ModifierId>
+			<Name>YieldType</Name>
+			<Value>YIELD_FOOD</Value>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_AS_INCREASED_SNOW_FOOD</ModifierId>
+			<Name>Amount</Name>
+			<Value>1</Value>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_AS_INCREASED_SNOW_HILLS_FOOD</ModifierId>
+			<Name>YieldType</Name>
+			<Value>YIELD_FOOD</Value>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_AS_INCREASED_SNOW_HILLS_FOOD</ModifierId>
+			<Name>Amount</Name>
+			<Value>1</Value>
+		</Row>
+
+		<Row>
+			<ModifierId>TRAIT_EMBARK_CCSP</ModifierId>
+			<Name>Ignore</Name>
+			<Value>true</Value>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_COMBAT_BONUS_SKIPPER</ModifierId>
+			<Name>ModifierId</Name>
+			<Value>COMBAT_BONUS_HOME_CONTINENT_MODIFIER</Value>
+		</Row>
+	</ModifierArguments>
+
+	<RequirementSets>
+		<Row>
+			<RequirementSetId>PLOT_HAS_SNOW_REQUIREMENTS</RequirementSetId>
+			<RequirementSetType>REQUIREMENTSET_TEST_ALL</RequirementSetType>
+		</Row>
+		<Row>
+			<RequirementSetId>PLOT_HAS_SNOW_HILLS_REQUIREMENTS</RequirementSetId>
+			<RequirementSetType>REQUIREMENTSET_TEST_ALL</RequirementSetType>
+		</Row>
+	</RequirementSets>
+
+	<RequirementSetRequirements>
+		<Row>
+			<RequirementSetId>PLOT_HAS_SNOW_REQUIREMENTS</RequirementSetId>
+			<RequirementId>REQUIRES_PLOT_HAS_SNOW</RequirementId>
+		</Row>
+		<Row>
+			<RequirementSetId>PLOT_HAS_SNOW_HILLS_REQUIREMENTS</RequirementSetId>
+			<RequirementId>REQUIRES_PLOT_HAS_SNOW_HILLS</RequirementId>
+		</Row>
+	</RequirementSetRequirements>
+
+	<Requirements>
+		<Row>
+			<RequirementId>REQUIRES_PLOT_HAS_SNOW</RequirementId>
+			<RequirementType>REQUIREMENT_PLOT_TERRAIN_TYPE_MATCHES</RequirementType>
+		</Row>
+		<Row>
+			<RequirementId>REQUIRES_PLOT_HAS_SNOW_HILLS</RequirementId>
+			<RequirementType>REQUIREMENT_PLOT_TERRAIN_TYPE_MATCHES</RequirementType>
+		</Row>
+	</Requirements>
+
+	<RequirementArguments>
+		<Row>
+			<RequirementId>REQUIRES_PLOT_HAS_SNOW</RequirementId>
+			<Name>TerrainType</Name>
+			<Value>TERRAIN_SNOW</Value>
+		</Row>
+		<Row>
+			<RequirementId>REQUIRES_PLOT_HAS_SNOW_HILLS</RequirementId>
+			<Name>TerrainType</Name>
+			<Value>TERRAIN_SNOW_HILLS</Value>
+		</Row>
+	</RequirementArguments>
+
+	<CityNames>
+		<Row CivilizationType="CIVILIZATION_ANTARCTICA" CityName="LOC_CITY_FORSTERI" />
+		<Row CivilizationType="CIVILIZATION_ANTARCTICA" CityName="LOC_CITY_PATAGONICUS" />
+		<Row CivilizationType="CIVILIZATION_ANTARCTICA" CityName="LOC_CITY_ADELIAE" />
+		<Row CivilizationType="CIVILIZATION_ANTARCTICA" CityName="LOC_CITY_PAPUA" />
+		<Row CivilizationType="CIVILIZATION_ANTARCTICA" CityName="LOC_CITY_ANTARCTICUS" />
+		<Row CivilizationType="CIVILIZATION_ANTARCTICA" CityName="LOC_CITY_MOSELEYI" />
+		<Row CivilizationType="CIVILIZATION_ANTARCTICA" CityName="LOC_CITY_CHRYSOCOME" />
+		<Row CivilizationType="CIVILIZATION_ANTARCTICA" CityName="LOC_CITY_CHYRSOLOPHUS" />
+		<Row CivilizationType="CIVILIZATION_ANTARCTICA" CityName="LOC_CITY_SCHLEGELI" />
+		<Row CivilizationType="CIVILIZATION_ANTARCTICA" CityName="LOC_CITY_PACHYRHYNCHUS" />
+		<Row CivilizationType="CIVILIZATION_ANTARCTICA" CityName="LOC_CITY_SCLATERI" />
+		<Row CivilizationType="CIVILIZATION_ANTARCTICA" CityName="LOC_CITY_ROBUSTUS" />
+		<Row CivilizationType="CIVILIZATION_ANTARCTICA" CityName="LOC_CITY_ANTIPODES" />
+		<Row CivilizationType="CIVILIZATION_ANTARCTICA" CityName="LOC_CITY_MINOR" />
+		<Row CivilizationType="CIVILIZATION_ANTARCTICA" CityName="LOC_CITY_MAGELLANICUS" />
+		<Row CivilizationType="CIVILIZATION_ANTARCTICA" CityName="LOC_CITY_HUMBOLDTI" />
+		<Row CivilizationType="CIVILIZATION_ANTARCTICA" CityName="LOC_CITY_DEMERSUS" />
+		<Row CivilizationType="CIVILIZATION_ANTARCTICA" CityName="LOC_CITY_EENDICULUS" />
+	</CityNames>
+	<StartBiasTerrains>
+		<Row CivilizationType="CIVILIZATION_ANTARCTICA" TerrainType="TERRAIN_TUNDRA" Tier="1"/>
+		<Row CivilizationType="CIVILIZATION_ANTARCTICA" TerrainType="TERRAIN_TUNDRA_HILLS" Tier="1"/>
+		<Row CivilizationType="CIVILIZATION_ANTARCTICA" TerrainType="TERRAIN_SNOW" Tier="2"/>
+		<Row CivilizationType="CIVILIZATION_ANTARCTICA" TerrainType="TERRAIN_SNOW_HILLS" Tier="2"/>
+		<Row CivilizationType="CIVILIZATION_ANTARCTICA" TerrainType="TERRAIN_COAST" Tier="3"/>
+	</StartBiasTerrains>
+	<Colors>
+		<Row>
+			<Type>COLOR_PLAYER_ANTARCTICA_PRIMARY</Type>
+			<Color>27,218,245,255</Color>
+		</Row>
+		<Row>
+			<Type>COLOR_PLAYER_ANTARCTICA_SECONDARY</Type>
+			<Color>230,230,230,255</Color>
+		</Row>
+	</Colors>
+	<PlayerColors>
+		<Row>
+			<Type>LEADER_SKIPPER</Type>
+			<Usage>Unique</Usage>
+			<PrimaryColor>COLOR_PLAYER_ANTARCTICA_PRIMARY</PrimaryColor>
+			<SecondaryColor>COLOR_PLAYER_ANTARCTICA_SECONDARY</SecondaryColor>
+			<TextColor>COLOR_PLAYER_WHITE_TEXT</TextColor>
+		</Row>
+	</PlayerColors>
+</GameData>

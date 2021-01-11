@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+<MomentIllustrations>
+	<Row MomentIllustrationType="MOMENT_ILLUSTRATION_UNIQUE_UNIT" MomentDataType="MOMENT_DATA_UNIT" GameDataType="UNIT_COMMANDOS" Texture="MOMENT_ANTARCTICA_COMMANDOS"/>
+	<Row MomentIllustrationType="MOMENT_ILLUSTRATION_UNIQUE_IMPROVEMENT" MomentDataType="MOMENT_DATA_IMPROVEMENT" GameDataType="IMPROVEMENT_PNEST" Texture="MOMENT_ANTARCTICA_NEST"/>
+</MomentIllustrations>
+</GameData>

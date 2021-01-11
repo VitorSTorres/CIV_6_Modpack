@@ -1,0 +1,157 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="77c0a1c9-de61-41ff-97e8-6c1d5748a4f3" version="1">
+  <Properties>
+    <Name>Cuba (Fidel Castro)</Name>
+    <Description>Adds the Caribbean island nation of Cuba as a playable civilization, led by the revolutionary Fidel Castro.</Description>
+    <Teaser>Adds the Caribbean island nation of Cuba as a playable civilization, led by the revolutionary Fidel Castro.</Teaser>
+    <Authors>Space Communist</Authors>
+    <SpecialThanks>Toussaint for his template</SpecialThanks>
+  </Properties>
+  <FrontEndActions>
+    <UpdateArt id="NewAction">
+      <File>Cuba (Fidel Castro).dep</File>
+    </UpdateArt>
+    <UpdateIcons id="NewAction">
+      <File>Core Files/Cuba_Icons.xml</File>
+    </UpdateIcons>
+    <UpdateDatabase id="NewAction">
+      <File>Core Files/Cuba_Config.sql</File>
+    </UpdateDatabase>
+    <UpdateText id="NewAction">
+      <File>Core Files/Cuba_GameText.xml</File>
+    </UpdateText>
+  </FrontEndActions>
+  <InGameActions>
+    <UpdateArt id="NewAction">
+      <File>Cuba (Fidel Castro).dep</File>
+    </UpdateArt>
+    <UpdateDatabase id="NewAction2">
+      <File>Mod Support/Cuba_Castro_RuleWithFaith.sql</File>
+      <File>Mod Support/Cuba_Castro_YnAEMP.sql</File>
+    </UpdateDatabase>
+    <UpdateIcons id="NewAction">
+      <File>Core Files/Cuba_Icons.xml</File>
+    </UpdateIcons>
+    <UpdateDatabase id="NewAction">
+      <File>Core Files/Cuba_Agendas.xml</File>
+      <File>Core Files/Cuba_GameDefines.sql</File>
+      <File>Core Files/Cuba_Improvements.xml</File>
+      <File>Core Files/Cuba_Units.xml</File>
+    </UpdateDatabase>
+    <UpdateText id="NewAction">
+      <File>Core Files/Cuba_GameText.xml</File>
+    </UpdateText>
+  </InGameActions>
+  <Files>
+    <File>ArtDefs/Civilizations.artdef</File>
+    <File>ArtDefs/Cultures.artdef</File>
+    <File>ArtDefs/Districts.artdef</File>
+    <File>ArtDefs/FallbackLeaders.artdef</File>
+    <File>ArtDefs/Improvements.artdef</File>
+    <File>ArtDefs/Landmarks.artdef</File>
+    <File>ArtDefs/Leaders.artdef</File>
+    <File>ArtDefs/Units.artdef</File>
+    <File>Assets/IMP_SC_Malecon_Industrial.ast</File>
+    <File>Assets/IMP_SC_Malecon_Modern.ast</File>
+    <File>Core Files/Cuba_Agendas.xml</File>
+    <File>Core Files/Cuba_Config.sql</File>
+    <File>Core Files/Cuba_GameDefines.sql</File>
+    <File>Core Files/Cuba_GameText.xml</File>
+    <File>Core Files/Cuba_Icons.xml</File>
+    <File>Core Files/Cuba_Improvements.xml</File>
+    <File>Core Files/Cuba_Units.xml</File>
+    <File>Cuba (Fidel Castro).dep</File>
+    <File>Mod Support/Cuba_Castro_RuleWithFaith.sql</File>
+    <File>Mod Support/Cuba_Castro_YnAEMP.sql</File>
+    <File>Platforms/MacOS/BLPs/landmarks/tilebases.blp</File>
+    <File>Platforms/MacOS/BLPs/LeaderBackgrounds.blp</File>
+    <File>Platforms/MacOS/BLPs/LeaderFallbacks.blp</File>
+    <File>Platforms/MacOS/BLPs/LEADER_SC_CUSTOM_CASTRO.blp</File>
+    <File>Platforms/MacOS/BLPs/UILeaders.blp</File>
+    <File>Platforms/MacOS/BLPs/UI/Icons.blp</File>
+    <File>Platforms/Windows/BLPs/landmarks/tilebases.blp</File>
+    <File>Platforms/Windows/BLPs/LeaderBackgrounds.blp</File>
+    <File>Platforms/Windows/BLPs/LeaderFallbacks.blp</File>
+    <File>Platforms/Windows/BLPs/LEADER_SC_CUSTOM_CASTRO.blp</File>
+    <File>Platforms/Windows/BLPs/UILeaders.blp</File>
+    <File>Platforms/Windows/BLPs/UI/Icons.blp</File>
+    <File>Textures/Castro_Leader_Icon256.dds</File>
+    <File>Textures/Castro_Leader_Icon256.tex</File>
+    <File>Textures/Castro_Leader_Icon32.dds</File>
+    <File>Textures/Castro_Leader_Icon32.tex</File>
+    <File>Textures/Castro_Leader_Icon45.dds</File>
+    <File>Textures/Castro_Leader_Icon45.tex</File>
+    <File>Textures/Castro_Leader_Icon50.dds</File>
+    <File>Textures/Castro_Leader_Icon50.tex</File>
+    <File>Textures/Castro_Leader_Icon55.dds</File>
+    <File>Textures/Castro_Leader_Icon55.tex</File>
+    <File>Textures/Castro_Leader_Icon64.dds</File>
+    <File>Textures/Castro_Leader_Icon64.tex</File>
+    <File>Textures/Castro_Leader_Icon80.dds</File>
+    <File>Textures/Castro_Leader_Icon80.tex</File>
+    <File>Textures/Cuba_Castro_Icon45.dds</File>
+    <File>Textures/Cuba_Castro_Icon45.tex</File>
+    <File>Textures/Cuba_Civ_Icon128.dds</File>
+    <File>Textures/Cuba_Civ_Icon128.tex</File>
+    <File>Textures/Cuba_Civ_Icon200.dds</File>
+    <File>Textures/Cuba_Civ_Icon200.tex</File>
+    <File>Textures/Cuba_Civ_Icon22.dds</File>
+    <File>Textures/Cuba_Civ_Icon22.tex</File>
+    <File>Textures/Cuba_Civ_Icon256.dds</File>
+    <File>Textures/Cuba_Civ_Icon256.tex</File>
+    <File>Textures/Cuba_Civ_Icon30.dds</File>
+    <File>Textures/Cuba_Civ_Icon30.tex</File>
+    <File>Textures/Cuba_Civ_Icon32.dds</File>
+    <File>Textures/Cuba_Civ_Icon32.tex</File>
+    <File>Textures/Cuba_Civ_Icon36.dds</File>
+    <File>Textures/Cuba_Civ_Icon36.tex</File>
+    <File>Textures/Cuba_Civ_Icon44.dds</File>
+    <File>Textures/Cuba_Civ_Icon44.tex</File>
+    <File>Textures/Cuba_Civ_Icon48.dds</File>
+    <File>Textures/Cuba_Civ_Icon48.tex</File>
+    <File>Textures/Cuba_Civ_Icon50.dds</File>
+    <File>Textures/Cuba_Civ_Icon50.tex</File>
+    <File>Textures/Cuba_Civ_Icon55.dds</File>
+    <File>Textures/Cuba_Civ_Icon55.tex</File>
+    <File>Textures/Cuba_Civ_Icon64.dds</File>
+    <File>Textures/Cuba_Civ_Icon64.tex</File>
+    <File>Textures/Cuba_Civ_Icon80.dds</File>
+    <File>Textures/Cuba_Civ_Icon80.tex</File>
+    <File>Textures/Guerrillero_Icon22.dds</File>
+    <File>Textures/Guerrillero_Icon22.tex</File>
+    <File>Textures/Guerrillero_Icon256.dds</File>
+    <File>Textures/Guerrillero_Icon256.tex</File>
+    <File>Textures/Guerrillero_Icon32.dds</File>
+    <File>Textures/Guerrillero_Icon32.tex</File>
+    <File>Textures/Guerrillero_Icon38.dds</File>
+    <File>Textures/Guerrillero_Icon38.tex</File>
+    <File>Textures/Guerrillero_Icon50.dds</File>
+    <File>Textures/Guerrillero_Icon50.tex</File>
+    <File>Textures/Guerrillero_Icon80.dds</File>
+    <File>Textures/Guerrillero_Icon80.tex</File>
+    <File>Textures/LEADER_SC_CASTRO_BACKGROUND.dds</File>
+    <File>Textures/LEADER_SC_CASTRO_BACKGROUND.tex</File>
+    <File>Textures/LEADER_SC_CASTRO_NEUTRAL.dds</File>
+    <File>Textures/LEADER_SC_CASTRO_NEUTRAL.tex</File>
+    <File>Textures/SC_CASTRO_1.dds</File>
+    <File>Textures/SC_CASTRO_1.tex</File>
+    <File>Textures/SC_CASTRO_4.dds</File>
+    <File>Textures/SC_CASTRO_4.tex</File>
+    <File>Textures/SC_Malecon_Icon256.dds</File>
+    <File>Textures/SC_Malecon_Icon256.tex</File>
+    <File>Textures/SC_Malecon_Icon38.dds</File>
+    <File>Textures/SC_Malecon_Icon38.tex</File>
+    <File>Textures/SC_Malecon_Icon45.dds</File>
+    <File>Textures/SC_Malecon_Icon45.tex</File>
+    <File>Textures/SC_Malecon_Icon50.dds</File>
+    <File>Textures/SC_Malecon_Icon50.tex</File>
+    <File>Textures/SC_Malecon_Icon80.dds</File>
+    <File>Textures/SC_Malecon_Icon80.tex</File>
+    <File>XLPs/Icons.xlp</File>
+    <File>XLPs/LeaderBackgrounds.xlp</File>
+    <File>XLPs/LeaderFallbacks.xlp</File>
+    <File>XLPs/Leader_SC_CASTRO.xlp</File>
+    <File>XLPs/Tilebases.xlp</File>
+    <File>XLPs/UILeaders.xlp</File>
+  </Files>
+</Mod>

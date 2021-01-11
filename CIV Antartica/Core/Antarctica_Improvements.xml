@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Types>
+		<Row Type="IMPROVEMENT_PNEST" Kind="KIND_IMPROVEMENT"/>
+	</Types>
+	<Improvements>
+		<Row ImprovementType="IMPROVEMENT_PNEST" Name="LOC_IMPROVEMENT_PNEST_NAME" Description="LOC_IMPROVEMENT_PNEST_DESCRIPTION" Icon="ICON_IMPROVEMENT_PNEST" PlunderType="PLUNDER_HEAL" PlunderAmount="50" Buildable="true" Housing="2" TilesRequired="2" SameAdjacentValid="false" TraitType="TRAIT_IMPROVEMENT_PNEST"/>
+	</Improvements>
+	<Improvement_ValidTerrains>
+		<Row ImprovementType="IMPROVEMENT_PNEST" TerrainType="TERRAIN_SNOW"/>
+		<Row ImprovementType="IMPROVEMENT_PNEST" TerrainType="TERRAIN_TUNDRA"/>
+	</Improvement_ValidTerrains>
+	<Improvement_ValidBuildUnits>
+		<Row ImprovementType="IMPROVEMENT_PNEST" UnitType="UNIT_BUILDER"/>
+	</Improvement_ValidBuildUnits>
+	<Improvement_YieldChanges>
+		<Row ImprovementType="IMPROVEMENT_PNEST" YieldChange="1" YieldType="YIELD_CULTURE"/>
+		<Row ImprovementType="IMPROVEMENT_PNEST" YieldChange="1" YieldType="YIELD_FOOD"/>
+	</Improvement_YieldChanges>
+	<Improvement_BonusYieldChanges>
+		<Row ImprovementType="IMPROVEMENT_PNEST" PrereqCivic="CIVIC_EXPLORATION" YieldType="YIELD_FOOD" BonusYieldChange="1"/>
+	</Improvement_BonusYieldChanges>
+	<Improvement_Adjacencies>
+		<Row ImprovementType="IMPROVEMENT_PNEST" YieldChangeId="Pnest_Food"/>
+	</Improvement_Adjacencies>
+	<Adjacency_YieldChanges>
+		<Row ID="Pnest_Food" Description="Placeholder" YieldType="YIELD_FOOD" YieldChange="1" TilesRequired="1" AdjacentImprovement="IMPROVEMENT_FISHING_BOATS" />
+	</Adjacency_YieldChanges>
+	<Improvement_Tourism>
+		<Row ImprovementType="IMPROVEMENT_PNEST" TourismSource="TOURISMSOURCE_CULTURE" PrereqTech="TECH_FLIGHT" ScalingFactor="100"/>
+	</Improvement_Tourism>
+</GameData>

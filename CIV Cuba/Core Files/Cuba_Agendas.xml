@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Cuba_Agendas -->
+<!-- Author: Space Communist -->
+<!-- DateCreated: 11/4/2017 4:37:32 AM -->
+<GameData>
+	<Types>
+		<Row Type="TRAIT_AGENDA_SC_HISTORY_WILL_ABSOLVE_ME" Kind="KIND_TRAIT"/>
+	</Types>
+	<AiListTypes>
+		<Row ListType="SC_Castro_Infrastructure"/>
+		<Row ListType="SC_Castro_Science"/>
+		<Row ListType="SC_Castro_Culture"/>
+		<Row ListType="SC_Castro_Wonders"/>
+		<Row ListType="SC_Castro_Civics"/>
+		<Row ListType="SC_Castro_Techs"/>
+	</AiListTypes>
+	<AiLists>
+		<Row ListType="SC_Castro_Infrastructure" AgendaType="TRAIT_AGENDA_SC_HISTORY_WILL_ABSOLVE_ME" System="Yields"/>
+		<Row ListType="SC_Castro_Science" AgendaType="TRAIT_AGENDA_SC_HISTORY_WILL_ABSOLVE_ME" System="Yields"/>
+		<Row ListType="SC_Castro_Culture" AgendaType="TRAIT_AGENDA_SC_HISTORY_WILL_ABSOLVE_ME" System="Yields"/>
+		<Row ListType="SC_Castro_Wonders" AgendaType="TRAIT_AGENDA_SC_HISTORY_WILL_ABSOLVE_ME" System="Buildings"/>
+		<Row ListType="SC_Castro_Civics" AgendaType="TRAIT_AGENDA_SC_HISTORY_WILL_ABSOLVE_ME" System="Civics"/>
+		<Row ListType="SC_Castro_Techs" AgendaType="TRAIT_AGENDA_SC_HISTORY_WILL_ABSOLVE_ME" System="Technologies"/>
+	</AiLists>
+	<AiFavoredItems>
+		<Row ListType="SC_Castro_Infrastructure" Item="YIELD_PRODUCTION" Value="20"/>
+		<Row ListType="SC_Castro_Science" Item="YIELD_SCIENCE" Value="20"/>
+		<Row ListType="SC_Castro_Culture" Item="YIELD_CULTURE" Value="20"/>
+		<Row ListType="SC_Castro_Wonders" Item="BUILDING_GREAT_LIBRARY"/>
+		<Row ListType="SC_Castro_Wonders" Item="BUILDING_BROADWAY"/>
+		<Row ListType="SC_Castro_Wonders" Item="BUILDING_CRISTO_REDENTOR"/>
+		<Row ListType="SC_Castro_Wonders" Item="BUILDING_ESTADIO_DO_MARACANA"/>
+		<Row ListType="SC_Castro_Wonders" Item="BUILDING_FORBIDDEN_PALACE"/>
+		<Row ListType="SC_Castro_Wonders" Item="BUILDING_GREAT_LIGHTHOUSE"/>
+		<Row ListType="SC_Castro_Wonders" Item="BUILDING_OXFORD_UNIVERSITY"/>
+		<Row ListType="SC_Castro_Wonders" Item="BUILDING_CRISTO_REDENTOR"/>
+		<Row ListType="SC_Castro_Wonders" Item="BUILDING_FACTORY"/>
+		<Row ListType="SC_Castro_Wonders" Item="BUILDING_LIGHTHOUSE"/>
+		<Row ListType="SC_Castro_Wonders" Item="BUILDING_AMPHITHEATER"/>
+		<Row ListType="SC_Castro_Civics" Item="CIVIC_IDEOLOGY"/>
+		<Row ListType="SC_Castro_Civics" Item="CIVIC_NAVAL_TRADITION"/>
+		<Row ListType="SC_Castro_Civics" Item="CIVIC_EXPLORATION"/>
+		<Row ListType="SC_Castro_Civics" Item="CIVIC_DRAMA_AND_POETRY"/>
+		<Row ListType="SC_Castro_Civics" Item="CIVIC_NATIONALISM"/>
+		<Row ListType="SC_Castro_Civics" Item="CIVIC_CLASS_STRUGGLE"/>
+		<Row ListType="SC_Castro_Civics" Item="CIVIC_CULTURAL_HERITAGE"/>
+		<Row ListType="SC_Castro_Techs" Item="TECH_CELESTIAL_NAVIGATION"/>
+		<Row ListType="SC_Castro_Techs" Item="TECH_SHIPBUILDING"/>
+		<Row ListType="SC_Castro_Techs" Item="TECH_EDUCATION"/>
+		<Row ListType="SC_Castro_Techs" Item="TECH_WRITING"/>
+		<Row ListType="SC_Castro_Techs" Item="TECH_SAILING"/>
+		<Row ListType="SC_Castro_Techs" Item="TECH_CARTOGRAPHY"/>
+		<Row ListType="SC_Castro_Techs" Item="TECH_SCIENTIFIC_THEORY"/>
+		<Row ListType="SC_Castro_Techs" Item="TECH_INDUSTRIALIZATION"/>
+		<Row ListType="SC_Castro_Techs" Item="TECH_REPLACEABLE_PARTS"/>
+	</AiFavoredItems>
+	<Traits>
+		<Row TraitType="TRAIT_AGENDA_SC_HISTORY_WILL_ABSOLVE_ME" Name="LOC_PLACEHOLDER" Description="LOC_PLACEHOLDER"/>
+	</Traits>
+	<Agendas>
+		<Row AgendaType="AGENDA_SC_HISTORY_WILL_ABSOLVE_ME" Name="LOC_AGENDA_SC_HISTORY_WILL_ABSOLVE_ME_NAME" Description="LOC_AGENDA_SC_HISTORY_WILL_ABSOLVE_ME_DESCRIPTION"/>
+	</Agendas>
+	<ExclusiveAgendas>
+		<Row AgendaOne="AGENDA_SC_HISTORY_WILL_ABSOLVE_ME" AgendaTwo="AGENDA_DARWINIST"/>
+	</ExclusiveAgendas>
+	<AgendaTraits>
+		<Row AgendaType="AGENDA_SC_HISTORY_WILL_ABSOLVE_ME" TraitType="TRAIT_AGENDA_SC_HISTORY_WILL_ABSOLVE_ME"/>
+	</AgendaTraits>
+	<TraitModifiers>
+		<Row>
+			<TraitType>TRAIT_AGENDA_SC_HISTORY_WILL_ABSOLVE_ME</TraitType>
+			<ModifierId>AGENDA_SC_HISTORY_WILL_ABSOLVE_ME_STRONG_SCIENCE</ModifierId>
+		</Row>
+		<Row>
+			<TraitType>TRAIT_AGENDA_SC_HISTORY_WILL_ABSOLVE_ME</TraitType>
+			<ModifierId>AGENDA_SC_HISTORY_WILL_ABSOLVE_ME_STRONG_CULTURE</ModifierId>
+		</Row>
+		<Row>
+			<TraitType>TRAIT_AGENDA_SC_HISTORY_WILL_ABSOLVE_ME</TraitType>
+			<ModifierId>AGENDA_SC_HISTORY_WILL_ABSOLVE_ME_OCCUPIES_CITIES</ModifierId>
+		</Row>
+	</TraitModifiers>
+	<Modifiers>
+		<Row>
+			<ModifierId>AGENDA_SC_HISTORY_WILL_ABSOLVE_ME_STRONG_SCIENCE</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_DIPLOMACY_SIMPLE_MODIFIER</ModifierType>
+			<SubjectRequirementSetId>PLAYER_HAS_HIGH_SCIENCE</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>AGENDA_SC_HISTORY_WILL_ABSOLVE_ME_STRONG_CULTURE</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_DIPLOMACY_SIMPLE_MODIFIER</ModifierType>
+			<SubjectRequirementSetId>PLAYER_HAS_HIGH_CULTURE</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>AGENDA_SC_HISTORY_WILL_ABSOLVE_ME_OCCUPIES_CITIES</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_DIPLOMACY_AGENDA_PERPETUALLY_ON_GUARD</ModifierType>
+			<OwnerRequirementSetId>ON_TURN_STARTED</OwnerRequirementSetId>
+			<SubjectRequirementSetId>PLAYER_IS_MAJOR_CIV_KNOWN_10_TURNS</SubjectRequirementSetId>
+		</Row>
+	</Modifiers>
+	<ModifierArguments>
+		<Row>
+			<ModifierId>AGENDA_SC_HISTORY_WILL_ABSOLVE_ME_STRONG_SCIENCE</ModifierId>
+			<Name>InitialValue</Name>
+			<Value>5</Value>
+		</Row>
+		<Row>
+			<ModifierId>AGENDA_SC_HISTORY_WILL_ABSOLVE_ME_STRONG_SCIENCE</ModifierId>
+			<Name>StatementKey</Name>
+			<Value>LOC_DIPLO_KUDO_EXIT_LEADER_SC_CASTRO_REASON_SCIENCE</Value>
+		</Row>
+		<Row>
+			<ModifierId>AGENDA_SC_HISTORY_WILL_ABSOLVE_ME_STRONG_SCIENCE</ModifierId>
+			<Name>SimpleModifierDescription</Name>
+			<Value>LOC_DIPLO_MODIFIER_DESCRIPTION_HIGH_SCIENCE</Value>
+		</Row>
+		<Row>
+			<ModifierId>AGENDA_SC_HISTORY_WILL_ABSOLVE_ME_STRONG_CULTURE</ModifierId>
+			<Name>InitialValue</Name>
+			<Value>5</Value>
+		</Row>
+		<Row>
+			<ModifierId>AGENDA_SC_HISTORY_WILL_ABSOLVE_ME_STRONG_CULTURE</ModifierId>
+			<Name>StatementKey</Name>
+			<Value>LOC_DIPLO_KUDO_EXIT_LEADER_SC_CASTRO_REASON_CULTURE</Value>
+		</Row>
+		<Row>
+			<ModifierId>AGENDA_SC_HISTORY_WILL_ABSOLVE_ME_STRONG_CULTURE</ModifierId>
+			<Name>SimpleModifierDescription</Name>
+			<Value>LOC_DIPLO_MODIFIER_DESCRIPTION_HIGH_CULTURE</Value>
+		</Row>
+		<Row>
+			<ModifierId>AGENDA_SC_HISTORY_WILL_ABSOLVE_ME_OCCUPIES_CITIES</ModifierId>
+			<Name>PenaltyPerOccupiedCity</Name>
+			<Value>-3</Value>
+		</Row>
+		<Row>
+			<ModifierId>AGENDA_SC_HISTORY_WILL_ABSOLVE_ME_OCCUPIES_CITIES</ModifierId>
+			<Name>StatementKey</Name>
+			<Value>LOC_DIPLO_WARNING_EXIT_LEADER_SC_CASTRO_ANY</Value>
+		</Row>
+		<Row>
+			<ModifierId>AGENDA_SC_HISTORY_WILL_ABSOLVE_ME_OCCUPIES_CITIES</ModifierId>
+			<Name>SimpleModifierDescription</Name>
+			<Value>LOC_DIPLO_MODIFIER_ON_GUARD_OCCUPY</Value>
+		</Row>
+	</ModifierArguments>
+	<ModifierStrings>
+		<Row ModifierId="AGENDA_SC_HISTORY_WILL_ABSOLVE_ME_STRONG_SCIENCE" Context="Sample" Text="LOC_TOOLTIP_SAMPLE_DIPLOMACY_ALL"/>
+		<Row ModifierId="AGENDA_SC_HISTORY_WILL_ABSOLVE_ME_STRONG_CULTURE" Context="Sample" Text="LOC_TOOLTIP_SAMPLE_DIPLOMACY_ALL"/>
+		<Row ModifierId="AGENDA_SC_HISTORY_WILL_ABSOLVE_ME_OCCUPIES_CITIES" Context="Sample" Text="LOC_TOOLTIP_SAMPLE_DIPLOMACY_ALL"/>
+	</ModifierStrings>
+</GameData>

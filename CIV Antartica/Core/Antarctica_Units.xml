@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Types>
+		<Row Type="UNIT_COMMANDOS" Kind="KIND_UNIT"/>
+	</Types>
+
+	<UnitAiInfos>
+		<Row UnitType="UNIT_COMMANDOS" AiType="UNITAI_COMBAT"/>
+		<Row UnitType="UNIT_COMMANDOS" AiType="UNITAI_EXPLORE"/>
+		<Row UnitType="UNIT_COMMANDOS" AiType="UNITTYPE_MELEE"/>
+		<Row UnitType="UNIT_COMMANDOS" AiType="UNITTYPE_LAND_COMBAT"/>
+	</UnitAiInfos>
+
+	<Tags>
+		<Row Tag="CLASS_COMMANDOS" Vocabulary="ABILITY_CLASS"/>
+	</Tags>
+
+	<TypeTags>
+		<Row Type="UNIT_COMMANDOS" Tag="CLASS_MELEE"/>
+		<Row Type="UNIT_COMMANDOS" Tag="CLASS_COMMANDOS"/>
+	</TypeTags>
+
+	<UnitReplaces>
+		<Row CivUniqueUnitType="UNIT_COMMANDOS" ReplacesUnitType="UNIT_INFANTRY"/>
+	</UnitReplaces>
+
+	<UnitUpgrades>
+		<Row Unit="UNIT_COMMANDOS" UpgradeUnit="UNIT_MECHANIZED_INFANTRY"/>
+	</UnitUpgrades>
+
+	<Units>
+		<Row UnitType="UNIT_COMMANDOS" BaseMoves="2" Cost="430" AdvisorType="ADVISOR_CONQUEST" BaseSightRange="2" ZoneOfControl="true" Domain="DOMAIN_LAND" FormationClass="FORMATION_CLASS_LAND_COMBAT" Name="LOC_UNIT_COMMANDOS_NAME" Description="LOC_UNIT_COMMANDOS_DESCRIPTION" PurchaseYield="YIELD_GOLD" PromotionClass="PROMOTION_CLASS_MELEE" Maintenance="4" Combat="75" PrereqTech="TECH_REPLACEABLE_PARTS" TraitType="TRAIT_UNIT_COMMANDOS" MandatoryObsoleteTech="TECH_SATELLITES"/>
+	</Units>
+</GameData>

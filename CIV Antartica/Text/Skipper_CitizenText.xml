@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<Row Tag="LOC_CITIZEN_KOWALSKI" Language="en_US">
+			<Text>Kowalski</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_RICO" Language="en_US">
+			<Text>Rico</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_PRIVATE" Language="en_US">
+			<Text>Private</Text>
+		</Row>
+	</LocalizedText>
+
+</GameData>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Types>
+		<Row Type="TRAIT_AGENDA_SKIPPER" Kind="KIND_TRAIT"/>
+	</Types>
+	<Agendas>
+		<Row AgendaType="AGENDA_SKIPPER" Name="LOC_AGENDA_SKIPPER_NAME" Description="LOC_AGENDA_SKIPPER_DESCRIPTION"/>
+	</Agendas>
+	<Traits>
+		<Row TraitType="TRAIT_AGENDA_SKIPPER" Name="LOC_AGENDA_SKIPPER_NAME" Description="LOC_AGENDA_SKIPPER_DESCRIPTION"/>
+	</Traits>
+	<ExclusiveAgendas>
+		<Row AgendaOne="AGENDA_SKIPPER" AgendaTwo="AGENDA_ENVIRONMENTALIST"/>
+		<Row AgendaOne="AGENDA_SKIPPER" AgendaTwo="AGENDA_NATURALIST"/>
+		<Row AgendaOne="AGENDA_SKIPPER" AgendaTwo="AGENDA_DEVOUT"/>
+	</ExclusiveAgendas>
+	<AgendaTraits>
+		<Row AgendaType="AGENDA_SKIPPER" TraitType="TRAIT_AGENDA_SKIPPER"/>
+	</AgendaTraits>
+	<HistoricalAgendas>
+		<Row AgendaType="AGENDA_PARANOID" LeaderType="LEADER_SKIPPER"/>
+	</HistoricalAgendas>
+
+	<!--AI-->
+
+	<AiListTypes>
+		<Row ListType="SKIPPER_WONDERS"/>
+		<Row ListType="SKIPPER_CIVICS"/>
+		<Row ListType="SKIPPER_TECHS"/>
+		<Row ListType="SKIPPER_UNITS"/>
+		<Row ListType="SkipperDiplomacy"/>
+		<Row ListType="SkipperDistricts"/>
+		<Row ListType="SkipperPseudoYield"/>
+		<Row ListType="SkipperProject"/>
+		<Row ListType="SkipperYield"/>
+	</AiListTypes>
+	<AiLists>
+		<Row ListType="SKIPPER_WONDERS" LeaderType="LEADER_SKIPPER" System="Buildings"/>
+		<Row ListType="SKIPPER_CIVICS" LeaderType="LEADER_SKIPPER" System="Civics"/>
+		<Row ListType="SKIPPER_TECHS" LeaderType="LEADER_SKIPPER" System="Technologies"/>
+		<Row ListType="SKIPPER_UNITS" LeaderType="LEADER_SKIPPER" System="Units"/>
+		<Row ListType="SkipperDiplomacy"		AgendaType="TRAIT_AGENDA_SKIPPER" System="DiplomaticActions"/>
+		<Row ListType="SkipperDistricts"		AgendaType="TRAIT_AGENDA_SKIPPER" System="Districts"/>
+		<Row ListType="SkipperPseudoYield"	AgendaType="TRAIT_AGENDA_SKIPPER" System="PseudoYields"/>
+		<Row ListType="SkipperProject"		AgendaType="TRAIT_AGENDA_SKIPPER" System="Projects"/>
+		<Row ListType="SkipperYield"	        AgendaType="TRAIT_AGENDA_SKIPPER" System="Yields"/>
+	</AiLists>
+	<AiFavoredItems>
+		<Row ListType="SkipperDiplomacy"		Item="DIPLOACTION_DECLARE_FORMAL_WAR" Favored="true" Value="1"/>
+		<Row ListType="SkipperDistricts"		Item="DISTRICT_ENCAMPMENT" Favored="true" Value="1"/>
+		<Row ListType="SkipperDistricts"		Item="DISTRICT_HARBOR" Favored="true" Value="1"/>
+		<Row ListType="SkipperDistricts"		Item="DISTRICT_INDUSTRIAL_ZONE" Favored="true" Value="1"/>
+		<Row ListType="SkipperPseudoYield"	Item="PSEUDOYIELD_UNIT_COMBAT" Favored="true" Value="20"/>
+		<Row ListType="SkipperProject"		Item="PROJECT_MANHATTAN_PROJECT" Favored="true" Value="1"/>
+		<Row ListType="SkipperPseudoYield"	Item="PSEUDOYIELD_NUCLEAR_WEAPON" Favored="true" Value="15"/>
+		<Row ListType="SKIPPER_CIVICS" Item="CIVIC_POLITICAL_PHILOSOPHY"/>
+		<Row ListType="SKIPPER_CIVICS" Item="CIVIC_EXPLORATION"/>
+		<Row ListType="SKIPPER_CIVICS" Item="CIVIC_NATIONALISM"/>
+		<Row ListType="SKIPPER_CIVICS" Item="CIVIC_MOBILIZATION"/>
+		<Row ListType="SKIPPER_TECHS" Item="TECH_SAILING"/>
+		<Row ListType="SKIPPER_TECHS" Item="TECH_SHIPBUILDING"/>
+		<Row ListType="SKIPPER_TECHS" Item="TECH_CARTOGRAPHY"/>
+		<Row ListType="SKIPPER_TECHS" Item="TECH_MILITARY_ENGINEERING"/>
+		<Row ListType="SKIPPER_TECHS" Item="TECH_MILITARY_CASTLES"/>
+		<Row ListType="SKIPPER_TECHS" Item="TECH_MILITARY_SCIENCE"/>
+		<Row ListType="SKIPPER_TECHS" Item="TECH_RIFLING"/>
+		<Row ListType="SKIPPER_TECHS" Item="TECH_ADVANCED_FLIGHT"/>
+		<Row ListType="SKIPPER_TECHS" Item="TECH_COMBUSTION"/>
+		<Row ListType="SKIPPER_TECHS" Item="TECH_COMBINED_ARMS"/>
+		<Row ListType="SKIPPER_TECHS" Item="TECH_NUCLEAR_FISSION"/>
+		<Row ListType="SkipperDiplomacy"		Item="DIPLOACTION_USE_NUCLEAR_WEAPON" Favored="true" Value="1"/>
+		<Row ListType="SkipperYield"		    Item="YIELD_PRODUCTION" Value="10"/>
+		<Row ListType="SkipperYield"			Item="YIELD_SCIENCE" Value="10"/>
+	</AiFavoredItems>
+</GameData>

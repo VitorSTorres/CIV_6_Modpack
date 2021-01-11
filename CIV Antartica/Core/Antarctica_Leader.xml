@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Types>
+		<Row Type="LEADER_SKIPPER" Kind="KIND_LEADER" />
+		<Row Type="TRAIT_LEADER_SKIPPER" Kind="KIND_TRAIT"/>
+	</Types>
+
+	<Leaders>
+		<Row>
+			<LeaderType>LEADER_SKIPPER</LeaderType>
+			<Name>LOC_LEADER_SKIPPER_NAME</Name>
+			<InheritFrom>LEADER_DEFAULT</InheritFrom>
+		</Row>
+	</Leaders>
+
+	<LeaderQuotes>
+		<Row LeaderType="LEADER_SKIPPER" Quote="LOC_LEADER_SKIPPER_QUOTE"/>
+	</LeaderQuotes>
+	
+	<LeaderTraits>
+		<Row LeaderType="LEADER_SKIPPER" TraitType="TRAIT_LEADER_SKIPPER"/>
+	</LeaderTraits>
+	
+	<Traits>
+		<Row TraitType="TRAIT_LEADER_SKIPPER" Name="LOC_TRAIT_LEADER_SKIPPER_NAME" Description="LOC_TRAIT_LEADER_SKIPPER_DESCRIPTION"/>
+	</Traits>
+
+	<TraitModifiers>
+		<Row>
+			<TraitType>TRAIT_LEADER_SKIPPER</TraitType>
+			<ModifierId>TRAIT_COMBAT_BONUS_SKIPPER</ModifierId>
+		</Row>
+		<Row TraitType="TRAIT_LEADER_SKIPPER" ModifierId="GUNBOATDIPLOMACY_OPENBORDERS"/>
+
+		<Row>
+			<TraitType>TRAIT_LEADER_SKIPPER</TraitType>
+			<ModifierId>TRAIT_LEADER_SKIPPER_INFLUENCE</ModifierId>
+		</Row>
+		<Row TraitType="TRAIT_LEADER_SKIPPER" ModifierId="TRAIT_SKIPPER_HALF_EN"/>
+	</TraitModifiers>
+
+	<Modifiers>
+		<Row>
+			<ModifierId>TRAIT_COMBAT_BONUS_SKIPPER</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_UNITS_ATTACH_MODIFIER</ModifierType>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_LEADER_SKIPPER_INFLUENCE</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_ADJUST_INFLUENCE_POINTS_PER_TURN</ModifierType>
+		</Row>
+		<Row ModifierId="TRAIT_SKIPPER_HALF_EN" ModifierType="MODIFIER_PLAYER_CITIES_ADJUST_DISTRICT_PRODUCTION"/>
+	</Modifiers>
+
+	<ModifierArguments>
+		<Row ModifierId="TRAIT_SKIPPER_HALF_EN" Name="DistrictType" Value="DISTRICT_ENCAMPMENT"/>
+		<Row ModifierId="TRAIT_SKIPPER_HALF_EN" Name="Amount" Value="100"/>
+		<Row>
+			<ModifierId>TRAIT_LEADER_SKIPPER_INFLUENCE</ModifierId>
+			<Name>Amount</Name>
+			<Value>2</Value>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_COMBAT_BONUS_SKIPPER</ModifierId>
+			<Name>ModifierId</Name>
+			<Value>COMBAT_BONUS_HOME_CONTINENT_MODIFIER</Value>
+		</Row>
+	</ModifierArguments>
+</GameData>

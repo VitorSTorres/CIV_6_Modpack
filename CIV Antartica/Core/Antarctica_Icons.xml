@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<IconTextureAtlases>
+		<Row Name="ICON_ATLAS_ANTARCTICA" IconSize="22" IconsPerRow="1" IconsPerColumn="1" Filename="Antarctica22.dds"/>
+		<Row Name="ICON_ATLAS_ANTARCTICA" IconSize="30" IconsPerRow="1" IconsPerColumn="1" Filename="Antarctica30.dds"/>
+		<Row Name="ICON_ATLAS_ANTARCTICA" IconSize="36" IconsPerRow="1" IconsPerColumn="1" Filename="Antarctica36.dds"/>
+		<Row Name="ICON_ATLAS_ANTARCTICA" IconSize="48" IconsPerRow="1" IconsPerColumn="1" Filename="Antarctica48.dds"/>
+		<Row Name="ICON_ATLAS_ANTARCTICA" IconSize="128" IconsPerRow="1" IconsPerColumn="1" Filename="Antarctica128.dds"/>
+		<Row Name="ICON_ATLAS_ANTARCTICA" IconSize="200" IconsPerRow="1" IconsPerColumn="1" Filename="Antarctica200.dds"/>
+		<Row Name="ICON_ATLAS_ANTARCTICA" IconSize="50" IconsPerRow="1" IconsPerColumn="1" Filename="Antarctica50.dds"/>
+		<Row Name="ICON_ATLAS_ANTARCTICA" IconSize="64" IconsPerRow="1" IconsPerColumn="1" Filename="Antarctica64.dds"/>
+		<Row Name="ICON_ATLAS_ANTARCTICA" IconSize="80" IconsPerRow="1" IconsPerColumn="1" Filename="Antarctica80.dds"/>
+		<Row Name="ICON_ATLAS_ANTARCTICA" IconSize="256" IconsPerRow="1" IconsPerColumn="1" Filename="Antarctica256.dds"/>
+		<Row Name="ICON_ATLAS_ANTARCTICA" IconSize="45" IconsPerRow="1" IconsPerColumn="1" Filename="Antarctica45.dds"/>
+	<!-- LEADER -->
+		<Row Name="ICON_ATLAS_SKIPPER" IconSize="32"  IconsPerRow="1" IconsPerColumn="1" Filename="Skipper32.dds"/>
+		<Row Name="ICON_ATLAS_SKIPPER" IconSize="45"  IconsPerRow="1" IconsPerColumn="1" Filename="Skipper45.dds"/>
+		<Row Name="ICON_ATLAS_SKIPPER" IconSize="48"  IconsPerRow="1" IconsPerColumn="1" Filename="Skipper48.dds"/>
+		<Row Name="ICON_ATLAS_SKIPPER" IconSize="50"  IconsPerRow="1" IconsPerColumn="1" Filename="Skipper50.dds"/>
+		<Row Name="ICON_ATLAS_SKIPPER" IconSize="55"  IconsPerRow="1" IconsPerColumn="1" Filename="Skipper55.dds"/>
+		<Row Name="ICON_ATLAS_SKIPPER" IconSize="64"  IconsPerRow="1" IconsPerColumn="1" Filename="Skipper64.dds"/>
+		<Row Name="ICON_ATLAS_SKIPPER" IconSize="80"  IconsPerRow="1" IconsPerColumn="1" Filename="Skipper80.dds"/>
+		<Row Name="ICON_ATLAS_SKIPPER" IconSize="256" IconsPerRow="1" IconsPerColumn="1" Filename="Skipper256.dds"/>
+		<!-- UNITS -->
+		<Row Name="ICON_ATLAS_COMMANDOS" IconSize="256" IconsPerRow="1" IconsPerColumn="1" Filename="Commandosi256.dds"/>
+		<Row Name="ICON_ATLAS_COMMANDOS" IconSize="80" IconsPerRow="1" IconsPerColumn="1" Filename="Commandosi80.dds"/>
+		<Row Name="ICON_ATLAS_COMMANDOS" IconSize="50" IconsPerRow="1" IconsPerColumn="1" Filename="Commandosi50.dds"/>
+		<Row Name="ICON_ATLAS_COMMANDOS" IconSize="38" IconsPerRow="1" IconsPerColumn="1" Filename="Commandosi38.dds"/>
+		<Row Name="ICON_ATLAS_COMMANDOS" IconSize="32" IconsPerRow="1" IconsPerColumn="1" Filename="Commandosi32.dds"/>
+		<!-- UNITPORTRAITS -->
+		<Row Name="ICON_ATLAS_COMMANDOS_PORTRAIT"   IconSize="256" IconsPerRow="1" IconsPerColumn="1" Filename="Commandos256.dds"/>
+		<Row Name="ICON_ATLAS_COMMANDOS_PORTRAIT"   IconSize="200" IconsPerRow="1" IconsPerColumn="1" Filename="Commandos200.dds"/>
+		<Row Name="ICON_ATLAS_COMMANDOS_PORTRAIT"   IconSize="95" IconsPerRow="1" IconsPerColumn="1" Filename="Commandos95.dds"/>
+		<Row Name="ICON_ATLAS_COMMANDOS_PORTRAIT"   IconSize="70" IconsPerRow="1" IconsPerColumn="1" Filename="Commandos70.dds"/>
+		<Row Name="ICON_ATLAS_COMMANDOS_PORTRAIT"   IconSize="50" IconsPerRow="1" IconsPerColumn="1" Filename="Commandos50.dds"/>
+		<Row Name="ICON_ATLAS_COMMANDOS_PORTRAIT"   IconSize="38" IconsPerRow="1" IconsPerColumn="1" Filename="Commandos38.dds"/>
+		<!-- IMPROVEMENTS -->
+		<Row Name="ICON_ATLAS_PNEST"   IconSize="38" IconsPerRow="1" IconsPerColumn="1" Filename="Pnest38.dds"/>
+		<Row Name="ICON_ATLAS_PNEST"   IconSize="50" IconsPerRow="1" IconsPerColumn="1" Filename="Pnest50.dds"/>
+		<Row Name="ICON_ATLAS_PNEST"   IconSize="80" IconsPerRow="1" IconsPerColumn="1" Filename="Pnest80.dds"/>
+		<Row Name="ICON_ATLAS_PNEST"   IconSize="256" IconsPerRow="1" IconsPerColumn="1" Filename="Pnest256.dds"/>
+	</IconTextureAtlases>
+	<IconDefinitions>
+		<Row Name="ICON_CIVILIZATION_ANTARCTICA" Atlas="ICON_ATLAS_ANTARCTICA" Index="0"/>
+		<Row Name="ICON_LEADER_SKIPPER" Atlas="ICON_ATLAS_SKIPPER" Index="0"/>
+		<Row Name="ICON_UNIT_COMMANDOS" Index="0" Atlas="ICON_ATLAS_COMMANDOS"/>
+		<Row Name="ICON_UNIT_COMMANDOS_PORTRAIT" Index="0" Atlas="ICON_ATLAS_COMMANDOS_PORTRAIT"/>
+		<Row Name="ICON_IMPROVEMENT_PNEST" Index="0" Atlas="ICON_ATLAS_PNEST"/>
+	</IconDefinitions>
+</GameData>

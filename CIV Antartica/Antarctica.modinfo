@@ -1,0 +1,176 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="80f22c2d-4013-4d56-be93-c0da684c4a2c" version="1">
+  <Properties>
+    <Name>Katyusha's Antarctica</Name>
+    <Description>Adds Antarctica as a playble civilization to the game.</Description>
+    <Teaser>Adds Antarctica as a playble civilization to the game.</Teaser>
+    <Authors>Katyusha</Authors>
+  </Properties>
+  <FrontEndActions>
+    <UpdateText id="NewAction">
+      <File>Text/Skipper_ConfigText.xml</File>
+    </UpdateText>
+    <ImportFiles id="NewAction">
+      <File>Textures/Antarcticabackground.dds</File>
+      <File>Textures/Loadingskipp.dds</File>
+    </ImportFiles>
+    <UpdateDatabase id="NewAction">
+      <File>Core/Antarctica_Config.xml</File>
+      <File>Core/Antarctica_1.xml</File>
+      <File>Core/Antarctica_Improvements.xml</File>
+      <File>Core/Antarctica_Civ.xml</File>
+      <File>Core/AS_Moment.xml</File>
+      <File>Core/AS_Config_RaF.xml</File>
+      <File>Core/AS_Modsupport2.sql</File>
+    </UpdateDatabase>
+    <UpdateArt id="NewAction">
+      <File>Katyusha's Antarctica.dep</File>
+    </UpdateArt>
+    <UpdateIcons id="NewAction">
+      <File>Core/Antarctica_Icons.xml</File>
+    </UpdateIcons>
+  </FrontEndActions>
+  <InGameActions>
+    <UpdateText id="NewAction">
+      <File>Text/Skipper_CitizenText.xml</File>
+      <File>Text/Skipper_CityName.xml</File>
+      <File>Text/Skipper_CivPedia.xml</File>
+      <File>Text/Skipper_ConfigText.xml</File>
+      <File>Text/Skipper_DiploText.xml</File>
+      <File>Text/Skipper_LeadPedia.xml</File>
+    </UpdateText>
+    <ImportFiles id="NewAction">
+      <File>Textures/Antarcticabackground.dds</File>
+      <File>Textures/Loadingskipp.dds</File>
+    </ImportFiles>
+    <UpdateDatabase id="NewAction">
+      <File>Core/Antarctica_Civ.xml</File>
+      <File>Core/Antarctica_Improvements.xml</File>
+      <File>Core/Antarctica_Leader.xml</File>
+      <File>Core/Antarctica_UnitAnility.xml</File>
+      <File>Core/Antarctica_Units.xml</File>
+      <File>Core/Antarctica_1.xml</File>
+      <File>Core/Antarctica_Agenda.xml</File>
+      <File>Core/AS_Moment.xml</File>
+      <File>Core/AS_Modsupport2.sql</File>
+    </UpdateDatabase>
+    <UpdateArt id="NewAction">
+      <File>Katyusha's Antarctica.dep</File>
+    </UpdateArt>
+    <UpdateIcons id="NewAction">
+      <File>Core/Antarctica_Icons.xml</File>
+    </UpdateIcons>
+  </InGameActions>
+  <Files>
+    <File>Artdefs/Civilizations.artdef</File>
+    <File>Artdefs/FallbackLeaders.artdef</File>
+    <File>Artdefs/Improvements.artdef</File>
+    <File>Artdefs/Units.artdef</File>
+    <File>Artdefs/UserInterface.artdef</File>
+    <File>Core/Antarctica_1.xml</File>
+    <File>Core/Antarctica_Agenda.xml</File>
+    <File>Core/Antarctica_Civ.xml</File>
+    <File>Core/Antarctica_Config.xml</File>
+    <File>Core/Antarctica_Icons.xml</File>
+    <File>Core/Antarctica_Improvements.xml</File>
+    <File>Core/Antarctica_Leader.xml</File>
+    <File>Core/Antarctica_UnitAnility.xml</File>
+    <File>Core/Antarctica_Units.xml</File>
+    <File>Core/AS_Config_RaF.xml</File>
+    <File>Core/AS_Modsupport2.sql</File>
+    <File>Core/AS_Moment.xml</File>
+    <File>Katyusha's Antarctica.dep</File>
+    <File>Platforms/MacOS/BLPs/LeaderFallbacks.blp</File>
+    <File>Platforms/MacOS/BLPs/UILeaders.blp</File>
+    <File>Platforms/MacOS/BLPs/UI/Icons.blp</File>
+    <File>Platforms/MacOS/BLPs/UI/Moments.blp</File>
+    <File>Platforms/Windows/BLPs/LeaderFallbacks.blp</File>
+    <File>Platforms/Windows/BLPs/UILeaders.blp</File>
+    <File>Platforms/Windows/BLPs/UI/Icons.blp</File>
+    <File>Platforms/Windows/BLPs/UI/Moments.blp</File>
+    <File>Textures/Antarctica128.dds</File>
+    <File>Textures/Antarctica128.tex</File>
+    <File>Textures/Antarctica200.dds</File>
+    <File>Textures/Antarctica200.tex</File>
+    <File>Textures/Antarctica22.dds</File>
+    <File>Textures/Antarctica22.tex</File>
+    <File>Textures/Antarctica256.dds</File>
+    <File>Textures/Antarctica256.tex</File>
+    <File>Textures/Antarctica30.dds</File>
+    <File>Textures/Antarctica30.tex</File>
+    <File>Textures/Antarctica36.dds</File>
+    <File>Textures/Antarctica36.tex</File>
+    <File>Textures/Antarctica45.dds</File>
+    <File>Textures/Antarctica45.tex</File>
+    <File>Textures/Antarctica48.dds</File>
+    <File>Textures/Antarctica48.tex</File>
+    <File>Textures/Antarctica50.dds</File>
+    <File>Textures/Antarctica50.tex</File>
+    <File>Textures/Antarctica64.dds</File>
+    <File>Textures/Antarctica64.tex</File>
+    <File>Textures/Antarctica80.dds</File>
+    <File>Textures/Antarctica80.tex</File>
+    <File>Textures/Antarcticabackground.dds</File>
+    <File>Textures/Commandos200.dds</File>
+    <File>Textures/Commandos200.tex</File>
+    <File>Textures/Commandos256.dds</File>
+    <File>Textures/Commandos256.tex</File>
+    <File>Textures/Commandos38.dds</File>
+    <File>Textures/Commandos38.tex</File>
+    <File>Textures/Commandos50.dds</File>
+    <File>Textures/Commandos50.tex</File>
+    <File>Textures/Commandos70.dds</File>
+    <File>Textures/Commandos70.tex</File>
+    <File>Textures/Commandos95.dds</File>
+    <File>Textures/Commandos95.tex</File>
+    <File>Textures/Commandosi256.dds</File>
+    <File>Textures/Commandosi256.tex</File>
+    <File>Textures/Commandosi32.dds</File>
+    <File>Textures/Commandosi32.tex</File>
+    <File>Textures/Commandosi38.dds</File>
+    <File>Textures/Commandosi38.tex</File>
+    <File>Textures/Commandosi50.dds</File>
+    <File>Textures/Commandosi50.tex</File>
+    <File>Textures/Commandosi80.dds</File>
+    <File>Textures/Commandosi80.tex</File>
+    <File>Textures/FALLBACK_NEUTRAL_SKIPPER.dds</File>
+    <File>Textures/FALLBACK_NEUTRAL_SKIPPER.tex</File>
+    <File>Textures/LEADER_SKIPPER_NEUTRAL.dds</File>
+    <File>Textures/LEADER_SKIPPER_NEUTRAL.tex</File>
+    <File>Textures/Loadingskipp.dds</File>
+    <File>Textures/Pnest256.dds</File>
+    <File>Textures/Pnest256.tex</File>
+    <File>Textures/Pnest38.dds</File>
+    <File>Textures/Pnest38.tex</File>
+    <File>Textures/Pnest50.dds</File>
+    <File>Textures/Pnest50.tex</File>
+    <File>Textures/Pnest80.dds</File>
+    <File>Textures/Pnest80.tex</File>
+    <File>Textures/Skipper256.dds</File>
+    <File>Textures/Skipper256.tex</File>
+    <File>Textures/Skipper32.dds</File>
+    <File>Textures/Skipper32.tex</File>
+    <File>Textures/Skipper45.dds</File>
+    <File>Textures/Skipper45.tex</File>
+    <File>Textures/Skipper48.dds</File>
+    <File>Textures/Skipper48.tex</File>
+    <File>Textures/Skipper50.dds</File>
+    <File>Textures/Skipper50.tex</File>
+    <File>Textures/Skipper55.dds</File>
+    <File>Textures/Skipper55.tex</File>
+    <File>Textures/Skipper64.dds</File>
+    <File>Textures/Skipper64.tex</File>
+    <File>Textures/Skipper80.dds</File>
+    <File>Textures/Skipper80.tex</File>
+    <File>Text/Skipper_CitizenText.xml</File>
+    <File>Text/Skipper_CityName.xml</File>
+    <File>Text/Skipper_CivPedia.xml</File>
+    <File>Text/Skipper_ConfigText.xml</File>
+    <File>Text/Skipper_DiploText.xml</File>
+    <File>Text/Skipper_LeadPedia.xml</File>
+    <File>XLPs/Icons.xlp</File>
+    <File>XLPs/LeaderFallbacks.xlp</File>
+    <File>XLPs/Moments.xlp</File>
+    <File>XLPs/UILeaders.xlp</File>
+  </Files>
+</Mod>

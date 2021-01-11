@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="10" SoundbankVersion="113">
+	<RootPaths>
+		<ProjectRoot>C:\Users\Sukrit\Documents\WwiseProjects\Suk_Burma_Speech\</ProjectRoot>
+		<SourceFilesRoot>C:\Users\Sukrit\Documents\WwiseProjects\Suk_Burma_Speech\.cache\Windows\</SourceFilesRoot>
+		<SoundBanksRoot>C:\Users\Sukrit\Documents\WwiseProjects\Suk_Burma_Speech\GeneratedSoundBanks\Windows\</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>C:\Users\Sukrit\Documents\WwiseProjects\Suk_Burma_Speech\GeneratedSoundBanks\Windows\</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<DialogueEvents/>
+	<StreamedFiles/>
+	<MediaFilesNotInAnyBank/>
+	<SoundBanks>
+		<SoundBank Id="1355168291" Language="SFX">
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+		</SoundBank>
+		<SoundBank Id="3580785835" Language="SFX">
+			<ShortName>Suk_Bayinnaung_Speech_Bank</ShortName>
+			<Path>Suk_Bayinnaung_Speech_Bank.bnk</Path>
+			<IncludedEvents>
+				<Event Id="1508741596" Name="Suk_Bayinnaung_First_Meet"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="879377282" Language="SFX">
+					<ShortName>Bayinnaung Intro.wav</ShortName>
+					<Path>SFX\Bayinnaung Intro_E843A46D.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>

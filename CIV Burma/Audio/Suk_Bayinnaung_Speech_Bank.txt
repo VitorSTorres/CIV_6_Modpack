@@ -1,0 +1,25 @@
+Event	ID	Name			Wwise Object Path	Notes
+	1508741596	Suk_Bayinnaung_First_Meet			\Default Work Unit\Speech\Leaders\Suk_Bayinnaung\Suk_Bayinnaung_First_Meet	
+
+State Group	ID	Name			Wwise Object Path	Notes
+	3441926412	Game_Views			\Default Work Unit\Game_Views	
+
+State	ID	Name	State Group			Notes
+	138330285	Lens	Game_Views			
+	319258907	Paused	Game_Views			
+	706390200	Normal_View	Game_Views			
+	748895195	None	Game_Views			
+	2005704188	Main_Menu	Game_Views			
+	2664707777	Leader_Screen	Game_Views			
+	4264815106	Endgame	Game_Views			
+
+Custom State	ID	Name	State Group	Owner		Notes
+	242613345	Lens	Game_Views	\Actor-Mixer Hierarchy\Default Work Unit\Speech\Speech_Master\Leaders\LeaderSpeech\Suk_Bayinnaung\Suk_Bayinnaung First_Meet		
+	244299369	Normal_View	Game_Views	\Actor-Mixer Hierarchy\Default Work Unit\Speech\Speech_Master\Leaders\LeaderSpeech\Suk_Bayinnaung\Suk_Bayinnaung First_Meet		
+	362177557	Main_Menu	Game_Views	\Actor-Mixer Hierarchy\Default Work Unit\Speech\Speech_Master\Leaders\LeaderSpeech\Suk_Bayinnaung\Suk_Bayinnaung First_Meet		
+	646662070	Endgame	Game_Views	\Actor-Mixer Hierarchy\Default Work Unit\Speech\Speech_Master\Leaders\LeaderSpeech\Suk_Bayinnaung\Suk_Bayinnaung First_Meet		
+	968221213	Paused	Game_Views	\Actor-Mixer Hierarchy\Default Work Unit\Speech\Speech_Master\Leaders\LeaderSpeech\Suk_Bayinnaung\Suk_Bayinnaung First_Meet		
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	879377282	Suk_Bayinnaung First_Meet	C:\Users\Sukrit\Documents\WwiseProjects\Suk_Burma_Speech\.cache\Windows\SFX\Bayinnaung Intro_E843A46D.wem		\Actor-Mixer Hierarchy\Default Work Unit\Speech\Speech_Master\Leaders\LeaderSpeech\Suk_Bayinnaung\Suk_Bayinnaung First_Meet		201323
+

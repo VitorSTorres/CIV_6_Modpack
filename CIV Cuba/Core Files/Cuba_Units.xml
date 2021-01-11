@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Types>
+		<Row Type="UNIT_SC_GUERRILLERO" Kind="KIND_UNIT"/>
+		<Row Type="ABILITY_SC_GUERRILLERO" Kind="KIND_ABILITY"/>
+	</Types>
+
+	<TypeTags>
+		<Row Type="ABILITY_SC_GUERRILLERO" Tag="CLASS_SC_GUERRILLERO"/>
+	</TypeTags>
+
+	<Tags>
+		<Row Tag="CLASS_SC_GUERRILLERO" Vocabulary="ABILITY_CLASS"/>
+	</Tags>
+	
+	<UnitAiInfos>
+		<Row UnitType="UNIT_SC_GUERRILLERO" AiType="UNITAI_COMBAT"/>
+		<Row UnitType="UNIT_SC_GUERRILLERO" AiType="UNITAI_EXPLORE"/>
+		<Row UnitType="UNIT_SC_GUERRILLERO" AiType="UNITTYPE_MELEE"/>
+		<Row UnitType="UNIT_SC_GUERRILLERO" AiType="UNITTYPE_LAND_COMBAT"/>
+	</UnitAiInfos>
+	
+	<UnitReplaces>
+		<Row CivUniqueUnitType="UNIT_SC_GUERRILLERO" ReplacesUnitType="UNIT_INFANTRY"/>
+	</UnitReplaces>
+	
+	<TypeTags>
+		<Row Type="UNIT_SC_GUERRILLERO" Tag="CLASS_MELEE"/>
+		<Row Type="UNIT_SC_GUERRILLERO" Tag="CLASS_SC_GUERRILLERO"/>
+	</TypeTags>
+	
+	<Units>
+		<Row UnitType="UNIT_SC_GUERRILLERO" BaseMoves="2" Cost="324" AdvisorType="ADVISOR_CONQUEST" BaseSightRange="2" Domain="DOMAIN_LAND" FormationClass="FORMATION_CLASS_LAND_COMBAT" Name="LOC_UNIT_SC_GUERRILLERO_NAME" Description="LOC_UNIT_SC_GUERRILLERO_DESCRIPTION" PurchaseYield="YIELD_GOLD" PromotionClass="PROMOTION_CLASS_MELEE" Maintenance="6" Combat="64" PrereqTech="TECH_REPLACEABLE_PARTS" TraitType="TRAIT_CIVILIZATION_UNIT_SC_GUERRILLERO"/>
+	</Units>
+	
+	<UnitUpgrades>
+		<Row Unit="UNIT_SC_GUERRILLERO" UpgradeUnit="UNIT_MECHANIZED_INFANTRY"/>
+	</UnitUpgrades>
+
+	<UnitAbilities>
+		<Row UnitAbilityType="ABILITY_SC_GUERRILLERO" Name="LOC_ABILITY_SC_GUERRILLERO_NAME" Description="LOC_ABILITY_SC_GUERRILLERO_DESCRIPTION"/>
+	</UnitAbilities>
+
+
+	<UnitAbilityModifiers>
+		<Row>
+			<UnitAbilityType>ABILITY_SC_GUERRILLERO</UnitAbilityType>
+			<ModifierId>SC_GUERRILLERO_ROUGH_TERRAIN</ModifierId>
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_SC_GUERRILLERO</UnitAbilityType>
+			<ModifierId>SC_GUERRILLERO_RETAINS_STRENGTH</ModifierId>
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_SC_GUERRILLERO</UnitAbilityType>
+			<ModifierId>SC_GUERRILLERO_CONVERT_BARBARIANS</ModifierId>
+		</Row>
+	</UnitAbilityModifiers>
+
+	<Modifiers>
+		<Row>
+			<ModifierId>SC_GUERRILLERO_ROUGH_TERRAIN</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_UNIT_ADJUST_MOVEMENT</ModifierType>
+			<SubjectRequirementSetId>SC_REQUIREMENT_PLOT_IS_ROUGH_TERRAIN</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>SC_GUERRILLERO_RETAINS_STRENGTH</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_UNIT_ADJUST_NO_REDUCTION_DAMAGE</ModifierType>
+		</Row>
+		<Row>
+			<ModifierId>SC_GUERRILLERO_CONVERT_BARBARIANS</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_UNITS_ADJUST_OWNER</ModifierType>
+			<SubjectRequirementSetId>SC_REQUIREMENT_GUERRILLERO_NEAR_BARBARIANS</SubjectRequirementSetId>
+			<RunOnce>true</RunOnce>
+			<Permanent>true</Permanent>
+		</Row>
+	</Modifiers>
+
+	<ModifierArguments>
+		<Row>
+			<ModifierId>SC_GUERRILLERO_ROUGH_TERRAIN</ModifierId>
+			<Name>Amount</Name>
+			<Value>2</Value>
+		</Row>
+		<Row>
+			<ModifierId>SC_GUERRILLERO_RETAINS_STRENGTH</ModifierId>
+			<Name>NoReduction</Name>
+			<Value>true</Value>
+		</Row>
+		<Row>
+			<ModifierId>SC_GUERRILLERO_CONVERT_BARBARIANS</ModifierId>
+			<Name>NewOwner</Name>
+			<Value>Player</Value>
+		</Row>
+	</ModifierArguments>
+
+	<RequirementSets>
+		<Row>
+			<RequirementSetId>SC_REQUIREMENT_PLOT_IS_ROUGH_TERRAIN</RequirementSetId>
+			<RequirementSetType>REQUIREMENTSET_TEST_ANY</RequirementSetType>
+		</Row>
+		<Row>
+			<RequirementSetId>SC_REQUIREMENT_GUERRILLERO_NEAR_BARBARIANS</RequirementSetId>
+			<RequirementSetType>REQUIREMENTSET_TEST_ALL</RequirementSetType>
+		</Row>
+	</RequirementSets>
+
+	<RequirementSetRequirements>
+		<Row>
+			<RequirementSetId>SC_REQUIREMENT_PLOT_IS_ROUGH_TERRAIN</RequirementSetId>
+			<RequirementId>PLOT_IS_HILLS_REQUIREMENT</RequirementId>
+		</Row>
+		<Row>
+			<RequirementSetId>SC_REQUIREMENT_PLOT_IS_ROUGH_TERRAIN</RequirementSetId>
+			<RequirementId>PLOT_IS_FOREST_REQUIREMENT</RequirementId>
+		</Row>
+		<Row>
+			<RequirementSetId>SC_REQUIREMENT_PLOT_IS_ROUGH_TERRAIN</RequirementSetId>
+			<RequirementId>PLOT_IS_JUNGLE_REQUIREMENT</RequirementId>
+		</Row>
+		<Row>
+			<RequirementSetId>SC_REQUIREMENT_PLOT_IS_ROUGH_TERRAIN</RequirementSetId>
+			<RequirementId>PLOT_IS_MARSH_REQUIREMENT</RequirementId>
+		</Row>
+		<Row>
+			<RequirementSetId>SC_REQUIREMENT_GUERRILLERO_NEAR_BARBARIANS</RequirementSetId>
+			<RequirementId>SC_REQUIRES_GUERRILLERO_ADJACENCY</RequirementId>
+		</Row>
+		<Row>
+			<RequirementSetId>SC_REQUIREMENT_GUERRILLERO_NEAR_BARBARIANS</RequirementSetId>
+			<RequirementId>UNIT_IS_BARBARIAN</RequirementId>
+		</Row>
+	</RequirementSetRequirements>
+
+	<Requirements>
+		<Row>
+			<RequirementId>SC_REQUIRES_GUERRILLERO_ADJACENCY</RequirementId>
+			<RequirementType>REQUIREMENT_PLOT_ADJACENT_TO_OWNER</RequirementType>
+		</Row>
+	</Requirements>
+
+	<RequirementArguments>
+		<Row>
+			<RequirementId>SC_REQUIRES_GUERRILLERO_ADJACENCY</RequirementId>
+			<Name>MinDistance</Name>
+			<Value>0</Value>
+		</Row>
+		<Row>
+			<RequirementId>SC_REQUIRES_GUERRILLERO_ADJACENCY</RequirementId>
+			<Name>MaxDistance</Name>
+			<Value>1</Value>
+		</Row>
+	</RequirementArguments>
+
+	<ModifierStrings>
+		<Row ModifierId="SC_GUERRILLERO_ROUGH_TERRAIN" Context="Preview" Text="LOC_ABILITY_SC_GUERRILLERO_ROUGH_TERRAIN_DESCRIPTION"/>
+		<Row ModifierId="SC_GUERRILLERO_RETAINS_STRENGTH" Context="Preview" Text="LOC_ABILITY_SC_GUERRILLERO_RETAINS_STRENGTH_DESCRIPTION"/>
+		<Row ModifierId="SC_GUERRILLERO_CONVERT_BARBARIANS" Context="Preview" Text="LOC_ABILITY_SC_GUERRILLERO_CONVERT_BARBARIANS_DESCRIPTION"/>
+	</ModifierStrings>
+</GameData>

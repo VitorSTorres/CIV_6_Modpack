@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+	<!-- en_US -->
+		<Row Tag="LOC_CIVILIZATION_ANTARCTICA_NAME" Language="en_US">
+			<Text>Antarctica</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_ANTARCTICA_DESCRIPTION" Language="en_US">
+			<Text>Antarctic Empire</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_ANTARCTICA_ADJECTIVE" Language="en_US">
+			<Text>Antarctican</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_SKIPPER_NAME" Language="en_US">
+			<Text>Skipper</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INFO_LEADER_SKIPPER" Language="en_US">
+			<Text>Captain Skipper. Once again, please lead our fearless penguin soldiers for glory and pride of Antarctica. Your remarkable leadership has never failed the penguins and they are looking up to you, Captain Skipper.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_ANTARCTICA_NAME" Language="en_US">
+			<Text>Land of Penguins</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_ANTARCTICA_DESCRIPTION" Language="en_US">
+			<Text>+1 [ICON_FOOD] Food and +1 [ICON_PRODUCTION] Production from Snow tiles. Units receive +5 [ICON_STRENGTH] Combat Strength in their home continent and ignore additional [ICON_MOVEMENT] Movement costs from embarking and disembarking.</Text>
+		</Row>	
+		<Row Tag="LOC_TRAIT_LEADER_SKIPPER_NAME" Language="en_US">
+			<Text>Never Swim Alone</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_SKIPPER_DESCRIPTION" Language="en_US">
+			<Text>+2 Influence points per turn. Can enter City-States' territory freely. Build the Encampment District in half the time.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_COMMANDOS_NAME" Language="en_US">
+			<Text>Penguin Commandos</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_COMMANDOS_DESCRIPTION" Language="en_US">
+			<Text>Replaces Infantry. Ignores terrains and rivers. +5 more [ICON_STRENGTH] Combat Strength than Infantry. -2 [ICON_GOLD] less maintenance.</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_PNEST_NAME" Language="en_US">
+			<Text>Penguin's Nest</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_PNEST_DESCRIPTION" Language="en_US">
+			<Text>Can only be constructed on Snow or Tundra tiles. Cannot be constructed adjacent to another Penguin's Nest. +1 [ICON_FOOD] Food and [ICON_CULTURE] Culture and +1 [ICON_HOUSING] Housing. +1 additional [ICON_FOOD] if adjacent to Fishing Boats. +1 additional Food with Exploration Civic.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_COMMANDOS_NAME" Language="en_US">
+			<Text>Cuteness of the Penguin</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_COMMANDOS_DESCRIPTION" Language="en_US">
+			<Text>Penguins are so cute they can ignore terrains.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_COMMANDOSI_NAME" Language="en_US">
+			<Text>Dexterity of the Penguin</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_COMMANDOSI_DESCRIPTION" Language="en_US">
+			<Text>They are fond of water, so they can ignore rivers.</Text>
+		</Row>
+	</LocalizedText>
+</GameData>

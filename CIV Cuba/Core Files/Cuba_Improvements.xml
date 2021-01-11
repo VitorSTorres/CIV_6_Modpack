@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameInfo>
+	<Types>
+		<Row Type="IMPROVEMENT_SC_MALECON" Kind="KIND_IMPROVEMENT"/>
+	</Types>
+
+	<Improvements>
+		<Row ImprovementType="IMPROVEMENT_SC_MALECON" Name="LOC_IMPROVEMENT_SC_MALECON_NAME" Description="LOC_IMPROVEMENT_SC_MALECON_DESCRIPTION" Icon="ICON_IMPROVEMENT_SC_MALECON" PlunderType="PLUNDER_CULTURE" PlunderAmount="25" Buildable="true" DefenseModifier="5" PrereqTech="TECH_SQUARE_RIGGING" Housing="1" Coast="true" TraitType="TRAIT_CIVILIZATION_IMPROVEMENT_SC_MALECON"/>
+	</Improvements>
+
+	<Improvement_Adjacencies>
+		<Row ImprovementType="IMPROVEMENT_SC_MALECON" YieldChangeId="SC_Malecon_Adjacent_Culture"/>
+		<Row ImprovementType="IMPROVEMENT_SC_MALECON" YieldChangeId="SC_Malecon_Adjacent_Gold"/>
+		<Row ImprovementType="IMPROVEMENT_SC_MALECON" YieldChangeId="SC_Malecon_Adjacent_Production"/>
+		<Row ImprovementType="IMPROVEMENT_SC_MALECON" YieldChangeId="SC_Malecon_Adjacent_Science"/>
+	</Improvement_Adjacencies>
+
+	<Improvement_ValidTerrains>
+		<Row ImprovementType="IMPROVEMENT_SC_MALECON" TerrainType="TERRAIN_GRASS"/>
+		<Row ImprovementType="IMPROVEMENT_SC_MALECON" TerrainType="TERRAIN_PLAINS"/>
+		<Row ImprovementType="IMPROVEMENT_SC_MALECON" TerrainType="TERRAIN_DESERT"/>
+		<Row ImprovementType="IMPROVEMENT_SC_MALECON" TerrainType="TERRAIN_GRASS_HILLS"/>
+		<Row ImprovementType="IMPROVEMENT_SC_MALECON" TerrainType="TERRAIN_PLAINS_HILLS"/>
+		<Row ImprovementType="IMPROVEMENT_SC_MALECON" TerrainType="TERRAIN_DESERT_HILLS"/>
+	</Improvement_ValidTerrains>
+
+	<Improvement_ValidBuildUnits>
+		<Row ImprovementType="IMPROVEMENT_SC_MALECON" UnitType="UNIT_BUILDER"/>
+		<Row ImprovementType="IMPROVEMENT_SC_MALECON" UnitType="UNIT_MILITARY_ENGINEER"/>
+	</Improvement_ValidBuildUnits>
+
+	<Improvement_YieldChanges>
+		<Row ImprovementType="IMPROVEMENT_SC_MALECON" YieldType="YIELD_CULTURE" YieldChange="1"/>
+		<Row ImprovementType="IMPROVEMENT_SC_MALECON" YieldType="YIELD_GOLD" YieldChange="1"/>
+		<Row ImprovementType="IMPROVEMENT_SC_MALECON" YieldType="YIELD_PRODUCTION" YieldChange="0"/>
+		<Row ImprovementType="IMPROVEMENT_SC_MALECON" YieldType="YIELD_SCIENCE" YieldChange="0"/>
+	</Improvement_YieldChanges>
+
+	<Improvement_BonusYieldChanges>
+		<Row Id="73" ImprovementType="IMPROVEMENT_SC_MALECON" YieldType="YIELD_PRODUCTION" BonusYieldChange="1" PrereqTech="TECH_FLIGHT"/>
+		<Row Id="74" ImprovementType="IMPROVEMENT_SC_MALECON" YieldType="YIELD_SCIENCE" BonusYieldChange="1" PrereqTech="TECH_FLIGHT"/>
+	</Improvement_BonusYieldChanges>
+
+	<Improvement_Tourism>
+		<Row ImprovementType="IMPROVEMENT_SC_MALECON" TourismSource="TOURISMSOURCE_CULTURE" PrereqTech="TECH_FLIGHT" ScalingFactor="100"/>
+	</Improvement_Tourism>
+
+	<Adjacency_YieldChanges>
+		<Row ID="SC_Malecon_Adjacent_Culture" Description="LOC_SC_MALECON_CULTURE" YieldType="YIELD_CULTURE" YieldChange="1" TilesRequired="1" AdjacentImprovement="IMPROVEMENT_SC_MALECON"/>
+		<Row ID="SC_Malecon_Adjacent_Gold" Description="LOC_SC_MALECON_GOLD" YieldType="YIELD_GOLD" YieldChange="1" TilesRequired="1" AdjacentImprovement="IMPROVEMENT_SC_MALECON"/>
+		<Row ID="SC_Malecon_Adjacent_Production" Description="LOC_SC_MALECON_PRODUCTION" YieldType="YIELD_PRODUCTION" YieldChange="1" TilesRequired="2" AdjacentImprovement="IMPROVEMENT_SC_MALECON"/>
+		<Row ID="SC_Malecon_Adjacent_Science" Description="LOC_SC_MALECON_SCIENCE" YieldType="YIELD_SCIENCE" YieldChange="1" TilesRequired="2" AdjacentImprovement="IMPROVEMENT_SC_MALECON"/>
+	</Adjacency_YieldChanges>
+</GameInfo>

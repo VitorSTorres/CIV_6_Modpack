@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameInfo>
+	<IconTextureAtlases>
+		<Row Name="ICON_ATLAS_P0K_TEMPLE_POSEIDON" IconSize="32" IconsPerRow="8" IconsPerColumn="1" Filename="TemplePoseidon_32.dds"/>
+		<Row Name="ICON_ATLAS_P0K_TEMPLE_POSEIDON" IconSize="38" IconsPerRow="8" IconsPerColumn="1" Filename="TemplePoseidon_38.dds"/>
+		<Row Name="ICON_ATLAS_P0K_TEMPLE_POSEIDON" IconSize="50" IconsPerRow="8" IconsPerColumn="1" Filename="TemplePoseidon_50.dds"/>
+		<Row Name="ICON_ATLAS_P0K_TEMPLE_POSEIDON" IconSize="64" IconsPerRow="8" IconsPerColumn="1" Filename="TemplePoseidon_64.dds"/>
+		<Row Name="ICON_ATLAS_P0K_TEMPLE_POSEIDON" IconSize="128" IconsPerRow="8" IconsPerColumn="1" Filename="TemplePoseidon_128.dds"/>
+		<Row Name="ICON_ATLAS_P0K_TEMPLE_POSEIDON" IconSize="256" IconsPerRow="8" IconsPerColumn="1" Filename="TemplePoseidon_256.dds"/>
+
+		<Row Name="ICON_ATLAS_P0K_TEMPLE_POSEIDON_FOW" IconSize="32" IconsPerRow="8" IconsPerColumn="1" Filename="TemplePoseidon_32_FOW.dds"/>
+		<Row Name="ICON_ATLAS_P0K_TEMPLE_POSEIDON_FOW" IconSize="38" IconsPerRow="8" IconsPerColumn="1" Filename="TemplePoseidon_38_FOW.dds"/>
+		<Row Name="ICON_ATLAS_P0K_TEMPLE_POSEIDON_FOW" IconSize="50" IconsPerRow="8" IconsPerColumn="1" Filename="TemplePoseidon_50_FOW.dds"/>
+		<Row Name="ICON_ATLAS_P0K_TEMPLE_POSEIDON_FOW" IconSize="64" IconsPerRow="8" IconsPerColumn="1" Filename="TemplePoseidon_64_FOW.dds"/>
+		<Row Name="ICON_ATLAS_P0K_TEMPLE_POSEIDON_FOW" IconSize="128" IconsPerRow="8" IconsPerColumn="1" Filename="TemplePoseidon_128_FOW.dds"/>
+		<Row Name="ICON_ATLAS_P0K_TEMPLE_POSEIDON_FOW" IconSize="256" IconsPerRow="8" IconsPerColumn="1" Filename="TemplePoseidon_256_FOW.dds"/>
+	</IconTextureAtlases>
+	<IconDefinitions>
+		<!-- WORLD WONDERS -->
+		<Row Name="ICON_P0K_BUILDING_TEMPLE_POSEIDON" Atlas="ICON_ATLAS_P0K_TEMPLE_POSEIDON" Index="6"/>
+		<!-- WORLD WONDERS FOW -->
+		<Row Name="ICON_P0K_BUILDING_TEMPLE_POSEIDON_FOW" Atlas="ICON_ATLAS_P0K_TEMPLE_POSEIDON_FOW" Index="6"/>
+	</IconDefinitions>
+</GameInfo>

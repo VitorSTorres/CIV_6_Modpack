@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Players>
+		<Row>
+			<Domain>Players:Expansion1_Players</Domain>
+			<CivilizationType>CIVILIZATION_ANTARCTICA</CivilizationType>
+			<LeaderType>LEADER_SKIPPER</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_ANTARCTICA_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_ANTARCTICA</CivilizationIcon>
+			<LeaderName>LOC_LEADER_SKIPPER_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_SKIPPER</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_CIVILIZATION_ANTARCTICA_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_CIVILIZATION_ANTARCTICA_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_ANTARCTICA</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_LEADER_SKIPPER_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_LEADER_SKIPPER_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_SKIPPER</LeaderAbilityIcon>
+			<Portrait>LEADER_SKIPPER_NEUTRAL</Portrait>
+			<PortraitBackground>LEADER_SKIPPER_BACKGROUND</PortraitBackground>
+		</Row>
+	</Players>
+	<PlayerItems>
+		<Row>
+			<Domain>Players:Expansion1_Players</Domain>
+			<CivilizationType>CIVILIZATION_ANTARCTICA</CivilizationType>
+			<LeaderType>LEADER_SKIPPER</LeaderType>
+			<Type>UNIT_COMMANDOS</Type>
+			<Name>LOC_UNIT_COMMANDOS_NAME</Name>
+			<Description>LOC_UNIT_COMMANDOS_DESCRIPTION</Description>
+			<Icon>ICON_UNIT_COMMANDOS</Icon>
+			<SortIndex>10</SortIndex>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion1_Players</Domain>
+			<CivilizationType>CIVILIZATION_ANTARCTICA</CivilizationType>
+			<LeaderType>LEADER_SKIPPER</LeaderType>
+			<Type>IMPROVEMENT_PNEST</Type>
+			<Name>LOC_IMPROVEMENT_PNEST_NAME</Name>
+			<Description>LOC_IMPROVEMENT_PNEST_DESCRIPTION</Description>
+			<Icon>ICON_IMPROVEMENT_PNEST</Icon>
+			<SortIndex>20</SortIndex>
+		</Row>
+	</PlayerItems>
+</GameData>
